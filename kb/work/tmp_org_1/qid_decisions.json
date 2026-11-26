@@ -1,0 +1,23 @@
+{
+"org:misr-newspaper": null, "org:la-epoca": null, "org:volna-newspaper": null, "org:ziemia-lubelska": null,
+"org:zemshchina": null, "org:jewish-national-bloc": null, "org:herzliya-hebrew-gymnasium": null, "org:kollel-warsaw": null,
+"org:maccabi": null, "org:mir-sofia": null, "org:russo-asiatic-bank": "Q2472186", "org:russo-chinese-bank": "Q21996923",
+"org:berlin-stock-exchange": null, "org:holy-see": null, "org:music-society-palestine": null, "org:jerusalem-municipality": null,
+"org:militar-zeitung": null, "org:equitable-life-assurance-society": null, "org:house-of-lords": "Q11007",
+"org:the-tribune-london": null, "org:die-welt-zionist-weekly": "Q876140", "org:el-tiempo-constantinople": "Q5352249",
+"org:the-outlook": null, "org:gazeta-warszawska": null, "org:saint-petersburg-stock-exchange": null,
+"org:al-ahwal": "Q12183306", "org:allgemeine-zeitung": "Q1432339", "org:excelsior-newspaper": "Q3061794",
+"org:grazhdanin": "Q4147482", "org:vestnik-evropy": "Q765757", "org:l-humanite": "Q1137404", "org:al-muqtabas": "Q112180812",
+"org:general-jewish-labour-bund": "Q647460", "org:bilu": "Q863392", "org:diskin-orphanage": "Q5282323",
+"org:eliyahu-hanavi-synagogue": "Q1331109", "org:ben-ezra-synagogue": "Q2474653", "org:bezalel-academy-of-arts-and-design": "Q492519",
+"org:zionist-actions-committee": "Q2906291", "org:zionistische-vereinigung-fur-deutschland": "Q205369", "org:hakham-bashi": "Q1568783",
+"org:dropsie-college": "Q65088719", "org:admiralty-board-russia": "Q2628121", "org:odessa-university": "Q85300",
+"org:imperial-military-medical-academy": "Q1459393", "org:azov-don-bank": "Q4058430", "org:russian-post-office-in-constantinople": "Q4400527",
+"org:state-duma": "Q1649453", "org:ministry-of-foreign-affairs-russia": "Q3251811", "org:committee-of-ministers-russian-empire": "Q4229709",
+"org:pirogov-society": "Q4363398", "org:polytechnic-museum": "Q1577987", "org:petrischule": "Q2388897", "org:sms-panther": "Q527159",
+"org:imperial-council-austria": "Q697775", "org:k-k-telegraphen-korrespondenz-bureau": "Q85017764", "org:de-rothschild-freres": "Q122143900",
+"org:louvre": "Q19675", "org:house-of-commons-of-the-united-kingdom": "Q11005", "org:london-stock-exchange": "Q171240",
+"org:board-of-trade": "Q887543", "org:manchester-chamber-of-commerce": "Q105537662", "org:federterra": "Q17630354",
+"org:indiana-university": "Q6608367", "org:united-states-department-of-war": "Q1143596", "org:ittihad-i-muhammedi": "Q11926988",
+"org:government-of-the-ottoman-empire": "Q18871", "pl:roman-empire": "Q2277", "org:liberal-party-uk": "Q622441"
+}

@@ -14,9 +14,10 @@ H.card = function (a, o = {}) {
     a.im.length ? h('span', { class: 'tag' }, '▣ ' + a.im.length) : null));
   c.append(h('p', { class: 'sum', html: highlight(a.s, tk) }));
   if (!o.compact && a.c) c.append(h('p', { class: 'ctx', html: highlight(a.c, tk) }));
-  if (!o.compact && a.top.length) {
+  const tags = [...a.k_top, ...a.k_ev];
+  if (!o.compact && tags.length) {
     const ch = h('div', { class: 'chips' });
-    a.top.slice(0, 4).forEach(([t]) => ch.append(h('button', { class: 'chip t-top', title: 'סינון לפי נושא זה', onclick: e => { e.stopPropagation(); H.addEnt('top', H.nk(t)); } }, t)));
+    tags.slice(0, 6).forEach(id => { const t = H.typeOf(id); ch.append(h('button', { class: 'chip t-' + t, title: H.TYPE1[t] + ' · סינון לפי ' + H.TYPE1[t] + ' זה (כולל תתי-נושאים)', onclick: e => { e.stopPropagation(); H.addEnt(t, id); } }, H.label(id))); });
     c.append(ch);
   }
   c.addEventListener('click', () => H.openArticle(a, o.list));
@@ -68,7 +69,9 @@ function stepArticle(d) {
 function entChips(a, t) {
   if (!a[t].length) return null;
   return h('div', { class: 'etype' }, h('b', {}, H.TYPES[t]),
-    h('div', { class: 'chips' }, a[t].map(([n, y], i) => h('button', { class: 'chip t-' + t, title: (y ? 'ביידיש: ' + y + ' · ' : '') + 'סינון לפי ' + H.TYPE1[t], onclick: () => { H.closeArticle(); H.addEnt(t, H.nk(n)); } }, n, UI.yid && y ? h('span', { class: 'muted', style: { fontFamily: 'var(--serif)' } }, '‏' + y) : null))));
+    h('div', { class: 'chips' }, a[t].map(([n, y], i) => { const id = a['k_' + t][i], e = H.info(id) || {};
+      return h('button', { class: 'chip t-' + t + (e.un ? ' unk' : ''), title: [e.ds, y ? 'ביידיש: ' + y : '', 'לחיצה: סינון לפי ' + H.TYPE1[t] + ' · Ctrl+לחיצה: דף הישות'].filter(Boolean).join(' · '),
+        onclick: ev => { H.closeArticle(); if (ev.ctrlKey || ev.metaKey) H.showEntity(t, id); else H.addEnt(t, id); } }, n, UI.yid && y ? h('span', { class: 'muted', style: { fontFamily: 'var(--serif)' } }, '‏' + y) : null); })));
 }
 function renderArticle(a) {
   const tk = toks(UI.F.q), box = $('#modal .sheet');
@@ -86,7 +89,9 @@ function renderArticle(a) {
   left.append(h('h4', {}, 'סיכום'), h('p', { class: 'sumtxt', html: highlight(a.s, tk) }));
   if (a.c) left.append(h('h4', {}, 'מה נאמר על מונח החיפוש'), h('p', { class: 'ctxtxt', html: highlight(a.c, tk) }));
   left.append(h('h4', {}, 'מונחי החיפוש של האיסוף'), h('div', { class: 'chips' }, a.t.map(x => h('span', { class: 'chip' }, x))));
-  for (const t of ['top', 'ppl', 'pl', 'org', 'grp']) { const c = entChips(a, t); if (c) left.append(c); }
+  for (const t of ['top', 'ev', 'ppl', 'pl', 'org', 'grp']) { const c = entChips(a, t); if (c) left.append(c); }
+  if (a.cn.length) left.append(h('div', { class: 'etype' }, h('b', {}, 'מדינות (נגזר מהמקומות)'), h('div', { class: 'chips' }, a.cn.map(id => h('button', { class: 'chip t-pl', onclick: () => { H.closeArticle(); H.applyFilter({ cn: id }); } }, H.label(id))))));
+  if (a.tr.length) left.append(h('details', { class: 'small', style: { marginTop: '10px' } }, h('summary', { class: 'muted' }, 'ניסוח הנושאים המקורי (מהגיליון)'), h('p', { class: 'muted' }, a.tr.join(' · '))));
   // תמונות
   right.append(h('h4', {}, 'מקור'));
   right.append(h('div', { class: 'chips' },
@@ -175,7 +180,7 @@ H.addEnt = function (type, key) {
 H.applyFilter = function (spec) { // פותח את לשונית החיפוש עם סינון חלקי
   const F = H.newF();
   if (spec.papers) F.papers = new Set(spec.papers);
-  for (const k of ['q', 'scope', 'mode', 'from', 'to', 'pt', 'th', 'jw']) if (spec[k] != null) F[k] = spec[k];
+  for (const k of ['q', 'scope', 'mode', 'from', 'to', 'pt', 'th', 'cn', 'jw', 'deep']) if (spec[k] != null) F[k] = spec[k];
   for (const k of ['genre', 'cen', 'rel']) if (spec[k]) F[k] = new Set(spec[k]);
   if (spec.ents) F.ents = spec.ents.map(e => ({ ...e }));
   UI.F = F; syncSearchControls(); H.showTab('search'); renderSearch();
@@ -234,9 +239,15 @@ function buildSide() {
   facet('סוגה', 'genre', 'g', Object.keys(cnt).filter(Boolean).sort((a, b) => cnt[b] - cnt[a]));
   facet('מרכזיות המונח בכתבה', 'cen', 'm', H.CEN.filter(c => H.A.some(a => a.m === c)));
   facet('רלוונטיות למחקר', 'rel', 'r', H.REL.filter(c => H.A.some(a => a.r === c)));
-  s.append(h('h3', {}, 'נושא-על (קיבוץ אוטומטי)'));
+  s.append(h('h3', {}, 'נושא-על'));
   const ts = h('select', { id: 'f-th', 'aria-label': 'נושא-על', onchange: e => { UI.F.th = e.target.value; renderSearch(); } }, h('option', { value: '' }, 'כל הנושאים'), H.meta.themes.map(t => h('option', { value: t.k }, t.h)));
-  s.append(ts, h('p', { class: 'small muted', style: { marginTop: '6px' } }, 'תיוג לפי מילות מפתח בשדה "נושאים". כלי גלישה, לא קטגוריה מחקרית. הכללים בלשונית "על הנתונים".'));
+  s.append(ts, h('p', { class: 'small muted', style: { marginTop: '6px' } }, 'ענפי השורש של אוצר המילים המבוקר. לבחירת נושא מפורט יותר הקלידו את שמו בתיבת החיפוש.'));
+  s.append(h('h3', {}, 'מדינה / אזור'));
+  s.append(h('select', { id: 'f-cn', 'aria-label': 'מדינה', onchange: e => { UI.F.cn = e.target.value; renderSearch(); } }, h('option', { value: '' }, 'כל המדינות'), H.countries.map(c => h('option', { value: c.k }, c.h))));
+  s.append(h('p', { class: 'small muted', style: { marginTop: '6px' } }, 'נגזר מהמקומות שבכתבה: פאס, קזבלנקה ומראכש נספרות תחת מרוקו.'));
+  s.append(h('h3', {}, 'היררכיה'));
+  s.append(h('label', { class: 'fopt' }, h('input', { type: 'checkbox', id: 'f-deep', checked: true, onchange: e => { UI.F.deep = e.target.checked ? 1 : 0; renderSearch(); } }), 'ישות כוללת את תתי-הישויות שלה'));
+  s.append(h('p', { class: 'small muted' }, 'למשל: "שאלת מרוקו" כוללת את הסכם פאס ואת משבר אגאדיר; "מרוקו" כוללת את פאס.'));
 }
 function onFacet(e) {
   const f = e.target.dataset.f, v = e.target.value, F = UI.F, set = f === 'paper' ? F.papers : F[f];
@@ -245,8 +256,8 @@ function onFacet(e) {
 }
 function syncSearchControls() {
   const F = UI.F;
-  $('#q').value = F.q; $('#scope').value = F.scope; $('#mode').value = F.mode; $('#from').value = F.from; $('#to').value = F.to; $('#f-th').value = F.th;
-  $$('#side input[type=checkbox]').forEach(c => { const f = c.dataset.f; c.checked = f === 'paper' ? F.papers.has(c.value) : F[f].has(c.value); });
+  $('#q').value = F.q; $('#scope').value = F.scope; $('#mode').value = F.mode; $('#from').value = F.from; $('#to').value = F.to; $('#f-th').value = F.th; $('#f-cn').value = F.cn || ''; $('#f-deep').checked = F.deep !== 0;
+  $$('#side input[type=checkbox][data-f]').forEach(c => { const f = c.dataset.f; c.checked = f === 'paper' ? F.papers.has(c.value) : F[f].has(c.value); });
   $('#sort').value = UI.sort;
 }
 function updateFacets() {
@@ -259,6 +270,8 @@ function updateFacets() {
   upd('paper', 'p', 'paper'); upd('genre', 'g', 'genre'); upd('cen', 'm', 'cen'); upd('rel', 'r', 'rel');
   const arts = H.filter(F, 'th'), c = {}; for (const a of arts) for (const t of a.th) c[t] = (c[t] || 0) + 1;
   $$('#f-th option').forEach(o => { if (!o.value) return; o.textContent = H.themeName[o.value] + ` (${nf(c[o.value] || 0)})`; });
+  const ac = H.filter(F, 'cn'), cc = {}; for (const a of ac) for (const t of a.cn) cc[t] = (cc[t] || 0) + 1;
+  $$('#f-cn option').forEach(o => { if (!o.value) return; o.textContent = H.label(o.value) + ` (${nf(cc[o.value] || 0)})`; });
 }
 async function renderSearch() {
   const F = UI.F;
@@ -278,6 +291,7 @@ function renderActive() {
   if (toks(F.q).length) add(`טקסט: ${F.q}`, () => F.q = '');
   F.ents.forEach((e, i) => add(entLabel(e), () => F.ents.splice(i, 1)));
   if (F.th) add('נושא-על: ' + H.themeName[F.th], () => F.th = '');
+  if (F.cn) add('מדינה: ' + H.label(F.cn), () => F.cn = '');
   if (F.pt) add('נושא ראשי: ' + H.themeName[F.pt], () => F.pt = '');
   if (F.jw) add('הקשר יהודי (היוריסטי)', () => F.jw = 0);
   if (F.from || F.to) add(`תקופה: ${F.from ? fmtDate(F.from) : '…'} – ${F.to ? fmtDate(F.to) : '…'}`, () => { F.from = ''; F.to = ''; });
@@ -322,7 +336,7 @@ function renderStats() {
 
 /* ---------- לשונית ציר זמן והשוואה ---------- */
 H.subjPred = s => {
-  if (s.kind === 'ent') return a => a['k_' + s.type].includes(s.key);
+  if (s.kind === 'ent') return a => H.has(a, s);
   if (s.kind === 'theme') return a => a.th.includes(s.key);
   if (s.kind === 'pt') return a => a.pt === s.key;
   if (s.kind === 'jw') return a => !!a.jw;
@@ -333,7 +347,7 @@ H.subjFilter = s => s.kind === 'ent' ? { ents: [{ type: s.type, key: s.key }] } 
 
 function buildTimeline() {
   const v = $('#view-timeline'); v.innerHTML = '';
-  UI.tl = UI.tl || { subj: { kind: 'ent', type: 'pl', key: 'מרוקו' }, gran: 'quarter', measure: 'count', view: 'lanes', events: true, papers: new Set(H.paperKeys), sel: null, shown: 25 };
+  UI.tl = UI.tl || { subj: { kind: 'ent', type: 'pl', key: 'pl:morocco' }, gran: 'quarter', measure: 'count', view: 'lanes', events: true, papers: new Set(H.paperKeys), sel: null, shown: 25 };
   v.append(h('div', { class: 'hero' }, h('div', {}, h('h2', {}, 'ציר זמן והשוואה בין עיתונים'), h('p', {}, 'בחרו נושא, אדם, מקום, ארגון או קבוצה, וראו מתי כל עיתון עסק בהם. לחיצה על עמודה בוחרת תקופה, ומתחת מוצגות הכתבות של העיתונים זו לצד זו לאותה תקופה.'))));
   const T = UI.tl;
   const inp = h('input', { type: 'text', id: 'tlq', placeholder: 'חיפשו נושא, מקום, אדם, ארגון… (או טקסט חופשי עם Enter)', autocomplete: 'off', 'aria-label': 'נושא להשוואה' });
@@ -406,9 +420,9 @@ function drawTL() {
 function buildEntities() {
   const v = $('#view-entities'); v.innerHTML = '';
   const E = UI.ent;
-  v.append(h('div', { class: 'hero' }, h('div', {}, h('h2', {}, 'ישויות'), h('p', {}, 'אנשים, מקומות, ארגונים, קבוצות אוכלוסייה ונושאים, בדירוג לפי מספר הכתבות. בחרו ישות לראות את התפלגותה בין העיתונים ובזמן, ואילו ישויות מופיעות לצידה.'))));
+  v.append(h('div', { class: 'hero' }, h('div', {}, h('h2', {}, 'ישויות'), h('p', {}, 'מאגר הידע: נושאים ואירועים מאוצר מילים מבוקר, ואנשים, מקומות, ארגונים וקבוצות שאוחדו מכל הכתיבים ושויכו לוויקידאטה. ספירת הכתבות כוללת תתי-ישויות (מרוקו כוללת את פאס). בחרו ישות לראות תיאור, קשרים, התפלגות בין העיתונים ובזמן, ואילו ישויות מופיעות לצידה.'))));
   const tabs = h('div', { class: 'etabs' }, Object.entries(H.TYPES).map(([k, l]) => h('button', { class: E.type === k ? 'on' : '', onclick: () => { E.type = k; E.sel = null; E.shown = 120; buildEntities(); } }, `${l} (${nf(H.idx[k].size)})`)));
-  const q = h('input', { type: 'search', placeholder: 'סינון הרשימה: עברית או יידיש…', value: E.q, 'aria-label': 'סינון רשימת ישויות', style: { padding: '9px 12px', border: '1px solid var(--line)', borderRadius: '9px', minWidth: '260px' } });
+  const q = h('input', { type: 'search', placeholder: 'סינון הרשימה: עברית, יידיש או אנגלית…', value: E.q, 'aria-label': 'סינון רשימת ישויות', style: { padding: '9px 12px', border: '1px solid var(--line)', borderRadius: '9px', minWidth: '260px' } });
   q.addEventListener('input', () => { E.q = q.value; E.shown = 120; drawEntTable(); });
   const left = h('div', {}, tabs, h('div', { style: { margin: '0 0 10px' } }, q), h('div', { class: 'panel', style: { padding: 0, overflow: 'hidden' }, id: 'etbl' }));
   const right = h('div', { class: 'detail panel', id: 'edetail' }, h('p', { class: 'muted' }, 'בחרו ישות מהרשימה.'));
@@ -425,7 +439,8 @@ function drawEntTable() {
   for (const e of list.slice(0, E.shown)) {
     const tr = h('tr', { class: E.sel === e.key ? 'sel' : '', tabindex: 0, onclick: () => { E.sel = e.key; $$('#etbl tr.sel').forEach(x => x.classList.remove('sel')); tr.classList.add('sel'); drawEntDetail(); }, onkeydown: ev => { if (ev.key === 'Enter') tr.click(); } });
     const stk = h('div', { class: 'stk', title: H.paperKeys.map(p => H.pname(p) + ': ' + (e.papers[p] || 0)).join(' · ') }, H.paperKeys.map(p => e.papers[p] ? h('i', { style: { width: (e.papers[p] / e.count * 100) + '%', background: H.pcol(p) } }) : null));
-    tr.append(h('td', {}, h('div', {}, e.h), e.y[0] ? h('div', { class: 'y' }, e.y[0]) : null), h('td', {}, nf(e.count)), h('td', {}, stk),
+    const par = (e.info && e.info.up || [])[0];
+    tr.append(h('td', {}, h('div', {}, e.h), par ? h('div', { class: 'y small' }, H.label(par) + ' ›') : (e.y[0] ? h('div', { class: 'y' }, e.y[0]) : null)), h('td', {}, nf(e.count)), h('td', {}, stk),
       h('td', { class: 'small muted', html: ltr(e.first.slice(0, 4) === e.last.slice(0, 4) ? e.first.slice(0, 4) : e.first.slice(0, 4) + '–' + e.last.slice(0, 4)) }),
       h('td', { html: H.spark(H.years.map(y => e.byYear[y] || 0)) }));
     body.append(tr);
@@ -437,8 +452,9 @@ function drawEntTable() {
 function drawEntDetail() {
   const E = UI.ent, e = H.entity(E.type, E.sel), box = $('#edetail'); if (!e) return;
   box.innerHTML = '';
-  box.append(h('div', { class: 'chips', style: { marginBottom: '6px' } }, h('span', { class: 'tag' }, H.TYPE1[E.type])), h('h3', {}, e.h), e.y.length ? h('div', { class: 'muted', style: { fontFamily: 'var(--serif)', fontSize: '16px' } }, e.y.join(' · ')) : null);
-  box.append(h('div', { class: 'kv' }, h('div', {}, h('b', {}, nf(e.count)), 'כתבות'), h('div', {}, h('b', {}, fmtDate(e.first)), 'הופעה ראשונה'), h('div', {}, h('b', {}, fmtDate(e.last)), 'הופעה אחרונה'), H.paperKeys.filter(p => e.papers[p]).map(p => h('div', {}, h('b', { style: { color: H.pcol(p) } }, nf(e.papers[p])), H.pname(p)))));
+  box.append(h('div', { class: 'chips', style: { marginBottom: '6px' } }, h('span', { class: 'tag' }, H.TYPE1[E.type]), H.anc(e.key).slice().reverse().filter(x => H.typeOf(x) === E.type || E.type === 'ev').map(x => h('button', { class: 'chip sm', onclick: () => H.showEntity(H.typeOf(x), x) }, H.label(x) + ' ›'))), h('h3', {}, e.h), e.y.length ? h('div', { class: 'muted', style: { fontFamily: 'var(--serif)', fontSize: '16px' } }, e.y.join(' · ')) : '');
+  box.append(kbPanel(e));
+  box.append(h('div', { class: 'kv' }, h('div', {}, h('b', {}, nf(e.count)), e.direct !== e.count ? `כתבות (${nf(e.direct)} ישירות)` : 'כתבות'), h('div', {}, h('b', {}, fmtDate(e.first)), 'הופעה ראשונה'), h('div', {}, h('b', {}, fmtDate(e.last)), 'הופעה אחרונה'), H.paperKeys.filter(p => e.papers[p]).map(p => h('div', {}, h('b', { style: { color: H.pcol(p) } }, nf(e.papers[p])), H.pname(p)))));
   box.append(h('div', { class: 'chips', style: { marginBottom: '10px' } },
     h('button', { class: 'btn sm pri', onclick: () => H.addEnt(E.type, e.key) }, 'פתח בחיפוש'),
     h('button', { class: 'btn sm', onclick: () => { UI.tl.subj = { kind: 'ent', type: E.type, key: e.key }; UI.tl.sel = null; H.showTab('timeline'); } }, 'השוואה בין עיתונים'),
@@ -449,14 +465,50 @@ function drawEntDetail() {
   const series = H.paperKeys.map(p => ({ key: p, label: H.pname(p), color: H.pcol(p) }));
   setTimeout(() => H.timeBars(ch, { buckets, series, gran: 'quarter', height: 110, aria: 'התפלגות בזמן', cell: (bi, si) => cell[bi][series[si].key] || [], onClick: (arts, k) => H.openList({ title: `${e.h} · ${bucketLabel(k)}`, arts }) }), 0);
   for (const t of Object.keys(H.TYPES)) {
-    const c = new Map(); for (const a of e.arts) for (const k of a['k_' + t]) { if (t === E.type && k === e.key) continue; c.set(k, (c.get(k) || 0) + 1); }
+    const c = new Map(); for (const a of e.arts) for (const k of a['k_' + t]) { if (k === e.key || H.anc(k).includes(e.key)) continue; c.set(k, (c.get(k) || 0) + 1); }
     const top = [...c.entries()].sort((a, b) => b[1] - a[1]).slice(0, 10); if (!top.length) continue;
     box.append(h('div', { class: 'etype' }, h('b', {}, 'מופיעים לצידה: ' + H.TYPES[t]), h('div', { class: 'chips' }, top.map(([k, n]) => {
-      const o = H.entity(t, k);
-      return h('button', { class: 'chip t-' + t, title: 'הכתבות שבהן שתיהן מופיעות', onclick: () => H.openList({ title: `${e.h} + ${o.h}`, arts: e.arts.filter(a => a['k_' + t].includes(k)), filter: { ents: [{ type: E.type, key: e.key }, { type: t, key: k }] } }) }, o.h, h('span', { class: 'muted' }, nf(n)));
+      const o = H.entity(t, k) || { h: H.label(k) };
+      return h('button', { class: 'chip t-' + t, title: 'הכתבות שבהן שתיהן מופיעות', onclick: () => H.openList({ title: `${e.h} + ${o.h}`, arts: e.arts.filter(a => a['k_' + t].includes(k)), filter: { ents: [{ type: E.type, key: e.key }, { type: t, key: k }] } }) }, o ? o.h : H.label(k), h('span', { class: 'muted' }, nf(n)));
     }))));
   }
 }
+
+/* פאנל מאגר הידע: תיאור, ויקידאטה, קשרים */
+const MONTHS_ISO = d => d && /^\d{4}-\d{2}-\d{2}/.test(d) ? fmtDate(d.slice(0, 10)) : d && d.slice(0, 4);
+function kbPanel(e) {
+  const i = e.info || {}, box = h('div', { class: 'kb' });
+  const facts = [];
+  if (i.ro) facts.push(i.ro);
+  if (i.ds) facts.push(i.ds);
+  if (i.sc) facts.push(i.sc);
+  const life = i.b || i.x ? `${MONTHS_ISO(i.b) || '?'} – ${MONTHS_ISO(i.x) || '?'}` : (i.dt ? MONTHS_ISO(i.dt) + (i.de ? ' – ' + MONTHS_ISO(i.de) : '') : (i.st ? MONTHS_ISO(i.st) + (i.en_ ? ' – ' + MONTHS_ISO(i.en_) : '') : ''));
+  if (life) facts.push(life);
+  if (facts.length) box.append(h('p', { class: 'small' }, facts.join(' · ')));
+  if (i.img) box.append(h('img', { class: 'kbimg', loading: 'lazy', alt: e.h, src: 'https://commons.wikimedia.org/wiki/Special:FilePath/' + encodeURIComponent(i.img) + '?width=240' }));
+  const links = [];
+  if (i.wh) links.push(h('a', { href: 'https://he.wikipedia.org/wiki/' + encodeURIComponent(i.wh), target: '_blank', rel: 'noopener' }, 'ויקיפדיה ↗'));
+  if (i.we) links.push(h('a', { href: 'https://en.wikipedia.org/wiki/' + encodeURIComponent(i.we), target: '_blank', rel: 'noopener' }, 'Wikipedia ↗'));
+  if (i.wy) links.push(h('a', { href: 'https://yi.wikipedia.org/wiki/' + encodeURIComponent(i.wy), target: '_blank', rel: 'noopener' }, 'וויקיפעדיע ↗'));
+  if (i.q) links.push(h('a', { href: 'https://www.wikidata.org/wiki/' + i.q, target: '_blank', rel: 'noopener' }, 'ויקידאטה ' + i.q + ' ↗'));
+  if (i.lat != null) links.push(h('a', { href: `https://www.openstreetmap.org/?mlat=${i.lat}&mlon=${i.lon}#map=8/${i.lat}/${i.lon}`, target: '_blank', rel: 'noopener' }, 'מפה ↗'));
+  if (links.length) box.append(h('div', { class: 'chips small' }, links));
+  if (i.a && i.a.length) box.append(h('p', { class: 'small muted' }, 'כתיבים בגיליון: ' + i.a.slice(0, 14).join(' · ')));
+  // קשרים
+  const groups = new Map(), add = (lab, id) => { if (!groups.has(lab)) groups.set(lab, new Set()); groups.get(lab).add(id); };
+  for (const [p, o] of H.relOut.get(e.key) || []) if (H.PRED[p] && H.info(o)) add(H.PRED[p][0], o);
+  for (const [p, s2] of H.relIn.get(e.key) || []) if (H.PRED[p] && H.info(s2) && H.idx[H.typeOf(s2)].has(s2)) add(H.PRED[p][1], s2);
+  for (const [lab, ids] of groups) {
+    const list = [...ids].sort((a, b) => ((H.idx[H.typeOf(b)].get(b) || {}).count || 0) - ((H.idx[H.typeOf(a)].get(a) || {}).count || 0));
+    box.append(h('div', { class: 'etype' }, h('b', {}, lab), h('div', { class: 'chips' }, list.slice(0, 24).map(x => { const n = (H.idx[H.typeOf(x)].get(x) || {}).count;
+      return h('button', { class: 'chip t-' + H.typeOf(x), title: H.TYPE1[H.typeOf(x)] + ' · לדף הישות', onclick: () => H.showEntity(H.typeOf(x), x) }, H.label(x), n ? h('span', { class: 'muted' }, nf(n)) : null); }), list.length > 24 ? h('span', { class: 'muted small' }, `ועוד ${list.length - 24}`) : null)));
+  }
+  return box;
+}
+H.showEntity = function (t, id) {
+  UI.ent.type = t; UI.ent.sel = id; UI.ent.q = '';
+  if (!built.entities) { built.entities = 1; H.showTab('entities'); buildEntities(); } else { H.showTab('entities'); buildEntities(); }
+};
 
 /* ---------- על הנתונים ---------- */
 function buildAbout() {
@@ -473,10 +525,12 @@ function buildAbout() {
     <div class="note"><b>חשוב לפרשנות:</b> מונחי האיסוף שונים בין העיתונים, ולכן ההבדלים בנפח בין עיתונים משקפים בעיקר את דגימת האיסוף ולא את חשיבות הנושא בעיתון. עדיף להשוות <i>מגמות</i> ו<i>הרכב</i> (אחוזים בתוך עיתון), ולהשוות בין עיתונים בנושאים שנאספו בכולם (למשל מרוקו בדער פריינד ובהיינט).</div>
     <h3>מה מחושב אוטומטית ומה בא מהגיליון</h3>
     <ul>
-      <li><b>מן הגיליון, כפי שהוא:</b> עיתון, תאריך, קישור, סיכום, "מה נאמר על המונח", מרכזיות, אנשים, מקומות, ארגונים, קבוצות אוכלוסייה, נושאים, סוגה, רלוונטיות, והטקסט ביידיש.</li>
-      <li><b>איחוד שמות ישויות:</b> שמות זהים בעברית (בלי "ה" הידיעה ובלי גרשיים) נספרים כישות אחת, והכתיב היידי השכיח מוצג לצידם. אין כאן איחוד סמנטי: "הסולטאן" ו"סולטאן מרוקו" נשארים נפרדים.</li>
-      <li><b>נושאי-על:</b> קיבוץ אוטומטי של שדה "נושאים" לפי מילות מפתח (13 קבוצות). לכל כתבה יש תיוג מרובה (לסינון) ונושא ראשי אחד (לגרפים מחולקים). זהו כלי גלישה, והוא עשוי לטעות; אפשר לבדוק כל תוצאה במגירה.</li>
-      <li><b>"הקשר יהודי":</b> כתבה שבה קבוצות האוכלוסייה כוללות יהודים, או שנושאיה עוסקים ביהודים, בציונות, בקהילות או בעלילות דם. היוריסטיקה גסה, לצורך מגמות בלבד.</li>
+      <li><b>מן הגיליון, כפי שהוא:</b> עיתון, תאריך, קישור, סיכום, "מה נאמר על המונח", מרכזיות, סוגה, רלוונטיות, והטקסט ביידיש. רשימות הישויות והנושאים בגיליון הן נקודת המוצא למאגר הידע.</li>
+      <li><b>מאגר ידע (${nf(H.meta.kb ? H.meta.kb.entities : 0)} ישויות, ${nf(H.meta.kb ? H.meta.kb.wikidata : 0)} מקושרות לוויקידאטה, ${nf(H.meta.kb ? H.meta.kb.relations : 0)} קשרים):</b> כל כתיב בגיליון (למשל פאס / פס / פז, או "מולאי חאפיד" / "עבד אל-חפיט") שויך לישות אחת עם מזהה קבוע. כינויים עמומים כמו "הסולטאן", "הקיסר" או "הפרלמנט" שויכו בכל כתבה לפי תאריכה והקשרה (הסולטאן של מרוקו ב־1910 הוא עבד אל-חפיט). השיוך נעשה בעזרת מודל שפה ונבדק מול ויקידאטה; הוא עשוי לטעות, וכל כתבה מציגה גם את הניסוח המקורי.</li>
+      <li><b>נושאים ואירועים:</b> במקום אלפי ניסוחים חופשיים (כמעט כל ניסוח הופיע פעם אחת), הנושאים מוינו לאוצר מילים מבוקר והיררכי: נושאי-על, תתי-נושאים ואירועים מתוארכים (למשל "שאלת מרוקו" › "הפרוטקטורט הצרפתי" › "הסכם פאס, 30.3.1912"). חיפוש לפי נושא כולל כברירת מחדל את כל תתי-הנושאים והאירועים שלו; אפשר לבטל זאת במסננים.</li>
+      <li><b>אונטולוגיה:</b> הקשרים בין הישויות: מקום נמצא במקום (פאס › מרוקו), תת-נושא של, תת-קבוצה של (יהודי מרוקו › יהודים), מדינה של אדם או ארגון, משתתפים ומקום של אירוע, וחברות בארגון. חלקם נקבעו במאגר וחלקם נגזרו מוויקידאטה. הם מוצגים בלשונית "ישויות".</li>
+      <li><b>מדינה / אזור:</b> נגזר מהמקומות שבכתבה דרך היררכיית המקומות.</li>
+      <li><b>"הקשר יהודי":</b> כתבה שבה קבוצות האוכלוסייה כוללות יהודים (או תת-קבוצה שלהם), או שנושאיה שייכים לנושאים יהודיים (רדיפות, קהילות, ציונות, הגירה). היוריסטיקה, לצורך מגמות בלבד.</li>
       <li><b>אירועי רקע בגרפים:</b> ידע היסטורי כללי, לא נגזר מן הגיליון, ומיועד לעזור בקריאת פסגות בגרפים.</li>
     </ul>
     <h3>חיפוש ביידיש</h3>
@@ -486,7 +540,7 @@ function buildAbout() {
     <h3>הורדות</h3>
     <p><button class="btn" id="dlAll">כל הכתבות כ־CSV</button> <a class="btn" href="data.json" download>data.json</a></p>
     <h3>עדכון הנתונים</h3>
-    <p>כשהגיליון גדל: מורידים אותו כ־xlsx או csv, מריצים <code>python build_data.py analysis.xlsx imgmap.json</code>, ומעלים את <code>data.json</code> ו־<code>ocr.json</code> החדשים לריפוזיטורי. פרטים ב־README.</p>
+    <p>כשהגיליון גדל: מורידים אותו כ־xlsx או csv, מריצים <code>python build_data.py analysis.xlsx imgmap.json</code>, ומעלים את <code>data.json</code> ו־<code>ocr.json</code> החדשים לריפוזיטורי. כתיבים חדשים שאינם במאגר מסומנים במסגרת מקווקוות עד שישויכו (ראו <code>kb/README.md</code>).</p>
     <p class="muted small">נבנה במעבדת אליהו, אוניברסיטת חיפה. נתונים נכון ל־${esc(H.meta.built)} · ${nf(H.A.length)} רשומות.</p>` }));
   $('#dlAll').onclick = () => H.artsCSV(H.A, 'all-articles');
 }

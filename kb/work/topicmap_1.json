@@ -1,0 +1,2662 @@
+{
+ "map": {
+  "אבדות בים": [
+   "top:wwi-naval-air-war"
+  ],
+  "אבל לאומי בצרפת": [
+   "ev:paris-madrid-air-race"
+  ],
+  "אגודות ציוניות": [
+   "top:zionist-movement",
+   "top:salonica-jewry"
+  ],
+  "אגודת הגעה": [
+   "top:numerus-clausus"
+  ],
+  "אדישות לנוכח מלחמה והרוגים": [
+   "top:italo-turkish-war",
+   "top:satire-humour"
+  ],
+  "אוחראנה ופשע ברוסיה": [
+   "top:russian-reaction-repression"
+  ],
+  "אוטונומיה למקדוניה ועידת השגרירים": [
+   "top:macedonian-question",
+   "top:balkan-wars"
+  ],
+  "אוטונומיה מקדונית": [
+   "top:macedonian-question"
+  ],
+  "אולטימטום צרפתי למרוקו": [
+   "top:morocco-international-diplomacy"
+  ],
+  "אופנה ותחרים": [
+   "top:arts-entertainment"
+  ],
+  "אופנת נשים": [
+   "top:arts-entertainment"
+  ],
+  "אוצרות מוסתרים": [
+   "top:moroccan-internal-politics"
+  ],
+  "אזרחות ליהודים מרוקאים בספרד": [
+   "top:moroccan-jews",
+   "top:sephardi-mizrahi-jewry"
+  ],
+  "אחדות תורכית ערבית ופן איסלאמיזם": [
+   "top:pan-islamism"
+  ],
+  "אחוות עמים ודתות באימפריה העותמאנית": [
+   "top:ottoman-nationalities"
+  ],
+  "אחרי המהפכה התורכית של 1909": [
+   "ev:31-march-incident"
+  ],
+  "אחרי מלחמת הבלקן הראשונה": [
+   "top:balkan-wars"
+  ],
+  "אי יציבות באלבניה ובמקדוניה": [
+   "top:albanian-question",
+   "top:macedonian-question"
+  ],
+  "אי יציבות במקדוניה והבלקן": [
+   "top:macedonian-question"
+  ],
+  "אי יציבות במרוקו": [
+   "top:moroccan-tribal-revolts"
+  ],
+  "אי יציבות והתסיסה בפרס": [
+   "top:persian-revolution"
+  ],
+  "אי יציבות פוליטית בפרס": [
+   "top:persian-revolution"
+  ],
+  "אי ציות לחוק ולתקנות": [
+   "top:russian-reaction-repression"
+  ],
+  "אי שקט בבתי ספר גבוהים ברוסיה": [
+   "top:students-universities"
+  ],
+  "אי שקט בטורקיה ובסוריה": [
+   "top:arab-provinces-revolts"
+  ],
+  "אי שקט ביוונים בטורקיה": [
+   "top:ottoman-nationalities"
+  ],
+  "אי שקט במקסיקו": [
+   "ev:mexican-revolution"
+  ],
+  "אי שקט במרוקו": [
+   "top:moroccan-tribal-revolts"
+  ],
+  "אי שקט במרוקו ואיום על האירופים": [
+   "ev:siege-of-fez-1911"
+  ],
+  "אי שקט בסוריה": [
+   "top:arab-provinces-revolts"
+  ],
+  "אי שקט בסין": [
+   "top:china"
+  ],
+  "אי שקט בפרס": [
+   "top:persian-revolution"
+  ],
+  "אי שקט והפגנות באירופה": [
+   "top:news-digests"
+  ],
+  "אי שקט והתנגשויות שבטיות במרוקו": [
+   "top:moroccan-tribal-revolts"
+  ],
+  "אי שקט והתערבות צרפתית במרוקו": [
+   "ev:fez-riots-1912"
+  ],
+  "אי שקט וחוסר יציבות בטורקיה": [
+   "top:young-turk-revolution"
+  ],
+  "אי שקט ומהומות בספרד": [
+   "top:iberian-politics"
+  ],
+  "אי שקט ופשע באימפריה הרוסית": [
+   "top:russian-revolution-1905",
+   "top:crime-robbery"
+  ],
+  "אי שקט וצבא במקדוניה ובסלוניקי": [
+   "top:macedonian-question",
+   "ev:young-turk-revolution"
+  ],
+  "אי שקט פוליטי בסרביה": [
+   "top:balkan-states-politics"
+  ],
+  "אי שקט פנימי באימפריה הרוסית": [
+   "top:russian-revolution-1905"
+  ],
+  "איום בגיהאד נגד צרפת": [
+   "top:moroccan-tribal-revolts"
+  ],
+  "איום בולגרי": [
+   "top:ottoman-foreign-relations"
+  ],
+  "איום במלחמת קודש ושלום אירופה": [
+   "ev:casablanca-riots-1907",
+   "top:interreligious-relations-orient"
+  ],
+  "איום מלחמה באירופה": [
+   "ev:agadir-crisis"
+  ],
+  "איום מלחמה בין גרמניה לצרפת": [
+   "ev:agadir-crisis"
+  ],
+  "איום על האירופים בפאס": [
+   "ev:siege-of-fez-1911"
+  ],
+  "איחוד המפלגות הסוציאליסטיות בצרפת": [
+   "top:socialism"
+  ],
+  "איחוד מפלגות ועיתונים עותמאניים": [
+   "top:ottoman-politics"
+  ],
+  "אימפריאליזם ומעצמות אירופה": [
+   "top:colonial-rivalry"
+  ],
+  "אימפריאליזם וקולוניאליזם אירופי": [
+   "top:colonialism"
+  ],
+  "אינטרסים כלכליים והלוואות": [
+   "top:ottoman-foreign-relations"
+  ],
+  "אינטרסים קולוניאליים": [
+   "top:colonial-rivalry"
+  ],
+  "אינטרסים קולוניאליים ומסחריים": [
+   "top:colonial-rivalry",
+   "top:franco-german-rivalry-morocco"
+  ],
+  "אינטרסים קפיטליסטיים וחברות קונצסיה": [
+   "top:french-colonial-empire",
+   "top:anti-colonial-critique"
+  ],
+  "אינטרסים של המעצמות באפריקה": [
+   "top:anti-colonial-critique",
+   "top:colonial-rivalry"
+  ],
+  "איסור חפירות ארכאולוגיות בטורקיה": [
+   "top:science-archaeology"
+  ],
+  "אירוע גבול בין מונטנגרו לטורקיה": [
+   "top:ottoman-foreign-relations"
+  ],
+  "אירועי חצר ופוליטיקה באירופה": [
+   "top:news-digests"
+  ],
+  "אירועים במרוקו": [
+   "top:morocco-question"
+  ],
+  "אירועים בפורטוגל": [
+   "top:iberian-politics"
+  ],
+  "אישיותו הדתית והצנועה של מחמד החמישי": [
+   "top:ottoman-politics"
+  ],
+  "אכזריות המשטרה הפרוסית": [
+   "top:german-domestic-politics"
+  ],
+  "אכזריות השליט": [
+   "top:moroccan-tribal-revolts",
+   "top:moroccan-internal-politics"
+  ],
+  "אכזריות שלטונית ועינויים": [
+   "top:moroccan-internal-politics"
+  ],
+  "אלבנים והצבא העותמאני": [
+   "ev:albanian-revolt-1911"
+  ],
+  "אליאנס איזראליט ופוליטיקה גרמנית": [
+   "top:alliance-israelite-schools"
+  ],
+  "אליאנס וחינוך יהודי במרוקו": [
+   "top:alliance-israelite-schools",
+   "top:moroccan-jews"
+  ],
+  "אליאנס ומוסדות חינוך יהודיים": [
+   "top:alliance-israelite-schools"
+  ],
+  "אלימות באזור עדן": [
+   "top:british-empire"
+  ],
+  "אלימות ואי שקט ברוסיה": [
+   "top:russian-revolution-1905"
+  ],
+  "אלימות והרג בטריפולי": [
+   "top:libya-campaign"
+  ],
+  "אלימות ועלילות דם נגד יהודים": [
+   "top:blood-libels"
+  ],
+  "אלימות ועלילת דם נגד יהודים ברוסיה": [
+   "ev:beilis-affair"
+  ],
+  "אלימות ופוגרומים סביב ספירידונובה": [
+   "top:russian-reaction-repression",
+   "top:pogroms"
+  ],
+  "אלימות ופשע ברוסיה": [
+   "top:crime-robbery"
+  ],
+  "אלימות ושביתות ברוסיה ובבלפסט": [
+   "ev:belfast-strike-1907",
+   "top:crime-robbery"
+  ],
+  "אלימות ושוד ברוסיה": [
+   "top:crime-robbery"
+  ],
+  "אלימות יוונית נגד יהודי סלוניקי": [
+   "top:salonica-jewry"
+  ],
+  "אלימות מהפכנית ברוסיה": [
+   "top:russian-revolution-1905"
+  ],
+  "אלימות נגד אוכלוסייה אזרחית": [
+   "ev:albanian-revolt-1911"
+  ],
+  "אלימות נגד אוכלוסייה נוצרית": [
+   "ev:first-balkan-war"
+  ],
+  "אלימות נגד אזרחים": [
+   "top:balkan-wars"
+  ],
+  "אלימות נגד ארמנים ונוצרים": [
+   "ev:adana-massacre"
+  ],
+  "אלימות נגד יהודים": [
+   "top:pogroms"
+  ],
+  "אלימות נגד יהודים במרוקו": [
+   "ev:fez-riots-1912",
+   "top:moroccan-jews"
+  ],
+  "אלימות פוליטית": [
+   "top:persian-revolution"
+  ],
+  "אלימות פוליטית ופרעות": [
+   "top:russian-revolution-1905"
+  ],
+  "אלימות פוליטית ושוד": [
+   "top:political-violence",
+   "top:crime-robbery"
+  ],
+  "אמונות עממיות מוסלמיות על קדושים": [
+   "top:muslim-religious-life"
+  ],
+  "אמנסטיה לחיילים טורקים": [
+   "top:ottoman-military"
+  ],
+  "אנטי מיליטריזם בצרפת": [
+   "top:socialism"
+  ],
+  "אנטישמיות באימפריה העותמאנית": [
+   "top:antisemitism-politics-press",
+   "top:ottoman-jewry"
+  ],
+  "אנטישמיות בגרמניה": [
+   "top:antisemitism-politics-press"
+  ],
+  "אנטישמיות בהונגריה": [
+   "top:antisemitism-politics-press"
+  ],
+  "אנטישמיות ביוון ובבלקן": [
+   "top:antisemitism-politics-press"
+  ],
+  "אנטישמיות בעיתונות": [
+   "top:antisemitism-politics-press"
+  ],
+  "אנטישמיות בצרפת": [
+   "top:antisemitism-politics-press"
+  ],
+  "אנטישמיות בקורפו": [
+   "top:antisemitism-politics-press"
+  ],
+  "אנטישמיות ברוסיה": [
+   "top:antisemitism-politics-press"
+  ],
+  "אנטישמיות בתיאטרון": [
+   "top:antisemitism-politics-press"
+  ],
+  "אנטישמיות ואלימות נגד יהודים": [
+   "top:antisemitism-politics-press",
+   "top:pogroms"
+  ],
+  "אנטישמיות ואפליה נגד יהודים ברוסיה": [
+   "top:anti-jewish-restrictions-russia",
+   "top:antisemitism-politics-press"
+  ],
+  "אנטישמיות והתפרעויות ברומניה": [
+   "top:antisemitism-politics-press",
+   "top:pogroms"
+  ],
+  "אנטישמיות ולאומנות ברוסיה": [
+   "top:antisemitism-politics-press"
+  ],
+  "אנטישמיות ומשפט בגרמניה": [
+   "top:antisemitism-politics-press"
+  ],
+  "אנטישמיות פוליטית בטורקיה": [
+   "top:antisemitism-politics-press",
+   "top:ottoman-jewry"
+  ],
+  "אנטישמיות רוסית": [
+   "top:antisemitism-politics-press"
+  ],
+  "אנרכיה באלבניה": [
+   "ev:albanian-revolt-1912"
+  ],
+  "אנרכיה והתערבות אירופית במרוקו": [
+   "top:moroccan-tribal-revolts",
+   "top:morocco-international-diplomacy"
+  ],
+  "אנרכיסטים": [
+   "top:socialism"
+  ],
+  "אסון אווירי": [
+   "ev:paris-madrid-air-race"
+  ],
+  "אסון אונייה ליד איזמיר": [
+   "top:accidents"
+  ],
+  "אסון בבית כנסת": [
+   "top:accidents"
+  ],
+  "אסון במכרה": [
+   "top:accidents"
+  ],
+  "אסון הטיטאניק": [
+   "ev:sinking-of-titanic"
+  ],
+  "אסון הטיטניק": [
+   "ev:sinking-of-titanic"
+  ],
+  "אסון המכרה בקוריאר": [
+   "ev:courrieres-mine-disaster"
+  ],
+  "אסון הצפלין": [
+   "top:accidents",
+   "top:aviation"
+  ],
+  "אסון ימי ליד סמירנה": [
+   "top:accidents"
+  ],
+  "אסון רכבת צבאית בולגרית": [
+   "top:accidents"
+  ],
+  "אסונות וטיטניק": [
+   "ev:sinking-of-titanic"
+  ],
+  "אסונות ומגפות": [
+   "top:disasters-health"
+  ],
+  "אסונות ומהפכות": [
+   "top:news-digests"
+  ],
+  "אסונות וסכסוכי עבודה באירופה": [
+   "top:accidents",
+   "top:labour-strikes"
+  ],
+  "אסונות ופיגועים ברוסיה": [
+   "top:accidents",
+   "top:political-violence"
+  ],
+  "אסונות ושריפות": [
+   "top:fires"
+  ],
+  "אסונות ותאונות": [
+   "top:accidents"
+  ],
+  "אסונות טבע": [
+   "top:natural-disasters"
+  ],
+  "אסונות טבע ושריפות": [
+   "top:natural-disasters",
+   "top:fires"
+  ],
+  "אסונות טבע ותאונות": [
+   "top:natural-disasters",
+   "top:accidents"
+  ],
+  "אסונות טיסה": [
+   "top:accidents",
+   "top:aviation"
+  ],
+  "אסונות ימיים": [
+   "top:accidents"
+  ],
+  "אסטרטגיה צבאית": [
+   "top:wwi-eastern-front",
+   "ev:battle-of-lodz-1914"
+  ],
+  "אסימילציה ואמנציפציה": [
+   "top:assimilation-conversion",
+   "top:jewish-rights-emancipation"
+  ],
+  "אסיפה ציונית בקרלסבאד": [
+   "top:zionist-movement"
+  ],
+  "אסיפות מחאה": [
+   "top:cost-of-living"
+  ],
+  "אסיפות מחאה בערי האימפריה העותמאנית": [
+   "top:ottoman-politics"
+  ],
+  "אסירים פוליטיים": [
+   "top:russian-reaction-repression"
+  ],
+  "אפיפיור והקתולים בצרפת": [
+   "top:church-state-france"
+  ],
+  "אפליה בחינוך ברוסיה": [
+   "top:numerus-clausus"
+  ],
+  "אפליה כלכלית ובנק יהודי בסלוניקי": [
+   "top:salonica-jewry"
+  ],
+  "ארגון העם היהודי": [
+   "top:jewish-politics-advocacy"
+  ],
+  "ארגון הצבאי והמלוכה": [
+   "top:balkan-states-politics",
+   "ev:goudi-coup"
+  ],
+  "ארגון קהילות יהודיות באימפריה העותמאנית": [
+   "top:ottoman-jewry"
+  ],
+  "ארגון תנועת הטורקים הצעירים": [
+   "top:young-turk-revolution"
+  ],
+  "ארמון והחצר המרוקאית": [
+   "top:moroccan-internal-politics"
+  ],
+  "אשמות בעיתונות": [
+   "top:salonica-jewry",
+   "top:press-opinion-polemics"
+  ],
+  "אשמת יהודים ומסונים": [
+   "ev:assassination-george-i",
+   "top:salonica-jewry"
+  ],
+  "אתרוג קורפו מול אתרוג ארץ ישראל": [
+   "top:jewish-religious-life"
+  ],
+  "בדיחות כמקור הכנסה": [
+   "top:russian-polish-jewry",
+   "top:satire-humour"
+  ],
+  "בהלה בבורסה וקופות חיסכון": [
+   "top:finance-banking",
+   "ev:agadir-crisis"
+  ],
+  "בולגריה והבלקן": [
+   "top:wwi-balkan-fronts"
+  ],
+  "בולגריה והמעצמות המרכזיות": [
+   "top:wwi-balkan-fronts"
+  ],
+  "בוסניה והרצגובינה": [
+   "top:austria-hungary-balkans"
+  ],
+  "בורגנות ופרולטריון יהודי": [
+   "top:literature-serials",
+   "top:jewish-economic-life"
+  ],
+  "בורות ופיגור בעיני הכותב": [
+   "top:moroccan-jews",
+   "top:epidemics"
+  ],
+  "בורסה והון יהודי": [
+   "top:antisemitism-politics-press"
+  ],
+  "בחירות באוסטריה": [
+   "top:austro-hungarian-domestic-politics"
+  ],
+  "בחירות באוסטריה ואנטישמיות": [
+   "top:austro-hungarian-domestic-politics",
+   "top:antisemitism-politics-press"
+  ],
+  "בחירות באמריקה": [
+   "top:americas-politics"
+  ],
+  "בחירות באנגליה": [
+   "top:british-domestic-politics"
+  ],
+  "בחירות בטורקיה": [
+   "top:ottoman-politics"
+  ],
+  "בחירות בתורכיה": [
+   "top:ottoman-politics"
+  ],
+  "בחירות ודמוקרטיה בארגון יהודי": [
+   "top:alliance-israelite-schools"
+  ],
+  "בחירות יהודיות באודסה": [
+   "ev:russian-election-1912"
+  ],
+  "בחירות לאסיפה המכוננת": [
+   "top:russian-revolution-1917"
+  ],
+  "בחירות לדומא": [
+   "top:state-duma"
+  ],
+  "בחירות לדומא ומועמדים יהודים": [
+   "ev:russian-election-1912"
+  ],
+  "בחירות לדומה": [
+   "top:state-duma"
+  ],
+  "בחירות לדומה ברוסיה": [
+   "ev:russian-election-1912"
+  ],
+  "בחירות לדומה הממלכתית": [
+   "top:state-duma"
+  ],
+  "בחירות לדומה הרוסית": [
+   "top:state-duma"
+  ],
+  "בחירות לדומה ושוויון זכויות ליהודים": [
+   "ev:russian-election-1907-jan",
+   "top:jewish-rights-emancipation"
+  ],
+  "בחירות לפרלמנט העותמאני": [
+   "top:ottoman-politics"
+  ],
+  "בחירות לרייכסטאג": [
+   "top:german-domestic-politics"
+  ],
+  "בחירות עירוניות בירושלים": [
+   "top:ottoman-palestine"
+  ],
+  "בחירות רבנים": [
+   "top:chief-rabbinate"
+  ],
+  "בחירת רב בקובנה": [
+   "top:chief-rabbinate",
+   "top:russian-polish-jewry"
+  ],
+  "בחירת רב ראשי בצרפת": [
+   "top:chief-rabbinate"
+  ],
+  "בידוד יוון": [
+   "top:wwi-balkan-fronts"
+  ],
+  "ביוגרפיה של שר המלחמה הצרפתי": [
+   "ev:paris-madrid-air-race"
+  ],
+  "ביורוקרטיה רוסית ומיסוי הקורובקה": [
+   "top:russian-polish-jewry"
+  ],
+  "ביטול הסגר רפואי טורקי": [
+   "top:epidemics"
+  ],
+  "ביטול הקפיטולציות ומסים על זרים בטורקיה": [
+   "top:ottoman-foreign-relations"
+  ],
+  "ביטול עונש המוות": [
+   "top:death-penalty-punishment"
+  ],
+  "ביטול תחום המושב": [
+   "top:anti-jewish-restrictions-russia"
+  ],
+  "ביטחון האירופים בטנגיר": [
+   "top:moroccan-tribal-revolts"
+  ],
+  "ביטחון ופשיעה בסלוניקי": [
+   "top:crime-robbery"
+  ],
+  "ביצורים אמריקאיים בתעלת פנמה": [
+   "top:railways-shipping"
+  ],
+  "ביקור אמיר בוכרה": [
+   "top:royal-visits-summits"
+  ],
+  "ביקור החכם באשי בארץ ישראל": [
+   "top:chief-rabbinate"
+  ],
+  "ביקור הסולטאן בבלקן": [
+   "top:ottoman-politics"
+  ],
+  "ביקור הסולטאן בגליפולי וסלוניקי": [
+   "top:ottoman-politics"
+  ],
+  "ביקור הסולטאן במקדוניה": [
+   "top:ottoman-politics"
+  ],
+  "ביקור הסולטאן בסלוניקי": [
+   "top:ottoman-politics"
+  ],
+  "ביקור הצאר באנגליה": [
+   "top:royal-visits-summits"
+  ],
+  "ביקור הצאר בקישינב": [
+   "top:russian-government"
+  ],
+  "ביקור הקייזר באנגליה": [
+   "top:royal-visits-summits"
+  ],
+  "ביקור הקייזר וילהלם במרוקו": [
+   "ev:kaiser-visit-tangier"
+  ],
+  "ביקור הקיסר הרוסי בקיוב": [
+   "top:russian-government"
+  ],
+  "ביקור מלך בולגריה ברוסיה": [
+   "top:royal-visits-summits"
+  ],
+  "ביקור מלך ספרד בפריז": [
+   "top:royal-visits-summits"
+  ],
+  "ביקור מלך סרביה": [
+   "top:royal-visits-summits"
+  ],
+  "ביקור נשיא צרפת באנגליה": [
+   "top:royal-visits-summits"
+  ],
+  "ביקור צרפתי ברוסיה": [
+   "top:royal-visits-summits"
+  ],
+  "ביקורי מלכי הבלקן ברוסיה": [
+   "top:royal-visits-summits"
+  ],
+  "ביקורי מלכים ויחסים בין מעצמות": [
+   "top:royal-visits-summits"
+  ],
+  "ביקורי שליטים באירופה": [
+   "top:royal-visits-summits"
+  ],
+  "ביקורת ספרותית ודרמה": [
+   "top:literature-serials"
+  ],
+  "ביקורת על ההנהגה הציונית": [
+   "top:zionist-movement"
+  ],
+  "ביקורת על המשטרה הצרפתית": [
+   "top:french-domestic-politics"
+  ],
+  "ביקורת על הנהגה קהילתית": [
+   "top:russian-polish-jewry"
+  ],
+  "ביקורת על הצדקות המלחמה והצביעות": [
+   "top:anti-colonial-critique",
+   "top:italo-turkish-war"
+  ],
+  "ביקורת על הציוויליזציה האירופית": [
+   "top:anti-colonial-critique"
+  ],
+  "ביקורת על ממשלת סטוליפין": [
+   "top:russian-government"
+  ],
+  "ביקורת על פילנתרופיה יהודית": [
+   "top:jewish-philanthropy-relief"
+  ],
+  "ביקורת על שלטון הסולטן": [
+   "top:moroccan-tribal-revolts",
+   "top:moroccan-internal-politics"
+  ],
+  "בירוקרטיה ומשטרה חשאית": [
+   "top:russian-reaction-repression"
+  ],
+  "בלקן ורומניה": [
+   "top:wwi-outbreak-diplomacy"
+  ],
+  "בניית מסילת אמור ברוסיה": [
+   "top:railways-shipping"
+  ],
+  "בניית מסילת ברזל ירושלים–דמשק": [
+   "top:railways-shipping",
+   "top:ottoman-palestine"
+  ],
+  "בניית שכונות ביפו": [
+   "top:yishuv-settlement"
+  ],
+  "בנק הממלכתי של מרוקו והון אירופי": [
+   "top:morocco-international-diplomacy",
+   "top:european-economic-interests-morocco"
+  ],
+  "בנק רוסי טורקי וקשרי מסחר": [
+   "top:finance-banking"
+  ],
+  "בנקאות ויישוב בארץ ישראל": [
+   "top:ottoman-palestine",
+   "top:finance-banking"
+  ],
+  "בנקאות וכלכלה בארץ ישראל": [
+   "top:ottoman-palestine"
+  ],
+  "בעלות פרטית וסוציאליזם": [
+   "top:literature-serials",
+   "top:satire-humour"
+  ],
+  "ברחת נשק": [
+   "top:european-economic-interests-morocco"
+  ],
+  "בריאות הסולטאן הטורקי": [
+   "top:ottoman-politics"
+  ],
+  "בריאות שלום עליכם": [
+   "top:literature-serials"
+  ],
+  "ברית אנגליה צרפת": [
+   "top:alliances-ententes"
+  ],
+  "ברית אנגליה צרפת רוסיה": [
+   "top:alliances-ententes"
+  ],
+  "ברית בריטניה יפן": [
+   "top:alliances-ententes"
+  ],
+  "ברית האנגלו צרפתית": [
+   "top:alliances-ententes"
+  ],
+  "ברית האנגלית צרפתית": [
+   "ev:entente-cordiale"
+  ],
+  "ברית הבלקן": [
+   "ev:balkan-league"
+  ],
+  "ברית הצרפתית רוסית": [
+   "top:alliances-ententes"
+  ],
+  "ברית רוסיה צרפת והסכם רוסי גרמני": [
+   "top:alliances-ententes",
+   "ev:potsdam-agreement-1911"
+  ],
+  "ברית רוסיה–צרפת": [
+   "top:alliances-ententes"
+  ],
+  "בריתות המעצמות": [
+   "top:alliances-ententes"
+  ],
+  "בריתות המעצמות האירופיות": [
+   "top:alliances-ententes"
+  ],
+  "בריתות והאינטרסים של המעצמות": [
+   "top:alliances-ententes"
+  ],
+  "בריתות ומאזן הכוחות באירופה": [
+   "top:alliances-ententes"
+  ],
+  "בריתות צבאיות באירופה": [
+   "top:alliances-ententes"
+  ],
+  "בריתות צרפת באירופה": [
+   "top:alliances-ententes",
+   "top:french-domestic-politics"
+  ],
+  "בתי בושת בשכונה היהודית": [
+   "top:prostitution-trafficking"
+  ],
+  "בתי דין צבאיים": [
+   "top:russian-reaction-repression"
+  ],
+  "בתי דין צבאיים שדה": [
+   "top:russian-reaction-repression"
+  ],
+  "בתי כלא ובריחת אסירים": [
+   "top:death-penalty-punishment"
+  ],
+  "גאפון": [
+   "top:russian-revolution-1905"
+  ],
+  "גבורת חיילים יהודים": [
+   "top:wwi-jews"
+  ],
+  "גבלות חדשות על יהודים ברוסיה": [
+   "top:anti-jewish-restrictions-russia"
+  ],
+  "גבלות מגורים": [
+   "top:anti-jewish-restrictions-russia"
+  ],
+  "גבלות על אופים יהודים ברוסיה": [
+   "top:anti-jewish-restrictions-russia"
+  ],
+  "גבלות על יהודי רוסיה": [
+   "top:anti-jewish-restrictions-russia"
+  ],
+  "גבלות על יהודים בבעלות על נכסי דלא ניידי": [
+   "top:anti-jewish-restrictions-russia"
+  ],
+  "גבלות על יהודים בחינוך": [
+   "top:numerus-clausus"
+  ],
+  "גבלות על יהודים במקצועות ובצבא": [
+   "top:anti-jewish-restrictions-russia",
+   "top:jews-in-military"
+  ],
+  "גבלות על יהודים ברוסיה": [
+   "top:anti-jewish-restrictions-russia"
+  ],
+  "גבלות על סוחרים יהודים": [
+   "top:anti-jewish-restrictions-russia"
+  ],
+  "גבלות על סוחרים יהודים במוסקווה": [
+   "top:anti-jewish-restrictions-russia"
+  ],
+  "גבלות על סטודנטים יהודים ברוסיה": [
+   "top:numerus-clausus"
+  ],
+  "גבלות על קבלת יהודים להשכלה גבוהה": [
+   "top:numerus-clausus"
+  ],
+  "גבלות על תלמידים יהודים": [
+   "top:numerus-clausus"
+  ],
+  "גבלות תחום המושב על יהודים": [
+   "top:anti-jewish-restrictions-russia"
+  ],
+  "גבלת אסיפות בשפות זרות בגרמניה ונגד הפולנים": [
+   "top:german-domestic-politics"
+  ],
+  "גבלת הגירת פועלים יפנים": [
+   "top:immigration-restrictions"
+  ],
+  "גבלת ההגירה היהודית לפלשתינה": [
+   "top:immigration-restrictions",
+   "top:ottoman-palestine"
+  ],
+  "גדלת הצי והמסים": [
+   "top:german-domestic-politics",
+   "top:anglo-german-rivalry"
+  ],
+  "גורל היהודים בגלות": [
+   "top:antisemitism-politics-press",
+   "top:salonica-jewry"
+  ],
+  "גורל הסולטאן": [
+   "ev:deposition-abdul-hamid"
+  ],
+  "גורל סלוניקי לאחר מלחמות הבלקן": [
+   "top:balkan-wars"
+  ],
+  "גוש השמאל": [
+   "top:french-domestic-politics"
+  ],
+  "גזירות ואיסורי מגורים": [
+   "top:anti-jewish-restrictions-russia"
+  ],
+  "גזירות ומגבלות נגד יהודים ברוסיה": [
+   "top:anti-jewish-restrictions-russia"
+  ],
+  "גזירות על יהודים בקייב": [
+   "top:anti-jewish-restrictions-russia"
+  ],
+  "גטו היהודי": [
+   "top:moroccan-jews",
+   "ev:siege-of-fez-1911"
+  ],
+  "גיהאד": [
+   "top:moroccan-tribal-revolts"
+  ],
+  "גיוס במונטנגרו ותסיסה בטורקיה": [
+   "top:ottoman-foreign-relations",
+   "ev:albanian-revolt-1911"
+  ],
+  "גיוס ומוכנות למלחמה": [
+   "top:wwi-outbreak-diplomacy"
+  ],
+  "גיוס ושירות צבאי של יהודים בתורכיה": [
+   "top:jews-in-military",
+   "top:wwi-jews"
+  ],
+  "גיוס יהודים לצבא העותמאני": [
+   "top:jews-in-military",
+   "top:wwi-jews"
+  ],
+  "גיוס כללי ושוויון בין הלאומים": [
+   "top:ottoman-military",
+   "top:ottoman-nationalities"
+  ],
+  "גיוס כספים ציוני": [
+   "top:zionist-movement"
+  ],
+  "גיוס כפוי": [
+   "ev:national-schism"
+  ],
+  "גיוס כפוי לצבא העותמאני": [
+   "top:ottoman-military",
+   "top:wwi-home-front"
+  ],
+  "גיוס לצבא": [
+   "top:militarism-conscription"
+  ],
+  "גיוס לצבא הרוסי": [
+   "top:militarism-conscription"
+  ],
+  "גיוס מתנדבים בסלוניקי ובמקדוניה": [
+   "ev:31-march-incident"
+  ],
+  "גיוס צבא טורקיה": [
+   "top:ottoman-military"
+  ],
+  "גיוס צבאי": [
+   "top:wwi-outbreak-diplomacy"
+  ],
+  "גיוס צבאי ביוון": [
+   "top:wwi-outbreak-diplomacy"
+  ],
+  "גירה והגבלות עליה": [
+   "top:immigration-restrictions"
+  ],
+  "גירה והתיישבות באמריקה": [
+   "top:jewish-emigration-americas"
+  ],
+  "גירה והתיישבות יהודית": [
+   "top:migration"
+  ],
+  "גירה יהודית": [
+   "top:migration"
+  ],
+  "גירה יהודית לאמריקה": [
+   "top:jewish-emigration-americas"
+  ],
+  "גירה יהודית לגלווסטון": [
+   "ev:galveston-movement"
+  ],
+  "גירה יהודית ללונדון": [
+   "top:migration",
+   "top:western-jewry"
+  ],
+  "גירה יהודית ממזרח אירופה": [
+   "top:migration"
+  ],
+  "גירה יפנית לקנדה": [
+   "top:immigration-restrictions"
+  ],
+  "גירה לאמריקה": [
+   "top:jewish-emigration-americas"
+  ],
+  "גירה לארצות הברית": [
+   "top:jewish-emigration-americas"
+  ],
+  "גירוש בעלי מלאכה יהודים": [
+   "top:expulsions-of-jews"
+  ],
+  "גירוש יהודים": [
+   "top:expulsions-of-jews"
+  ],
+  "גירוש יהודים ברומניה": [
+   "top:expulsions-of-jews"
+  ],
+  "גירוש יהודים ברוסיה": [
+   "top:expulsions-of-jews"
+  ],
+  "גירוש יהודים מגרמניה": [
+   "top:expulsions-of-jews"
+  ],
+  "גירוש יהודים ממוסקבה": [
+   "top:expulsions-of-jews"
+  ],
+  "גירוש יהודים מקיוב": [
+   "top:expulsions-of-jews"
+  ],
+  "גירוש יהודים מקייב": [
+   "top:expulsions-of-jews"
+  ],
+  "גירוש יהודים מקראצי": [
+   "top:expulsions-of-jews"
+  ],
+  "גירוש יהודים מריאזאן": [
+   "top:expulsions-of-jews"
+  ],
+  "גירוש יהודים רוסים מברלין": [
+   "top:expulsions-of-jews"
+  ],
+  "גירוש יהודים רוסים מפרוסיה": [
+   "top:expulsions-of-jews"
+  ],
+  "גירוש נתינים רוסים": [
+   "top:expulsions-of-jews",
+   "top:wwi-jews"
+  ],
+  "גירוש סוחרים יהודים מסלוניקי": [
+   "top:expulsions-of-jews",
+   "top:salonica-jewry"
+  ],
+  "גירוש ספרד 1492 ותקוות התקרבות": [
+   "top:jewish-history-memory",
+   "top:sephardi-mizrahi-jewry"
+  ],
+  "גירושי יהודים ברוסיה": [
+   "top:expulsions-of-jews"
+  ],
+  "גירת יהודי מרוקו לספרד": [
+   "top:moroccan-jews"
+  ],
+  "גירת יהודים": [
+   "top:migration"
+  ],
+  "גירת יהודים לספרד ואזרחות ספרדית": [
+   "top:sephardi-mizrahi-jewry"
+  ],
+  "גירת יהודים מאזורים כבושים לאמריקה": [
+   "top:wwi-jews",
+   "top:jewish-emigration-americas"
+  ],
+  "גירת יהודים מרוסיה לקנדה": [
+   "top:jewish-emigration-americas"
+  ],
+  "גירת רב מסלוניקי לירושלים": [
+   "top:chief-rabbinate"
+  ],
+  "גל חום באירופה": [
+   "top:natural-disasters"
+  ],
+  "גל חום באמריקה הצפונית": [
+   "top:natural-disasters"
+  ],
+  "גלות ושפות יהודיות": [
+   "top:jewish-languages"
+  ],
+  "גלות שליטים לשעבר": [
+   "top:french-colonial-empire",
+   "top:moroccan-internal-politics"
+  ],
+  "גמאל פאשה והיהודים": [
+   "top:wwi-jews"
+  ],
+  "גמלים ומדבר": [
+   "top:ethnography-orient"
+  ],
+  "גנה על יהודי מרוקו מפני פוגרומים": [
+   "top:moroccan-jews"
+  ],
+  "גנה על יהודים בקזבלנקה": [
+   "ev:casablanca-mellah-pogrom-1907"
+  ],
+  "גניבה בעומר מסגד בירושלים": [
+   "top:science-archaeology",
+   "top:ottoman-palestine"
+  ],
+  "גרלת טיול לארץ ישראל": [
+   "top:ads-notices"
+  ],
+  "גרלת קופונים לנסיעה לארץ ישראל": [
+   "top:ads-notices"
+  ],
+  "דו קרב ואלימות": [
+   "top:satire-humour",
+   "top:italo-turkish-war"
+  ],
+  "דו קרב ועיתונאות": [
+   "top:press-opinion-polemics"
+  ],
+  "דואר הרוסי בטורקיה": [
+   "top:ottoman-foreign-relations"
+  ],
+  "דוח שנתי של האליאנס": [
+   "top:alliance-israelite-schools"
+  ],
+  "דומא הראשונה ורדיפות חבריה": [
+   "ev:first-duma"
+  ],
+  "דומא הרוסית": [
+   "top:state-duma"
+  ],
+  "דומה הממלכתית הרוסית": [
+   "top:state-duma"
+  ],
+  "דומה הממלכתית השנייה": [
+   "ev:second-duma"
+  ],
+  "דומה הרוסית": [
+   "top:state-duma"
+  ],
+  "דומה והמהפכה ברוסיה": [
+   "top:russian-revolution-1905"
+  ],
+  "דומה והקדטים": [
+   "ev:russian-election-1906"
+  ],
+  "דומה ורפורמה בחינוך ברוסיה": [
+   "top:state-duma",
+   "top:russian-government"
+  ],
+  "דחת הסולטאן עבד אל חמיד והעמדתו למשפט": [
+   "ev:deposition-abdul-hamid"
+  ],
+  "דחת הסולטן עבד אל חמיד": [
+   "ev:deposition-abdul-hamid"
+  ],
+  "דחת עבדול חמיד והשגחה עליו": [
+   "ev:deposition-abdul-hamid"
+  ],
+  "דיווחי חזיתות": [
+   "top:wwi"
+  ],
+  "דיווחי חזיתות במלחמת העולם הראשונה": [
+   "top:wwi"
+  ],
+  "דיוני הדומה": [
+   "top:state-duma"
+  ],
+  "דיוני הרייכסטאג": [
+   "top:german-domestic-politics"
+  ],
+  "דיוני פרלמנט": [
+   "top:french-domestic-politics"
+  ],
+  "דיכוי אלים של הפגנה": [
+   "top:russian-revolution-1905"
+  ],
+  "דיכוי העותמאני": [
+   "top:macedonian-question"
+  ],
+  "דיכוי הרוסי בפרס": [
+   "top:foreign-intervention-persia"
+  ],
+  "דיכוי התנגדות אלבנית": [
+   "top:albanian-question"
+  ],
+  "דיכוי והוצאות להורג בפרסיה": [
+   "top:persian-revolution"
+  ],
+  "דיכוי פוליטי באימפריה הרוסית": [
+   "top:russian-reaction-repression"
+  ],
+  "דיכוי פינלנד": [
+   "top:russian-nationalities"
+  ],
+  "דיכוי תנועת החירות הרוסית": [
+   "top:russian-reaction-repression"
+  ],
+  "דימויים של עמים באימפריה העותמאנית": [
+   "top:ethnography-orient"
+  ],
+  "דיפלומטיה": [
+   "ev:romania-enters-wwi"
+  ],
+  "דיפלומטיה אירופית": [
+   "top:great-power-diplomacy",
+   "top:franco-german-rivalry-morocco"
+  ],
+  "דיפלומטיה אירופית ואינטרסים קולוניאליים": [
+   "top:colonial-rivalry"
+  ],
+  "דיפלומטיה אירופית וברית משולשת": [
+   "top:alliances-ententes"
+  ],
+  "דיפלומטיה אירופית ומתיחות אוסטרית רוסית": [
+   "top:austria-hungary-balkans"
+  ],
+  "דיפלומטיה אירופית וצביעותה": [
+   "ev:algeciras-conference",
+   "top:moroccan-jews"
+  ],
+  "דיפלומטיה בולגרית גרמנית בראשית מלחמת העולם הראשונה": [
+   "top:wwi-outbreak-diplomacy"
+  ],
+  "דיפלומטיה בין המעצמות": [
+   "ev:agadir-crisis"
+  ],
+  "דיפלומטיה בין מעצמתית": [
+   "ev:agadir-crisis"
+  ],
+  "דיפלומטיה בין צרפת לגרמניה": [
+   "ev:agadir-crisis"
+  ],
+  "דיפלומטיה בינלאומית": [
+   "ev:agadir-crisis",
+   "top:alliances-ententes"
+  ],
+  "דיפלומטיה בריטית": [
+   "top:alliances-ententes",
+   "top:franco-german-rivalry-morocco"
+  ],
+  "דיפלומטיה גרמנית בבלקן": [
+   "top:wwi-outbreak-diplomacy"
+  ],
+  "דיפלומטיה האירופית": [
+   "ev:agadir-crisis"
+  ],
+  "דיפלומטיה האירופית והשאלה המרוקאית": [
+   "top:morocco-international-diplomacy"
+  ],
+  "דיפלומטיה והסכמים": [
+   "top:balkan-wars"
+  ],
+  "דיפלומטיה ומלחמה": [
+   "ev:agadir-crisis",
+   "top:satire-humour"
+  ],
+  "דיפלומטיה ושלום": [
+   "top:wwi-outbreak-diplomacy"
+  ],
+  "דיפלומטיה עותמאנית ומוסלמית": [
+   "top:ottoman-foreign-relations",
+   "top:pan-islamism"
+  ],
+  "דיפלומטיה פרסית וגרמנית": [
+   "top:wwi-outbreak-diplomacy"
+  ],
+  "דיפלומטיה צרפתית": [
+   "top:morocco-international-diplomacy"
+  ],
+  "דיפלומטיה צרפתית במרוקו": [
+   "top:morocco-international-diplomacy"
+  ],
+  "דיפלומטיה צרפתית גרמנית": [
+   "ev:first-moroccan-crisis"
+  ],
+  "דיפלומטיה צרפתית ומדיניות במרוקו": [
+   "ev:first-moroccan-crisis"
+  ],
+  "דיפלומטיה צרפתית מרוקאית": [
+   "top:morocco-international-diplomacy"
+  ],
+  "דיפלומטיה רוסית ואוסטרית": [
+   "top:austria-hungary-balkans"
+  ],
+  "דיפלומטיה רוסית צרפתית גרמנית": [
+   "ev:agadir-crisis",
+   "top:alliances-ententes"
+  ],
+  "דיפלומטיה של המעצמות": [
+   "top:great-power-diplomacy",
+   "top:balkan-wars"
+  ],
+  "דיפלומטיה של מעצמות בתחילת מלחמת העולם הראשונה": [
+   "top:wwi-outbreak-diplomacy"
+  ],
+  "דעת הקהל והעיתונות הצרפתית": [
+   "top:press-opinion-polemics",
+   "ev:agadir-crisis"
+  ],
+  "דעת קהל ופרלמנט בבריטניה": [
+   "top:british-domestic-politics",
+   "top:franco-german-rivalry-morocco"
+  ],
+  "דפוס היסטורי של קבלת יהודים וגירושם בגולה": [
+   "top:jewish-history-memory"
+  ],
+  "דרדנלים": [
+   "ev:dardanelles-1912"
+  ],
+  "דרישה לחוקה באימפריה העותמאנית": [
+   "ev:young-turk-revolution"
+  ],
+  "דרישה לחוקה בצרפת": [
+   "top:news-digests"
+  ],
+  "דרישות איטליה": [
+   "top:italo-turkish-war-diplomacy"
+  ],
+  "דרכונים אנגליים ברוסיה": [
+   "top:jewish-rights-emancipation"
+  ],
+  "דרת יהודים מרשימות הבוחרים לדומא": [
+   "ev:russian-election-1912",
+   "top:anti-jewish-restrictions-russia"
+  ],
+  "דרת סטודנטיות יהודיות": [
+   "top:numerus-clausus"
+  ],
+  "הסכם הצרפתי גרמני בעניין מרוקו וקונגו": [
+   "ev:morocco-congo-treaty"
+  ],
+  "הסכם הרוסי גרמני בעניין פרס": [
+   "ev:potsdam-agreement-1911"
+  ],
+  "הפיכה הנגדית באימפריה העותמאנית 1909": [
+   "ev:31-march-incident"
+  ],
+  "הפיכה הנגדית באפריל 1909 באימפריה העותמאנית": [
+   "ev:31-march-incident"
+  ],
+  "התמודדות עם הבולגרים והיוונים": [
+   "top:ottoman-nationalities"
+  ],
+  "התקוממות באלבניה": [
+   "ev:albanian-revolt-1912"
+  ],
+  "וועד הטורקי הצעיר והסולטאן": [
+   "top:young-turk-revolution"
+  ],
+  "וועד הצעיר טורקי": [
+   "top:young-turk-revolution"
+  ],
+  "וועידה הבינלאומית בעניין מרוקו": [
+   "ev:algeciras-conference"
+  ],
+  "וועידה על מרוקו וסכסוכים בינלאומיים": [
+   "ev:first-moroccan-crisis",
+   "ev:algeciras-conference"
+  ],
+  "ויכוחי מרוקו בפרלמנט הגרמני": [
+   "top:german-domestic-politics",
+   "ev:morocco-congo-treaty"
+  ],
+  "ומור וסאטירה": [
+   "top:satire-humour"
+  ],
+  "ומור וסאטירה חברתית": [
+   "top:satire-humour"
+  ],
+  "ונאה וגניבה": [
+   "top:literature-serials"
+  ],
+  "ונאות": [
+   "top:crime-robbery"
+  ],
+  "ונאות כשרות וסחר באתרוגים": [
+   "top:jewish-religious-life"
+  ],
+  "וספה ספרותית לעיתון": [
+   "top:literature-serials"
+  ],
+  "ועדות הדומה ופינלנד": [
+   "top:russian-nationalities",
+   "top:state-duma"
+  ],
+  "ועידה בינלאומית": [
+   "ev:agadir-crisis"
+  ],
+  "ועידה בינלאומית בעניין מרוקו": [
+   "ev:algeciras-conference"
+  ],
+  "ועידה בינלאומית על רפורמות במרוקו": [
+   "ev:algeciras-conference",
+   "ev:first-moroccan-crisis"
+  ],
+  "ועידת אלגזיראס": [
+   "ev:algeciras-conference"
+  ],
+  "ועידת אלזסיראס והשאלה המרוקאית": [
+   "ev:algeciras-conference"
+  ],
+  "ועידת אלחסיראס": [
+   "ev:algeciras-conference"
+  ],
+  "ועידת אלחסיראס והשאלה המרוקאית": [
+   "ev:algeciras-conference"
+  ],
+  "ועידת אלחסיראס ומרוקו": [
+   "ev:algeciras-conference"
+  ],
+  "ועידת אלחסיראס ומשטרת מרוקו": [
+   "ev:algeciras-conference"
+  ],
+  "ועידת אלחסירס": [
+   "top:morocco-international-diplomacy"
+  ],
+  "ועידת אלחסירס ותוכנית המשטרה": [
+   "top:morocco-international-diplomacy"
+  ],
+  "ועידת האג והשלום העולמי": [
+   "top:peace-movement-arbitration"
+  ],
+  "ועידת המפלגה ביינה": [
+   "top:socialism"
+  ],
+  "ועידת המפלגה הסוציאל דמוקרטית הגרמנית": [
+   "top:socialism"
+  ],
+  "ועידת השלום בהאג והגבלת החימוש": [
+   "ev:hague-conference-1907"
+  ],
+  "ועידת השלום בפורטסמות": [
+   "ev:treaty-of-portsmouth"
+  ],
+  "ועידת מרוקו והדיפלומטיה האירופית": [
+   "ev:algeciras-conference"
+  ],
+  "וצאה להורג בסלוניקי": [
+   "top:death-penalty-punishment"
+  ],
+  "וצאה להורג של דרוזים בדמשק": [
+   "ev:hauran-druze-rebellion",
+   "top:death-penalty-punishment"
+  ],
+  "וצאות בגדים של בית מלוכה": [
+   "top:news-digests"
+  ],
+  "וראת עברית וגני ילדים": [
+   "top:jewish-languages",
+   "top:jewish-education"
+  ],
+  "זיוף הכשרים": [
+   "top:jewish-religious-life"
+  ],
+  "זיוף מכתב ותעמולה בעיתונות": [
+   "top:press-opinion-polemics"
+  ],
+  "זיכיונות כלכליים": [
+   "top:european-economic-interests-morocco",
+   "ev:agadir-crisis"
+  ],
+  "זיכרון היסטורי ופולמוס יהודי": [
+   "top:blood-libels",
+   "top:jewish-history-memory"
+  ],
+  "זכויות אזרח וחופש הדת": [
+   "ev:young-turk-revolution"
+  ],
+  "זכויות אזרח ליהודי רומניה": [
+   "top:jewish-rights-emancipation"
+  ],
+  "זכויות אזרחיות ולאומיות של יהודי תורכיה": [
+   "top:ottoman-jewry"
+  ],
+  "זכויות אזרחיות ושוויון": [
+   "top:jewish-rights-emancipation"
+  ],
+  "זכויות יהודי מרוקו תחת שלטון ספרדי": [
+   "top:moroccan-jews",
+   "top:spanish-intervention-morocco"
+  ],
+  "זכויות יהודים ביריד": [
+   "top:anti-jewish-restrictions-russia"
+  ],
+  "זכויות יהודים ברוסיה": [
+   "top:jewish-rights-emancipation"
+  ],
+  "זכויות יהודים ושוויון אזרחי": [
+   "top:jewish-rights-emancipation"
+  ],
+  "זכויות לאומיות באימפריה העותמאנית": [
+   "top:ottoman-nationalities"
+  ],
+  "זכויות מגורים ומסחר של יהודים באודסה": [
+   "top:anti-jewish-restrictions-russia"
+  ],
+  "זכויות מגורים ליהודים": [
+   "top:anti-jewish-restrictions-russia"
+  ],
+  "זכויות נשים": [
+   "top:women-family"
+  ],
+  "זכויות פוליטיות של יהודים": [
+   "top:jewish-rights-emancipation",
+   "top:western-jewry"
+  ],
+  "זכות בחירה בפרוסיה": [
+   "top:german-domestic-politics"
+  ],
+  "זכות בחירה כללית באוסטריה": [
+   "top:austro-hungarian-domestic-politics"
+  ],
+  "זכות בחירה כללית בפרוסיה": [
+   "top:german-domestic-politics"
+  ],
+  "זכות בחירה לנשים": [
+   "top:women-family"
+  ],
+  "זכרו של משה מונטיפיורי": [
+   "top:jewish-history-memory"
+  ],
+  "זמנת יהודים להתיישב בפרס": [
+   "top:salonica-jewry",
+   "top:migration"
+  ],
+  "זנות וסחר בנשים בלונדון": [
+   "top:prostitution-trafficking"
+  ],
+  "חברא קדישא וכסף": [
+   "top:russian-polish-jewry"
+  ],
+  "חברה גבוהה ואמנים": [
+   "top:arts-entertainment"
+  ],
+  "חברות קולוניזציה בעלות זיכיון": [
+   "top:ottoman-palestine",
+   "top:yishuv-settlement"
+  ],
+  "חג הקורבן": [
+   "top:muslim-religious-life"
+  ],
+  "חג השבועות בירושלים": [
+   "top:jewish-religious-life"
+  ],
+  "חגיגות במוסקבה וביקור פואנקרה": [
+   "top:royal-visits-summits",
+   "top:commemorations"
+  ],
+  "חדרים ומלמדים": [
+   "top:jewish-education"
+  ],
+  "חדשות אחרונות": [
+   "top:news-digests"
+  ],
+  "חדשות בינלאומיות קצרות": [
+   "top:news-digests"
+  ],
+  "חדשות בינלאומיות שונות": [
+   "top:news-digests"
+  ],
+  "חדשות הדומה הרוסית": [
+   "top:state-duma"
+  ],
+  "חדשות הקהילות היהודיות בעולם": [
+   "top:jewish-communities",
+   "top:news-digests"
+  ],
+  "חדשות ורשה": [
+   "top:news-digests"
+  ],
+  "חדשות טלגרפיות": [
+   "top:news-digests"
+  ],
+  "חדשות טלגרפיות כלליות": [
+   "top:news-digests"
+  ],
+  "חדשות טלגרפיות מגוונות": [
+   "top:news-digests"
+  ],
+  "חדשות טלגרפיות מהעולם": [
+   "top:news-digests"
+  ],
+  "חדשות טלגרפיות מרוסיה והעולם": [
+   "top:news-digests"
+  ],
+  "חדשות יהודיות": [
+   "top:news-digests",
+   "top:jewish-communities"
+  ],
+  "חדשות יהודיות מהעולם": [
+   "top:news-digests",
+   "top:jewish-communities"
+  ],
+  "חדשות יהודיות מחול": [
+   "top:news-digests",
+   "top:jewish-communities"
+  ],
+  "חדשות יהודיות מרוסיה": [
+   "top:news-digests",
+   "top:russian-polish-jewry"
+  ],
+  "חדשות כלליות ויהודיות": [
+   "top:news-digests"
+  ],
+  "חדשות כלליות ומקומיות": [
+   "top:news-digests"
+  ],
+  "חדשות מברקים": [
+   "top:news-digests"
+  ],
+  "חדשות מברקים מהאימפריה העותמאנית": [
+   "top:news-digests",
+   "top:ottoman-empire"
+  ],
+  "חדשות מגוונות וקצרות": [
+   "top:news-digests"
+  ],
+  "חדשות מהעולם וטלגרמות": [
+   "top:news-digests"
+  ],
+  "חדשות מקומיות באודסה במלחמת העולם הראשונה": [
+   "top:wwi-home-front"
+  ],
+  "חדשות מקוצרות": [
+   "top:news-digests"
+  ],
+  "חדשות מרוסיה": [
+   "top:news-digests"
+  ],
+  "חדשות פשע ברוסיה": [
+   "top:crime-robbery"
+  ],
+  "חדשות פשע ומשפטים ברוסיה": [
+   "top:crime-robbery",
+   "top:trials"
+  ],
+  "חדשות קצרות": [
+   "top:news-digests"
+  ],
+  "חדשות קצרות מהעולם": [
+   "top:news-digests"
+  ],
+  "חדשות קצרות ממברקים": [
+   "top:news-digests"
+  ],
+  "חדשות קצרות מרוסיה": [
+   "top:news-digests"
+  ],
+  "חדשות רוסיה": [
+   "top:news-digests"
+  ],
+  "חדשות רוסיה ופולין": [
+   "top:news-digests"
+  ],
+  "חובות מרוקו לבנקאים אירופיים": [
+   "top:european-economic-interests-morocco"
+  ],
+  "חופש אקדמי": [
+   "top:students-universities"
+  ],
+  "חופש דת": [
+   "top:state-duma"
+  ],
+  "חופש המצפון בדומה": [
+   "top:state-duma"
+  ],
+  "חופש העיתונות ורדיפת עיתונים": [
+   "top:press-censorship"
+  ],
+  "חוק הבחירות בפרוסיה": [
+   "top:german-domestic-politics"
+  ],
+  "חוק הבחירות הפרוסי": [
+   "top:german-domestic-politics"
+  ],
+  "חוק הזרים באנגליה והגירת יהודים": [
+   "ev:aliens-act-1905"
+  ],
+  "חוק העיתונות העותמאני": [
+   "top:press-censorship",
+   "top:ottoman-politics"
+  ],
+  "חוק יום ראשון ושמירת שבת באנגליה": [
+   "top:jewish-religious-life",
+   "top:western-jewry"
+  ],
+  "חוקה בפרס": [
+   "top:persian-revolution"
+  ],
+  "חוקה העותמאנית": [
+   "ev:young-turk-revolution"
+  ],
+  "חוקה ופרלמנטריזם באימפריה העותמאנית": [
+   "top:young-turk-revolution"
+  ],
+  "חוקי בחירות ברוסיה": [
+   "top:state-duma"
+  ],
+  "חוקים נגד יהודים בפינלנד": [
+   "top:anti-jewish-restrictions-russia"
+  ],
+  "חוקת אלזס לורין": [
+   "top:german-domestic-politics",
+   "top:franco-german-relations"
+  ],
+  "חזית האיטלקית": [
+   "top:wwi-western-italian-fronts"
+  ],
+  "חזית הבלקנית": [
+   "top:wwi-balkan-fronts"
+  ],
+  "חזית המזרחית": [
+   "top:wwi-eastern-front"
+  ],
+  "חזית המזרחית בפולין": [
+   "top:wwi-eastern-front"
+  ],
+  "חזית המזרחית וכיבוש צרנוביץ": [
+   "top:wwi-eastern-front"
+  ],
+  "חזית המקדונית": [
+   "ev:macedonian-front"
+  ],
+  "חזית הסרבית": [
+   "top:wwi-balkan-fronts"
+  ],
+  "חזית העותמאנית בקווקז ובתעלת סואץ": [
+   "top:wwi-ottoman-fronts"
+  ],
+  "חזית העותמאנית ומצרים": [
+   "top:wwi-ottoman-fronts"
+  ],
+  "חזית הקווקזית": [
+   "top:wwi-ottoman-fronts"
+  ],
+  "חזית הרומנית": [
+   "ev:romania-enters-wwi"
+  ],
+  "חזית הרומנית במלחמת העולם הראשונה": [
+   "ev:romania-enters-wwi"
+  ],
+  "חזית הרוסית": [
+   "top:wwi-eastern-front"
+  ],
+  "חזית סלוניקי": [
+   "ev:macedonian-front"
+  ],
+  "חזית של סלוניקי": [
+   "ev:macedonian-front"
+  ],
+  "חטיבות נוער יהודיות באנגליה": [
+   "top:western-jewry"
+  ],
+  "חטיפה ונישואי תערובת בין דתות": [
+   "top:literature-serials",
+   "top:interreligious-relations-orient"
+  ],
+  "חטיפת נשים ונקמה": [
+   "top:literature-serials",
+   "top:ethnography-orient"
+  ],
+  "חטיפת פרופסור גרמני בסלוניקי": [
+   "top:crime-robbery",
+   "top:macedonian-question"
+  ],
+  "חיזוק הצי הטורקי": [
+   "top:ottoman-military"
+  ],
+  "חיי הבדואים": [
+   "top:ethnography-orient"
+  ],
+  "חיי הבורגנות היהודית בוורשה": [
+   "top:russian-polish-jewry"
+  ],
+  "חיי היהודים באימפריה הרוסית": [
+   "top:russian-polish-jewry"
+  ],
+  "חיי היהודים בסלוניקי": [
+   "top:salonica-jewry"
+  ],
+  "חיי היומיום של מולאי חאפיד": [
+   "top:moroccan-internal-politics"
+  ],
+  "חיי המלאח והמצב הכלכלי של היהודים": [
+   "top:moroccan-jews"
+  ],
+  "חיי המסחר היהודי": [
+   "top:jewish-religious-life",
+   "top:jewish-economic-life"
+  ],
+  "חיי הקהילה היהודית באודסה": [
+   "top:russian-polish-jewry"
+  ],
+  "חיי הקהילה היהודית בפולין וברוסיה": [
+   "top:russian-polish-jewry"
+  ],
+  "חיי הקהילות היהודיות הספרדיות": [
+   "top:sephardi-mizrahi-jewry"
+  ],
+  "חיי נופש בבתי מרפא": [
+   "top:daily-life-leisure"
+  ],
+  "חיי קהילה יהודית": [
+   "top:jewish-communities"
+  ],
+  "חיי קהילה יהודית בווארשה": [
+   "top:russian-polish-jewry"
+  ],
+  "חיי תרבות ושפות בקרב הפועלים": [
+   "top:yishuv-settlement"
+  ],
+  "חיילים בלי שכר במרוקו": [
+   "top:moroccan-tribal-revolts"
+  ],
+  "חילול קברים יהודיים": [
+   "top:antisemitism-politics-press"
+  ],
+  "חילוף מלחמת הבלקן והסגר הדוחות הגדולות": [
+   "top:news-digests"
+  ],
+  "חילופי ממשלה": [
+   "ev:31-march-incident"
+  ],
+  "חינוך בנות בגרמניה": [
+   "top:women-family"
+  ],
+  "חינוך היהודי ברוסיה": [
+   "top:jewish-education"
+  ],
+  "חינוך ובתי ספר": [
+   "top:ads-notices"
+  ],
+  "חינוך וטכניקום בחיפה": [
+   "top:jewish-education"
+  ],
+  "חינוך וקהילת סלוניקי": [
+   "top:salonica-jewry",
+   "top:jewish-education"
+  ],
+  "חינוך יהודי": [
+   "top:jewish-education"
+  ],
+  "חינוך יהודי בטורקיה ובארץ ישראל": [
+   "top:jewish-education"
+  ],
+  "חינוך יהודי ובתי ספר": [
+   "top:jewish-education"
+  ],
+  "חינוך יהודי ושפת הוראה": [
+   "top:jewish-education",
+   "top:jewish-languages"
+  ],
+  "חינוך יהודי של האליאנס בסלוניקי": [
+   "top:alliance-israelite-schools",
+   "top:salonica-jewry"
+  ],
+  "חינוך לעיתונאות": [
+   "top:press-culture-science"
+  ],
+  "חינוך מודרני וחוסר מודעות לאומית": [
+   "top:ottoman-jewry"
+  ],
+  "חינוך עברי בארץ ישראל": [
+   "top:jewish-education",
+   "top:yishuv-settlement"
+  ],
+  "חכם באשי בירושלים": [
+   "top:chief-rabbinate"
+  ],
+  "חכם באשי של סלוניקי": [
+   "top:chief-rabbinate"
+  ],
+  "חכם באשי של סלוניקי והציונות": [
+   "top:chief-rabbinate",
+   "top:zionist-movement"
+  ],
+  "חכם באשי של סלוניקי ומינויו בירושלים": [
+   "top:chief-rabbinate"
+  ],
+  "חכם באשי של קושטא וסלוניקי": [
+   "top:chief-rabbinate"
+  ],
+  "חלוקת הירושה של העולם המוסלמי": [
+   "top:colonial-rivalry"
+  ],
+  "חלוקת העולם בין המעצמות": [
+   "top:colonial-rivalry"
+  ],
+  "חלוקת השטחים הטורקיים הכבושים": [
+   "top:balkan-wars"
+  ],
+  "חלוקת מרוקו בין גרמניה לצרפת": [
+   "top:franco-german-rivalry-morocco"
+  ],
+  "חלוקת מרוקו בין המעצמות": [
+   "top:franco-german-rivalry-morocco"
+  ],
+  "חלוקת שטחים כבושים": [
+   "top:balkan-wars"
+  ],
+  "חנינה פוליטית": [
+   "top:russian-reaction-repression"
+  ],
+  "חסות על הקתולים בטורקיה": [
+   "top:ottoman-foreign-relations",
+   "top:catholic-church-papacy"
+  ],
+  "חסימת הדרדנלים": [
+   "top:italo-turkish-naval-war"
+  ],
+  "חסימת הדרדנלים והפצצת ערי חוף עותמאניות": [
+   "top:italo-turkish-naval-war"
+  ],
+  "חסינות וגמול הצירים": [
+   "top:state-duma"
+  ],
+  "חפירות ארכאולוגיות בגזר": [
+   "top:science-archaeology"
+  ],
+  "חקיקה הולנדית ואופים יהודים": [
+   "top:western-jewry"
+  ],
+  "חקירת רצח יושצינסקי והאשמת דם": [
+   "ev:beilis-affair"
+  ],
+  "חקלאות ומטעי תפוזים וכותנה": [
+   "top:yishuv-settlement"
+  ],
+  "חריגה מסמכות על ידי פקידים": [
+   "top:russian-reaction-repression"
+  ],
+  "חרם הטורקי נגד איטליה": [
+   "top:italo-turkish-war-diplomacy"
+  ],
+  "חרם כלכלי ואפליית יהודים בפולין וברוסיה": [
+   "top:antisemitism-politics-press"
+  ],
+  "חרם כלכלי יווני עותמאני": [
+   "top:ottoman-foreign-relations",
+   "top:cretan-question"
+  ],
+  "חרם כלכלי נגד יוון": [
+   "top:ottoman-foreign-relations",
+   "top:cretan-question"
+  ],
+  "חרם כלכלי על אוסטריה": [
+   "ev:ottoman-boycott-austria-1908"
+  ],
+  "חרם על אוסטריה לאחר סיפוח בוסניה": [
+   "ev:ottoman-boycott-austria-1908"
+  ],
+  "חרם על סחורות אוסטריות": [
+   "ev:ottoman-boycott-austria-1908"
+  ],
+  "חרם על סחורות בולגריות": [
+   "ev:bulgarian-independence",
+   "top:ottoman-foreign-relations"
+  ],
+  "חרמת אוצרות שיעיים בקרבלא": [
+   "top:muslim-religious-life"
+  ],
+  "חשד לגניבת אוצרות מסגד בירושלים": [
+   "top:science-archaeology",
+   "top:ottoman-palestine"
+  ],
+  "חשיבות כלכלית של סלוניקי כנמל ומרכז מסחר": [
+   "top:salonica-jewry",
+   "top:balkan-wars"
+  ],
+  "חשש מהתערבות המעצמות האירופיות": [
+   "top:young-turk-revolution",
+   "top:ottoman-foreign-relations"
+  ],
+  "חשש ממלחמה באירופה": [
+   "ev:agadir-crisis"
+  ],
+  "חשש ממלחמת קודש נגד יהודים ונוצרים": [
+   "top:interreligious-relations-orient",
+   "top:moroccan-jews"
+  ],
+  "חשש מפוגרום": [
+   "top:pogroms"
+  ],
+  "חשש מפוגרום בביאליסטוק": [
+   "top:pogroms"
+  ],
+  "חשש מפוגרומים ברוסיה": [
+   "top:pogroms"
+  ],
+  "חשש מקונטרה מהפכה": [
+   "ev:deposition-abdul-hamid"
+  ],
+  "חתונה בבית המלוכה הרוסי": [
+   "top:russian-government"
+  ],
+  "טבח אדנה": [
+   "ev:adana-massacre"
+  ],
+  "טבח בארמנים באדנה": [
+   "ev:adana-massacre"
+  ],
+  "טבח ביהודי מרוקו": [
+   "ev:fez-riots-1912",
+   "top:moroccan-jews"
+  ],
+  "טבח בקזבלנקה והתנגדות לאירופים": [
+   "ev:casablanca-riots-1907",
+   "ev:bombardment-of-casablanca"
+  ],
+  "טביעת האונייה עמיר וקורבנות מרוקאים": [
+   "top:accidents"
+  ],
+  "טביעת הטיטניק": [
+   "ev:sinking-of-titanic"
+  ],
+  "טורניר שחמט בינלאומי": [
+   "top:arts-entertainment"
+  ],
+  "טורקיה הצעירה": [
+   "top:young-turk-revolution"
+  ],
+  "טורקים הצעירים": [
+   "top:young-turk-revolution"
+  ],
+  "טורקים הצעירים וסלוניקי": [
+   "ev:31-march-incident"
+  ],
+  "טיולים ברגל בארץ ישראל וסוריה": [
+   "top:yishuv-settlement",
+   "top:daily-life-leisure"
+  ],
+  "טיסה ורוסיה": [
+   "top:aviation"
+  ],
+  "טיפול בפצועים ובשבויים": [
+   "top:russo-japanese-war"
+  ],
+  "טקטיקה פוליטית יהודית בפרלמנט העותמאני": [
+   "top:ottoman-jewry"
+  ],
+  "טקס הסלאמליק בקושטא": [
+   "top:muslim-religious-life",
+   "top:ottoman-politics"
+  ],
+  "טרור ומהפכנות": [
+   "top:political-violence"
+  ],
+  "טרור של התורכים הצעירים": [
+   "top:political-violence",
+   "top:young-turk-revolution"
+  ],
+  "טריטוריאליזם וקולוניזציה יהודית": [
+   "top:territorialism"
+  ],
+  "ידיעות טלגרף": [
+   "top:news-digests"
+  ],
+  "ידיעות טלגרף כלליות": [
+   "top:news-digests"
+  ],
+  "ידיעות טלגרף קצרות": [
+   "top:news-digests"
+  ],
+  "ידיעות טלגרפיות": [
+   "top:news-digests"
+  ],
+  "ידיעות טלגרפיות מגוונות": [
+   "top:news-digests"
+  ],
+  "ידיעות טלגרפיות מהעולם": [
+   "top:news-digests"
+  ],
+  "ידיעות טלגרפיות מרוסיה ומהעולם": [
+   "top:news-digests"
+  ],
+  "ידיעות טלגרפיות מרוסיה ופולין": [
+   "top:news-digests"
+  ],
+  "ידיעות טלגרפיות קצרות": [
+   "top:news-digests"
+  ],
+  "ידיעות טלגרפיות שונות": [
+   "top:news-digests"
+  ],
+  "ידיעות יהודיות ברוסיה": [
+   "top:news-digests",
+   "top:russian-polish-jewry"
+  ],
+  "ידיעות יהודיות וצדקה לנספי שריפה": [
+   "top:jewish-philanthropy-relief",
+   "top:fires"
+  ],
+  "ידיעות כלליות מרוסיה": [
+   "top:news-digests"
+  ],
+  "ידיעות מברק מרוסיה ומהעולם": [
+   "top:news-digests"
+  ],
+  "ידיעות על יהודים": [
+   "top:news-digests",
+   "top:jewish-communities"
+  ],
+  "ידיעות על מרוקו ועל הסולטאן": [
+   "top:moroccan-internal-politics"
+  ],
+  "ידיעות על קהילות יהודיות": [
+   "top:jewish-communities",
+   "top:news-digests"
+  ],
+  "ידיעות פוליטיות ברוסיה": [
+   "top:russian-politics",
+   "top:news-digests"
+  ],
+  "ידיעות קצרות": [
+   "top:news-digests"
+  ],
+  "ידיעות קצרות מהעולם": [
+   "top:news-digests"
+  ],
+  "יהדות האימפריה העותמאנית": [
+   "top:ottoman-jewry"
+  ],
+  "יהודי איטליה ויחסם לשלטון": [
+   "top:western-jewry"
+  ],
+  "יהודי ארץ ישראל": [
+   "top:wwi-jews"
+  ],
+  "יהודי ארצות האסלאם": [
+   "top:sephardi-mizrahi-jewry"
+  ],
+  "יהודי דמשק": [
+   "top:syrian-jewry"
+  ],
+  "יהודי האימפריה העותמאנית": [
+   "top:ottoman-jewry"
+  ],
+  "יהודי האימפריה העותמאנית ויחסם לתורכיה": [
+   "top:ottoman-jewry"
+  ],
+  "יהודי ורשה במריינבאד": [
+   "top:daily-life-leisure",
+   "top:russian-polish-jewry"
+  ],
+  "יהודי יוון לאחר מלחמות הבלקן": [
+   "top:salonica-jewry"
+  ],
+  "יהודי מרוקו בהגירה": [
+   "top:moroccan-jews",
+   "top:jewish-emigration-americas"
+  ],
+  "יהודי מרוקו ובתי ספר של כל ישראל חברים": [
+   "top:alliance-israelite-schools",
+   "top:moroccan-jews"
+  ],
+  "יהודי מרוקו ושליטי מרוקו": [
+   "top:moroccan-jews"
+  ],
+  "יהודי סלוניקי": [
+   "top:salonica-jewry"
+  ],
+  "יהודי סלוניקי בין השלטון היווני לבולגרי": [
+   "top:salonica-jewry",
+   "top:balkan-wars"
+  ],
+  "יהודי סלוניקי והבחירות ליוון": [
+   "top:salonica-jewry"
+  ],
+  "יהודי סלוניקי והתורכים הצעירים": [
+   "top:salonica-jewry",
+   "top:young-turk-revolution"
+  ],
+  "יהודי פאס": [
+   "top:moroccan-jews",
+   "ev:siege-of-fez-1911"
+  ],
+  "יהודי קובה ואנוסים": [
+   "top:jewish-emigration-americas",
+   "top:jewish-history-memory"
+  ],
+  "יהודים באימפריה העותמאנית": [
+   "top:ottoman-jewry"
+  ],
+  "יהודים באקדמיה": [
+   "top:jewish-communities"
+  ],
+  "יהודים בדרום אמריקה": [
+   "top:jewish-emigration-americas"
+  ],
+  "יהודים בחיים הפוליטיים העותמאניים": [
+   "top:ottoman-jewry"
+  ],
+  "יהודים ביריד": [
+   "top:anti-jewish-restrictions-russia"
+  ],
+  "יהודים בעורכי הדין ברוסיה": [
+   "top:anti-jewish-restrictions-russia"
+  ],
+  "יהודים בעיתונות ובחיי הציבור בארגנטינה": [
+   "top:jewish-emigration-americas"
+  ],
+  "יהודים בצבא העותמאני במלחמת הבלקן": [
+   "top:jews-in-military",
+   "top:balkan-wars"
+  ],
+  "יהודים בצבא העותמאני ושבויי מלחמת הבלקן": [
+   "top:jews-in-military",
+   "top:balkan-wars"
+  ],
+  "יהודים בצבא הרוסי": [
+   "top:jews-in-military"
+  ],
+  "יהודים בצבאות": [
+   "top:wwi-jews"
+  ],
+  "יהודים ברוסיה והעיתונות האירופית": [
+   "top:press-opinion-polemics",
+   "top:anti-jewish-restrictions-russia"
+  ],
+  "יהודים בשירות מדינות מוסלמיות": [
+   "top:jewish-politics-advocacy"
+  ],
+  "יהודים בתעלת פנמה": [
+   "top:jewish-emigration-americas"
+  ],
+  "יהודים בתפקידי ממשלה": [
+   "top:jewish-politics-advocacy"
+  ],
+  "יהודים הרוגים ופצועים בבנגאזי": [
+   "top:libya-campaign",
+   "top:sephardi-mizrahi-jewry"
+  ],
+  "יהודים והמהפכה הצעירה טורקית": [
+   "top:ottoman-jewry"
+  ],
+  "יהודים ויחסי שלטון": [
+   "top:ottoman-jewry"
+  ],
+  "יהודים וסחר קולוניאלי": [
+   "top:antisemitism-politics-press"
+  ],
+  "יהודים וסיוע לטורקיה": [
+   "top:ottoman-jewry",
+   "top:italo-turkish-war"
+  ],
+  "יהודים וציונות בטורקיה": [
+   "top:zionist-movement",
+   "top:ottoman-jewry"
+  ],
+  "יהודים כדיפלומטים": [
+   "top:jewish-politics-advocacy"
+  ],
+  "יהודים כמפתחי כלכלה ותרבות": [
+   "top:jewish-economic-life"
+  ],
+  "יהודים רוסים בברלין": [
+   "top:western-jewry",
+   "top:migration"
+  ],
+  "יובל אוניברסיטת לבוב": [
+   "top:commemorations"
+  ],
+  "יובל הרצל": [
+   "top:commemorations",
+   "top:zionist-movement"
+  ],
+  "יובל מלחמת 1812": [
+   "top:commemorations"
+  ],
+  "יוון ובלוקדת ההסכמה": [
+   "ev:national-schism"
+  ],
+  "יוון והמלחמה העולמית הראשונה": [
+   "ev:national-schism"
+  ],
+  "יוונים באימפריה העותמאנית": [
+   "top:ottoman-nationalities"
+  ],
+  "יום ראשון הדמים": [
+   "ev:bloody-sunday-1905"
+  ],
+  "יוקר הבשר ומכס על בשר מיובא": [
+   "top:cost-of-living"
+  ],
+  "יוקר המחיה": [
+   "top:cost-of-living"
+  ],
+  "יוקר המחיה בגרמניה": [
+   "top:cost-of-living"
+  ],
+  "יחס גרמניה ליהודים": [
+   "top:wwi-jews"
+  ],
+  "יחס הטורקים למוסלמים והגנת הקייזר": [
+   "ev:kaiser-visit-tangier",
+   "top:pan-islamism"
+  ],
+  "יחס היוונים ליהודים": [
+   "top:salonica-jewry",
+   "top:antisemitism-politics-press"
+  ],
+  "יחס העיתונות הערבית ליהודים": [
+   "top:jewish-arab-relations"
+  ],
+  "יחס הציבור לאנטישמיות": [
+   "top:western-jewry"
+  ],
+  "יחס השלטון העותמאני ליהודים": [
+   "top:ottoman-jewry"
+  ],
+  "יחס השלטון העותמאני לערבים": [
+   "top:arab-provinces-revolts"
+  ],
+  "יחס השלטון לעלייה והתיישבות יהודית": [
+   "top:ottoman-palestine"
+  ],
+  "יחס לארץ ישראל והלאומיות היהודית": [
+   "top:zionist-movement"
+  ],
+  "יחס לפליטים ולנוסעים רוסים": [
+   "top:refugees",
+   "top:wwi-home-front"
+  ],
+  "יחס מעצמות אירופה למהפכה": [
+   "top:foreign-intervention-persia"
+  ],
+  "יחס ספרד ובריטניה לפליטים": [
+   "top:moroccan-jews",
+   "top:refugees"
+  ],
+  "יחסי אוסטריה הונגריה והבלקן": [
+   "top:austria-hungary-balkans"
+  ],
+  "יחסי אוסטריה הונגריה, גרמניה ורוסיה": [
+   "top:austria-hungary-balkans",
+   "top:alliances-ententes"
+  ],
+  "יחסי אוסטריה וסרביה": [
+   "top:austria-hungary-balkans"
+  ],
+  "יחסי איטליה והמעצמות": [
+   "top:wwi-outbreak-diplomacy"
+  ],
+  "יחסי אירופה ומרוקו": [
+   "top:morocco-international-diplomacy"
+  ],
+  "יחסי אנגליה וגרמניה": [
+   "top:anglo-german-rivalry",
+   "top:franco-german-rivalry-morocco"
+  ],
+  "יחסי אנגליה וצרפת": [
+   "top:alliances-ententes"
+  ],
+  "יחסי ארצות הברית ויפן": [
+   "top:japan-korea"
+  ],
+  "יחסי בולגריה והמעצמות המרכזיות": [
+   "top:wwi-outbreak-diplomacy"
+  ],
+  "יחסי בריטניה ורוסיה בסיוע לפליטים": [
+   "top:refugees",
+   "top:wwi-jews"
+  ],
+  "יחסי בריטניה צרפת גרמניה": [
+   "ev:agadir-crisis"
+  ],
+  "יחסי גרמניה ובעלות בריתה": [
+   "top:wwi"
+  ],
+  "יחסי גרמניה וצרפת": [
+   "top:franco-german-relations",
+   "top:franco-german-rivalry-morocco"
+  ],
+  "יחסי גרמניה–ארהב": [
+   "top:wwi-outbreak-diplomacy"
+  ],
+  "יחסי דרוזים ונוצרים בלבנון": [
+   "top:interreligious-relations-orient"
+  ],
+  "יחסי הון ועבודה בקרב יהודים": [
+   "top:jewish-economic-life"
+  ],
+  "יחסי הכוחות בין המעצמות האירופיות": [
+   "top:alliances-ententes"
+  ],
+  "יחסי המעצמות האירופיות והאימפריה העותמאנית": [
+   "top:ottoman-foreign-relations"
+  ],
+  "יחסי הציבור הצרפתי והסולטאן": [
+   "top:moroccan-internal-politics"
+  ],
+  "יחסי הקהילה היהודית והשלטון המוסלמי": [
+   "top:moroccan-jews",
+   "ev:algeciras-conference"
+  ],
+  "יחסי טורקיה והמעצמות": [
+   "top:ottoman-foreign-relations"
+  ],
+  "יחסי טורקיה ויוון": [
+   "top:ottoman-foreign-relations"
+  ],
+  "יחסי טורקיה ומונטנגרו": [
+   "top:ottoman-foreign-relations"
+  ],
+  "יחסי טורקיה ורוסיה": [
+   "top:ottoman-foreign-relations"
+  ],
+  "יחסי טורקיה עם בולגריה ואוסטריה": [
+   "top:ottoman-foreign-relations",
+   "ev:bosnian-crisis"
+  ],
+  "יחסי טורקיה עם מעצמות אירופה": [
+   "top:ottoman-foreign-relations"
+  ],
+  "יחסי טורקים–אלבנים": [
+   "top:albanian-question"
+  ],
+  "יחסי יהודים ויוונים אורתודוקסים": [
+   "top:ottoman-jewry",
+   "top:ottoman-nationalities"
+  ],
+  "יחסי יהודים ויוונים וטורקים": [
+   "top:salonica-jewry"
+  ],
+  "יחסי יהודים וערבים": [
+   "top:jewish-arab-relations"
+  ],
+  "יחסי יהודים וערבים בארץ ישראל": [
+   "top:jewish-arab-relations"
+  ],
+  "יחסי יהודים וערבים במושבות": [
+   "top:jewish-arab-relations"
+  ],
+  "יחסי יהודים וערבים ותלות בזקני שבטים": [
+   "top:jewish-arab-relations"
+  ],
+  "יחסי יהודים ושלטון עותמאני": [
+   "top:ottoman-jewry"
+  ],
+  "יחסי יהודים ותורכים": [
+   "top:ottoman-jewry"
+  ],
+  "יחסי יוון–טורקיה": [
+   "top:wwi-outbreak-diplomacy"
+  ],
+  "יחסי יוונים ויהודים": [
+   "top:ottoman-jewry",
+   "top:ottoman-nationalities"
+  ],
+  "יחסי לאומים באימפריה העותמאנית": [
+   "top:ottoman-nationalities"
+  ],
+  "יחסי לאומים ודתות באימפריה העותמאנית": [
+   "top:ottoman-nationalities"
+  ],
+  "יחסי מוסלמים וארמנים": [
+   "top:armenian-question"
+  ],
+  "יחסי מסחר ברוסיה ופרס": [
+   "top:trade-tariffs"
+  ],
+  "יחסי סין ויפן": [
+   "top:china"
+  ],
+  "יחסי ערבים מוסלמים ונוצרים": [
+   "top:interreligious-relations-orient"
+  ],
+  "יחסי צרפת וגרמניה": [
+   "top:franco-german-rivalry-morocco",
+   "top:franco-german-relations"
+  ],
+  "יחסי צרפת ומרוקו": [
+   "top:morocco-international-diplomacy"
+  ],
+  "יחסי צרפת וספרד": [
+   "top:spanish-intervention-morocco"
+  ],
+  "יחסי צרפת ורוסיה": [
+   "top:alliances-ententes"
+  ],
+  "יחסי צרפת–אנגליה": [
+   "top:alliances-ententes"
+  ],
+  "יחסי צרפת–גרמניה": [
+   "top:franco-german-rivalry-morocco",
+   "top:franco-german-relations"
+  ],
+  "יחסי קהילות סלוניקי וירושלים": [
+   "top:chief-rabbinate"
+  ],
+  "יחסי רוסיה ואוסטריה": [
+   "top:austria-hungary-balkans"
+  ],
+  "יחסי רוסיה ואוסטריה והבלקן": [
+   "top:austria-hungary-balkans"
+  ],
+  "יחסי רוסיה וטורקיה והמיצרים": [
+   "top:straits-question"
+  ],
+  "יחסי רוסיה וסין": [
+   "top:russian-foreign-policy",
+   "top:china"
+  ],
+  "יחסי רוסיה ופרס": [
+   "top:foreign-intervention-persia"
+  ],
+  "יחסי רוסיה טורקיה": [
+   "top:russian-foreign-policy",
+   "top:ottoman-foreign-relations"
+  ],
+  "יחסי רוסיה–ארצות הברית בנושא היהודים": [
+   "top:jewish-rights-emancipation"
+  ],
+  "יחסי רוסיה–ארצות הברית בעניין יהודים": [
+   "top:jewish-rights-emancipation"
+  ],
+  "יחסי רוסיה–גרמניה": [
+   "ev:treaty-of-bjorko"
+  ],
+  "יחסי רוסיה–טורקיה": [
+   "top:russian-foreign-policy",
+   "top:ottoman-foreign-relations"
+  ],
+  "יחסי רוסיה–סין": [
+   "top:russian-foreign-policy",
+   "top:china"
+  ],
+  "יחסים בין דרוזים לנוצרים": [
+   "top:interreligious-relations-orient"
+  ],
+  "יחסים בין מעצמות אירופה": [
+   "top:great-power-diplomacy"
+  ],
+  "יחסים דיפלומטיים באירופה": [
+   "top:great-power-diplomacy"
+  ],
+  "יחסים דיפלומטיים באירופה והעולם העותמאני": [
+   "top:ottoman-foreign-relations"
+  ],
+  "יחסים דיפלומטיים בין המעצמות": [
+   "ev:agadir-crisis"
+  ],
+  "יחסים צרפתיים גרמניים": [
+   "ev:agadir-crisis"
+  ],
+  "יידיש כשפה לאומית": [
+   "top:jewish-languages"
+  ],
+  "ייצוג יהודים בספרות": [
+   "top:literature-serials"
+  ],
+  "ייצוג פוליטי יהודי בסנאט ובפרלמנט העותמאני": [
+   "top:ottoman-jewry"
+  ],
+  "יישוב סכסוך בין מפלגות בקהילה": [
+   "top:chief-rabbinate"
+  ],
+  "ילדי פוגרום קישינב": [
+   "ev:kishinev-pogrom",
+   "top:jewish-philanthropy-relief"
+  ],
+  "ימי בית שני": [
+   "top:jewish-history-memory",
+   "top:literature-serials"
+  ],
+  "יסטוריה יהודית באירופה": [
+   "top:jewish-history-memory"
+  ],
+  "יסטוריה של האנטישמיות הגרמנית": [
+   "top:antisemitism-politics-press",
+   "top:jewish-history-memory"
+  ],
+  "יסטוריה של הקהילות היהודיות בבלקן": [
+   "top:jewish-history-memory"
+  ],
+  "יסטוריה של יהודי יוון": [
+   "top:jewish-history-memory"
+  ],
+  "יסטוריה של יהודי פאס ופליטי גירוש ספרד": [
+   "top:moroccan-jews",
+   "top:jewish-history-memory"
+  ],
+  "יצרני סוכר יהודים בקייב": [
+   "top:jewish-economic-life"
+  ],
+  "ירי בכנסיית פטרוס הקדוש": [
+   "top:crime-robbery"
+  ],
+  "יריבות בין המעצמות": [
+   "ev:agadir-crisis"
+  ],
+  "יריבות בין צרפת, גרמניה וספרד": [
+   "top:franco-german-rivalry-morocco",
+   "top:spanish-intervention-morocco"
+  ],
+  "יריבות גרמנית בענייני מרוקו": [
+   "ev:agadir-crisis"
+  ],
+  "יריבות גרמנית צרפתית": [
+   "ev:agadir-crisis"
+  ],
+  "יריבות גרמנית צרפתית על מרוקו": [
+   "top:franco-german-rivalry-morocco"
+  ],
+  "יריבות המעצמות באימפריה העותמאנית": [
+   "top:ottoman-foreign-relations"
+  ],
+  "יריבות המעצמות האירופיות": [
+   "top:great-power-diplomacy"
+  ],
+  "יריבות המעצמות האירופיות במרוקו": [
+   "top:morocco-international-diplomacy"
+  ],
+  "יריבות ימית גרמנית בריטית": [
+   "top:anglo-german-rivalry"
+  ],
+  "יריבות מעצמות אירופה ואינטרסים כלכליים במרוקו": [
+   "top:european-economic-interests-morocco"
+  ],
+  "יריבות צרפת וגרמניה": [
+   "top:franco-german-rivalry-morocco",
+   "ev:algeciras-conference"
+  ],
+  "יריבות צרפתית גרמנית": [
+   "top:franco-german-rivalry-morocco"
+  ],
+  "יריבות צרפתית גרמנית על מרוקו": [
+   "top:franco-german-rivalry-morocco"
+  ],
+  "יריבות קולוניאלית צרפתית גרמנית": [
+   "ev:first-moroccan-crisis"
+  ],
+  "יריבות רוסית אוסטרית": [
+   "top:austria-hungary-balkans"
+  ],
+  "יריד האתרוגים במינסק": [
+   "top:jewish-religious-life"
+  ],
+  "ירידת המסחר בסלוניקי": [
+   "top:salonica-jewry"
+  ],
+  "ישוב היהודי והמושבות בארץ ישראל": [
+   "top:yishuv-settlement"
+  ],
+  "ישועים והכנסייה הקתולית": [
+   "top:catholic-church-papacy"
+  ],
+  "ישיבות הדומה": [
+   "top:state-duma"
+  ]
+ },
+ "suggest": [
+  {
+   "key": "גניבה בעומר מסגד בירושלים",
+   "note": "Parker expedition / Temple Mount excavation scandal in Jerusalem (April 1911) – candidate event under ottoman-palestine or science-archaeology"
+  },
+  {
+   "key": "חשד לגניבת אוצרות מסגד בירושלים",
+   "note": "same as above: Parker expedition affair 1911"
+  },
+  {
+   "key": "וצאה להורג של דרוזים בדמשק",
+   "note": "1911 executions follow the 1910 Hauran Druze revolt (Sami Pasha), not the 1909 one; ev:hauran-druze-rebellion date (1909-05) should be checked / a 1910 event added"
+  },
+  {
+   "key": "ביקור הסולטאן בסלוניקי",
+   "note": "Mehmed V's Rumelia journey (June 1911: Salonica, Skopje, Kosovo) – recurrent in corpus, candidate event under ottoman-politics"
+  },
+  {
+   "key": "חרם כלכלי נגד יוון",
+   "note": "Ottoman boycott of Greek goods 1909–1911 (Cretan question) – candidate event, analogous to ev:ottoman-boycott-austria-1908"
+  },
+  {
+   "key": "ארגון הצבאי והמלוכה",
+   "note": "Greek political crisis 1910 (Military League vs. crown, Venizelos' arrival) – only ev:goudi-coup (1909) exists"
+  },
+  {
+   "key": "גיוס כפוי לצבא העותמאני",
+   "note": "no concept for the Ottoman home front / Ottoman Jews under WWI conscription and deportation apart from wwi-jews and wwi-home-front"
+  },
+  {
+   "key": "חזית הקווקזית",
+   "note": "pre-Sarikamish Caucasus fighting (Nov–Dec 1914) has no event; concept wwi-ottoman-fronts used"
+  },
+  {
+   "key": "דו קרב ועיתונאות",
+   "note": "duels/honour affairs (Suvorin duel 1912, others) have no concept; mapped to press-opinion-polemics"
+  },
+  {
+   "key": "גל חום באירופה",
+   "note": "1911 European heat wave & drought – recurrent in 1911 telegrams; could be an event under natural-disasters"
+  }
+ ]
+}

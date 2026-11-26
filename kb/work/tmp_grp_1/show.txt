@@ -1,0 +1,1176 @@
+[0] grp:jews | יהודים | Jews | Jewish people
+   *✓T Q7325  Jewish people / יהודים  | ethnoreligious group and nation from the Levant <nation, ethnic group> sl=182
+    ✓T Q37040100  Jews /   | family name <family name> sl=0
+    ✓T Q104635702  Jews /   | painting by Antoni Bartkowski <painting> sl=0
+     T Q678551  American Jews / יהדות ארצות הברית  | community in the United States <ethnic community, Jewish community> sl=36
+     T Q37460746  Jewson /   | family name <family name> sl=1
+     T Q37284565  Jewsbury /   | family name <family name> sl=1
+[1] grp:muslims | מוסלמים | Muslims | adherents of Islam
+   *✓T Q47740  Muslim / מוסלמי  | adherent of the religion of Islam <religious group> sl=147
+    ✓T Q1137457  Muslims /   | ethnic group in the territory of the former Yugoslavia <ethnic group> sl=32
+     T Q101247216  Muslims and Jews in France: History of a Conflict /   |  <literary work> sl=0
+     T Q98126035  Muslims in Mango (Northern Togo) : some aspects: writing and prayer : some notes on a film /   | Publication by Rouveroy van Nieuwaal, Emile van, (Leiden : African Studies Centr <report> sl=0
+     T Q114295689  Muslims and New Media in West Africa: Pathways to God /   | book published in 2012 <version, edition or translation> sl=0
+     T Q1674069  Islam in the United Kingdom / אסלאם בממלכה המאוחדת  | religion in an area <Islam of an area> sl=28
+[2] grp:christians | נוצרים | Christians | adherents of Christianity
+   *✓T Q106039  Christian / נוצרי  | person who adheres to Christianity <religious identity, religious group> sl=106
+     T Q11963736  Christiansen / כריסטיאנסן  | family name <family name, patronymic family name> sl=3
+     T Q2415  Kristiansand Municipality / קריסטיאנסנד [1641–] | municipality of Agder county in Southern Norway <municipality of Norway, organization> sl=89
+     T Q861363  Christianshavn / קופנהגן/קריסטיאנסהאבן  | neighborhood of Copenhagen, Denmark <neighborhood> sl=23
+    ✓T Q130237100  Christians /   | male given name <male given name> sl=0
+     T Q1613795  Christianson /   | family name <family name, patronymic family name> sl=2
+[3] grp:catholics | קתולים | Catholic Church | Roman Catholics
+   *✓T Q9592  Catholic Church / הכנסייה הקתולית [1–] | largest Christian Church, made up of 24 autonomous Churches in communion with th <Christian Church, Christian denomination> sl=207
+    ✓T Q1088552  Catholic church building / כנסייה קתולית  | church building in the Catholic Church <type of building> sl=9
+    ✓T Q110209751  Catholic Church /   | gouache - Michel Jean Cazabon <gouache painting> sl=0
+     T Q769585  Catholic Church in the United States /  [1789–] | part of the worldwide Roman Catholic Church <Catholic Church of an area, Catholic organization> sl=20
+    ✓T Q106842044  Catholic church /   | church building in Hesse, Germany <church building> sl=1
+    ✓T Q1487180  Catholic Church /  [1931–] | church building in Langnau im Emmental in the canton of Bern, Switzerland <Catholic church building> sl=2
+    ✓T Q60412395  Catholics /   | 1972 edition <version, edition or translation> sl=0
+[4] grp:protestants | פרוטסטנטים | Protestantism | Protestant Christians
+   *✓T Q23540  Protestantism / נצרות פרוטסטנטית [1517–] | branch of Christianity that emerged following the Protestant Reformation of the  <Christian denominational family, major religious group> sl=183
+    ✓T Q22827778  Protestantism /   | permanent duplicate Wikimedia page written in the Hakka dialect of Chinese <Wikimedia permanent duplicate item> sl=1
+     T Q12830429  Protestantism of an area /   | Wikidata metaclass <metaclass> sl=0
+     T Q7251666  Protestantism in Switzerland /   | religious movement in Switzerland <Protestantism of an area> sl=5
+    ✓T Q116594389  Protestantism /   | encyclopedia article <encyclopedia article> sl=0
+    ✓T Q117245508  Protestantism /   | academic book chapter <scholarly chapter> sl=0
+    ✓T Q139722610  Protestants /   |  <chapter> sl=0
+[5] grp:eastern-orthodox-christians | נוצרים אורתודוקסים | Eastern Orthodox Church | Eastern Orthodox Christians
+   *✓T Q35032  Eastern Orthodox Church / נצרות אורתודוקסית [1054–] | second-largest Christian church <Christian Church, Christian denomination> sl=139
+     T Q2031836  Eastern Orthodox church building / כנסייה מלכיתית יוונית-קתולית  | type of church building <type of building> sl=17
+    ✓T Q13031143  Eastern Orthodox church /   | church building in Mogilyov, Belarus <Eastern Orthodox church building> sl=4
+     T Q5954143  history of the Eastern Orthodox Church /   | aspect of history <history, aspect of history> sl=6
+     T Q25084820  Organization of the Eastern Orthodox Church /   | structure and organization of the Eastern Orthodox Church <Wikimedia list article> sl=16
+     T Q17002390  Eastern Orthodoxy by country /   | Wikimedia list article <Wikimedia list article> sl=9
+[6] grp:greek-orthodox-christians | יוונים אורתודוקסים | Greek Orthodox Church | Greek Orthodox Christians (Ottoman Rum millet)
+    ✓T Q7970362  Greek Orthodoxy / נצרות יוונית-אורתודוקסית  | Christian denominations of the Eastern Orthodox Church descended from a Greek tr <religious denomination> sl=49
+     T Q211004  Ecumenical Patriarchate of Constantinople / הפטריארכיה האקומנית של קונסטנטינופול  | Eastern Orthodox religious denomination based in İstanbul, Türkiye <Eastern Orthodox patriarchate> sl=70
+    ✓T Q5601848  Greek Orthodox Church of St Nicholas /   | church in Liverpool, Merseyside, England, UK <church building> sl=6
+    ✓T Q54819384  Greek Orthodox church /  [1957–] | church in Rotterdam, the Netherlands <church building> sl=1
+     T Q323301  Eastern Orthodox Patriarchate of Antioch / הכנסייה היוונית-אורתודוקסית האנטיוכית  | Eastern Orthodox patriarchate currently headquartered in Damascus, Syria <Eastern Orthodox patriarchate> sl=60
+    ✓T Q51592557  Greek Orthodox Church /   | church in Kingston, Canada <church building> sl=0
+    ✓T Q2382381  Rum Millet /   | Eastern Orthodox Christian community in the Ottoman Empire <millet, social class> sl=17
+[11] grp:copts | קופטים | Copts | Coptic Christians of Egypt
+     T Q139735464  Copts at the Crossroads /   |  <literary work> sl=0
+     T Q139730494  Copts and the Security State /   |  <literary work> sl=0
+     T Q21039429  Copts in Egypt /   | Coptic people born in or residing in Egypt <ethnic group> sl=5
+     T Q146744  Egyptian Copts / קופטי  | ethnoreligious group indigenous to North Africa <ethnographic group, ethnoreligious group> sl=78
+     T Q19893522  Copts in Sudan /   | Overview of Coptic people in Sudan <ethnic group> sl=5
+     T Q19893519  Copts in Libya /   | ethnic group <ethnic group> sl=5
+     T Q198998  Coptic Orthodox Church / נצרות קופטית [42–] | International Oriental Orthodox Christian church led by the Patriarch of Alexand <patriarchate, Oriental Orthodox churches> sl=79
+[16] grp:druze | דרוזים | Druze | Druze of Syria and Lebanon
+   *✓T Q163943  Druze / דרוזים  | Arab ethnoreligious group of the Levant <ethnoreligious group> sl=98
+     T Q45911826  Družební /   | street in Nivnice, Czech Republic <street> sl=1
+     T Q1261498  Družec /   | village in Kladno District of Central Bohemian region <municipality of the Czech Republic> sl=24
+     T Q23840129  Druzeticia /   | genus of molluscs (fossil) <fossil taxon> sl=0
+     T Q45295344  Družební /   | street in Olomouc, Czech Republic <street> sl=0
+    ✓T Q20945640  Druze / הדת הדרוזית  | religion druze <religion, religious order> sl=4
+[21] grp:muslim-pilgrims | עולי רגל מוסלמים | Hajj | Muslim pilgrims
+    ✓T Q234915  Hajj / חג'  | Islamic pilgrimage to Mecca <pilgrimage, Fard> sl=142
+    ✓T Q118574885  Arsy Buana Travelindo /   | Indonesian company <public company> sl=0
+     T Q328158  Hajjah Governorate / חג'ה  | governorate of Yemen <governorate of Yemen> sl=41
+    ✓T Q36932204  Hajj /   | family name <family name> sl=0
+    ✓T Q16276172  Hajji /   | family name <family name> sl=2
+    ✓T Q11824359  Jijiga Airport /   | airport in Jijiga, Somali Region, Ethiopia <international airport, commercial traffic aerodrome> sl=7
+    ✓T Q1066124  Hajji / חאג'  | title of honor <title of honor, honorific prefix> sl=49
+[23] grp:pilgrims | עולי רגל | Pilgrim | pilgrims
+    ✓T Q37492807  Pilgrim /   | family name <family name> sl=3
+    ✓T Q110375643  Pilgrim /   | male given name <male given name> sl=0
+    ✓T Q47482253  Pilgrim /   | 1986 text adventure game <video game> sl=2
+    ✓T Q542704  pilgrim / עולה רגל  | traveler on a journey to a holy place <occupation> sl=30
+    ✓T Q131765189  PILGRIM /   | 2024 video game developed by DESPERATE MEASURES <video game> sl=0
+    ✓T Q1954096  Pilgrim / Pilgrim  | 1998 studio album by Eric Clapton <album> sl=17
+   *✓T Q1644573  pilgrimage / עלייה לרגל  | journey or search of moral or spiritual significance <> sl=95
+[25] grp:ulama | עולמא | Ulama | Muslim religious scholars
+     T Q189459  ulema / עולמא  | Muslim legal scholars <legal status, social status> sl=81
+   *✓T Q1762047  Ulama /   | sport <> sl=16
+    ✓T Q113250479  Sufi Scholar /   | Sufi Muslim jurist theologian, Generally Sunni <Islamic religious occupation> sl=0
+     T Q4470940  Ulyoma /   | river in Tatarstan, Russia <river, protected area of Russia> sl=4
+    ✓T Q100341398  Ulama /  [1988–1988] | exhibition in 1988 <temporary exhibition> sl=0
+     T Q19638359  Ülämä /   | human settlement in Täteş District, Tatarstan <village> sl=4
+[26] grp:softas | סופטות | Softa | Ottoman madrasa students
+    ✓T Q11893963  softa /   | Type of students in the Ottoman Empire <historical position, occupation> sl=1
+     T Q7397  software / תוכנה  | non-tangible executable component of a computer <product category, type of tool> sl=172
+    ✓T Q11950047  Softa /  [1100–] | fortress in Cilicia <fortress> sl=1
+    ✓T Q121621071  Softa /   | Czech company <business> sl=0
+     T Q7554068  Softades /   | community in Larnaca District, Republic of Cyprus <community of Cyprus Republic> sl=11
+     T Q1154837  Softalar /   | village in Gölpazarı, Bilecik, northwestern Turkey <village of Turkey> sl=6
+[29] grp:sheikhs | שייח'ים | Sheikh | tribal sheikhs
+    ✓T Q37560340  Sheikh /   | family name <family name> sl=3
+    ✓T Q71601696  Sheikh /   | male given name <male given name> sl=2
+   *✓T Q185166  sheikh / שייח'  | Arabic noble-honorific title <honorific prefix, title of honor> sl=80
+       Q100313220  Sheikh Riazuddin /   | researcher <human> sl=0
+    ✓T Q368443  21618 Sheikh /   | asteroid <asteroid> sl=15
+       Q313957  Sheikh Muszaphar Shukor / שייח' מוזפר שיקור 1972– | Malaysian surgeon and spaceflight participant <human> sl=37
+[30] grp:clergy | כמורה | Clergy | clergy (general / Christian)
+   *✓T Q177826  clergy / כמורה  | formal leaders within established religions <social class, group of humans> sl=78
+     T Q607241  clergy house / בית הכומר  | residence of one or more priests or ministers of religion, also used for other a <> sl=37
+     T Q2259532  cleric / איש דת  | member of the clergy of a religion <religious role> sl=21
+     T Q17051104  manse /   | residence for evangelical pastors and their families and cultural-historical ins <type of building> sl=6
+    ✓T Q70901436  Buddhist clergy /   | person of any sex or gender holding a religious profession in Buddhism <group of humans> sl=1
+     T Q3315492  clergyman /   | Christian religious occupation <function, Christian religious occupation> sl=4
+[31] grp:priests | כמרים | Priest | Christian priests
+   *✓T Q42603  priest / כהן דת  | person who consecrates his life to some divinity and whose main functions are to <organization, religious role> sl=141
+    ✓T Q250867  Catholic priest / כומר קתולי  | priest of the Catholic Church <male occupation, Catholic vocation> sl=17
+    ✓T Q831474  presbyter / פרסביטר  | Christian religious occupation <Christian religious occupation, position> sl=43
+    ✓T Q3409375  Anglican priest / כהן דת אנגליקני  | minister of the Anglican church <Christian religious occupation> sl=6
+    ✓T Q1469535  Latin Catholic priest /   | minister in the Catholic Church of the West, of the Roman rite, who have receive <Catholic vocation> sl=7
+    ✓T Q96236305  Lutheran pastor /   | priest of Christian Lutheran denomination <profession, Christian religious occupation> sl=3
+[35] grp:missionaries | מיסיונרים | Missionary | Christian missionaries
+    ✓T Q219477  missionary / מיסיונר  | member of a religious group sent to do evangelism <profession> sl=81
+    ✓T Q20746152  Protestant missionary /   | evangelist of Protestant Christianity <occupation> sl=1
+    ✓T Q219561  missionary position / התנוחה המסיונרית  | human sex position with the penetrating partner on top <sex position> sl=73
+    ✓T Q3504975  The Missionary /   | 1982 film by Richard Loncraine <film> sl=11
+     T Q6878874  Missionary Baptists /  [1900–] | Christian denomination in the United States <Christian denomination> sl=1
+     T Q1095569  Missionary Sons of the Immaculate Heart of Mary /  [1849–] | Catholic religious congregation for men <religious congregation> sl=22
+[36] org:jesuits | ישועים | Jesuits | Society of Jesus, Catholic religious order
+   *✓T Q36380  Society of Jesus / ישועים [1540–] | Catholic order of priests and brothers founded by Ignatius of Loyola and his com <Catholic order, group of humans> sl=117
+     T Q140239454  Jesuits in China /   | book chapter in The Cambridge Companion to the Jesuits (2008) <chapter> sl=0
+     T Q28028212  Jesuits of America /   | fonds of archival documents in the National Archives of Chile <fonds> sl=0
+       Q10351458  Jesuits' Bridge /  [1752–] | historic bridge in the city of Rio de Janeiro, Brazil <bridge, historic site> sl=3
+     T Q76170669  USA Northeast Province of the Society of Jesus /  [2014–2020] | American religious organization (2014-2020) <Jesuit province> sl=0
+     T Q76172465  USA Central and Southern Province of the Society of Jesus /  [2014–] | Jesuit province in the United States <Jesuit province> sl=0
+    ✓T Q7765105  The Society of Jesus /   | 2004 film <film> sl=5
+[37] org:dominican-order | המסדר הדומיניקני | Dominican Order | Catholic religious order
+   *✓T Q131479  Dominican Order / דומיניקנים [1215–] | Roman Catholic religious order <mendicant order, organization> sl=82
+    ✓T Q1237954  Nuns of the Order of Preachers /  [1206–] | Roman Catholic religious order for women <religious order, second order> sl=9
+    ✓T Q107724058  Dominican University /  [2016–] | university in Ibadan, Nigeria <school, educational institution> sl=3
+    ✓T Q103906059  Dominican Order /   | encyclopedia article <encyclopedia article> sl=0
+     T Q70144199  coat of arms of the Dominican Order (I) /   | gyronny of sable and argent, a cross flory counterchanged <coat of arms> sl=0
+     T Q17626137  Dominican Order in Peru /   |  <> sl=2
+[42] grp:marranos | אנוסים | Marrano | crypto-Jews / New Christians of Spain and Portugal
+    ✓T Q312214  Marrano /   | Jews from the Iberian Peninsula forcibly converted to Catholicism <social class> sl=36
+     T Q36981734   /   | family name <family name> sl=1
+    ✓T Q18429357  Marrano /   | human settlement in Lamezia Terme, Italy <human settlement> sl=4
+       Q102284261  Marrano Ledesma /   | composer <human> sl=0
+     T Q1129467  Converso / קונוורסו  | Jewish-descended community in Spain <social class, national minority> sl=25
+     T Q1094510  New Christian / נוצרי חדש  | community descended from Muslims and Jews <social class, national minority> sl=22
+    ✓T Q612845  Anusim / אנוסים  | Jewish rules for those forcibly converted to Christianity <rule> sl=17
+[50] grp:tunisian-jews | יהודי תוניסיה | Tunisian Jews | Jews of Tunisia/Tunis
+     T Q2916034  history of the Jews in Tunisia / יהדות תוניסיה  | aspect of history <aspect of history> sl=12
+[51] grp:egyptian-jews | יהודי מצרים | Egyptian Jews | Jews of Egypt
+     T Q2600128  history of the Jews in Egypt / יהדות מצרים  | ethnoreligious history <aspect of history> sl=13
+     T Q10813632  Jews of Egypt / יהודי מצרים  | 2012 Egyptian film about the Jews in Egypt <film> sl=8
+[60] grp:jews-of-thessaloniki | יהודי סלוניקי | History of the Jews in Thessaloniki | Jewish community of Salonica
+     T Q2632945  History of the Jews of Thessaloniki / יהדות סלוניקי  | wikipedia page about Jews in Thessaloniki <Wikimedia article covering multiple topics> sl=15
+[65] grp:jews-of-ottoman-palestine | יהודי ארץ ישראל | Old Yishuv | Jewish population of Ottoman Palestine
+    ✓T Q2845775  Old Yishuv / היישוב הישן  | The ancient Jewish community in Israel <historical ethnic group> sl=13
+    ✓T Q1356549  Yishuv / היישוב  | collective name of the Jewish population of the Land of Israel, until the establ <occupied territory> sl=33
+     T Q1501046  community settlement / יישוב קהילתי  | form of settlement in Israel and in the occupied West Bank <> sl=16
+     T Q8053850  Yishuv HaDa'at / ישוב הדעת [2001–] | Israeli outpost in the occupied Palestinian West Bank <human settlement, Israeli outpost> sl=4
+     T Q122828957  Yishuvey Horashim / יישובי חורשים  | settlement region on the border between Sharon and Samaria <settlement bloc> sl=1
+     T Q122851987  Kvotzat Bikura / קבוצת ביכורה  | Israeli settlement bloc in Beit Shean Valley, Israel <settlement bloc> sl=1
+     T Q132795993  Yishuv Michadash /   |  <film> sl=0
+[69] grp:russian-jews | יהודי רוסיה | History of the Jews in Russia | Jews of the Russian Empire
+   *✓T Q2031644  history of the Jews in Russia / יהדות רוסיה  | history of the large Jewish religious diaspora in Russia <aspect of history> sl=25
+    ✓T Q32360797  Russian Jews / יהודים ברוסיה  | ethnic group <ethnic group by residency> sl=8
+     T Q139735880  Russian Jews Between the Reds and the Whites, 1917-1920 /   |  <literary work> sl=0
+     T Q19894539  Russian Jews in Israel / יהודי רוסיה בישראל  | diaspora Jews from the former Soviet Union in Israel <ethnic group> sl=3
+     T Q136233678   /   | book 2012 <version, edition or translation> sl=0
+     T Q58599280   /   |  <> sl=0
+     T Q58184188   /   |  <> sl=0
+[79] grp:romanian-jews | יהודי רומניה | History of the Jews in Romania | Jews of Romania
+   *✓T Q696662  history of the Jews in Romania / יהדות רומניה  | Jewish community in Europe <aspect of history, Jewish community> sl=18
+    ✓T Q28195536  Romanian Jews /   | ethnic community in Romania <national minority> sl=0
+     T Q22137293  Romanian Jews in Israel /   | ethnic group <> sl=2
+[83] grp:french-jews | יהודי צרפת | History of the Jews in France | Jews of France
+   *✓T Q702758  history of the Jews in France / יהדות צרפת  | aspect of Jewish history <aspect of history> sl=18
+    ✓T Q124100109  French Jews /   | ethnic group <ethnic group> sl=0
+     T Q139885969  French Jews, Turkish Jews /   |  <literary work> sl=0
+     T Q20988644  French Jews in Israel /   | ethnic group <ethnic group> sl=2
+[98] grp:hasidim | חסידים | Hasidic Judaism | Hasidim
+   *✓T Q171201  Hasidic Judaism / תנועת החסידות [1740–] | religious subgroup of modern Judaism <religious movement> sl=67
+     T Q104875024  Hasidic Judaism in Poland / החסידות בפולין  | overview of Hasidic Judaism in Poland <Judaism of an area> sl=1
+     T Q85765885  Hasidic Judaism in Kraków / החסידות בקרקוב  |  <Judaism of an area> sl=1
+     T Q107600073  Hasidic Judaism in Lithuania / החסידות בליטא  |  <Judaism of an area> sl=1
+     T Q113672806  Hasidic Judaism Exhibition in Tel Aviv / תערוכת תנועת החסידות בתל אביב  | newsreel <short film> sl=0
+    ✓T Q6260996  Hasidic Judaism / חסידות  | Wikimedia disambiguation page <Wikimedia disambiguation page> sl=3
+    ✓T Q64538709  Hasidim /  [1932–] | drawing in the National Gallery of Art (NGA 182220) <drawing> sl=0
+[101] grp:reform-jews | יהודים רפורמים | Reform Judaism | Reform Jews
+   *✓T Q1133485  Reform Judaism / יהדות רפורמית [1900–] | denomination of Judaism <Jewish religious movements> sl=51
+    ✓T Q253908  Movement for Reform Judaism / התנועה ליהדות רפורמית [1942–] | Jewish denomination in the UK <religious organization, Jewish organization> sl=5
+    ✓T Q1130842  Union for Reform Judaism / האיחוד ליהדות רפורמית [1873–] | organization of Reform Judaism in North America <nonprofit organization, religious organization> sl=8
+    ✓T Q7307395  Reform Judaism /   | magazine <magazine> sl=1
+     T Q7307397  Reform Judaism outreach /   |  <> sl=1
+     T Q122999843  Reform Judaism: A Centenary Perspective /   |  <> sl=1
+[102] grp:rabbis | רבנים | Rabbi | rabbis
+    ✓T Q133485  rabbi / רב  | teacher of Torah in Judaism <profession, title of honor> sl=95
+    ✓T Q66446673  Rabbi /   | male given name <male given name> sl=0
+    ✓T Q86605820  Rabbi /   | given name <given name> sl=0
+    ✓T Q300313  Rabbi /   | Italian comune <comune of Italy> sl=48
+     T Q994732  Rabbit hemorrhagic disease virus /   | species of virus <taxon> sl=17
+       Q81960  Robert Burns / רוברט ברנס 1759–1796 | Scottish poet and lyricist (1759–1796) <human> sl=124
+[107] grp:kohanim | כוהנים | Kohen | Jewish priestly descendants (Kohanim)
+    ✓T Q37129388  Kohen /   | family name <family name> sl=2
+   *✓T Q728973  kohen / כהן  | hereditary priest in Judaism, descendant of Aaron <religious role, hereditary title> sl=36
+    ✓T Q123537065  Kohen /   | male given name <male given name> sl=0
+       Q76709  Hermann Cohen / הרמן כהן 1842–1918 | German philosopher (1842–1918) <human> sl=39
+     T Q51677  High Priest of Israel / כהן גדול  | chief religious official of ancient Judaism <Jewish religious occupation, historical religious function> sl=34
+       Q16701925  Yurii Kohen /  1937–2022 | Soviet-Ukrainian politician (1937–2022) <human> sl=3
+[114] grp:anti-zionists | אנטי ציונים | Anti-Zionism | anti-Zionists
+   *✓T Q584548  anti-Zionism / אנטי-ציונות  | opposition to Zionism <political ideology> sl=43
+    ✓T Q142088628  Anti-Zionism /   | 2026 nonfiction book by Benjamin Moser <literary work> sl=1
+     T Q65051828  Anti-Zionism on Campus /   | study of anti-Semitism <written work> sl=1
+     T Q136152342   /   | book 2018 <version, edition or translation> sl=0
+     T Q57553135   /   |  <> sl=0
+     T Q58570221   /   |  <> sl=0
+[116] grp:jewish-nationalists | לאומנים יהודים | Jewish nationalism | Jewish nationalists
+     T Q139727086   /   |  <> sl=0
+[117] org:bilu | ביל"ו | Bilu | Bilu movement of Jewish pioneers (1882)
+    ✓T Q18032067  TOP2B /   | protein-coding gene in the species Homo sapiens <gene> sl=8
+       Q12476247  Biluhu /   | district in Gorontalo Regency, Gorontalo Province, Indonesia <kecamatan> sl=4
+    ✓T Q863392  Bilu / ביל"ו [1882–] | organization <organization> sl=17
+    ✓  Q45689202  Lin Ruchu /  1543–1623 | Ming dynasty person CBDB = 128586 <human> sl=0
+     T Q13615855  Bilulua /   | genus of insects <taxon> sl=5
+    ✓T Q108752133  Bilu /   | family name <family name> sl=0
+[145] grp:russians | רוסים | Russians | Russians
+   *✓T Q49542  Russians / רוסים  | East Slavic ethnic group native to Russia <ethnic group, people> sl=137
+    ✓T Q492468  Russians / רוסים  | citizens and people of Russia, regardless of ethnicity; the people who are ident <nation, nationality> sl=11
+    ✓T Q2631380  Russians / Russians [1985–] | 1985 single by Sting <single, musical work/composition> sl=15
+     T Q38590953  RussianShips.info /   | database website <database, website> sl=0
+     T Q1215857  The Russians Are Coming, the Russians Are Coming / הרוסים באים, הרוסים באים  | 1966 film directed by Norman Jewison <film> sl=32
+    ✓T Q19216930  Russians /  [1923–] | essay by Sergey Yesenin <written work> sl=1
+[148] grp:ukrainians | אוקראינים | Ukrainians | Ukrainians
+   *✓T Q44806  Ukrainians / אוקראינים  | East Slavic ethnic group <nation, human population> sl=113
+    ✓T Q30147073  Ukrainians /  [2017–] | social networking service <website, social networking service> sl=1
+    ✓T Q19356553  The Ukrainians /   | 2015 film by Leonid Kanter <film> sl=2
+     T Q1976275  Ukrainian Argentine /   | ethnic group in Argentina <diaspora or migration by origin and host country> sl=7
+     T Q369739  Ukrainians of Romania /   | ethnic group <ethnic group by residency> sl=15
+     T Q135022011  Ukrainians: Our battle /   | video game developed by Serhii Khramov, Illia Ustenko, Maksym Kanshin and Nikita <video game> sl=0
+[149] grp:ruthenians | רותנים | Ruthenians | Ruthenians (Ukrainians of Austria-Hungary)
+    ✓T Q140420  Rusyns / רוסינים  | ethnic group that speaks an Eastern Slavic language <ethnic group, national minority> sl=62
+    ✓T Q690869  Ruthenians / רותנים  | historical ethnonym of people of Rus region <ethnic group> sl=37
+     T Q700926  Ruthenians (Habsburg Monarchy) /   |  <ethnic group> sl=4
+     T Q28194448  Ruthenians in Romania /   | officially recognised ethnic community in Romania <national minority> sl=0
+     T Q7383301  Ruthenians and Ukrainians in Czechoslovakia /   |  <history of Ukraine> sl=4
+    ✓T Q107317274  Ruthenians /   | Wikimedia disambiguation page <Wikimedia disambiguation page> sl=12
+[150] grp:poles | פולנים | Poles | Poles
+   *✓T Q1026  Poles / פולנים [1000–] | West Slavic ethnic group <ethnic group, people> sl=102
+    ✓T Q113652457  Poles /   | Asturia <casería> sl=1
+     T Q218593  inch / אינץ'  | unit of length <unit of length> sl=102
+     T Q1027274  Polesí /   | village in Czechia <municipality of the Czech Republic> sl=24
+     T Q174187  Rivne Oblast / רובנו [1939–] | oblast of Ukraine <oblast of Ukraine> sl=100
+     T Q3025422  Polesworth /   | village and civil parish in Warwickshire, UK <village, civil parish> sl=12
+[151] grp:polish-nobility | שלאכטה | Szlachta | Polish nobility
+   *✓T Q311995  Szlachta / שלכטה [–1921] | noble class of Kingdom of Poland and later in the Polish-Lithuanian Commonwealth <social class, Gentlemen's class> sl=45
+    ✓T Q2349769  Szlachta /   | railway station in Pomeranian Voivodeship, Poland <railway station> sl=2
+     T Q27062351  Szlachta family /   | type of privileged Polish family <> sl=1
+    ✓T Q123380135  Szlachta /   | quarter or neighborhood of the Polish town Parczew <neighborhood, quarter> sl=2
+    ✓T Q2260554  Szlachta /   | village in the administrative district of Gmina Osieczna, within Starogard Count <village of Poland> sl=13
+     T Q5650788  Szlachta coat of arms /   | type of noble coat of arms <> sl=2
+[153] grp:bulgarians | בולגרים | Bulgarians | Bulgarians
+   *✓T Q133255  Bulgarians / בולגרים  | South Slavic ethnic group <ethnic group> sl=85
+    ✓T Q111654008  Bulgarians /   | residents or citizens of Bulgaria, regardless of ethnicity <nation, human population> sl=0
+     T Q3656818  Bulgarians in Romania /   | recognized minority in Romania <ethnic group by residency> sl=8
+     T Q2616042  Bulgarians in Ukraine /   | ethnic group <ethnic group> sl=9
+     T Q4996328  Bulgarians in Serbia /   | ethnic group <ethnic group> sl=12
+     T Q1886313  Macedonian Bulgarians /   | Bulgarians from the geographic region of Macedonia <ethnographic group> sl=11
+[154] grp:montenegrins | מונטנגרים | Montenegrins | Montenegrins
+   *✓T Q19109  Montenegrins / מונטנגרים  | South-Slavic ethnic group <ethnic group> sl=61
+    ✓T Q100148072  Montenegrins / אנשי מונטנגרו  | citizens or residents of Montenegro <human population> sl=0
+     T Q6905199  Montenegrins of Bosnia and Herzegovina /   | national minority of ethnic Montenegrins in Bosnia and Herzegovina <ethnic group> sl=4
+     T Q11239222  Montenegrins of Serbia /   | ethnic group <ethnic group> sl=4
+     T Q3862296  Montenegrins in Albania /   | ethnic group <ethnic group> sl=3
+     T Q3503053  Montenegrins of Croatia /   | national minority of ethnic Montenegrins in Croatia <ethnic group> sl=8
+[155] grp:czechs | צ'כים | Czechs | Czechs
+   *✓T Q170217  Czechs / צ'כים  | West Slavic ethnic group and nation <ethnic group, human population> sl=89
+    ✓T Q15916203  Czechs /   | Slavic tribe of Bohemia part of Czech tribes <tribe> sl=3
+    ✓T Q105969758  Czechs /   | citizens or residents of the Czech Republic <human population> sl=0
+    ✓T Q3565812  Czech tribes /   | Czechs or Czechia Slavs, were an early Slavic tribes in Czechia/Bohemia <ethnic group> sl=9
+     T Q1470491  Czechs in Ukraine /   | ethnic group <ethnic group> sl=10
+     T Q137395930  Czechs and Poles in Těšín Silesia /   | English translation of the pamphlet by Jan Hejret <version, edition or translation> sl=1
+[157] grp:slovenes | סלובנים | Slovenes | Slovenes
+   *✓T Q15863  Slovenes /   | South-Slavic ethnic group <ethnic group> sl=68
+    ✓T Q102193349  Slovenes / סלובנים  | citizens or residents of Slovenia <human population> sl=0
+     T Q3503182  Slovenes of Croatia /   | ethnic group <ethnic group> sl=6
+     T Q1290146  Slovenes in Somogy /   |  <> sl=3
+     T Q85878163  Slovenes in Japan /   |  <> sl=1
+     T Q136205581   /   | book 2017 <version, edition or translation> sl=0
+[159] grp:germans | גרמנים | Germans | Germans
+   *✓T Q42884  Germans / גרמנים  | residents and citizens of Germany & people of German descent <nation, human population> sl=117
+     T Q2429732  Germansweek /   | village and civil parish in Devon, England <village, civil parish> sl=11
+     T Q31184  sibling / אחא  | one of two or more individuals having at least one parent in common <kinship> sl=89
+    ✓T Q110834829  people in Germany /   | residents of the country <human population> sl=0
+    ✓T Q5551979  Germans /  [1999–] | musical band <musical group> sl=1
+     T Q779169  Germans Abroad /   | German diaspora <diaspora or migration by origin country/region/continent> sl=3
+[160] grp:pan-germans | פאן-גרמנים | Pan-Germanism | Pan-German nationalists (Alldeutsche)
+    ✓T Q155812  Pan-Germanism / פאן-גרמניות  | pan-nationalist political idea to unite the Germans <great homeland, political movement> sl=52
+     T Q139733401  Pan-Germanism after Empire: /   |  <chapter> sl=0
+     T Q42884  Germans / גרמנים  | residents and citizens of Germany & people of German descent <nation, human population> sl=117
+    ✓T Q559398  Pan-German League / האיגוד הכול-גרמני [1891–1934] | former German populist political organization (1893-1939) with nationalist and e <pressure group> sl=21
+[163] grp:junkers | יונקרים | Junker (Prussia) | Prussian landed nobility
+     T Q170365  Junker / יונקרים  | landed nobility of Prussia <> sl=30
+[164] grp:agrarians | אגרריים | Agrarian League | German agrarian conservatives (Bund der Landwirte)
+   *✓T Q506591  Centre Party / מפלגת המרכז [1906–] | registered political party in Finland <political party, Nordic agrarian parties> sl=44
+    ✓T Q18639089  Agrarian League /  [1931–1933] | political party in Romania <political party> sl=2
+    ✓T Q4693752  Agrarian League /   |  <political party> sl=1
+    ✓T Q4693748  Agrarian League /   | Wikimedia disambiguation page <Wikimedia disambiguation page> sl=1
+[168] grp:hungarians | הונגרים | Hungarians | Hungarians
+   *✓T Q133032  Hungarians / מדיארים [-4000–] | ethnic group native to Central Europe <ethnic group, human population> sl=96
+    ✓T Q1476010  Hungarians /   | 1978 film by Zoltán Fábri <film> sl=13
+    ✓T Q115771874  Hungarians / הונגרים  | people from or residents of Hungary, regardless of ethnicity <human population> sl=0
+     T Q518365  Hungarians in Romania /   | ethnic minority in Romania <ethnic group by residency> sl=24
+     T Q948126  Hungarian Americans /   | ethnic group; Americans of Hungarian birth or descent <ethnic group, ethnic minority group> sl=14
+     T Q726205  Hungarians in Ukraine /   | ethnic group in Ukraine <ethnic group> sl=22
+     T Q714056  Deleni /  [1322–] | village in Mureș County, Romania <village> sl=11
+[172] grp:french | צרפתים | French people | French people
+   *✓T Q121842  French / צרפתים  | ethnic group of France <ethnic group, human population> sl=112
+     T Q1450444  French people established outside of France /   |  <electoral district in France, diaspora or migration by origin country/region/continent> sl=5
+    ✓T Q120068720  French people /   | Romance ethnic group native to France <ethnic group> sl=0
+     T Q112583744  French people in fiction /   | character represented as belonging to the French people as a cultural group (cre <ethnic or cultural group in fiction> sl=0
+     T Q5502325  French people in Japan /   | ethnic group <ethnic group by residency> sl=5
+     T Q5502306  French migration to the United Kingdom /   | ethnic group, French-born residents in the UK and Britons of French ancestry <ethnic group, human migration> sl=3
+[177] grp:irish | אירים | Irish people | Irish people
+   *✓T Q170826  Irish people / אירים  | Celtic people <ethnic group> sl=93
+    ✓T Q101094861  Irish /   | citizens or residents of the Republic of Ireland <human population> sl=0
+    ✓T Q44019133  Irish People /  [1863–] | newspaper of the Irish Republican Brotherhood <newspaper> sl=0
+    ✓T Q100301002  The Irish People /   | newspaper published in Dublin, Dublin, Ireland <newspaper> sl=0
+     T Q6071674  Irish people in the United Kingdom /   | Irish population movement to Britain and Britons of Irish origin, ancestry <ethnic group by residency> sl=5
+     T Q2701081  Irish People's Liberation Organisation /  [1986–1992] | paramilitary <paramilitary organization> sl=14
+[180] grp:italians | איטלקים | Italians | Italians
+   *✓T Q50001  Italians / איטלקים  | ethnic group native to Italy <human population, ethnic group> sl=99
+    ✓T Q110904399  Italians / איטלקים  | residents or citizens of Italy, regardless of ethnicity <nation, inhabitant> sl=0
+    ✓T Q19887567  Italians /   | painting by Cy Twombly <painting> sl=0
+     T Q18151144  Italians Do It Better /  [2006–] | US independent record label <record label> sl=3
+    ✓T Q3804331  Italians /   | 2009 film by Giovanni Veronesi <film> sl=4
+     T Q139939137  Italians Are Late /   |  <chapter> sl=0
+[181] grp:spaniards | ספרדים | Spaniards | Spanish people
+   *✓T Q160894  Spaniards / ספרדים  | people native to any part of Spain or that hold Spanish citizenship <nation, human population> sl=90
+    ✓T Q66107741  Spaniards /  [1879–] | painting by Louis Antoine Capdevielle <painting> sl=0
+    ✓T Q19170352  Ispantsy /  [1830–] | play by Mikhail Lermontov <narrative poetry, literary work> sl=2
+    ✓T Q104861434  Spaniards /   |  <musical group> sl=1
+     T Q1592589  Spaniards in Paris /   | 1971 film by Roberto Bodegas <film> sl=7
+     T Q928333  Spaniards in Mexico /   | ethnic group; Mexicans of Spanish birth or descent <ethnic group> sl=13
+[186] grp:swedes | שוודים | Swedes | Swedes
+    ✓T Q165192  Swedes / שוודים  | ethnic group in Northern Europe <ethnic group> sl=85
+    ✓T Q956420  Swedes / סוויונים  | North Germanic tribe, one of the three tribes that founded Sweden <tribe> sl=29
+    ✓T Q113018337  Swedes / שוודים  | people from or citizens of Sweden <nation, human population> sl=0
+     T Q1088764  Swedesboro /   | borough in New Jersey, USA <borough of New Jersey> sl=33
+    ✓T Q119156418  Swedes /  [1905–] | painting by David Murray (1849–1933), Royal Academy of Arts <painting> sl=0
+     T Q140668453  Swedes in Spain /   |  <diaspora or migration by origin and host country> sl=1
+[187] grp:danes | דנים | Danes | Danes
+    ✓T Q164714  Danes / דנים  | citizens or residents of Denmark <nation, human population> sl=79
+     T Q5064390  Daneș /   | commune in Mureș County, Romania <commune of Romania> sl=22
+     T Q21482663  Daneš /   | family name <family name> sl=1
+     T Q9035  Danish / דנית  | North Germanic language spoken in Northern Europe <modern language, natural language> sl=213
+    ✓T Q877429  Danes / דנים  | North Germanic tribe <tribe> sl=28
+     T Q862382  Danestal /   | commune in Calvados, France <commune of France> sl=44
+[191] grp:lithuanians | ליטאים | Lithuanians | Lithuanians
+   *✓T Q186192  Lithuanians / ליטאים  | ethnic group; and citizens and residents of Lithuania <human population, ethnic group> sl=75
+    ✓T Q4263549  Lithuanians /   | medieval East Baltic tribe <historical ethnic group> sl=8
+     T Q6648515  Lithuanians in the United Kingdom /   | ethnic group <ethnic group, Lithuanians> sl=6
+     T Q6648501  Lithuanians in the Chicago area /   |  <ethnic group by residency> sl=1
+     T Q16362007  Lithuanians in Latvia /   |  <ethnic group, diaspora> sl=5
+     T Q3499036  Lithuanians in Belarus /   | Ethnic group in Belarus <national minority> sl=7
+[192] grp:greeks | יוונים | Greeks | Greeks
+   *✓T Q539051  Greeks / יוונים  | ethnic group native to Greece, Cyprus, Albania, Italy, Turkey, Egypt and, to a l <ethnic group> sl=116
+    ✓T Q101242814  Greeks / יוונים  | citizens or residents of Greece <nation, human population> sl=0
+    ✓T Q1321169  Greeks / יווניות  | model parameters in mathematical finance <economic term> sl=13
+    ✓T Q25688688  ancient Greeks /   | people of ancient Greece <historical ethnic group> sl=1
+     T Q1467740  Ottoman Greeks /   | ethnic Greeks, who lived in the Ottoman Empire <human population, ethnic community> sl=11
+    ✓T Q141446915  Greeks /   | criminal organization based in Vernon, British Columbia <criminal organization> sl=1
+[194] grp:cretans | כרתים | Cretans | Cretans
+   *✓T Q12899492  Cretans /   | tragedy by Euripides <dramatic work> sl=4
+    ✓T Q131841400  Cretans /   | inhabitants of Crete <human population> sl=0
+     T Q96185075  Cretans Bringing Gifts of Metal and Jewelry, Tomb of Rekhmire /  [1504–] | Facsimile, Rekhmire (TT 100) by Nina de Garis Davies (MET, 31.6.45) <painting> sl=0
+     T Q96185077  Cretans Bringing Gifts, Tomb of Rekhmire /  [1479–] | Facsimile, Rekhmire (TT 100), foreigners, Keftiu by Nina de Garis Davies (MET, 3 <painting> sl=0
+     T Q40965771  Cretans Bringing Gifts /   | painting by Nina de Garis Davies <painting, facsimile> sl=0
+[196] grp:vlachs | ולאכים | Aromanians | Vlachs/Aromanians of the Balkans
+    ✓T Q201111  Aromanians / ארומנים  | ethnic group native to the Balkans <ethnic group> sl=52
+    ✓T Q3409224  Aromanians in North Macedonia /   | ethnic Aromanian minority of North Macedonia <ethnic group, national minority> sl=8
+     T Q11916330  Aromanians in Greece /   | Aromanian community within Greece <ethnic group, national minority> sl=7
+     T Q21075551  Aromanians in Serbia /   | Ethnic Aromanian minority within Serbia <ethnic group> sl=5
+     T Q3574062  Aromanians in Albania /   | ethnic Aromanian minority within Albania <ethnic group, national minority> sl=11
+     T Q11934502  Aromanians in Romania /   | Aromanian community within Romania <ethnic group, national minority> sl=5
+    ✓T Q475021  Vlachs / ולאכים  | term <ethnic group> sl=46
+[199] grp:ancient-romans | רומאים | Ancient Rome | ancient Romans
+    ✓T Q1747689  Ancient Rome / רומא העתיקה [-752–476] | country that began growing on the Italian Peninsula from the 8th century BC <historical country> sl=166
+    ✓T Q18287233  ancient Roma /  [-752–476] | ancient city in the Apennine Peninsula; capital city of the Roman Kingdom and Ro <archaeological site, ancient city> sl=4
+    ✓T Q14619160  Ancient Rome /  [1757–] | painting by Giovanni Paolo Panini (Metropolitan Museum of Art version) <painting> sl=1
+    ✓T Q14619165  Ancient Rome /  [1758–] | version of Ancient Rome painting by Panini held by the Louvre <painting> sl=1
+    ✓T Q27445638  Ancient Rome /  [1754–] | painting by Giovanni Paolo Panini, Staatsgallerie de Stuttgart <painting> sl=1
+     T Q1200427  culture of ancient Rome / תרבות רומא העתיקה  | pattern of human activity and symbolism associated with ancient Rome and its peo <style, historical period> sl=35
+    ✓T Q613120  Romans /   | commune in Ain, France <commune of France> sl=51
+[200] grp:franks | פרנקים | Franks | Franks (historical Germanic people)
+    ✓T Q19607241  Franks /   | family name <family name> sl=4
+    ✓T Q72044231  Franks /   | given name <given name> sl=0
+    ✓  Q976386  Sebastiaen Vrancx / סבסטיאן פראנקס 1573–1647 | Flemish painter (1573-1647) <human> sl=21
+   *✓T Q43482  Franks / פרנקים  | historical Germanic ethnic group <historical ethnic group> sl=97
+     T Q1136771  Frankston /   | city in Victoria, Australia <city, gazetted locality of Victoria> sl=17
+       Q167654  Frans Hals / פרנס הלס 1582–1666 | Dutch painter (1580–1666) <human> sl=68
+[201] grp:albanians | אלבנים | Albanians | Albanians
+   *✓T Q179248  Albanians / אלבנים  | citizens or residents of Albania and ethnic group <inhabitant, human population> sl=81
+     T Q1113841  Albania's Got Talent /  [2010–2010] | Albanian television series <television series> sl=4
+    ✓T Q115331811  Albanians /   | people from or residents of Albany, New York, United States <human population> sl=0
+     T Q56975  Arbëreshë / אלבנים איטלקים  | ethnic group in Italy; Albanian ethnolinguistic group in Southern Italy <ethnic group> sl=45
+     T Q1242155  Albanians in Kosovo / אלבנים מקוסובו  | ethnic group <ethnic group> sl=33
+    ✓T Q120229388  Albanians /   | citizens or residents of Albania <human population> sl=0
+    ✓T Q2863045  Arnauts /   | Turkish ethnonym used to denote Albanians <ethnic group> sl=15
+[205] grp:mirdita | מירדיטים | Mirdita | Catholic Mirdita tribe of northern Albania
+    ✓T Q3301532  Mirdita /   | village in North Macedonia <village> sl=5
+    ✓T Q1938066  Mirdita /   | mountainous region in northern Albania <ethnographic region> sl=7
+    ✓T Q56424999  Mirdita /   | family name <family name> sl=1
+    ✓T Q6873080  Mirdita /   | newspaper <newspaper> sl=1
+     T Q832459  Republic of Mirdita /  [1921–1921] | 1921 unrecognized republic in Europe <republic> sl=20
+       Q13042914  Mirdita Luli /   |  <human> sl=1
+[208] grp:turks | טורקים | Turkish people | Turkish people
+   *✓T Q84072  Turkish people / טורקים (עם)  | Turkic ethnic group <nation, human population> sl=115
+     T Q7855304  Turkish People's Liberation Party–Front/Revolutionary Coordination Unity /  [1979–] |  <political party> sl=2
+     T Q66330907  Turkish People Viewing John F. Kennedy (NAID 47914) /   | item in the National Archives and Records Administration's holdings <item of collection or exhibition> sl=0
+     T Q67470702  Turkish People Watch Air Show, Istanbul, Turkey (NAID 102047201) /   | item in the National Archives and Records Administration's holdings <item of collection or exhibition> sl=0
+     T Q135034990  Dünya Tarihinde Türk Halkları /   | Turkish-language translation of book by Joo-Yup Lee, 2025 <version, edition or translation> sl=0
+     T Q83328  Turkic peoples / עמים טורקיים  | family of ethnic groups of Eurasia <panethnicity> sl=95
+    ✓T Q37572364  Turks /   | family name <family name> sl=0
+[211] grp:turkish-women | נשים טורקיות | Women in the Ottoman Empire | Turkish/Ottoman women
+    ✓T Q139735215  Women in the Ottoman Empire /   |  <literary work> sl=0
+   *✓T Q8031557  women in the Ottoman Empire /   | women in Ottoman society <society, group of humans> sl=12
+[213] grp:young-turks | טורקים צעירים | Young Turks | Young Turk constitutionalist movement
+    ✓T Q15548291  Young / יונג טורקס [2006–] | British independent record label owned by Beggars Group <record label> sl=7
+   *✓T Q83896  Young Turks / הטורקים הצעירים  | political reform movement in the Ottoman Empire <political movement> sl=61
+    ✓T Q19655  The Young Turks /  [2002–] | online news show <news program, television series> sl=16
+    ✓T Q4023065  Young Turks / Young Turks  | song by Rod Stewart <single> sl=11
+    ✓T Q9383550  Young Turks /   | Italian-American gang <> sl=1
+    ✓T Q25351699  Young Turks /   | group of Bell Labs scientists <group of humans> sl=2
+[215] grp:armenians | ארמנים | Armenians | Armenians
+   *✓T Q79797  Armenians / ארמנים  | ethnic group native to the Armenian Highlands <human population, ethnic group> sl=117
+    ✓T Q2746991  list of Armenians /   | Wikimedia list article <Wikimedia list article> sl=6
+     T Q2590074  Armenians in Turkey /   | Armenian community in Turkey <national minority, ethnic community> sl=24
+     T Q536018  sport in Armenia /   | sports traditions in Armenia <sport in a geographic region> sl=16
+     T Q891146  Armenians in the Ottoman Empire /   | Ottoman Armenians <ethnic community> sl=24
+     T Q2584186  Iranian Armenians / ארמנים איראנים  | Armenian community in Iran <national minority, ethnic community> sl=21
+[216] grp:kurds | כורדים | Kurds | Kurds
+   *✓T Q12223  Kurds / כורדים  | ethnic group in western Asia <ethnic group> sl=132
+    ✓T Q83369309  Kurds /   | family name <family name> sl=0
+    ✓T Q1711683  list of Kurds /   | Wikimedia list article <Wikimedia list article> sl=5
+     T Q1117020  Kurds in Turkey / הכורדים בטורקיה  | ethnic group <ethnic group> sl=19
+     T Q20987630  Kurds in Iran /   | ethnic group <ethnic group> sl=15
+     T Q12180107  Kurds in Iraq / כורדים בעיראק  | ethnic community and nation <ethnic group, national minority> sl=8
+[217] grp:georgians | גאורגים | Georgians | Georgians
+   *✓T Q18973  Georgians / גאורגים  | Caucasian ethnic group that are indigenous to Georgia and Caucasus <ethnic group> sl=139
+    ✓T Q100789745  Georgians /   | residents of Georgia, United States <human population> sl=0
+    ✓T Q100789867  Georgians /   | citizens or residents of the Republic of Georgia <human population> sl=0
+     T Q5548127  Georgians in France /   | ethnic group <ethnic group> sl=2
+     T Q12098048  Georgians in Ukraine /   | ethnic group <ethnic group> sl=5
+     T Q5548142  Georgians in Russia /   | ethnic group <national minority> sl=8
+[219] grp:circassians | צ'רקסים | Circassians | Circassians
+   *✓T Q15763  Circassians / צ'רקסים  | Northwest Caucasian ethnic group native to Circassia <ethnic group> sl=73
+    ✓T Q109985547  Circassians /  [1824–] | watercolor by William Heath <watercolor painting> sl=0
+    ✓T Q114289543  Circassians /   | name for certain ethnicities in Turkey <> sl=2
+    ✓T Q130646946  Circassians /   | painting by Horace Vernet <painting> sl=0
+     T Q2071535  Circassians in Israel / צ'רקסים בישראל  | ethnic group of Muslims from the Caucaus <ethnic group> sl=12
+     T Q25403381  Circassians in Jordan /   | Jordanian citizens from Circassian origins <ethnic group by residency> sl=9
+[222] grp:bashkirs | בשקירים | Bashkirs | Bashkirs
+   *✓T Q485348  Bashkir people / הבשקירים [900–] | Turkic ethnic group <ethnic group, people> sl=81
+    ✓T Q65333880  Bashkirs /   | picture by Mikhail Alexandrovich Zichi (Mikhai Zichi) <> sl=1
+     T Q4080153  Bashkir State Philharmonic /  [1939–] | concert hall and philharmonic society in Ufa, Russia <concert hall, philharmonic society> sl=5
+     T Q1062836  Bashkirskaya Urginka /   | human settlement in Zianchurinsky District, Republic of Bashkortostan, Russia <hamlet> sl=12
+     T Q2429170  Bashkir Nature Reserve /  [1930–] | nature reserve in Russia <protected area, nature reserve> sl=27
+     T Q4080168  Bashkir State Puppet Theatre /  [1932–] | puppet theatre in Ufa, Russia <puppetry building, puppetry company> sl=4
+[225] grp:turkmens | טורקמנים | Turkmens | Turkmens
+   *✓T Q484472  Turkmens / טורקמנים  | Turkic ethnic group native to Central Asia, living mainly in Turkmenistan, north <ethnic group> sl=81
+    ✓T Q101189416  Turkmenistanis /   | citizens or residents of Turkmenistan <human population, nation> sl=0
+     T Q45424170  Turkmenská /   | street in Prague, Czech Republic <street> sl=1
+     T Q1253525  Turkmensky District /  [1925–] | municipal district in Stavropol Krai, Russia <municipal district> sl=14
+     T Q45941251  Turkmenská /   | street in Vsetín, Czech Republic <street> sl=1
+     T Q4466145  Turkmenskaya Oblast /  [1921–1924] |  <oblast of a union republic of the Soviet Union> sl=3
+[227] grp:cossacks | קוזקים | Cossacks | Cossacks
+   *✓T Q47805  Cossacks / קוזאקים  | military estate of East Slavic people <social class, estates of the realm> sl=99
+     T Q28418  Cossacks: European Wars /   | 2001 video game <video game> sl=29
+    ✓T Q4207522  Cossacks /   | series of historical real-time strategy video games by GSC Game World <video game series> sl=8
+    ✓T Q1978050  Cossacks /  [1967–2016] | animated film series (1967-2016) <animated film series> sl=13
+     T Q20538667  Cossacks 3 /   | real-time strategy video game <video game> sl=17
+     T Q28362  Cossacks II: Napoleonic Wars /   | 2005 video game <video game> sl=21
+[229] grp:persians | פרסים | Persians | Persians
+    ✓T Q484206  Persians / פרסים  | Iranian ethnic group who make up over half the population of Iran <ethnic group> sl=95
+    ✓T Q788458  The Persians / הפרסים  | ancient Greek tragedy by Aeschylus <dramatic work> sl=38
+    ✓T Q23308144  The Persians /   | English translation by A. Swanwick, 4th edition <version, edition or translation> sl=1
+    ✓T Q31811029  The Persians /   | 1908 English translation by Morshead <version, edition or translation> sl=1
+    ✓T Q26763611  The Persians /   | 1922 English translation by G. M. Cookson <version, edition or translation> sl=1
+    ✓T Q57760152  Persowie /   | 1911 Polish translation by Jan Kasprowicz <version, edition or translation> sl=1
+[234] grp:fedayeen | פדאיים | Fadai (Iranian Constitutional Revolution) | fedai fighters of the Persian Constitutional Revolution
+   *✓T Q989678  fedayeen /   | Arabic term used to refer to various militants willing to sacrifice themselves f <profession> sl=28
+     T Q67815979   /   | 1998 album by Muslimgauze <album> sl=0
+    ✓T Q5439913  Fedayeen /  [2009–] | American punk rock band <musical group> sl=1
+     T Q30588303  Palestinian Fedayeen insurgency / פיגועי הפדאיון הפלסטיני  | Armed cross-border conflict (1949–1956) <> sl=7
+     T Q1142173  Fedayeen Saddam / פדיאון סדאם [1995–2003] | Ba'athist Iraqi paramilitary organization <paramilitary organization> sl=18
+     T Q1399863  Fedayeen of Islam /  [1946–] | Shia fundamentalist group/political party in Iran <religious organization, terrorist organization> sl=18
+[235] grp:arabs | ערבים | Arabs | Arabs
+   *✓T Q35323  Arabs / ערבים  | Arabic-speaking ethnic and national groups, originally from the Arabian Peninsul <ethnic group> sl=152
+     T Q143487  Arab world / ארצות ערב  | geocultural region in Asia and Africa <language area, geopolitical group> sl=107
+    ✓T Q24020907  Arabs /  [1915–] | painting by Bart van der Leck <painting> sl=0
+    ✓T Q78638355  Arabs /   | painting by Adolf Schreyer <painting> sl=0
+    ✓T Q77492967  Arabs /   | painting by Ben Shahn <painting> sl=0
+     T Q43386297  Arabská /   | street in Prague, Czech Republic <street> sl=1
+[236] grp:bedouin | בדואים | Bedouin | Bedouin
+   *✓T Q180688  Bedoui / בדואים  | Arab nomads who historically nomadized between North Africa and the Middle East <ethnic group> sl=77
+    ✓T Q28801549  Bedouin /  [1890–] | painting by Berthe Worms <painting> sl=1
+    ✓T Q65097851  Bedouin /   | family name <family name> sl=0
+    ✓T Q49865347  Bedouin /  [1920–] | painting by Rodolfo Amoedo <painting> sl=0
+    ✓T Q102241823  Bedouin /  1981– | Thoroughbred racehorse <horse> sl=0
+    ✓T Q31879169  Bedouin /   | mine in Mashonaland West Province, Zimbabwe <mine> sl=1
+[243] grp:egyptians | מצרים | Egyptians | Egyptians
+   *✓T Q1061510  Egyptians / מצרים  | Ethnic group native to Egypt <ethnic group> sl=54
+     T Q19923925  Egyptians Raising Water from the Nile /  [1890–] | painting by John Singer Sargent <painting> sl=5
+    ✓T Q138834573  Egyptians /  [1893–] | drawing by Emile Bernard <drawing> sl=0
+    ✓T Q140286746  Egyptians /   | novel by Matt Forbeck <literary work> sl=0
+     T Q5348373  Egyptian Americans /   | ethnic group; Americans of Egyptian birth or ancestry <ethnic group, ethnic minority group> sl=7
+     T Q27882942  Egyptians 3,000 years ago /  [1863–] | painting by Lawrence Alma-Tadema <painting> sl=2
+[247] grp:fellahin | פלאחים | Fellah | Arab/Egyptian peasants
+    ✓T Q26882653  Fellah /   | family name <family name> sl=1
+   *✓T Q685896  fellah / פלאח  | farmer or agricultural laborer in the Middle East and North Africa <> sl=29
+    ✓T Q104215174  Fellah /  [1878–] | painting by Charles Zacharie Landelle <painting> sl=0
+    ✓T Q116366366  Fellah /   | female given name <female given name> sl=0
+    ✓T Q130602698  A Fellah /   | fictional character in Henrik Ibsen's «Peer Gynt», resident of the madhouse in C <fictional human, literary character> sl=0
+     T Q202575  Fulbe people / פולה  | ethnic group in the Sahel and West Africa <ethnic group, people> sl=78
+     T Q125171376  Fellahin, Motif on the Road to Giza near Cairo /  [1929–] | painting by Alphons Leopold Mielich <painting> sl=0
+[248] grp:berbers | ברברים | Berbers | Berbers
+    ✓T Q45315  Berbers / ברברים  | ethnic group indigenous to North Africa <ethnic group, ethnolinguistic group> sl=108
+    ✓T Q99936735  Berbers /   | family name <family name> sl=0
+     T Q32481021  Berbersbach /   | river in Germany <river> sl=1
+     T Q15525652  Berbersdorf /   | human settlement in Saxony, Germany <Ortsteil> sl=2
+     T Q25619749  Berbers in al-Andalus /   | Amazigh presence in AlAndalus <> sl=2
+     T Q16148121  Berbers in France /   | The Amazigh (Berber) ethnic group in France <ethnic group> sl=4
+    ✓T Q25448  Berber / שפות ברבריות  | branch of the Afroasiatic language family indigenous to North Africa <language family> sl=122
+[250] grp:moroccans | מרוקאים | Moroccans | Moroccans
+   *✓T Q1891793  Moroccans / מרוקאים  | citizens or residents of Morocco <> sl=31
+    ✓T Q19883752  Moroccans /  [1915–] | painting by Henri Matisse <painting> sl=1
+     T Q140046648  Moroccans in France: /   | book chapter in The State and the Grassroots (n.d.) <chapter> sl=0
+     T Q28222011  Moroccans in Belgium /   | diaspora of Moroccans in Belgium <diaspora or migration by origin and host country, ethnic community> sl=5
+     T Q5916569  Moroccans in Spain /   | part of the Moroccan diaspora <human migration, ethnic group by residency> sl=8
+     T Q17507448  Moroccans in France /   | part of the Moroccan diaspora <ethnic group by residency> sl=5
+[251] grp:moors | מורים | Moors | Moors (term used for Moroccans)
+    ✓T Q28800752  Moors /   | family name <family name> sl=1
+   *✓T Q169260  Moors / מורים  | an exonym used in European languages to designate primarily the Muslim populatio <ethnonym> sl=91
+     T Q30198  marsh / ביצת עשב  | wetland dominated by herbaceous plants <> sl=84
+     T Q836859  Moorsel /   | section of Aalst, Belgium <municipality section> sl=10
+     T Q108286878  Moorsom /   | family name <family name> sl=0
+    ✓T Q4783129  Arab-Amazighs /   | An Amazigh (Berber) ethnic group of the Maghreb <ethnic group, tribe> sl=8
+[270] grp:abyssinians | חבשים | Ethiopians | Abyssinians/Ethiopians
+     T Q48729444  Ethiopians in Norway /   | Ethiopian diaspora in Norway <ethnic group> sl=2
+     T Q48730241  Ethiopians in Denmark /   | Ethiopian diaspora in Denmark <ethnic group> sl=1
+     T Q2918061  Ethiopian / עמי אתיופיה  | citizen or resident of Ethiopia <human population, inhabitant> sl=17
+     T Q48806895  Ethiopians in Italy /   | Ethiopian diaspora in Italy <ethnic community> sl=2
+     T Q65256074  Ethiopians in Japan /   |  <ethnic group> sl=1
+     T Q48728900  Ethiopians in Germany /   |  <ethnic group> sl=1
+     T Q1535896  The Abyssinians /  [1968–] | Jamaican roots reggae group <musical group> sl=15
+[272] grp:africans | אפריקנים | Black people | (black) Africans
+   *✓T Q817393  Black people / האדם השחור  | skin color-based classification of people with origins in the tropical climate z <race> sl=79
+    ✓T Q67005943  black people /   | black skin individuals whose ancestral origins are in the continent of Africa <racial group, race> sl=1
+     T Q3075017  Black people in France /   | Dark-skinned French people of Melanesian or African descent <ethnic group> sl=9
+     T Q3485529  black people and Mormonism /   | history of black people within the Church of Jesus Christ of Latter-day Saints <> sl=5
+     T Q3377824  Black People. African People /  [1978–1991] | former political periodical of black francophone Africa <magazine> sl=2
+     T Q4921453  Black People's Convention /  [1972–] | nationalist Liberatory Flagship of the Black Consciousness Movement <political organization> sl=2
+    ✓T Q1075929  African people / אפריקניים  | inhabitants or ascendants of the African continent <human population> sl=21
+[274] grp:congolese | עמי קונגו | Congolese people | peoples of the Congo Free State
+    ✓T Q98000094  Congolese /   | citizens or residents of the Democratic Republic of the Congo <human population> sl=0
+    ✓T Q98000063  Congolese / קונגולזית  | citizens or residents of the Republic of the Congo <human population, inhabitant> sl=0
+     T Q25059389  Congolese people in Italy /   | ethnic group <ethnic group> sl=3
+     T Q16950972  Congolese people in France /   | ethnic group <ethnic group> sl=3
+    ✓T Q5160558  Congolese people /   | Wikimedia disambiguation page <Wikimedia disambiguation page> sl=2
+[277] grp:indians | הודים | Indian people | people of (British) India
+    ✓T Q862086  Indians / הודים  | citizens or residents of India <human population, nationality> sl=65
+     T Q10230  Bharatiya Janata Party / מפלגת העם ההודית [1980–] | right-wing political party in India <political party> sl=86
+    ✓T Q1277626  Tharu people / אנשי הת'ארו  | Ethnic group indigenous to the Terai region of southern Nepal and northern India <isolated human group, people> sl=31
+     T Q63985839  Indian Peoples Green Party /   | political party in India <political party> sl=0
+     T Q1103131  Indian People's Theatre Association /  [1942–] | Organisation of theatre artists <theatre company> sl=9
+     T Q6021216  Indian People's Front /  [1982–1994] | Indian political organisation, active between 1982 and 1994 <political party> sl=2
+    ✓T Q642553  Cleveland Guardians / קליבלנד אינדיאנס [1894–] | baseball team and Major League Baseball franchise in Cleveland, Ohio <baseball team> sl=34
+[281] grp:mongols | מונגולים | Mongols | Mongols
+   *✓T Q41975  Mongols / מונגולים  | ethnic group native to Mongolia and neighbouring areas <ethnic group> sl=118
+    ✓T Q55978524  Mongols /   | Mongol tribe, which under the leadership of Chinggis Khan built the Mongol Empir <> sl=1
+    ✓T Q3233905  The Mongols /   | 1961 film directed by André De Toth, Riccardo Freda and Leopoldo Savona <film> sl=11
+     T Q45401865  Mongolská /   | street in Prague, Czech Republic <street> sl=1
+     T Q46881  Mongols Motorcycle Club /  [1969–] | outlaw motorcycle club <motorcycle club, outlaw motorcycle club> sl=11
+     T Q1187403  Mongols in China /   | ethnic minority in China <ethnic group> sl=17
+[284] grp:boxers | בוקסרים | Boxer Rebellion | Boxers (Yihetuan movement)
+   *✓T Q150229  Boxer Rebellion / מרד הבוקסרים [1899–1901] | anti-imperialist uprising which took place in China 1899-1901 <rebellion, anti-missionary riot in China> sl=78
+    ✓T Q1633685  The Boxer Rebellion / The Boxer Rebellion [2001–] | British band <musical group> sl=9
+    ✓T Q51261959  Boxer Rebellion /   | episode of NYPD Blue (S2 E19) <television series episode> sl=0
+    ✓T Q114510901  Boxer Rebellion /   | episode of Major Dad (S1 E12) <television series episode> sl=0
+    ✓T Q10892046  Boxer Rebellion /   | 1976 film by Chang Cheh <film> sl=3
+    ✓T Q123267548  Boxer Rebellion /   | Hardcore band from Wichita, Kansas <musical group> sl=0
+    ✓T Q1335146  Yìhéquán / אגודת האגרופים [1890–1901] | Chinese secret society, 1880s to 1901 <secret society, terrorist organization> sl=19
+[285] grp:japanese | יפנים | Japanese people | Japanese people
+   *✓T Q161652  Japanese people / יפנים  | East Asian ethnic group native to Japan <ethnic group> sl=109
+    ✓T Q58893412  Japanese citizen / יפנים  | person who possesses Japanese nationality <> sl=2
+       Q141740595  Japanese people of Ghanaian descent /   | ethnic group; Japanese of full or partial Ghanaian ancestry <human, ethnic group> sl=0
+     T Q6158764  Japanese people in Hawaii /   | ethnic group in Hawaii <ethnic group by residency> sl=8
+     T Q5952809  Japanese people in China /   | People of Japanese descent that live within China <ethnic group by residency> sl=6
+     T Q6158946  Japanese people in Spain /   | ethnic group <ethnic group, human migration> sl=6
+[287] grp:siamese | סיאמים | Thai people | Siamese (Thai) people
+    ✓T Q472834  Thai people / תאילנדים  | ethnic group <ethnic group> sl=60
+    ✓T Q2408569  Thailander / תאילנדים  | citizens or residents of Thailand <human population, people> sl=8
+     T Q2600374  Thái people /   | collective term for various Tai ethnic groups in Vietnam <ethnic group> sl=10
+     T Q113484955  Thais in Japan /   | ethnic group <ethnic group> sl=3
+     T Q61365639  Thai People Justice Party /   | political party in Thailand <political party> sl=1
+     T Q65281394  Thai People's Party /   | political party in Thailand <political party> sl=1
+    ✓T Q9217  Thai / תאית  | Tai language <literary language, modern language> sl=172
+[289] grp:americans | אמריקאים | Americans | Americans
+   *✓T Q846570  Americans / אמריקאים  | citizens and nationals of the United States of America <human population, nationality> sl=87
+    ✓T Q1640548  Rochester Americans /  [1956–] | professional ice hockey team in Rochester, New York, United States <ice hockey team> sl=16
+    ✓T Q4742863  American /   | demonym for the Americas <word> sl=6
+     T Q678551  American Jews / יהדות ארצות הברית  | community in the United States <ethnic community, Jewish community> sl=36
+     T Q1146100  Chinese Americans / אמריקאים סינים  | Americans of Chinese ancestry <ethnic group by residency> sl=27
+     T Q3614117  Americans Abroad!!! Against Me!!! Live in London!!! /   | live album by Against Me! <album> sl=4
+[290] grp:canadians | קנדים | Canadians | Canadians
+   *✓T Q1196645  Canadians / קנדים  | citizens or residents of Canada <nation, human population> sl=48
+    ✓T Q7914130  Vancouver Canadians /  [2000–] | minor league baseball team in Vancouver, British Columbia, Canada (2000–present) <baseball team> sl=5
+    ✓T Q1219189  The Canadians /   | 1961 film by Burt Kennedy <film> sl=6
+    ✓T Q104842228  Vancouver Canadians /  [1978–1999] | minor league baseball team in Vancouver, British Columbia, Canada (1978–1999) <baseball team> sl=1
+     T Q365539  Black Canadians /   | racial or ethnic group in Canada with African ancestry <ethnic group, ethnic minority group> sl=14
+    ✓T Q1870965  BV Landlust /  [1960–] | basketball club <sports club> sl=3
+[291] grp:brazilians | ברזילאים | Brazilians | Brazilians
+   *✓T Q873625  Brazilians / ברזילאים  | citizens or residents of Brazil <human population> sl=58
+    ✓T Q40081663  Brazilians /   | 2017 film directed by Csaba M. Kiss <film> sl=1
+     T Q125470914  Brazilians Against Time /  [2016–] | charity video game speedrunning event <planned event> sl=2
+     T Q4958951  Brazilians of Spanish descent /   | Brazilian citizens of Spanish descent <ethnic group> sl=5
+     T Q4958943  Brazilians in Japan /   | overview about Brazilians in Japan <ethnic group, human migration> sl=7
+     T Q2712293  Brazilians in Suriname /   | ethnic group in Suriname <ethnic group> sl=5
+[294] grp:boers | בורים | Boers | Boers
+    ✓T Q37492124  Boers /   | family name <family name> sl=1
+    ✓T Q385799  Afrikaners / אפריקאנרים  | Southern African ethnic group descended from predominantly Dutch settlers <ethnic group> sl=61
+     T Q22798  Bœrsch /   | commune in Bas-Rhin, France <commune of France> sl=50
+    ✓T Q188201  Boer /   | descendants of the Dutch settlers in the Dutch Cape Colony <ethnic group> sl=65
+     T Q56244738  Boersma /   | family name <family name> sl=3
+    ✓  Q6163903  Jasper Broers /  1682–1716 | Flemish painter (1682-1716) <human> sl=2
+[295] grp:europeans | אירופאים | Europeans | Europeans (esp. foreigners in Morocco, China)
+   *✓T Q394067  European people / העם האירופאי  | panethnic group inhabiting Europe <human population> sl=33
+    ✓T Q7732622  The Europeans /  [1981–] | British new wave band <musical group> sl=2
+    ✓T Q1405838  The Europeans /   | 1979 film directed by James Ivory <film> sl=11
+    ✓T Q5413709  Europeans /  [1977–] | UK musical group <musical group> sl=1
+     T Q110723730  Europeans Throughout The World /  [1984–] | nonprofit organization <nonprofit organization> sl=0
+     T Q5413711  Europeans cricket team /   | Indian first-class cricket team founded by members of the European community in  <cricket team> sl=5
+[300] grp:national-minorities | מיעוטים לאומיים | National minority | national minorities
+   *✓T Q769696  national minority / מיעוט אתני  | group within a community which has different national or cultural traditions fro <> sl=33
+    ✓T Q21012205  national minority /   | Council of Europe designation <> sl=2
+     T Q50818946  National minority child wearing conical hat and holding a carp /  [1970–] | item EA2008.48.b in the Ashmolean Museum, Oxford, UK <cut-paper work> sl=0
+     T Q1904908  Romanian ethnic minorities parties /   | political party in Romania <political party, parliamentary group> sl=7
+     T Q6974358  National Minority Movement /  [1924–1929] | former trade union of the United Kingdom <organization> sl=1
+     T Q50818943  National minority child wearing hat and a scarf /  [1970–] | item EA2008.48.a in the Ashmolean Museum, Oxford, UK <cut-paper work> sl=0
+[304] grp:socialists | סוציאליסטים | Socialism | socialists
+   *✓T Q7272  socialism / סוציאליזם  | ideology and socio-economic system seeking equality through restrictions on priv <social movement, social formation> sl=201
+     T Q1754827  Socialism and Freedom Party / מפלגת הסוציאליזם והחופש [2004–] | political party in Brazil <political party> sl=16
+    ✓T Q3704432  socialist mode of production /   | marxian economy centered around use value, planning and contribution-based distr <mode of production> sl=15
+     T Q1631419  Socialisme ou Barbarie /  [1949–1967] | French-based radical libertarian socialist group of the post-World War II period <political organization> sl=17
+    ✓T Q47512865  Socialism /  [1978–] | painting by John O'Leary <painting> sl=0
+     T Q1022199  Socialism is Good /   | Chinese revolutionary song <musical work/composition> sl=12
+    ✓T Q752521  Socialist Party of Serbia / המפלגה הסוציאליסטית הסרבית [1990–] | political party in Serbia <political party> sl=38
+[305] grp:social-democrats | סוציאל-דמוקרטים | Social democracy | social democrats
+    ✓T Q121254  social democracy / סוציאל-דמוקרטיה  | political ideology <economic ideology, political ideology> sl=101
+    ✓T Q212101  Social Democrats / הסוציאל-דמוקרטים [1871–] | centre-left Danish political party <political party, social democratic party> sl=43
+    ✓T Q3896757  Social Democracy /  [1849–1924] | political party in Italy between 1922 and 1926 <political party> sl=4
+    ✓T Q3487389  Social Democracy /  [1997–] | Serbian political party <political party> sl=5
+    ✓T Q2021880  Social Democracy /  [1999–] | political party in Mexico <political party> sl=3
+     T Q7550516  Social Democracy of America /  [1897–] | political party in the United States <political party> sl=6
+    ✓T Q917211  Social Democrats / הסוציאל-דמוקרטים [1993–] | centre-left political party in Slovenia <political party> sl=31
+[307] grp:revisionists | רוויזיוניסטים | Revisionism (Marxism) | revisionist (reformist) socialists, Bernstein school
+     T Q1248702  Revisionism / רוויזיוניסטים  | Wikimedia disambiguation page <Wikimedia disambiguation page> sl=22
+[312] org:socialist-revolutionary-party | מפלגת הסוציאליסטים-המהפכנים | Socialist Revolutionary Party | Russian SR party
+   *✓T Q217009  Socialist Revolutionary Party / המפלגה הסוציאל-רבולוציונרית [1902–1940] | political party of the Russian Empire, the Russian Republic and Soviet Russia <political party> sl=49
+    ✓T Q3366778  Socialist Revolutionary Party /  [1898–1901] | French Blanquist political party <political party> sl=7
+    ✓T Q30601436  Socialist Revolutionary Party /   | former Persian revolutionary socialist party based in Baku, Caucasus <political party> sl=2
+    ✓T Q114594226  Socialist Revolutionary Party /   | political party in Lesotho <political party> sl=4
+     T Q31355638  Socialist-Revolutionary Party of Georgia /  [1918–1921] | Political party in the Democratic Republic of Georgia <political party> sl=3
+    ✓T Q109617503  Socialist Revolutionary Party /   | Wikimedia disambiguation page <Wikimedia disambiguation page> sl=1
+[313] org:constitutional-democratic-party | המפלגה הקונסטיטוציונית-דמוקרטית | Constitutional Democratic Party | Russian liberal party (Kadets)
+    ✓T Q155820  Constitutional Democratic Party / המפלגה הדמוקרטית החוקתית [1905–1917] | political party in the Russian Empire <political party, political party in the Russian Empire> sl=47
+    ✓T Q41532587  Constitutional Democratic Party of Japan / המפלגה הדמוקרטית החוקתית של יפן [2017–2020] | Japanese political party existed in 2017-2020 <defunct political party> sl=5
+    ✓T Q99233271  Constitutional Democratic Party of Japan / המפלגה הדמוקרטית החוקתית של יפן [2020–] | Japanese centre-left political party founded in 2020 <political party> sl=26
+    ✓T Q530365  Rikken Minseitō / ריקן מינסייטו [1927–1940] | political party in the Empire of Japan <defunct political party> sl=18
+     T Q3896747  Constitutional Democratic Party (Italy) /  [1913–1919] | Defunct political party in the Kingdom of Italy <political party> sl=5
+     T Q119930182  Constitutional Democratic Party of Japan presidential election /   | election of President of the Constitutional Democratic Party of Japan <public election> sl=2
+    ✓T Q1824758  Russian Constitutional Democratic Party members /   |  <> sl=0
+[316] org:bolsheviks | בולשביקים | Bolsheviks | Bolshevik faction of the RSDLP
+   *✓T Q83372  Bolsheviks / בולשביזם [1903–] | faction of the Marxist Russian Social Democratic Labour Party; a major faction i <political movement, group of humans> sl=92
+    ✓T Q30703585  Bolsheviks /  [1918–] | painting by Ilya Repin <painting> sl=3
+     T Q63256310  Bolsheviks Party of South Africa /   | political party in South Africa <political party> sl=5
+     T Q12135511  Bolsheviks' occupation of Poltava (1918) /  [1918–1919] |  <military occupation> sl=2
+       Q124286931  Bolsheviks' grave on Krasnenkoe cemetery /   | mass grave, historic site, memorial in Kirovsky District, Saint Petersburg, Russ <historic site, mass grave> sl=1
+     T Q139773956   /   |  <> sl=0
+[320] grp:decembrists | דקבריסטים | Decembrists | Decembrist revolt participants (1825)
+    ✓T Q8680884  Decembrists /   | participants in the 1825 Decembrist Revolt <group of humans> sl=27
+    ✓T Q4156933  The Decembrists / דקבריסטים  | 1926 film by Aleksandr Ivanovsky <film> sl=16
+    ✓T Q130467562  The Decembrists in Chita /  [1910–] | painting by Alexander Moravov <painting> sl=0
+     T Q12099862  Decembrists' women /   |  <> sl=4
+     T Q139934866  Decembrists Grove /   |  <grove> sl=2
+     T Q122297484  Decembrists' lodge in Kyrnasivka /   |  <cultural property> sl=1
+[321] grp:revolutionaries | מהפכנים | Revolutionary | revolutionaries
+    ✓T Q3242115  revolutionary / מהפכן  | person who participates in a revolution <occupation> sl=41
+     T Q15765357  Revolutionary Russia /   | academic journal <scientific journal> sl=0
+     T Q40949  American Revolutionary War / מלחמת העצמאות של ארצות הברית [1775–1783] | 1775–1783 war between Great Britain and the Thirteen Colonies, which won indepen <war of national liberation> sl=115
+     T Q1241568  war cemetery / בית קברות צבאי  | burial place for members of the armed forces or civilians who died during milita <> sl=27
+    ✓T Q147265  Étude Op. 10, No. 12 /  [1831–] | étude written by Chopin <musical work/composition> sl=17
+    ✓T Q56087472  The Revolutionary /   | episode of Highlander: The Series (S3 E3) <television series episode> sl=0
+[323] grp:persian-revolutionaries | מהפכנים פרסיים | Persian Constitutional Revolution | Persian constitutional revolutionaries
+   *✓T Q1368440  Persian Constitutional Revolution / המהפכה החוקתית של 1909 [1905–1911] | a movement for the Constitution of Iran monarchy in 1905 to 1911 <revolution> sl=39
+    ✓T Q4818171  Persian Constitutional Revolution / המהפכה החוקתית באיראן [1905–1911] | a Revolution during the Constitutionalization attempts in Iran in 1906 <revolution> sl=5
+[325] grp:anarchists | אנרכיסטים | Anarchism | anarchists
+   *✓T Q6199  anarchism / אנרכיזם  | a philosophy, movement, and political ideology that holds that any government, l <ideology, political movement> sl=184
+    ✓T Q139777863  Anarchism /   |  <literary work> sl=0
+     T Q4751627  Anarchism and Other Essays / חמישה מאמרים פמיניסטיים  | 1910 essay by Emma Goldman <literary work> sl=9
+    ✓T Q54802640  Anarchism /   | 1900 book by Paul Eltzbacher <literary work> sl=2
+    ✓T Q25207685  Anarchism: A History of Libertarian Ideas and Movements /   | book by George Woodcock <literary work> sl=1
+     T Q106831772  Anarchism and Other Essays /   | podcast <podcast show> sl=0
+    ✓T Q4751662  Anarchists /   | 2000 Korean martial arts film directed by Yoo Young-sik <film> sl=5
+[328] grp:liberals | ליברלים | Liberalism | liberals
+   *✓T Q6216  liberalism / ליברליזם  | political and moral philosophy based on liberty, consent of the governed and equ <political philosophy, social philosophy> sl=190
+    ✓T Q1822951  liberalism / ליברליות  | school of thought within international relations theory <international relations theory, political theory> sl=21
+    ✓T Q58202776  LIBERALISM /   | book section published in 1978 <chapter> sl=0
+     T Q721556  liberalism in the United States / ליברליזם בארצות הברית  | origin, history and development of liberalism in the United States <political philosophy> sl=17
+    ✓T Q29832589  Liberalism: A Counter-History /   | 2011 essay by Domenico Losurdo <counterargument, literary work> sl=2
+    ✓T Q131142587  Liberalism /   | 1919 reprint of work by Leonard Trelawny Hobhouse <version, edition or translation> sl=1
+    ✓T Q622441  Liberal Party / המפלגה הליברלית [1859–1988] | major political party in the United Kingdom from 1859 to 1988 <political party, former liberal party> sl=47
+[330] grp:radicals | רדיקלים | Radicalism (historical) | radicals (French Radicals etc.)
+     T Q1687668  Radicals / רדיקלים [1797–] | Political grouping in the British Parliament from the mid-18th century to the mi <parliamentary group, former liberal party> sl=6
+     T Q185056  radical / רדיקלים חופשיים  | atom, molecule, or ion that has an unpaired valence electron; typically highly r <structural class of chemical entities> sl=70
+[331] grp:republicans | רפובליקנים | Republicanism | republicans
+    ✓T Q877848  republicanism / רפובליקניזם  | political ideology centered on citizenship in a state organized as a republic <political ideology> sl=60
+    ✓T Q140178152  Republicanism /   | edited book published by Oxford University PressOxford (1999) <version, edition or translation> sl=0
+     T Q517372  Irish republicanism / רפובליקניזם אירי  | political movement for the unity and independence of Ireland <political ideology> sl=25
+     T Q11265529  republicanism in Spain /   | political position and movement <political ideology> sl=9
+    ✓T Q87347258  Republicanism /   | episode of In Our Time <radio series episode> sl=0
+     T Q139779143  Republicanism and Bourgeois Radicalism /   |  <monograph> sl=0
+    ✓T Q29468  Republican Party / המפלגה הרפובליקנית [1854–] | American political party <political party> sl=145
+[332] grp:radical-republicans | רפובליקנים רדיקלים | Radical Party (France) | Radical Party (France)
+     T Q11833539  Radical Republican / הרפובליקנים הרדיקלים [1858–1877] | faction of the 19th-century U.S. Republican Party <political faction> sl=15
+[333] grp:portuguese-republicans | רפובליקנים פורטוגזים | Portuguese Republican Party | Portuguese Republican Party
+    ✓T Q2054740  Portuguese Republican Party /  [1876–1911] | defunct political party in Portugal <political party> sl=12
+    ✓T Q1783440  Democratic Party /  [1910–1926] | political party in Portugal <political party> sl=9
+[336] grp:conservatives | שמרנים | Conservatism | conservatives
+    ✓T Q7169  conservatism / שמרנות  | cultural, social, and political philosophy that seeks to promote and to preserve <ideology, political philosophy> sl=159
+    ✓T Q139722867  Conservatism /   |  <chapter> sl=0
+    ✓T Q5163004  conservatism /   | cognitive bias of the tendency to revise one's belief insufficiently when presen <> sl=4
+     T Q2585032  conservatism in the United States / שמרנות אמריקנית  | origin, history and development of conservatism in the United States <social philosophy, political philosophy> sl=29
+     T Q136163682   /   | book 2023 <version, edition or translation> sl=0
+     T Q5163008  conservatism in Canada /   | overview of conservatism in Canada <> sl=5
+    ✓T Q9626  Conservative Party / המפלגה השמרנית [1834–] | centre-right to right-wing political party in the United Kingdom <political party> sl=95
+[340] grp:nationalists | לאומנים | Nationalism | nationalists / chauvinists
+   *✓T Q6235  nationalism / לאומיות [1800–] | ideology and movement that promotes the interests of a particular nation (as in  <ideology, political movement> sl=194
+    ✓T Q139721939  Nationalism /   |  <literary work> sl=0
+    ✓T Q139722868  Nationalism /   |  <chapter> sl=0
+    ✓T Q84629191  Nationalism /   | 1917 edition of an English book by Rabindranath Tagore <oration, version, edition or translation> sl=1
+    ✓T Q20082758  Nationalism /   | book by Dmytro Dontsov <literary work> sl=3
+    ✓T Q84629315  Nationalism /  [1917–] | collection of lectures by Rabindranath Tagore <literary work> sl=0
+    ✓T Q2742116  Nationalist faction /  [1936–1939] | major faction in the Spanish Civil War of 1936 to 1939 <political faction> sl=22
+[342] grp:antisemites | אנטישמים | Antisemitism | antisemites
+   *✓T Q22649  antisemitism / אנטישמיות  | bias, prejudice, or discrimination against Jews <ideology, discrimination> sl=122
+    ✓T Q115259158  Antisemitism /  [1860–] | origins, meanings and problems of usage of the term <term> sl=2
+     T Q19588119  Antisemitismus (Pauly-Wissowa) /   | encyclopedic article in Paulys Realencyclopädie der classischen Altertumswissens <encyclopedia article> sl=1
+     T Q2853398  antisemitism in the United States / אנטישמיות בארצות הברית  | attitudes and behaviors in the US targeted against Jews <> sl=8
+     T Q4992519  antisemitism in France / אנטישמיות בצרפת  | discrimination against and oppression of Jews in the history of France <aspect in a geographic region> sl=8
+     T Q4775242  antisemitism in Europe / אנטישמיות בגרמניה  | overview of persecution of Jews in European history <> sl=8
+    ✓T Q108308882  Antisemites /  [1964–] | 1964 song by Vladimir Vysotsky <musical work/composition> sl=1
+[344] grp:freemasons | בונים חופשיים | Freemasonry | Freemasons
+   *✓T Q41726  Freemasonry / הבונים החופשיים [1717–] | fraternal organization <society, fraternal organization> sl=112
+    ✓T Q135089634  Freemasonry /   | 1884 Papal encyclical by Leo XIII <version, edition or translation> sl=1
+     T Q153704  history of Freemasonry / היסטוריה של הבונים החופשיים  | aspect of history <aspect of history> sl=16
+     T Q2585138  Freemasonry in France /   | overview of freemasonry in France <social group> sl=5
+     T Q138299975  Freemasonry in Slovakia /   | Wikimedia category <Wikimedia category> sl=2
+     T Q11704324  Masonic conspiracy theories /   | conspiracy theories about Freemasons <conspiracy theory> sl=12
+    ✓T Q1453598  Freemasons / פרימייסונס [2004–] | English-Irish DJ band <musical duo> sl=12
+[345] grp:suffragettes | סופרג'יסטיות | Suffragette | women's suffrage militants
+    ✓T Q322170  suffragette / סופרג'יסט  | member of the Woman's Social and Political Union who advocated for women's right <ideology, group of humans> sl=54
+    ✓T Q17021589  Suffragette / סופרג'יסטיות  | 2015 film directed by Sarah Gavron <film> sl=27
+    ✓T Q62060089  My Own Story /   | autobiographical work by Emmeline Pankhurst <literary work> sl=0
+     T Q91341903  Suffragette City /   | vocal track by Red Hot Chili Peppers; live recording; cover version <music track with vocals> sl=0
+     T Q91378619  Suffragette City /   | vocal track by David Bowie; 1972 studio recording <music track with vocals> sl=0
+     T Q27532437  suffragist / סופרג'יסטית  | activist advocating for the women's right to vote <occupation> sl=5
+[346] grp:workers | פועלים | Working class | workers / proletariat
+    ✓T Q191159  working class / מעמד הפועלים  | social class composed of members of the society employed in lower tier jobs <> sl=72
+     T Q2200223  working-class house /   | building, usually as part of a settlement, which is rented in whole or in part p <> sl=3
+     T Q211160  Working Classical / Working Classical  | album by Paul McCartney <album> sl=8
+    ✓T Q8034896  Working Class /  [2011–2011] | television series <television series> sl=1
+     T Q56278299  Working Class Boy – The Soundtracks /   | 2018 soundtrack album by Jimmy Barnes <album> sl=1
+    ✓T Q6168248  Working Class /   | 2005 film <film> sl=2
+    ✓T Q132603  proletariat / פרולטריון  | Social class rooted in ancient Rome, defined in Marxism as wage workers who lack <social class> sl=101
+[348] grp:miners | כורים | Miner | miners
+    ✓T Q29573857  Miner /   | family name <occupational surname, Basque family name> sl=2
+     T Q15760869  Minerva Pediatrica /   | journal <scientific journal> sl=0
+   *✓T Q820037  miner / כורה  | person who works in mining <profession> sl=42
+     T Q44497  mining / כרייה  | extraction of valuable minerals or other geological materials from the earth <academic discipline, economic activity> sl=109
+     T Q5309  graphite / גרפיט  | allotrope of carbon, mineral, substance <mineral species> sl=96
+     T Q126916  Minerva / מינרווה  | Roman goddess of wisdom and sponsor of arts, trade, and defense <goddess, Roman deity> sl=83
+[350] grp:dock-workers | פועלי נמל | Stevedore | dock workers and seamen
+   *✓T Q1537445  stevedore / סוור  | occupation of loading and unloading ships <profession, occupation> sl=26
+    ✓T Q107380864  stevedore /   | Python library <Python package> sl=0
+    ✓T Q12563129  stevedore /   | person or organization in charge of loading and unloading ships <organization, profession> sl=2
+    ✓T Q3651122  Camallo /   | a Genoese term for stevedore <profession, term> sl=3
+    ✓T Q3033469  stevedore /   |  <occupation> sl=1
+     T Q19884369  Stevedores Resting /  [1938–] | painting by Alfredo Guido <painting> sl=0
+    ✓T Q21401846  dock worker /   | former profession in the harbour <profession> sl=1
+[351] grp:coolies | קולים | Coolie | coolies / porters
+    ✓T Q548135  coolie / קולי  | labourer from Asia <occupation> sl=40
+    ✓T Q5167481  Coolie /   | 1983 film by Manmohan Desai <film> sl=19
+    ✓T Q27642752  Coolie /   | 1997 film by Montazur Rahman Akbar <film> sl=2
+    ✓T Q5167480  Coolie /   | 2004 film by Swapan Saha <film> sl=2
+    ✓T Q5167484  Coolie /   | 1936 novel by Mulk Raj Anand <written work> sl=4
+    ✓T Q65081543  Coolie No. 1 /   | 2020 film directed by David Dhawan <film> sl=10
+[353] grp:women-and-child-workers | נשים וילדים עובדים | Child labour | working women and children
+   *✓T Q192571  child labour / העסקת ילדים  | exploitation of children through any form of work <> sl=74
+    ✓T Q28169319  Child Labour /   | 1986 Indian law <version, edition or translation> sl=3
+     T Q1377073  child labour in India /   | child labour <> sl=15
+     T Q139772323  Child Labour in Britain, 1750–1870 /   |  <literary work> sl=0
+     T Q94949745  Child and Adolescent Labour (Prohibition and Regulation) Act, 1986 /   | Act of the Parliament of India, replaces Act 26 of 1938, amends Acts 11/1948, 69 <Act of the Parliament of India> sl=0
+     T Q5097853  child labour in Africa /   | overview about child labour in Africa <> sl=7
+[361] grp:peasants | איכרים | Peasant | peasants
+   *✓T Q838811  peasant / איכר  | member of a traditional class of farmers <occupation> sl=76
+    ✓T Q135052057  Peasant /   | video game developed by Harakka Studio <video game> sl=0
+       Q43270  Pieter Bruegel the Elder / פיטר ברויגל האב 1525–1569 | Flemish painter (1526–1569) <human> sl=92
+    ✓T Q80183615  Peasant / איכר [1801–] | sculpture by Jules Dalou at Israel Museum <sculpture> sl=0
+     T Q112148601  Peasant Knight /   | 2019 video game <video game> sl=0
+    ✓T Q63143788  Peasant /   | theatrical character in the play "Mother Courage and Her Children" <theatrical character> sl=0
+    ✓T Q63993747  peasantry /   | social class <social class, estates of the realm> sl=6
+[366] grp:winegrowers | כורמים | Winegrower | winegrowers (1907 Languedoc revolt)
+    ✓T Q897317  winegrower / כורם  | person who cultivates the vineyard, entrusts the winemaking to a winery cooperat <profession> sl=20
+     T Q132560404  Winegrower statue /   | statue in Bingen am Rhein, Germany <statue> sl=1
+     T Q29479216  winegrower house Les Rondas /  [1742–] | Haus in Môtier in the canton of Fribourg, Switzerland <house, built structure> sl=1
+     T Q29891104  winegrower's house and outbuildings /   | buildings in Lonay in the canton of Vaud, Switzerland <built structure, building> sl=0
+    ✓T Q538650  Revolt of the Languedoc winegrowers / מרד הכורמים של לנגדוק [1907–1907] | rebellion <rebellion> sl=8
+[367] grp:landowners | בעלי אחוזות | Landed gentry | landowners
+   *✓T Q56304279  landed gentry /   | British and Irish social class of wealthy land owners <social class> sl=14
+    ✓T Q115226548  Burke's Landed Gentry 1882 /   | genealogy book published in 1882 <version, edition or translation> sl=0
+     T Q3959900  Landed gentry (China) /   |  <> sl=5
+    ✓T Q16871803  Landed gentry /   | Wikimedia disambiguation page <Wikimedia disambiguation page> sl=1
+[369] grp:nobility | אצולה | Nobility | nobility, aristocracy
+   *✓T Q134737  nobility / אצולה  | official privileged social class <social class, estate of the realm> sl=113
+    ✓T Q262175  inertness / אדישות כימית  | chemical property of low reactivity <chemical property> sl=20
+     T Q355358  nobility archive / ארכיון אצולה  | collection of historical documents and information about members of the nobility <archive type> sl=1
+     T Q2554364  nobility of Spain / אצולה ספרדית  | privileged social class in Spain officially enjoying hereditary privileges disti <title of honor, award> sl=12
+    ✓T Q55432106  Nobility /  [1920–] | painting by Jacques Villon <painting> sl=0
+     T Q311995  Szlachta / שלכטה [–1921] | noble class of Kingdom of Poland and later in the Polish-Lithuanian Commonwealth <social class, Gentlemen's class> sl=45
+[371] grp:bourgeoisie | בורגנות | Bourgeoisie | bourgeoisie
+   *✓T Q52090  bourgeoisie / בורגנות  | Social class originating among medieval European townspeople, later denoting the <social class> sl=109
+    ✓T Q37868367  Burghers of Sweden /   | one of the estates in Riksdag of the Estates <Estates of the realm> sl=1
+    ✓T Q1021096  civic community /   | statutory corporation in public law in Switzerland <statutory corporation> sl=6
+    ✓T Q107366834  Bourgeoisie /  [1913–] | painting by Alfred Roll <painting, pastel artwork> sl=0
+     T Q2922320  Bourgeoisie of Geneva /   | Patrician class of the city <social class> sl=3
+     T Q1941338  burgher / בורגר  | group in a society, a class <social class> sl=23
+[373] grp:capitalists | קפיטליסטים | Capitalism | capitalists
+    ✓T Q5035795  Capitalism /   | 1995 video game <video game> sl=8
+   *✓T Q6206  capitalism / קפיטליזם  | economic system in which individuals or firms can acquire and own the means of p <social movement, social formation> sl=203
+    ✓T Q96699521  Capitalism: A Journal of History and Economics /  [2020–] | trans-disciplinary journal <academic journal, scientific journal> sl=0
+     T Q2658360  Capitalism II /   | 2001 video game <video game> sl=11
+     T Q1074682  Capitalism, Socialism and Democracy / קפיטליזם, סוציאליזם ודמוקרטיה  | non-fiction work by Joseph Schumpeter <literary work> sl=16
+    ✓T Q108370662  Capitalism /   | video game series <video game series> sl=1
+     T Q139689052  Capitalists in Spite of Themselves /   |  <literary work> sl=0
+[375] grp:industrialists | תעשיינים | Industrialist | industrialists / factory owners
+   *✓T Q6606110  industrialist / תעשיין  | owner or operator of a factory or manufacturing business <profession, occupation> sl=17
+    ✓T Q100300728  Industrialist /   | newspaper published in Manhattan, Kansas <newspaper> sl=0
+       Q5948483  Adolf Ludvig Levin /  1733–1807 | 22 Feb 1733 Fredericia, Slesvig, Denmark, near Holstein - 19 Jan 1807 Ludvigsber <human> sl=1
+    ✓T Q60990667  Industrial Party /   | term refers to a group of Chinese thinkers and Chinese people who support scient <school of thought> sl=3
+    ✓  Q125373175  Hassan Lahijanian /  1987– | Plastic injection industry teacher <human> sl=0
+       Q900478  Wilhelm Hisinger /  1766–1852 | Swedish chemist and mineralogist <human> sl=23
+[376] grp:bankers | בנקאים | Banker | Banker
+   *✓T Q806798  banker / בנקאי  | person who works for, manages or owns a bank <profession, occupation> sl=28
+    ✓T Q37057252  Banker /   | family name <family name> sl=3
+    ✓  Q5919988  Howard James Banker /  1866–1940 | American mycologist (1866-1940) <human> sl=8
+     T Q545007  Gainbridge Fieldhouse / גיינברידג' פילדהאוס [1999–] | indoor arena in Indianapolis, Indiana, USA <arena> sl=31
+     T Q2587241  Bankeraceae /   | family of fungi <taxon> sl=15
+     T Q22687  bank / בנק  | financial institution that accepts deposits <> sl=176
+[377] grp:merchants | סוחרים | Merchant | merchants, traders
+    ✓T Q215536  merchant / סוחר  | businessperson who trades in commodities that were produced by others <profession> sl=71
+    ✓T Q16577973  Merchant /   | family name <family name> sl=5
+    ✓T Q3704253  trader / סוחר  | person or group engaged in trade <profession> sl=8
+    ✓T Q1762621  vendor / ספק  | business that supplies, provides and usually sells goods or services <occupation, role> sl=29
+     T Q167270  trademark / סימן מסחר  | trade identifier of products or services <intellectual property right> sl=84
+    ✓T Q12049274  retail worker / קמעונאי  | person who works in the retail industry or business activity that generally sell <profession> sl=2
+[383] grp:butchers | קצבים | Butcher | Butcher
+    ✓T Q66069498  BUTCHER /   | 2016 video game <video game> sl=2
+   *✓T Q329737  butcher / קצב  | craftsman responsible for the preparation and sale of meat <profession> sl=68
+    ✓T Q14515479  Butcher /   | family name <family name, occupational surname> sl=5
+    ✓T Q117303744  Butcher /   | male given name <male given name> sl=0
+    ✓  Q21392741  Buntika Areekul Butcher /   | Thai entomologist <human> sl=1
+    ✓  Q21388052  Roger William Butcher /  1897–1971 | British botanist and phycologist (1897-1971) <human> sl=1
+[384] grp:artisans | בעלי מלאכה | Artisan | artisans / craftsmen
+   *✓T Q1294787  artisan / אומן  | people who work in the arts, a handicraft, or a skilled trade, particularly when <profession> sl=53
+     T Q97767781  artisans /   | French socio-professional category <profession and socioprofessional category in France, legal form> sl=0
+    ✓T Q57260825  skilled trade / מקצוע מיומן  | professional group <> sl=3
+    ✓T Q2865801  Artisan Entertainment / ארטיזן אנטרטיינמנט [1982–2004] | American movie studio <film distributor, film production company> sl=11
+    ✓T Q135024943  ARTISAN /   | 2022 video game developed by STARRYWARE and The Order Of The Frame <video game> sl=0
+     T Q877729  handicraft / אומנות  | field of work where useful and decorative objects are made completely by hand or <technique, genre> sl=84
+[385] grp:tailors | חייטים | Tailor | Tailor
+    ✓T Q242468  tailor / חייט  | person who makes, repairs, or alters clothing professionally <profession> sl=83
+    ✓T Q37457972  Tailor /   | family name <family name, occupational surname> sl=1
+    ✓T Q105322708  Tailor /   | unisex given name <unisex given name> sl=1
+    ✓T Q200473  bleak /   | species of fish <taxon, food ingredient> sl=57
+    ✓  Q15850028  Tailor /  1986– | South African singer-songwriter <human> sl=1
+    ✓T Q63492416  Tailor /   | theatrical character in the play "The Bourgeois Gentleman" <theatrical character> sl=0
+[386] grp:lawyers | עורכי דין | Lawyer | Lawyer
+    ✓T Q40348  lawyer / עורך דין  | legal professional <legal profession> sl=153
+    ✓T Q185351  jurist / משפטן  | legal scholar or academic, a professional who studies, teaches, and develops law <academic degree, legal profession> sl=75
+    ✓T Q115031112  Lawyer /   | given name <given name> sl=0
+     T Q613142  law firm / משרד עורכי דין  | business entity formed by one or more lawyers to engage in the practice of law <> sl=30
+    ✓T Q37505850  Lawyer /   | family name <family name> sl=1
+    ✓T Q46996572  plaintiff's attorney /   | lawyer who represents a plaintiff <> sl=0
+[388] grp:journalists | עיתונאים | Journalist | Journalist
+   *✓T Q1930187  journalist / עיתונאי  | person who collects, writes, and distributes news and other information <profession, position> sl=146
+    ✓T Q10540976  Journalist /   | 2000 computer game <video game> sl=1
+    ✓T Q123947167  Journalist /   | square in Sofia (Bulgaria) <square> sl=1
+     T Q6051619  publicist / פובליציסט  | Person who writes and publishes opinion-based works <profession> sl=22
+    ✓T Q1194623  The Journalist (1967 film) /   | 1967 Soviet film directed by Sergei Gerasimov <film> sl=13
+    ✓  Q6238390  Lars Westman /  1934–2021 | Swedish writer and journalist (1934-2021) <human> sl=4
+[390] grp:psychologists | פסיכולוגים | Psychologist | Psychologist
+   *✓T Q212980  psychologist / פסיכולוג  | professional who evaluates, diagnoses, treats, and studies behavior and mental p <profession, occupation group according to ISCO-08> sl=76
+    ✓T Q109311335  Psychologist /  [2020–2021] | Chinese urban television series (2020–2021) <television series> sl=3
+    ✓T Q15754023  The Psychologist /   | journal of the British Psychological Society <magazine, scientific journal> sl=1
+    ✓T Q70760830  Psychologist /   | fictional character from 'The Time Machine' <character> sl=0
+     T Q97162931  Psychologists/Psychotherapists for Future /  [2019–] |  <social movement, nonprofit organization> sl=1
+     T Q134689315  Psychologists from Switzerland /   | Gallery <> sl=1
+[391] grp:intelligentsia | אינטליגנציה | Intelligentsia | Intelligentsia
+    ✓T Q58968  intellectual / אינטלקטואל  | person who engages in critical thinking and reasoning <profession, occupation> sl=75
+    ✓T Q381142  intelligentsia / אליטה אינטלקטואלית  | status class of educated people who consciously shape society <social class, occupation> sl=55
+    ✓T Q152182  intelligentsia /   | Academic. In the Baltics, 'Literat' was the term used since the 18th century for <> sl=4
+     T Q16997104  Intelligentsia Coffee /  [1995–] | American coffee roasting company <business> sl=4
+     T Q30284807  Intelligentsia Consultants /  [2007–] | company in Littlehampton, United Kingdom <business> sl=0
+     T Q30290111  Intelligentsia Consultants (Luxembourg) /   | company in Bertrange, Luxembourg <business> sl=0
+[393] grp:police | שוטרים | Police officer | policemen
+   *✓T Q384593  police officer / שוטר  | warranted employee of a police force to keep law and order in the country <profession> sl=55
+    ✓T Q361593  police officer / שוטר  | police officer with the fiduciary relationship of being a "Beamter" <profession, occupation group according to ISCO-08> sl=2
+    ✓T Q3349703  police officer /   | member of the French police force that is an officer at rank higher than agent <profession> sl=1
+    ✓T Q50982269  Pokémon Police Officer /   | occupation in the Pokémon series <fictional profession> sl=0
+    ✓T Q87577563  👮 / 👮  | Unicode character <emoji, Unicode character> sl=1
+    ✓T Q28811373  police officer /   | fictional character from That Darn Cat! <fictional human, film character> sl=0
+[394] grp:students | סטודנטים | Student | university students
+   *✓T Q48282  student / תלמיד  | learner, or someone who attends an educational institution <social group, occupation> sl=121
+    ✓T Q37271671  Student /   | family name <family name> sl=1
+    ✓T Q315247  university student / סטודנט  | enrolled student in university or college <occupation> sl=27
+     T Q1779527  Studentenverbindung / אגודת סטודנטים  | association of students and former students in German-speaking countries <> sl=19
+     T Q102399391  Students of the Universities of Prague 1882–1945 /   | digitization project of the Charles University in the Czech Republic <database> sl=0
+     T Q1685451  student society / ארגון סטודנטים  | organization operated by students for students, traditionally at a university <> sl=18
+[400] grp:women | נשים | Women | women
+    ✓T Q6581072  female / נקבה  | to be used in "sex or gender" (P21) to indicate that the human subject is a fema <gender identity, sex of humans> sl=14
+   *✓T Q467  woman / אישה  | female adult human <> sl=274
+     T Q11774891  ice hockey player / שחקן הוקי קרח  | sportsperson taking part in ice hockey competitions <profession, occupation> sl=9
+     T Q19507487  Women Painters of the World, from the time of Caterina Vigri, 1413-1463, to Rosa Bonheur and the present day, 1905 /   | 1905 book listing an overview of women painters <art catalog> sl=20
+     T Q11879590  female given name / שם פרטי נשי  | given name usually meant for girls and women <type of name> sl=5
+     T Q606060  women's association football / כדורגל נשים  | association football when played by women <competition class> sl=49
+[402] grp:orphans | יתומים | Orphan | Orphan
+    ✓T Q73086618  Orphan /   | 2018 platformer video game by Windy Hill <video game> sl=1
+    ✓T Q40308411  Orphan /   | 2011 studio album by Gridlink <album> sl=1
+   *✓T Q193279  orphan / יתמות  | child whose parents are dead or have abandoned them permanently <condition, legal status> sl=93
+    ✓T Q37541782  Orphan /   | family name <family name> sl=1
+     T Q246782  Chicago Cubs / שיקגו קאבס [1870–] | baseball team and Major League Baseball franchise in Chicago, Illinois, United S <baseball team> sl=42
+     T Q7103920  Orphan Black / אורפן בלאק [2013–2017] | 2013 Canadian science fiction thriller television series <television series> sl=31
+[403] grp:prisoners | אסירים | Prisoner | Prisoner
+   *✓T Q1862087  prisoner / אסיר  | person who is deprived of liberty against their will <social status, occupation> sl=54
+    ✓T Q2398416  Prisoner / Prisoner  | 1979 studio album by Cher <album> sl=14
+    ✓T Q28100706  Prisoner /   | studio album by American singer-songwriter Ryan Adams <album> sl=4
+    ✓T Q65023023  Prisoner /  [1943–] | print in the National Gallery of Art (NGA 30700) <print> sl=0
+    ✓T Q124069897  Prisoner /   | 2017 video game <video game> sl=0
+     T Q179637  prisoner of war / שבוי  | person who is held in custody by a belligerent power during or immediately after <social role, group of humans> sl=85
+[404] grp:prisoners-of-war | שבויי מלחמה | Prisoner of war | Prisoner of war
+   *✓T Q179637  prisoner of war / שבוי  | person who is held in custody by a belligerent power during or immediately after <social role, group of humans> sl=85
+    ✓T Q2877832  Prisoner of War /   | 2002 third-person stealth game <video game> sl=5
+     T Q1070290  prisoner-of-war camp / מחנה שבויים  | site for the containment of combatants captured by their enemy in time of war <type of prison facility> sl=26
+    ✓T Q7245823  Prisoner of War /   | episode of Falling Skies (S1 E3) <television series episode> sl=2
+    ✓T Q109725354  Prisoner of War /   | episode of The Avengers: Earth’s Mightiest Heroes <television series episode> sl=1
+     T Q1816763  Prisoner of War Medal / מדליית שבוי מלחמה [1985–] | U.S. military award <medal, service medal> sl=9
+[405] grp:slaves | עבדים | Slavery | slaves (black and white slave trade)
+   *✓T Q8463  slavery / עבדות  | system under which people are treated as property to be bought and sold, and are <> sl=202
+     T Q3486571  Slavery & Abolition /  [1980–] | academic journal <scientific journal> sl=1
+     T Q3057915  slavery in Africa / עבדות באפריקה  | historical slavery in Africa <aspect in a geographic region> sl=41
+     T Q169390  abolitionism / התנועה לביטול העבדות  | movement to end slavery <social movement, political movement> sl=82
+     T Q118382  slavery in the United States / עבדות בארצות הברית [1776–] | form of slave labor which existed as a legal institution from the early years of <historical event> sl=45
+    ✓T Q107206932  slavery /   | exhibition in the Rijksmuseum and catalog 2021 <exhibition, exhibition catalogue> sl=0
+    ✓T Q19604547  Soft Play /  [2012–] | English musical group; punk rock duo <musical group> sl=10
+[406] grp:emigrants | מהגרים | Emigration | emigrants / immigrants
+    ✓T Q187668  emigration / הגירה  | act of leaving one's country or region with the intent to settle permanently or  <activity, key event> sl=80
+     T Q5371118  Emigration Canyon /   | city in Salt Lake County, Utah, United States <city in the United States> sl=18
+    ✓T Q77010003  Emigration /  [1801–] | print in the National Gallery of Art (NGA 173121) <print> sl=0
+     T Q15752331  Emigration Studies /   | academic journal <scientific journal> sl=0
+    ✓T Q131288  immigration / הגירה  | movement of people into another country or region to which they are not native <activity> sl=102
+     T Q4400561  Russian emigration /   | emigration from Russia and USSR <emigration> sl=1
+    ✓T Q6004986  Immigration /   | album by Show-Ya <album> sl=2
+[407] grp:refugees | פליטים | Refugee | Refugee
+   *✓T Q131572  refugee / פליט  | type of displaced person <occupation> sl=104
+    ✓T Q136403141  Citizen /   | group of supporting characters in half-life 2 <group of humans, fictional human> sl=1
+     T Q622499  refugee camp / מחנה פליטים  | temporary settlement for refugees <> sl=50
+    ✓T Q459833  Refugee /   | 2000 Indian film directed by J. P. Dutta <film> sl=14
+    ✓T Q973697  Refugee /  [1974–] | progressive rock group <musical group> sl=10
+    ✓T Q3235224  Force Heretic: Refugee /   | novel by Sean Williams and Shane Dix <literary work> sl=2
+[408] grp:colonists | מתיישבים | Settler colonialism | colonists / settlers
+    ✓T Q139876026  Settler Colonialism /   |  <monograph> sl=0
+    ✓T Q139828083  Settler Colonialism /   |  <literary work> sl=0
+    ✓T Q139687261  Settler Colonialism /   |  <version, edition or translation> sl=0
+    ✓T Q716815  settler colonialism / קולוניאליזם התיישבותי  | type of colonization <> sl=26
+     T Q104868444  settler colonialism in Canada /   | process of genocides, ethnic cleansings, ethnocides against First Nations, and E <aspect in a geographic region> sl=2
+     T Q112150911  settler colonialism in Australia /   |  <settler colonialism> sl=1
+    ✓T Q37234779  Settler /   | family name <family name> sl=0
+[409] grp:bandits | שודדים | Banditry | bandits, robbers
+    ✓T Q10968653  banditry / בנדיטס  | life and practice of bandits <> sl=34
+     T Q85745165  banditry in Chile /   | form of crime in Chile <aspect in a geographic region> sl=2
+     T Q56701827  Banditry in Eastern Bulgaria /  [1879–1880] | 1879–1880 Muslim revolt in Bulgaria <revolt> sl=1
+     T Q136139320   /   | book 2011 <version, edition or translation> sl=0
+     T Q139664067   /   |  <> sl=0
+     T Q62638576   /   |  <> sl=0
+    ✓T Q16144978  bandit /   | kind of criminal <occupation> sl=11
+[410] grp:demonstrators | מפגינים | Demonstration (political) | demonstrators / protesters
+   *✓T Q273120  protest / מחאה  | public act of objection, disapproval or dissent against political advantage <form of event> sl=78
+     T Q23540  Protestantism / נצרות פרוטסטנטית [1517–] | branch of Christianity that emerged following the Protestant Reformation of the  <Christian denominational family, major religious group> sl=183
+    ✓T Q122386047  PROTEST /   | 2018 video game <video game> sl=0
+    ✓T Q65023049  Protest /  [1943–] | print in the National Gallery of Art (NGA 30713) <print> sl=0
+     T Q346575  Protestant church / כנסייה אוונגלית  | Christian churches in tradition of the Reformation <religious denomination> sl=14
+     T Q391951  Protestant Church in the Netherlands / הכנסייה הפרוטסטנטית של הולנד [2004–] | protestant denomination in the Netherlands <Christian denomination> sl=18
+[412] grp:soldiers | חיילים | Soldier | soldiers
+   *✓T Q4991371  soldier / חייל  | member of an armed force <military rank, position> sl=125
+    ✓T Q1930984  Soldier / Soldier  | 1980 album by Iggy Pop <album> sl=13
+    ✓T Q65023012  Soldier /  [1943–] | print in the National Gallery of Art (NGA 30696) <print> sl=0
+    ✓T Q7557218  Soldato /   | rank in Mafia hierarchy <occupation> sl=13
+    ✓  Q21035340  Rick May /  1940–2020 | American voice and theatre actor (1940-2020) <human> sl=9
+     T Q178197  mercenary / שכיר חרב  | soldier who fights for hire <profession> sl=79
+[417] grp:officers | קצינים | Officer (armed forces) | military officers
+     T Q113665263  Peruvian Officers and Sailors Plant Trees in Israel / קצינים ומלחים מפרו נוטעים עצים בישראל  | newsreel <short film> sl=0
+[419] grp:reservists | מילואימניקים | Military reserve force | army reservists
+   *✓T Q1144991  military reserve force / כוחות מילואים  | pool of citizens with civilian occupations who can be called to active military  <> sl=35
+    ✓T Q25339849  Military Reserve Force /  [1992–] | Reserve force of Army of North Macedonia <military reserve force> sl=3
+     T Q107675971  Military reserve forces of Saint Helena /  [1673–] |  <military reserve force> sl=1
+     T Q6857850  Military reserve forces of France /   |  <military reserve force> sl=1
+[420] grp:ottoman-reservists | חיילי מילואים עות'מאנים | Redif | Ottoman reservists (redif)
+   *✓T Q2136264  redif /  [1834–] | Ottoman military unit <military unit> sl=3
+    ✓T Q107375653  Redif /   | family name <family name> sl=1
+     T Q37467771  Redifer /   | family name <family name> sl=1
+     T Q140676  Rediff /  [1996–] | Indian news and entertainment website <website, web portal> sl=21
+     T Q4809145  Associated-Rediffusion /  [1955–1968] | British ITV contractor for London and parts of the surrounding counties <production company, television channel> sl=9
+     T Q6580646  Redifler /   | village in Yığılca, Düzce, northwestern Turkey <village of Turkey> sl=6
+[421] grp:cavalry | פרשים | Cavalry | cavalrymen
+   *✓T Q47315  cavalry / חיל פרשים  | soldiers or warriors fighting from horseback <branch of service, military organization> sl=90
+     T Q640375  cavalry master / ריטמייסטר  | former military rank of a commissioned cavalry officer in some armies <military rank, occupation> sl=25
+    ✓T Q861477  United States Cavalry / חיל הפרשים של ארצות הברית  | branch of the United States Army <military branch> sl=10
+    ✓T Q3663909  Cavalry /   | 1936 film by Goffredo Alessandrini <film> sl=11
+    ✓T Q64520858  Cavalry /   | painting by Jacques Courtois <painting> sl=0
+    ✓T Q24050498  Cavalry /  [1883–] | painting by George Hendrik Breitner <painting> sl=0
+[422] grp:sailors | מלחים | Sailor | sailors, seamen
+   *✓T Q45199  sailor / ספן  | person who navigates water-borne vessels or assists in doing so <profession, maritime occupation> sl=75
+    ✓T Q476246  sailor / שייט  | person who participates in the sport of sailing <profession, occupation> sl=5
+    ✓T Q129105391  Sailor /   | given name <given name> sl=0
+    ✓T Q1495385  enlisted navy sailor / ספן צבאי  | non-commissioned sailor in naval service <maritime occupation> sl=5
+    ✓T Q354427  Sailor /  [1973–] | 1970's British glamrock-/popgroup <musical group> sl=7
+    ✓T Q3461637  Sailor / Sailor  | 1968 studio album by The Steve Miller Band <album> sl=6
+
+--- unambiguous auto picks (check the description fits):
+[7] grp:french-catholics (French Catholics) -> Q795240 Catholic Church in France | part of the worldwide Roman Catholic Church
+[8] grp:albanian-catholics (Albanian Catholics (Mirdita region)) -> Q1108212 Catholic Church in Albania | incorporating all communities and institutions of the Catholic Church 
+[10] grp:arab-christians (Christian Arabs) -> Q431164 Arab-Christians | Arabs who follow Christianity
+[14] grp:shia-muslims (Shia Muslims) -> Q9585 Shia Islam | second-most populous Islamic denomination
+[15] grp:wahhabis (Wahhabi Muslims) -> Q163140 Wahhabism | Religious movement founded by Muhammad ibn Abd al-Wahhab in Najd in th
+[17] grp:bosnian-muslims (Bosnian Muslims) -> Q940348 Bosniaks | South-Slavic ethnic group
+[18] grp:moroccan-muslims (Muslim population of Morocco) -> Q2566690 Islam in Morocco | Muslims in Morocco
+[19] grp:arab-muslims (Muslim Arabs) -> Q4783216 Arab Muslims | adherents of Islam who identify ethnically, linguistically, culturally
+[20] grp:muslim-women (Muslim women) -> Q622820 women in Islam | women’s role in Islamic culture
+[22] grp:shia-pilgrims (Shia pilgrims (to Karbala, Najaf, Mashhad)) -> Q2906076 Ziyarat | form of pilgrimage to sites associated with Muhammad and related figur
+[24] grp:mujahideen (Muslim holy-war fighters (Morocco)) -> Q42759 mujahid | Arabic term for people engaged in jihad ("struggle")
+[27] grp:hodjas (lower Muslim clergy (hodjas)) -> Q1262145 Juha | satyrical and moralistic figure, folkloric character of Italy
+[28] grp:persian-clergy (Persian Shia clergy (mullahs, mujtahids)) -> Q7495966 Shia clergy | Religious authorities in a branch of Islam
+[34] grp:clericals (reactionary clerical party / clericals) -> Q747439 clericalism | church-based, leadership or opinion of ordained clergy in matters of e
+[38] grp:sephardi-jews (Jews descended from the Jews of Iberia) -> Q102251 Sephardi Jews | Jewish diaspora of Spain and Portugal
+[39] grp:ashkenazi-jews (Jews of Central and Eastern European descent) -> Q34069 Ashkenazi Jews | Jewish diaspora of Central, Western and Eastern Europe
+[40] grp:mizrahi-jews (Jews of the Middle East / the "Orient") -> Q501837 Mizrahi Jews | Descendants of the local Jewish populations from Asia and North Africa
+[41] grp:maghrebi-jews (North African (Maghrebi) Jews, e.g. in Jerusalem) -> Q6730438 Maghrebi Jews | ethnic group
+[43] grp:karaites (Karaites) -> Q208398 Karaite Judaism | Jewish religious movement characterized by the recognition of the writ
+[44] grp:bukharan-jews (Bukharan Jews (in Jerusalem)) -> Q44949 Bukharan Jews | ethnic group
+[45] grp:yemenite-jews (Jews of Yemen and Yemenite Jews in Palestine) -> Q657993 Yemenite Jews | Jewish ethnicity
+[46] grp:moroccan-jews (Jews of Morocco) -> Q16152214 Moroccan Jews | ethnic group
+[54] grp:syrian-jews (Jews of Syria) -> Q1840268 Syrian Jews | Jewish ethnic group
+[57] grp:persian-jews (Jews of Persia) -> Q2309935 Iranian | Jews associated with the Persian and Iranian states
+[58] grp:indian-jews (Jews of India) -> Q573598 history of the Jews in India | overview of the historical presence and impact of the Jewish people in
+[59] grp:turkish-jews (Jews of the Ottoman Empire / Turkey) -> Q560816 history of the Jews in Turkey | aspect of history
+[63] grp:greek-jews (Jews of Greece (Romaniotes and Sephardim)) -> Q2265699 Romaniote Jews | Jewish community native to the Eastern Mediterranean
+[64] grp:bulgarian-jews (Jews of Bulgaria) -> Q583420 history of the Jews in Bulgaria | aspect of history
+[67] grp:perushim (Ashkenazi disciples of the Vilna Gaon in Palestine) -> Q7171119 Perushim | disciples of the Vilna Gaon
+[70] grp:litvaks (Lithuanian Jews) -> Q1421205 Lithuanian Jews | Jews with roots in the present-day Lithuania, Belarus, Latvia, northea
+[77] grp:bessarabian-jews (Jews of Bessarabia) -> Q5869624 history of the Jews in Bessarabia | aspect of history
+[78] grp:galician-jews (Jews of Austrian Galicia) -> Q2467513 Galician Jews | subgroup of ethnic Jews in present-day Western Ukraine
+[80] grp:german-jews (Jews of Germany) -> Q7330 history of the Jews in Germany | history of Jews in Germany
+[84] grp:british-jews (Jews of England/Britain) -> Q702718 British Jews | ethnic group
+[85] grp:italian-jews (Jews of Italy) -> Q2605053 Italian Jews | ethnic group
+[86] grp:dutch-jews (Jews of the Netherlands) -> Q2099287 history of the Jews in the Netherlands | aspect of history
+[87] grp:gibraltarian-jews (Jews of Gibraltar) -> Q2456071 history of the Jews in Gibraltar | ethnic group
+[88] grp:american-jews (Jews of the United States) -> Q678551 American Jews | community in the United States
+[89] grp:jamaican-jews (Jews of Jamaica) -> Q5869672 history of the Jews in Jamaica | aspect of history
+[90] grp:south-african-jews (Jews of South Africa) -> Q1516827 history of the Jews in South Africa | aspect of history
+[91] grp:arabic-speaking-jews (Arabic-speaking Jews) -> Q2637729 Arab Jews | Jews originating from Arabic-speaking countries
+[95] grp:orthodox-jews (Orthodox Jews) -> Q80970 Orthodox Judaism | one of the three major Judaism movement, and the formal one in Israel
+[96] grp:haredi-jews (ultra-Orthodox Jews) -> Q212912 Haredi Judaism | strictest stream of the Orthodox Judaism faith
+[108] grp:maskilim (maskilim, adherents of the Jewish Enlightenment) -> Q472670 Haskalah | period of Jewish enlightenment (1770-1890)
+[109] grp:assimilated-jews (assimilated Jews) -> Q12294354 Jewish assimilation | social process or ideology where Jews give up or lose connection to th
+[111] grp:zionists (Zionists) -> Q42388 Zionism | movement to create and develop a Jewish state in the Levant
+[115] grp:territorialists (Jewish territorialists) -> Q6189967 Jewish Territorialist Organization | Jewish political movement to find an alternative territory, outside of
+[131] grp:jewish-settlers-in-palestine (Jewish settlers (colonists) in Ottoman Palestine) -> Q933141 First Aliyah | major wave of Zionist immigration to Ottoman Palestine
+[132] grp:jewish-colonists-in-argentina (Jewish agricultural colonists in Argentina (JCA)) -> Q6190051 Jewish gauchos | Judaism in Argentina
+[143] grp:sassoon-family (Baghdadi Jewish merchant family) -> Q175926 Sassoon family | political family
+[144] grp:slavs (Slavic peoples) -> Q40477 Slavs | Indo-European group living in Central Europe, Eastern Europe, Southeas
+[147] grp:little-russians (Little Russians (Ukrainians)) -> Q16673845 Little Russians | term referring to the southwestern group of Eastern Slavs
+[152] grp:serbs (Serbs) -> Q127885 Serbs | South-Slavic ethnic group and nation
+[156] grp:young-czechs (Young Czechs (Czech liberal nationalists)) -> Q1713492 Young Czech Party | political party in Austria-Hungary
+[158] grp:macedonians (inhabitants/Slavs of Ottoman Macedonia) -> Q2436423 Macedonians | South-Slavic-speaking ethnic group of the Balkans
+[162] grp:german-nobility (German nobility) -> Q479867 nobility of the German-speaking area | privileged social class in the German-speaking area which until 1919 o
+[167] grp:austrians (Austrians) -> Q237534 Austrians | citizens or residents of Austria
+[171] grp:alsatians (inhabitants of Alsace-Lorraine) -> Q4531496 Alsatians | ethnic group
+[173] grp:parisians (inhabitants of Paris) -> Q105740844 Parisians | people from or residents of Paris, France
+[174] grp:english (English people) -> Q42406 English people | citizens or residents of England
+[175] grp:british (British people) -> Q842438 British | citizens or residents of the United Kingdom of Great Britain and North
+[176] grp:british-subjects (British subjects) -> Q4971466 British subject | legal term that has evolved over time
+[178] grp:irish-nationalists (Irish nationalists (Home Rule)) -> Q2021987 Irish nationalism | political movement asserting the sovereignty and unity of the Irish pe
+[182] grp:portuguese (Portuguese people) -> Q178630 Portuguese | citizens or residents of Portugal
+[183] grp:belgians (Belgians) -> Q1377716 Belgians | citizens or residents of Belgium
+[184] grp:dutch (Dutch people) -> Q200569 Dutch | citizens or residents of The Netherlands
+[185] grp:swiss (Swiss people) -> Q124216 Swiss | citizens of Switzerland, people of Swiss ancestry
+[188] grp:norwegians (Norwegians) -> Q188779 Norwegians | ethnic group native to Norway
+[189] grp:finns (Finns) -> Q170284 Finns | Baltic Finnic ethnic group indigenous to Finland
+[190] grp:latvians (Latvians) -> Q49540 Latvians | Baltic people, indigenous population of Latvia; also used for citizens
+[193] grp:ottoman-greeks (Ottoman Greeks) -> Q1467740 Ottoman Greeks | ethnic Greeks, who lived in the Ottoman Empire
+[197] grp:romanians (Romanians) -> Q485150 Romanians | ethnic group native to Central, Eastern and Southeastern Europe
+[198] grp:romance-peoples (Romance (Latin) peoples) -> Q1064023 Latin Europe | part of Europe where Romance languages are spoken
+[202] grp:southern-albanians (Tosk (southern) Albanians) -> Q2067192 Tosks | one of two major ethnic subgroups in Albania
+[203] grp:northern-albanians (Gheg (northern) Albanians) -> Q1275194 Ghegs | one of two major ethnic subgroups in Albania
+[204] grp:malissori (Malissori highland tribes of northern Albania (191) -> Q1762377 Malësia | historical region in southern Europe (parts of Albania and Montenegro)
+[209] grp:ottomans (Ottomans (subjects/people of the Ottoman Empire)) -> Q2359535 Ottoman Turks | Turkic ethnic group who founded the Ottoman Empire
+[218] grp:chechens (Chechens) -> Q31230 Chechens | Northeast Caucasian ethnic group
+[221] grp:tatars (Tatars) -> Q35565 Tatars | Turkic ethnic group in Asia and Europe, the main population of Tatarst
+[223] grp:kyrgyz (Kirghiz (incl. Kazakhs, as then named)) -> Q484479 Kyrgyz people | Turkic ethnic group native to Central Asia, primarily Kyrgyzstan
+[224] grp:kalmyks (Kalmyks) -> Q190209 Kalmyks | Western-Mongolian ethnic group that migrated from Northwestern China t
+[226] grp:inorodtsy (non-Russian "aliens" of the Russian Empire) -> Q1996898 inorodtsy | category of population
+[228] grp:persian-cossacks (Persian Cossack Brigade) -> Q1515896 Persian Cossack Brigade | elite cavalry unit formed in 1879 in Persia
+[230] grp:bakhtiari (Bakhtiari people) -> Q798284 Bakhtiari people | Iranian tribe
+[232] grp:persian-democrats (Persian Democrats (Ferqeh-ye Demokrat)) -> Q5960507 Democrat Party | political party in Iran
+[237] grp:arab-tribes (Arab tribes) -> Q107977936 Arab tribes | Wikimedia disambiguation page
+[238] grp:yemeni-arabs (Arabs of Yemen) -> Q4205820 Yemenis | citizens or residents of Yemen
+[241] grp:arabs-of-lebanon (Lebanese people) -> Q2606511 Lebanese people | people inhabiting or originating from Lebanon; citizens or residents o
+[242] grp:syrians (Syrians) -> Q878607 Syrians | majority inhabitants of Syria
+[249] grp:kabyles (Kabyles (as the press called Moroccan Berber tribe) -> Q648255 Kabyle people | Amazigh (Berber) ethnic group indigenous to Kabylia
+[273] grp:african-americans (African Americans) -> Q49085 African Americans | Americans with sub-Saharan African ancestry
+[276] grp:herero (Herero people) -> Q170088 Herero people | ethnic group
+[278] grp:native-americans (American Indians) -> Q36747 indigenous peoples of the Americas | peoples indigenous to the Western Hemisphere
+[279] grp:chinese (Chinese people) -> Q6501380 Chinese people | ethnic groups
+[280] grp:manchus (Manchu people) -> Q145665 Manchu | East Asian ethnic group native to northeastern China (Manchuria)
+[282] grp:tibetans (Tibetan people) -> Q187985 Tibetan people | East Asian ethnic group native to Tibet
+[283] grp:honghuzi (Chinese/Manchurian bandit groups) -> Q1981247 Honghuzi | Wikimedia disambiguation page
+[286] grp:koreans (Koreans) -> Q484464 Koreans | people based in the Korean Peninsula and Manchuria
+[292] grp:mexicans (Mexicans) -> Q1209676 Mexicans | citizens or residents of Mexico
+[306] grp:german-social-democrats (German Social Democrats (SPD)) -> Q49768 Social Democratic Party of Germany | centre-left political party in Germany
+[308] grp:orthodox-marxists (orthodox Marxists (Kautsky school)) -> Q937465 Orthodox Marxism | Current of Marxist thought that emerged after Marx's death, emphasizin
+[309] grp:french-socialists (French socialists (SFIO)) -> Q1332068 French Section of the Workers' International | political party in France
+[311] grp:christian-socialists (Christian socialists) -> Q739609 Christian socialism | religious and political philosophy that blends Christianity and social
+[315] org:trudoviks (Russian Labour Group in the Duma) -> Q1570527 Trudoviks | political party
+[317] org:black-hundreds (Russian ultra-nationalist movement) -> Q940855 Black Hundreds | early 20th century Russian monarchist movement
+[318] org:union-of-the-russian-people (Russian monarchist-antisemitic organization (Soyuz) -> Q580690 Union of the Russian People | far-right political party in the Russian Empire
+[324] grp:chinese-revolutionaries (Chinese republican revolutionaries (1911)) -> Q190517 Xinhai Revolution | revolution in China that overthrew the Qing dynasty and established th
+[326] grp:italian-anarchists (Anarchism in Italy) -> Q4751636 anarchism in Italy | overview of anarchism in Italy
+[327] grp:anarcho-communists (Anarcho-communism) -> Q188670 anarcho-communism | political philosophy and school of thought
+[334] grp:monarchists (monarchists) -> Q216669 monarchism | advocacy of a monarch or monarchical rule
+[337] grp:reactionaries (reactionaries) -> Q3285642 Reactionary | album by Face to Face
+[338] grp:political-right (the (parliamentary) right) -> Q76074 right-wing | political alignment favoring social hierarchy
+[339] grp:political-left (the (parliamentary) left) -> Q164597 left-wing | political ideologies supporting social equality and egalitarianism
+[341] grp:russian-nationalists (Russian nationalism) -> Q2354258 Russian nationalism | Russian political ideology
+[347] grp:strikers (striking workers) -> Q49776 strike | work stoppage caused by the mass refusal of employees to work
+[363] grp:romanian-peasants (Romanian peasants (1907 revolt)) -> Q811241 1907 Romanian Peasants' Revolt | peasant revolt
+[370] grp:russian-nobility (Russian nobility (dvoryanstvo)) -> Q971558 Nobility of Russia | privileged social class in the Russian Empire
+[372] grp:petite-bourgeoisie (Petite bourgeoisie) -> Q75617 petite bourgeoisie | social class
+[389] grp:diplomats (Diplomat) -> Q193391 diplomat | person appointed by a state to conduct diplomacy with another state or
+[411] grp:volunteers (volunteers (military)) -> Q828787 volunteer military | military force which employs personnel on an exclusively volunteer bas
+[414] grp:turkish-soldiers (Ottoman soldiers) -> Q6025264 Ottoman Army | 1400s-1826 military of the Ottoman Empire
+[415] grp:french-soldiers (French soldiers) -> Q1076619 French Army | land warfare branch of France's military
+[416] grp:russian-soldiers (Russian soldiers) -> Q1078222 Imperial Russian Army | land armed force of the Russian Empire
+[423] grp:mutinous-sailors (mutinous sailors) -> Q133800469 naval mutiny | revolt by sailors, usally on a ship, usually sailors revolt against th
+[424] grp:russian-sailors (Russian sailors) -> Q583941 Imperial Russian Navy | navy of the Russian Empire
+[425] ppl:jacob-meir (Sephardi Chief Rabbi of Salonica, later of Palesti) -> Q6119001 Jacob Meir | former chief rabbi of HaYeshuv

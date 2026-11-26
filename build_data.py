@@ -1,20 +1,28 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-build_data.py — ממיר את גיליון הניתוח (xlsx או csv) ל-data.json שהאתר טוען.
+build_data.py — ממיר את גיליון הניתוח (xlsx או csv) ל-data.json שהאתר טוען,
+ומקשר כל כתבה לישויות של מאגר הידע (kb/): אנשים, מקומות, ארגונים, קבוצות, נושאים ואירועים.
 
 שימוש:
-    python build_data.py analysis_an-002.xlsx            # → data.json
-    python build_data.py analysis_an-002.csv  [imgmap.json]
+    python build_data.py analysis_an-002.xlsx [imgmap.json]
 
-imgmap.json (אופציונלי): מילון {מזהה-כתבה: [מזהי קבצי תמונה בגוגל דרייב]}
-כשהגיליון גדל — מריצים שוב ומעלים את data.json החדש ל-GitHub.
+מאגר הידע (נבנה ע"י kb/scripts, ראו kb/README.md):
+    kb/entities.json       הישויות (שם, תיאור, היררכיה, מזהה ויקידאטה)
+    kb/surface_forms.json  כתיב בגיליון -> מזהי ישויות (+ זיהוי לפי הקשר בכתבה מסוימת)
+    kb/relations.json      הקשרים בין הישויות (אונטולוגיה)
+    kb/wikidata.json       ההעשרה מוויקידאטה
+כתיב שאינו מוכר למאגר (שורות חדשות בגיליון) נשמר כישות זמנית "?:" ומדווח בסוף הריצה —
+יש להריץ את kb/scripts כדי לשייך אותו.
 """
 import sys, re, json, csv, collections, os
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), 'kb', 'scripts'))
+from kblib import parse_list, norm_key, load_json, KB
 
 SRC = sys.argv[1] if len(sys.argv) > 1 else 'analysis_an-002.xlsx'
 IMG = sys.argv[2] if len(sys.argv) > 2 else 'imgmap.json'
 OUT = 'data.json'
+if hasattr(sys.stdout, 'reconfigure'): sys.stdout.reconfigure(encoding='utf-8')
 
 # ---------- קריאה ----------
 def read_rows(path):
@@ -36,79 +44,57 @@ I = dict(id=need('מזהה'), paper=need('עיתון'), date=need('תאריך'),
          terms=need('מילות חיפוש'), sum=need('סיכום'), ctx=need('מה נאמר'), cen=need('מרכזיות'),
          ppl=need('אנשים'), pl=need('מקומות'), org=need('ארגונים'), grp=need('קבוצות'),
          top=need('נושאים'), genre=need('סוגה'), rel=need('רלוונטיות'), ocr=need('טקסט ביידיש'))
-
 imgmap = json.load(open(IMG, encoding='utf-8')) if os.path.exists(IMG) else {}
 
-# ---------- פירוק רשימות "עברית (יידיש) ; ..." ----------
-def split_item(s):
-    s = s.strip()
-    if not s: return None
-    if s.endswith(')'):
-        depth = 0
-        for i in range(len(s) - 1, -1, -1):
-            if s[i] == ')': depth += 1
-            elif s[i] == '(':
-                depth -= 1
-                if depth == 0:
-                    h, y = s[:i].strip(), s[i + 1:-1].strip()
-                    if h: return [h, y]
-                    return [y, '']
-    return [s, '']
+# ---------- מאגר הידע ----------
+E = load_json(os.path.join(KB, 'entities.json'), {})
+SFall = load_json(os.path.join(KB, 'surface_forms.json'), {'map': {}, 'contextual': {}, 'dropped': {}})
+SF, CTX, DROP = SFall['map'], SFall['contextual'], SFall['dropped']
+REL = load_json(os.path.join(KB, 'relations.json'), [])
+W = load_json(os.path.join(KB, 'wikidata.json'), {})
+RD = load_json(os.path.join(KB, 'redirects.json'), {})
+SRC_TYPES = ('ppl', 'pl', 'org', 'grp', 'top')
+OUT_TYPES = ('top', 'ev', 'ppl', 'pl', 'org', 'grp')
+rd = lambda i: RD.get(i, i)
+unknown = collections.Counter()
 
-def parse_list(v):
-    if not v: return []
-    out, seen = [], set()
-    for part in re.split(r'\s*;\s*', str(v)):
-        it = split_item(part)
-        if it and it[0] not in seen:
-            seen.add(it[0]); out.append(it)
+def resolve(t, h, aid):
+    k = norm_key(h)
+    if not k: return []
+    c = CTX.get(t, {}).get(k)
+    if c is not None and aid in c:
+        return [rd(c[aid])] if c[aid] else []
+    if k in SF.get(t, {}): return [rd(x) for x in SF[t][k]]
+    if k in DROP.get(t, {}): return []
+    unknown[(t, k)] += 1
+    return ['?' + t + ':' + k]
+
+# היררכיה: הורים של כל ישות (לחיפוש "כולל תתי-נושאים / מקומות בתוך")
+UP_P = {'located_in', 'broader', 'part_of'}
+up = collections.defaultdict(list)
+for s, p, o, src in REL:
+    if p in UP_P and s in E and o in E and o not in up[s]:
+        # אצל מקומות: עדיפות להורה שנקבע במאגר; ויקידאטה רק אם אין
+        if src == 'wikidata' and E[s]['type'] == 'pl' and E[s].get('parent'): continue
+        up[s].append(o)
+def ancestors(i):
+    out, st = [], list(up.get(i, []))
+    while st:
+        x = st.pop()
+        if x in out or x == i: continue
+        out.append(x); st.extend(up.get(x, []))
     return out
 
-def norm_key(h):
-    h = re.sub(r'[\u05f3\u05f4"\'`’‘“”]', '', h)
-    h = h.replace('־', ' ').replace('-', ' ')
-    h = re.sub(r'\s+', ' ', h).strip()
-    if len(h) > 3 and h[0] == 'ה': h = h[1:]
-    return h
-
-# ---------- נושאי-על (קיבוץ אוטומטי לפי מילות מפתח בשדה "נושאים") ----------
-THEMES = [
- ('ww1',      'מלחמת העולם הראשונה', r"מלחמת העולם|המלחמה העולמית|פליטי מלחמה|חזית|מצור על|פלישה לבלגיה|גיוס"),
- ('balkan',   'מלחמות הבלקן והמלחמה האיטלקית־טורקית', r"בלקן|איטלקית|טריפולי|לוב\b|אלבני|מקדוניה|מונטנגרו|סרביה|בולגריה|כרתים|שאלת המזרח"),
- ('antijew',  'פוגרומים, עלילות דם והגבלות על יהודים', r"עלילת דם|עלילות דם|פוגרומ|פרעות|הגבלות|אנטישמ|בייליס|בילי?ס|גזירות|גירוש|תחום המושב|הגירה|סכנה ליהוד|רדיפ"),
- ('zion',     'ציונות וארץ ישראל', r"ציונ|ארץ.ישראל|פלשתינ|היישוב|הקונגרס הציוני|עלייה|עליה|חלוצ|תל.אביב|טריטוריאליזם|הקרן הקיימת|בצלאל"),
- ('eastjews', 'קהילות יהודיות ספרדיות ומזרחיות', r"ספרדי|סלוניקי|דמשק|יהודי המזרח|יהודי מרוקו|יהודי פרס|יהודי תימן|יהודי ארצות|יהודי בוכרה|מלאח|כל ישראל חברים|אליאנס|יהודי טורקיה|יהודי איראן"),
- ('morocco',  'מרוקו והמשברים המרוקאיים', r"מרוק|אלג.?סיראס|אגאדיר|אגדיר|קזבלנקה|מולאי|עבד אל|חפיד|מראכש|מרקש|טנג.ר|פאס\b|שאלת מרוקו"),
- ('ottoman',  'האימפריה העות׳מאנית והתורכים הצעירים', r"עות.מאנ|טורקי|תורכי|תורכיה|קושטא|סולטאן|חוקה בתורכיה|ועד ואיחוד|התורכים הצעירים|המהפכה התורכית|מהפכה בטורקיה"),
- ('russia',   'רוסיה: דומא, מהפכה ושלטון', r"דומ[הא]|סטוליפין|מהפכה ברוסיה|מהפכת 1905|פטרבורג|צאר|קוקובצוב|פורישקביץ|גוצ.קוב|מועצת המדינה|רוסית.יפנית|פורטסמות|ממשלת רוסיה|מדיניות רוסיה|פנים ברוסיה|רוסיה"),
- ('diplomacy','דיפלומטיה ויחסי מעצמות', r"דיפלומטי|ברית|הסכמ|אמנה|ועידה|יריבות|מעצמות|משבר בינלאומי|יחסי |שגריר|אנטנט|מדיניות חוץ|מדיניות בריטניה|מדיניות גרמניה|מדיניות צרפת"),
- ('religion', 'דת, רבנות וכנסייה', r"רבנ|כנסי|בית כנסת|כמורה|אפיפיור|ותיקן|שחיטה|מיסיונ|הלכה|רבנות"),
- ('culture',  'עברית, חינוך, ספרות ותרבות', r"עברית|חינוך|בית ספר|בתי ספר|ספרות|תרבות|תיאטרון|עיתונות|יידיש|אידיש|אוניברסיט|הוראה|מוסיקה|אמנות|מדע|שפה"),
- ('economy',  'כלכלה, מסחר ותחבורה', r"כלכל|מסחר|סחר|רכבת|בנק|מיסים|תעשיי|חקלאות|נמל|מטבע|הלוואה|בורסה|תחבורה|מלווה"),
- ('disaster', 'בריאות, אסונות ומגפות', r"כולרה|מגפ|רעידת|שריפה|אסון|הצפה|בריאות|רעב|טביעה|מחלה"),
-]
-# סדר הרשימה = עדיפות בשוויון ניקוד, בבחירת "נושא ראשי"
-THEME_RX = [(k, re.compile(rx)) for k, _, rx in THEMES]
-JEWISH_TOP = re.compile(r"יהוד|עלילת דם|פוגרומ|ציונ|בייליס|קהיל|כל ישראל|רבנ|ארץ.ישראל|ספרדי|בית כנסת|גירוש|פוגרומ")
-
-def theme_scores(topic_strings, date=''):
-    sc = collections.Counter()
-    for t in topic_strings:
-        for k, rx in THEME_RX:
-            if k == 'ww1' and date < '1914-07-28': continue  # נושא זה מתויג רק מפרוץ המלחמה
-            if rx.search(t): sc[k] += 1
-    return sc
-
-def themes_for(topic_strings, summary='', date=''):
-    sc = theme_scores(topic_strings, date)
-    if not sc and summary:
-        sc = theme_scores([summary], date)
-        sc = collections.Counter({k: 1 for k in list(sc)[:2]})  # גיבוי מצומצם לפי הסיכום
-    if not sc: return ['other'], 'other'
-    order = [k for k, _ in THEME_RX]
-    allt = [k for k in order if k in sc]
-    primary = sorted(allt, key=lambda k: (-sc[k], order.index(k)))[0]
-    return allt, primary
+# נושאי-על = מושגי השורש של אוצר המילים
+top_roots = [e['id'] for e in E.values() if e['type'] == 'top' and not e.get('broader')]
+vocab_order = {i: n for n, i in enumerate(e['id'] for e in E.values() if e['type'] == 'top')}
+top_roots.sort(key=lambda i: vocab_order.get(i, 9999))
+COUNTRY_KIND = re.compile(r'country|empire|kingdom|state|sultanate|protectorate|principality|republic|monarchy|emirate|khanate|grand duchy', re.I)
+def is_country(i):
+    e = E.get(i, {})
+    return e.get('type') == 'pl' and (COUNTRY_KIND.search(e.get('kind', '') or '') is not None)
+JEW_TOP = re.compile(r'יהוד|ציונ|עלילת|פוגרומ|קהיל|אנטישמ|ארץ ישראל|הגירה')
+jew_grp = {i for i in E if i == 'grp:jews' or 'grp:jews' in ancestors(i)}
 
 # ---------- בניית הרשומות ----------
 arts = []
@@ -116,58 +102,93 @@ for r in rows[1:]:
     if not r or not r[I['id']]: continue
     g = lambda k: ('' if r[I[k]] is None else str(r[I[k]]).strip())
     aid = g('id')
-    lists = {k: parse_list(g(k)) for k in ('ppl', 'pl', 'org', 'grp', 'top')}
-    ttxt = ' ; '.join(h for h, _ in lists['top'])
-    th, pt = themes_for([h for h, _ in lists['top']], g('sum'), g('date'))
-    gtxt = ' '.join(h for h, _ in lists['grp'])
-    jewish = bool(re.search(r'יהוד', gtxt)) or bool(JEWISH_TOP.search(ttxt)) or ('antijew' in th) or ('zion' in th) or ('eastjews' in th)
+    lists = {k: parse_list(g(k)) for k in SRC_TYPES}
+    ids = {t: [] for t in OUT_TYPES}
+    for t in SRC_TYPES:
+        for h, y in lists[t]:
+            for x in resolve(t, h, aid):
+                tt = x.split(':')[0].lstrip('?')
+                tt = tt if tt in ids else t
+                if x not in ids[tt]: ids[tt].append(x)
+    # נושאי-על, נושא ראשי, מדינות, הקשר יהודי
+    tags = [x for x in ids['top'] + ids['ev'] if x in E]
+    sc = collections.Counter()
+    for x in tags:
+        for rt in ([x] if x in top_roots else []) + [a for a in ancestors(x) if a in top_roots]:
+            sc[rt] += 1
+    th = [k for k in top_roots if k in sc] or ['other']
+    pt = sorted(th, key=lambda k: (-sc[k], vocab_order.get(k, 9999)))[0] if sc else 'other'
+    cn = []
+    for x in ids['pl']:
+        for y in [x] + ancestors(x):
+            if is_country(y) and y not in cn: cn.append(y)
+    alltags = set(x for t in ids for x in ids[t])
+    jewish = bool(alltags & jew_grp) or any(JEW_TOP.search(E[y]['he']) for x in tags for y in [x] + ancestors(x) if y in E and E[y]['type'] == 'top')
     a = dict(id=aid, p=g('paper'), d=g('date'), u=g('url').replace('\\&', '&'),
              t=[x.strip() for x in g('terms').split(';') if x.strip()],
              s=g('sum'), c=g('ctx'), m=g('cen'), g=g('genre'), r=g('rel'),
-             ppl=lists['ppl'], pl=lists['pl'], org=lists['org'], grp=lists['grp'], top=lists['top'],
-             th=th, pt=pt, jw=1 if jewish else 0,
+             **ids, tr=[h for h, _ in lists['top']], th=th, pt=pt, cn=cn, jw=1 if jewish else 0,
              im=imgmap.get(aid, []), o=g('ocr'))
     arts.append(a)
 
 arts.sort(key=lambda a: (a['d'], a['p'], a['id']))
 for i, a in enumerate(arts): a['n'] = i
 
-# ---------- מפתחות ישויות (איחוד כתיבים) ----------
-def add_keys(a):
-    for typ in ('ppl', 'pl', 'org', 'grp', 'top'):
-        keys, seen = [], set()
-        for h, y in a[typ]:
-            k = norm_key(h)
-            if k and k not in seen: seen.add(k); keys.append(k)
-        a['k_' + typ] = keys
-for a in arts: add_keys(a)
-
-# שם תצוגה ויידיש לכל מפתח: הנפוץ ביותר
-disp = {t: collections.defaultdict(collections.Counter) for t in ('ppl', 'pl', 'org', 'grp', 'top')}
-yid = {t: collections.defaultdict(collections.Counter) for t in ('ppl', 'pl', 'org', 'grp', 'top')}
+# ---------- ישויות לייצוא (רק אלה שבשימוש + אבותיהן) ----------
+used = set()
 for a in arts:
-    for t in disp:
-        for h, y in a[t]:
-            k = norm_key(h)
-            disp[t][k][h] += 1
-            if y: yid[t][k][y] += 1
-ents = {}
-for t in disp:
-    ents[t] = {k: dict(h=c.most_common(1)[0][0],
-                       y=[y for y, _ in yid[t][k].most_common(3)])
-               for k, c in disp[t].items()}
+    for t in OUT_TYPES: used.update(a[t])
+for a in arts: used.update(a['cn'])
+for x in list(used): used.update(ancestors(x))
+for s, p, o, src in REL:   # שכנים ישירים בגרף, כדי שקישורים בדף הישות יעבדו
+    if s in used and o in E: used.add(o)
+yid = collections.defaultdict(collections.Counter)
+for r in rows[1:]:
+    if not r or not r[I['id']]: continue
+    aid = str(r[I['id']]).strip()
+    for t in SRC_TYPES:
+        for h, y in parse_list('' if r[I[t]] is None else str(r[I[t]])):
+            if not y: continue
+            for x in resolve(t, h, aid): yid[x][y] += 1
 
-meta = dict(rows=len(arts), built=__import__('datetime').date.today().isoformat(),
-            themes=[dict(k=k, h=h) for k, h, _ in THEMES] + [dict(k='other', h='אחר / כללי')],
-            theme_rules={k: rx for k, _, rx in THEMES}, source=os.path.basename(SRC))
+ents = {t: {} for t in OUT_TYPES}
+for x in sorted(used):
+    if x.startswith('?'):
+        t, k = x[1:].split(':', 1)
+        ents[t][x] = dict(h=k, y=[y for y, _ in yid[x].most_common(3)], un=1)
+        continue
+    e = E.get(x)
+    if not e: continue
+    w = W.get(e.get('qid') or '', {})
+    o = dict(h=e['he'], y=[y for y, _ in yid[x].most_common(3)])
+    if not o['y'] and w.get('yi'): o['y'] = [w['yi']]
+    for src, dst in (('en', 'en'), ('kind', 'k'), ('role', 'ro'), ('scope', 'sc'), ('date', 'dt'), ('end', 'de'), ('qid', 'q')):
+        if e.get(src): o[dst] = e[src]
+    if w.get('dhe') or e.get('desc'): o['ds'] = w.get('dhe') or e.get('desc')
+    for src, dst in (('lat', 'lat'), ('lon', 'lon'), ('born', 'b'), ('died', 'x'), ('start', 'st'), ('end', 'en_'), ('hew', 'wh'), ('enw', 'we'), ('yiw', 'wy'), ('img', 'img')):
+        if w.get(src) not in (None, ''): o[dst] = w[src]
+    al = [k for k in e.get('aliases', []) if k != e['he']]
+    if w.get('he') and w['he'] != e['he']: al.append(w['he'])
+    if al: o['a'] = sorted(set(al))
+    if up.get(x): o['up'] = [u for u in up[x] if u in used]
+    ents[e['type']][x] = o
+for x in used:   # countries/ancestors referenced but typed elsewhere
+    pass
+rels = [[s, p, o] + ([1] if src == 'wikidata' else []) for s, p, o, src in REL if s in used and o in used]
+
+themes = [dict(k=k, h=E[k]['he']) for k in top_roots] + [dict(k='other', h='אחר / לא מסווג')]
+meta = dict(rows=len(arts), built=__import__('datetime').date.today().isoformat(), themes=themes,
+            source=os.path.basename(SRC),
+            kb=dict(entities=sum(len(v) for v in ents.values()), wikidata=sum(1 for t in ents.values() for o in t.values() if o.get('q')),
+                    relations=len(rels), surface_forms=sum(len(v) for v in SF.values())))
 ocr = {a['id']: a.pop('o') for a in arts}
-for a in arts:
-    for t in ('ppl', 'pl', 'org', 'grp', 'top'): a.pop('k_' + t, None)
-json.dump(dict(meta=meta, ents=ents, arts=arts), open(OUT, 'w', encoding='utf-8'), ensure_ascii=False, separators=(',', ':'))
+json.dump(dict(meta=meta, ents=ents, rels=rels, arts=arts), open(OUT, 'w', encoding='utf-8'), ensure_ascii=False, separators=(',', ':'))
 json.dump(ocr, open('ocr.json', 'w', encoding='utf-8'), ensure_ascii=False, separators=(',', ':'))
-print('ocr KB', os.path.getsize('ocr.json') // 1024)
-print('articles', len(arts), 'size KB', os.path.getsize(OUT) // 1024)
+print('articles', len(arts), 'size KB', os.path.getsize(OUT) // 1024, ' ocr KB', os.path.getsize('ocr.json') // 1024)
+print('entities exported', {t: len(v) for t, v in ents.items()}, ' relations', len(rels))
 print('themes(any)', collections.Counter(t for a in arts for t in a['th']).most_common())
 print('themes(primary)', collections.Counter(a['pt'] for a in arts).most_common())
-print('other-only', sum(1 for a in arts if a['th'] == ['other']), 'jewish', sum(a['jw'] for a in arts))
-print({t: len(v) for t, v in ents.items()})
+print('jewish', sum(a['jw'] for a in arts), ' no-topic', sum(1 for a in arts if a['th'] == ['other']))
+if unknown:
+    print(f'!! {len(unknown)} surface forms unknown to the KB (run kb/scripts to resolve), e.g.:')
+    for (t, k), n in unknown.most_common(15): print('   ', t, k, n)

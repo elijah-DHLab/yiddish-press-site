@@ -1,0 +1,311 @@
+id	broader	he	scope_or_date
+top:jewish-persecution		רדיפות יהודים, פוגרומים והגבלות	רדיפת יהודים, אלימות נגדם, עלילות, גזירות והגבלות חוקיות, ואנטישמיות פוליטית בכל הארצות.
+top:pogroms	top:jewish-persecution	פוגרומים ופרעות ביהודים	פוגרומים, פרעות, חשש מפוגרום, משפטי פורעים, פיצויים וסיוע לנפגעים – בעיקר באימפריה הרוסית ובאירופה (פגיעות ביהודי מרוקו – תחת יהודי מרוקו).
+top:blood-libels	top:jewish-persecution	עלילות דם	עלילות דם ופרשיותיהן: פרשת בייליס ורצח יושצינסקי, עלילת דמשק (1840), פרשת הילזנר ועלילות במזרח.
+top:anti-jewish-restrictions-russia	top:jewish-persecution	הגבלות על יהודים ברוסיה	תחום המושב, הגבלות מגורים, מסחר, מקצועות, קניין והשתתפות בבחירות, ומדיניות הממשל הרוסי כלפי היהודים.
+top:numerus-clausus	top:anti-jewish-restrictions-russia	מכסות יהודים בחינוך (הנורמה האחוזית)	מכסות אחוזים ליהודים בגימנסיות ובאוניברסיטאות, הדרת סטודנטים ותלמידים יהודים ומאבקים בעניין.
+top:expulsions-of-jews	top:jewish-persecution	גירושי יהודים	גירוש יהודים מערים ומאזורים (קייב, מוסקבה, פרוסיה, רומניה, סלוניקי ועוד) וגירוש נתינים יהודים זרים.
+top:antisemitism-politics-press	top:jewish-persecution	אנטישמיות פוליטית ותעמולה אנטישמית	מפלגות ותנועות אנטישמיות, תעמולה ועיתונות אנטישמית, חרם כלכלי על יהודים ואפליה – בגרמניה, אוסטריה, הונגריה, צרפת, יוון, רוסיה ועוד.
+top:jewish-rights-emancipation	top:jewish-persecution	המאבק לשוויון זכויות ליהודים	מאבקים לשוויון זכויות אזרחיות ופוליטיות ליהודים, שאלת היהודים ברומניה וברוסיה, וסכסוך הדרכונים בין רוסיה לארה"ב.
+top:jewish-communities		קהילות יהודיות בעולם	חיי הקהילות היהודיות, מוסדותיהן, הנהגתן ומצבן החברתי, הכלכלי והפוליטי ברחבי העולם.
+top:sephardi-mizrahi-jewry	top:jewish-communities	יהדות ספרד וארצות האסלאם	קהילות ספרדיות ויהודי ארצות האסלאם בכלל (פרס, תימן, מצרים, צפון אפריקה מחוץ למרוקו), המורשת הספרדית ויחס ספרד ליהודים ספרדים.
+top:moroccan-jews	top:jewish-communities	יהודי מרוקו	מצבם של יהודי מרוקו: חיי המלאח, פרעות ופגיעות ביהודים (קזבלנקה 1907, פאס 1912 ועוד), בתי ספר של אליאנס, מנהגים, זכויות, הגירה וסיוע.
+top:salonica-jewry	top:jewish-communities	יהודי סלוניקי	קהילת סלוניקי: מוסדותיה, כלכלתה, עיתונותה ורבניה, יחסה לטורקים הצעירים, וגורלה תחת השלטון היווני אחרי מלחמות הבלקן.
+top:ottoman-jewry	top:jewish-communities	יהודי האימפריה העות'מאנית	יהודי האימפריה העות'מאנית וקושטא: מעמדם, יחסם לשלטון ולמהפכת הטורקים הצעירים, צירים ופקידים יהודים וגיוס יהודים לצבא העות'מאני.
+top:syrian-jewry	top:jewish-communities	יהודי סוריה ודמשק	קהילות דמשק, ביירות ושאר סוריה העות'מאנית: מצבן, התבוללותן ויחסיהן עם השכנים (עלילת דמשק – תחת עלילות דם).
+top:chief-rabbinate	top:jewish-communities	החכם באשי והרבנות הראשית	מינוי חכמים באשי ורבנים ראשיים (ירושלים, סלוניקי, קושטא, צרפת), בחירות רבנים ומחלוקות על הרבנות.
+top:russian-polish-jewry	top:jewish-communities	חיי הקהילה ביהדות רוסיה ופולין	חיי הקהילה היהודית באודסה, ורשה ושאר רוסיה ופולין: מוסדות, מסים, בחירות קהילתיות, עוני ופרנסה וחיי היומיום.
+top:western-jewry	top:jewish-communities	יהדות מערב ומרכז אירופה	קהילות גרמניה, אוסטריה-הונגריה וגליציה, אנגליה, צרפת, איטליה, הולנד ופורטוגל – מצבן, מוסדותיהן וחייהן.
+top:jewish-politics-advocacy	top:jewish-communities	פוליטיקה ולאומיות יהודית ושתדלנות	ארגון פוליטי יהודי, לאומיות יהודית בגולה, שתדלנות ודיפלומטיה יהודית, סולידריות יהודית בינלאומית ויהודים בתפקידים ציבוריים.
+top:jewish-philanthropy-relief	top:jewish-communities	צדקה, סעד ופילנתרופיה יהודית	מוסדות צדקה וסעד, ארגוני עזרה בינלאומיים (הילפספראיין, אליאנס, בני ברית), איסוף תרומות וסיוע לנפגעי פוגרומים, שריפות ומלחמה.
+top:jewish-economic-life	top:jewish-communities	כלכלה ופרנסה של יהודים	סוחרים, בעלי מלאכה ובנקאים יהודים, מצבם הכלכלי והמקצועי של היהודים, עוני, תחרות כלכלית ויחסי הון ועבודה בקרב יהודים.
+top:jews-in-military	top:jewish-communities	יהודים בצבא ובשירות הצבאי	גיוס יהודים לצבאות רוסיה, טורקיה ואחרים, גבורת חיילים יהודים, ומוסדות לחיילים יהודים (מלחמת העולם – תחת היהודים במלחמה).
+top:zionism-eretz-israel		ציונות וארץ ישראל	התנועה הציונית ויריבותיה, היישוב היהודי בארץ ישראל וענייני ארץ ישראל תחת השלטון העות'מאני.
+top:zionist-movement	top:zionism-eretz-israel	התנועה הציונית ומוסדותיה	קונגרסים ואסיפות ציוניות, הקרן הקיימת וגיוס כספים, הנהגה ופולמוסים, ציונות מול התבוללות, וציונות בטורקיה ובארצות שונות.
+top:territorialism	top:zionism-eretz-israel	טריטוריאליזם	התנועה הטריטוריאליסטית ותוכניות למקלט יהודי מחוץ לארץ ישראל (אנגולה, מושבה בפורטוגל ועוד).
+top:yishuv-settlement	top:zionism-eretz-israel	היישוב וההתיישבות בארץ ישראל	המושבות, רכישת קרקעות, עבודה ושמירה עברית, פועלים ומתיישבים (כולל יהודי תימן), היישוב הישן והחלוקה, וחינוך ומוסדות בארץ.
+top:ottoman-palestine	top:zionism-eretz-israel	ארץ ישראל תחת השלטון העות'מאני	ענייני ארץ ישראל וירושלים: מדיניות השלטון העות'מאני כלפי העלייה והציונים, כלכלה, מסחר ותשתיות, מקומות קדושים ונסיעות לארץ.
+top:jewish-arab-relations	top:zionism-eretz-israel	יחסי יהודים וערבים	יחסי יהודים וערבים בארץ ישראל ובמזרח, יחס העיתונות הערבית ליהודים ולציונות.
+top:migration		הגירה ופליטים	הגירת יהודים ואחרים, מדיניות הגירה, התיישבות מחוץ לארץ ישראל ופליטים.
+top:jewish-emigration-americas	top:migration	הגירה יהודית לאמריקה ויהדות העולם החדש	הגירה יהודית לארצות הברית, קנדה ודרום אמריקה (כולל תוכנית גלווסטון), מצוקת מהגרים בדרך, וחיי היהודים באמריקה.
+top:jewish-agricultural-colonization	top:migration	התיישבות יהודית מחוץ לארץ ישראל	התיישבות חקלאית יהודית בארגנטינה, באפריקה ובמקומות אחרים, ופעילות יק"א.
+top:immigration-restrictions	top:migration	מדיניות הגירה והגבלות הגירה	חוקי הגירה והגבלות כניסה (חוק הזרים באנגליה, הגבלות באמריקה ובארץ ישראל), הגירת יפנים ועמים אחרים.
+top:refugees	top:migration	פליטים	פליטי מלחמה ופרעות: פליטים יהודים מטורקיה, מסלוניקי, מקזבלנקה ומרוסיה, ופליטים מוסלמים ויוונים מהבלקן.
+top:jewish-religion-culture		דת, תרבות וחינוך יהודיים	החיים הדתיים, החינוך, השפות, ההיסטוריה והזהות התרבותית של היהודים.
+top:jewish-education	top:jewish-religion-culture	חינוך יהודי	חדרים ומלמדים, בתי ספר וגימנסיות עבריים, טכניון, גני ילדים, ספריות וחברות השכלה, ושאלת שפת ההוראה.
+top:alliance-israelite-schools	top:jewish-education	אליאנס (כל ישראל חברים) ובתי הספר שלה	פעילות כל ישראל חברים: רשת בתי הספר במרוקו, בסלוניקי ובמזרח, הסיוע שהגישה, מצבה הכספי ודוחותיה.
+top:jewish-religious-life	top:jewish-religion-culture	חיים דתיים, הלכה ומנהגים	שבת וחגים, כשרות ושחיטה, סחר האתרוגים, עלייה לרגל לקברי צדיקים, מחלוקות רבניות ושאלות הלכה, ומנהגי עדות.
+top:jewish-languages	top:jewish-religion-culture	שפות יהודיות: עברית, יידיש ולדינו	תחיית העברית והפצתה, מעמד היידיש (כולל במפקדים ובמשפט), הלדינו, ומלחמת השפות.
+top:jewish-history-memory	top:jewish-religion-culture	היסטוריה וזיכרון יהודיים	תקופת בית שני והחשמונאים, גירוש ספרד והאינקוויזיציה, אנוסים, דמויות עבר (מונטיפיורי) ומרטירולוגיה יהודית.
+top:assimilation-conversion	top:jewish-religion-culture	התבוללות והמרת דת	התבוללות יהודים בסביבה האירופית והערבית, המרות דת (כולל של ילדים), נישואי תערובת וניתוק מהדת.
+top:morocco-question		שאלת מרוקו והמשברים המרוקאיים	המאבק הבינלאומי על מרוקו 1905–1912 והשתלטות צרפת וספרד עליה, על היבטיו הצבאיים, המדיניים, הכלכליים והפנימיים.
+top:french-intervention-morocco	top:morocco-question	ההתערבות הצבאית הצרפתית במרוקו	פעולות צבאיות צרפתיות וכיבוש מרוקו: כיבוש אוג'דה, הפגזת קזבלנקה ומסע השאוויה, קרבות בגבול אלג'יריה, מסע פאס 1911 והקרבות שאחריו.
+top:french-protectorate-morocco	top:morocco-question	הפרוטקטורט הצרפתי במרוקו	הסכם פאס והשלטון הצרפתי במרוקו מ-1912: ארגון הפרוטקטורט, ליוטה, המהומות בפאס והמרד נגד הצרפתים, ורפורמות צרפתיות.
+top:franco-german-rivalry-morocco	top:morocco-question	היריבות הצרפתית-גרמנית על מרוקו	המשבר המרוקאי הראשון והשני, ביקור הקייזר בטנג'יר, משבר אגאדיר, סכנת המלחמה והמשא ומתן וההסכמים הצרפתיים-גרמניים בעניין מרוקו וקונגו.
+top:spanish-intervention-morocco	top:morocco-question	ההתערבות הספרדית והיריבות הצרפתית-ספרדית במרוקו	מלחמת מלייה והרי הריף, הכיבוש הספרדי בלאראש ובאלקסאר, הסכסוך וההסכמים בין צרפת לספרד על מרוקו, וההתנגדות בספרד למלחמה.
+top:morocco-international-diplomacy	top:morocco-question	ועידות, הסכמים ורפורמות בינלאומיות במרוקו	ועידת אלחסיראס והסכמיה, רפורמת המשטרה, הבנק הממלכתי ועקרון הדלת הפתוחה, ומעורבות בריטניה, רוסיה, איטליה וארה"ב בשאלת מרוקו.
+top:moroccan-internal-politics	top:morocco-question	השלטון במרוקו ומאבקי הסולטנות	הסולטאנים עבד אל-עזיז, עבד אל-חפיט ויוסף, החפיטיה ומאבקי הירושה, החצר והמִחזן, התפטרות הסולטאן והשלטון המרוקאי.
+top:moroccan-tribal-revolts	top:morocco-question	מרידות שבטים וג'יהאד במרוקו	מרידות שבטים נגד הסולטאן ונגד האירופים, מצור המורדים על פאס, רייסולי, קריאות לג'יהאד, מרד חיילים ואי-שקט ואנרכיה במרוקו.
+top:european-economic-interests-morocco	top:morocco-question	אינטרסים כלכליים אירופיים במרוקו	הלוואות וחובות מרוקו לבנקאים אירופיים, סחר חוץ, זיכיונות, סחר נשק, נמלים והתחרות הכלכלית בין המעצמות במרוקו.
+top:ottoman-empire		האימפריה העות'מאנית והטורקים הצעירים	הפוליטיקה הפנימית, החברה, הצבא והפרובינציות של האימפריה העות'מאנית ויחסיה עם המעצמות.
+top:young-turk-revolution	top:ottoman-empire	מהפכת הטורקים הצעירים והמשטר החוקתי	מהפכת 1908 והשבת החוקה, ועד 'איחוד וקידמה', ההפיכה הנגדית של 1909, צבא הפעולה והדחת עבדול חמיד, ורפורמות הטורקים הצעירים.
+top:ottoman-politics	top:ottoman-empire	הפוליטיקה העות'מאנית: פרלמנט, ממשלה וסולטנות	הפרלמנט והבחירות לו, משברי ממשלה, מפלגות ואופוזיציה, הסולטאנים עבדול חמיד ומחמד החמישי, הפיכת 1913 וחקיקה עות'מאנית.
+top:ottoman-military	top:ottoman-empire	הצבא העות'מאני והגיוס	ארגון הצבא והצי העות'מאני, גיוס (כולל של לא-מוסלמים), משמעת ותבוסות, ההשפעה הצבאית הגרמנית ותפקיד הצבא בפוליטיקה.
+top:albanian-question	top:ottoman-empire	המרידות האלבניות והשאלה האלבנית	מרידות האלבנים בשלטון העות'מאני (1910–1912), דיכוין ותוצאותיהן, עצמאות אלבניה, וחוסר היציבות באלבניה אחריה.
+top:arab-provinces-revolts	top:ottoman-empire	מרידות ואי-שקט בפרובינציות הערביות	המרד בתימן ובעסיר, מרד הדרוזים בחוראן, אי-שקט בסוריה, בעיראק ובחצי האי ערב, ויחס השלטון העות'מאני לערבים.
+top:armenian-question	top:ottoman-empire	השאלה הארמנית ואלימות נגד נוצרים	טבח אדנה, מתיחות ואלימות בין מוסלמים, כורדים וארמנים, ואלימות נגד נוצרים ויוונים באסיה הקטנה.
+top:ottoman-nationalities	top:ottoman-empire	יחסי לאומים ודתות באימפריה העות'מאנית	רעיון העות'מאניות ואחוות העמים, זכויות לאומיות, יוונים ובולגרים באימפריה, ולאומיות טורקית מול דת.
+top:ottoman-foreign-relations	top:ottoman-empire	יחסי החוץ של האימפריה העות'מאנית והתערבות המעצמות	יחסי טורקיה עם המעצמות ועם שכנותיה (פרס, יוון, רוסיה, בולגריה), הקפיטולציות, השקעות זרות, סכסוכי גבול וחרמות כלכליים.
+top:balkans-eastern-question		הבלקן והשאלה המזרחית	המאבק על השטחים האירופיים של האימפריה העות'מאנית, מדינות הבלקן, מלחמות הבלקן ושאלת המיצרים.
+top:macedonian-question	top:balkans-eastern-question	השאלה המקדונית	מקדוניה: רפורמות, אוטונומיה, כנופיות וטרור, סכסוכים לאומיים בין בולגרים, יוונים וסרבים ואי-שקט צבאי.
+top:cretan-question	top:balkans-eastern-question	שאלת כרתים	מעמד כרתים, תנועת האיחוד עם יוון, משבר שבועת הצירים והסכסוך הטורקי-יווני על האי.
+top:straits-question	top:balkans-eastern-question	שאלת המיצרים והדרדנלים	מעמד הבוספורוס והדרדנלים, סגירתם ופתיחתם והשפעתם על הסחר והספנות, ותביעות רוסיה במיצרים.
+top:austria-hungary-balkans	top:balkans-eastern-question	מדיניות אוסטרו-הונגריה בבלקן ומשבר בוסניה	סיפוח בוסניה-הרצגובינה והחרם העות'מאני על אוסטריה, המתיחות האוסטרית-סרבית, והיריבות האוסטרית-רוסית בבלקן.
+top:balkan-wars	top:balkans-eastern-question	מלחמות הבלקן	הברית הבלקנית, מלחמת הבלקן הראשונה והשנייה, המצורים, משא ומתן השלום וחלוקת השטחים, וגורל סלוניקי ואלבניה.
+top:balkan-states-politics	top:balkans-eastern-question	פוליטיקה ויחסים בין מדינות הבלקן	הפוליטיקה הפנימית של יוון, בולגריה, סרביה, רומניה ומונטנגרו, עצמאות בולגריה, רצח המלך גאורגיוס והמתיחות בין מדינות הבלקן.
+top:italo-turkish-war		המלחמה האיטלקית-טורקית	מלחמת איטליה והאימפריה העות'מאנית על טריפוליטניה וקירנאיקה (1911–1912), על חזיתותיה, השלכותיה והדיפלומטיה שסביבה.
+top:libya-campaign	top:italo-turkish-war	הלחימה בטריפולי ובקירנאיקה	הנחיתה האיטלקית, הקרבות והאלימות נגד האוכלוסייה בלוב, וסיפוח טריפולי וקירנאיקה.
+top:italo-turkish-naval-war	top:italo-turkish-war	המלחמה הימית בים האגאי ובדרדנלים	פעולות הצי האיטלקי: הפגזת בירות ונמלים, הדרדנלים, חיוס ואיי הדודקאנס.
+top:italo-turkish-war-diplomacy	top:italo-turkish-war	הדיפלומטיה של המלחמה האיטלקית-טורקית	עמדות המעצמות, החרם הטורקי על איטליה, משא ומתן השלום והסכם אושי.
+top:russian-politics		פוליטיקה רוסית ומהפכה	הפוליטיקה הפנימית של האימפריה הרוסית: מהפכה, דומה, ממשל, דיכוי ושאלת הלאומים.
+top:russian-revolution-1905	top:russian-politics	מהפכת 1905	יום ראשון העקוב מדם, השביתות וההפגנות, מרידות (פוטיומקין, מוסקבה, סבסטופול), מניפסט אוקטובר והאלימות המהפכנית של 1905–1907.
+top:state-duma	top:russian-politics	הדומה הממלכתית והבחירות לה	הבחירות לדומה, מפלגות (קדטים, ימין), דיוני הדומה, פיזורה, צירים יהודים ושאלת היהודים בדומה.
+top:russian-reaction-repression	top:russian-politics	ריאקציה ודיכוי פוליטי ברוסיה	הריאקציה אחרי 1905: מעצרים פוליטיים, בתי דין צבאיים, אוחרנה ופרובוקציה, רדיפת מהפכנים ואסירים פוליטיים, ושרירות הממשל המקומי.
+top:russian-government	top:russian-politics	הממשל, המינהל והכספים ברוסיה	הצאר והחצר, ממשלות ושרים (סטוליפין, ויטה), מינויים, תקציב וכספים, מדיניות חינוך ומדיניות פנים.
+top:russian-nationalities	top:russian-politics	שאלת הלאומים באימפריה הרוסית	רוסיפיקציה ודיכוי פינלנד, שאלת פולין והשלטון העצמי בה, הקווקז ומיעוטים לאומיים אחרים.
+top:russian-revolution-1917	top:russian-politics	מהפכות 1917	מהפכת פברואר, הממשלה הזמנית, הבחירות לאסיפה המכוננת, מהפכת אוקטובר ותגובת בעלות הברית לשלטון הבולשביקי.
+top:russian-foreign-policy	top:russian-politics	מדיניות החוץ של רוסיה	מדיניות החוץ הרוסית באסיה, במזרח התיכון ובאירופה, יחסי רוסיה עם סין, טורקיה וארה"ב ומשלחות דיפלומטיות.
+top:wwi		מלחמת העולם הראשונה	מלחמת העולם הראשונה 1914–1918: פרוצה, החזיתות, הדיפלומטיה, העורף והשלכותיה על היהודים; סקירות מלחמה כלליות.
+top:wwi-outbreak-diplomacy	top:wwi	פרוץ המלחמה, דיפלומטיה ונייטרליות	משבר יולי ופרוץ המלחמה, נייטרליות והצטרפות מדינות (טורקיה, בולגריה, רומניה, יוון, ארה"ב), שיחות שלום ושלום נפרד.
+top:wwi-eastern-front	top:wwi	החזית המזרחית	הקרבות בין רוסיה לגרמניה ואוסטרו-הונגריה בפולין, גליציה ובוקובינה, כולל כיבוש לודז' וצ'רנוביץ.
+top:wwi-balkan-fronts	top:wwi	חזיתות הבלקן, סלוניקי ורומניה	החזית הסרבית, חזית סלוניקי (המקדונית), החזית הרומנית, והפילוג הלאומי ביוון.
+top:wwi-ottoman-fronts	top:wwi	החזיתות העות'מאניות	החזית הקווקזית, מערכת גליפולי והדרדנלים, ההתקפה על תעלת סואץ ומצרים, וארץ ישראל וסוריה במלחמה.
+top:wwi-western-italian-fronts	top:wwi	החזית המערבית והחזית האיטלקית	הקרבות בצרפת ובבלגיה ובחזית האיטלקית-אוסטרית.
+top:wwi-naval-air-war	top:wwi	המלחמה בים ובאוויר	מלחמת הצוללות, ההסגר הימי, המוקשים, קרבות ימיים והתקפות אוויריות.
+top:wwi-home-front	top:wwi	העורף, השבויים והסיוע במלחמה	החיים בעורף (כולל אודסה), כלכלה ומחסור, גיוס, פצועים ושבויי מלחמה, וסיוע לחיילים ולמשפחותיהם.
+top:wwi-jews	top:wwi	היהודים במלחמת העולם הראשונה	השפעת המלחמה על היהודים: פליטים ומגורשים, חיילים יהודים והגדוד העברי, רדיפת היישוב בארץ ישראל, ויחס המדינות הלוחמות ליהודים.
+top:great-power-diplomacy		דיפלומטיה של המעצמות ובריתות	היחסים בין המעצמות האירופיות, בריתות, יריבויות, משברים בינלאומיים ומאמצי שלום (לפני 1914).
+top:alliances-ententes	top:great-power-diplomacy	בריתות והסכמים בין המעצמות	הברית המשולשת וההסכמה המשולשת, ההסכמה הלבבית, הברית הצרפתית-רוסית, ההסכם האנגלו-רוסי, הברית האנגלו-יפנית ומאזן הכוחות.
+top:franco-german-relations	top:great-power-diplomacy	יחסי צרפת וגרמניה	היחסים והמתיחות בין צרפת לגרמניה מעבר לשאלת מרוקו: אלזס-לורין, זיכרון מלחמת 1870, פטריוטיזם וסכנת מלחמה ביניהן.
+top:anglo-german-rivalry	top:great-power-diplomacy	היריבות האנגלו-גרמנית ומירוץ החימוש הימי	היחסים בין בריטניה לגרמניה, מירוץ החימוש הימי, כוח ימי מול כוח יבשתי.
+top:war-scares	top:great-power-diplomacy	סכנת מלחמה ומשברים בינלאומיים	חשש ממלחמה אירופית כללית, שמועות מלחמה, פאניקה בבורסות ומתיחות בינלאומית כללית.
+top:royal-visits-summits	top:great-power-diplomacy	ביקורי מלכים ופגישות פסגה	ביקורי מלכים, קיסרים ונשיאים זה אצל זה, פגישות פסגה ומשמעותן המדינית.
+top:peace-movement-arbitration	top:great-power-diplomacy	תנועת השלום, ועידות האג ובוררות	ועידות השלום בהאג, הגבלת חימוש, הסכמי בוררות, תנועת השלום ופרס נובל לשלום.
+top:persia-asia		פרס, אסיה והמזרח הרחוק	אירועים ומדיניות בפרס, בסין, ביפן ובקוריאה, כולל המלחמה הרוסית-יפנית.
+top:russo-japanese-war	top:persia-asia	המלחמה הרוסית-יפנית	המלחמה בין רוסיה ליפן 1904–1905: הקרבות, תנועות הצי הרוסי, מימון המלחמה, שיחות השלום בפורטסמות והשלכותיה.
+top:persian-revolution	top:persia-asia	המהפכה החוקתית בפרס	המהפכה החוקתית, המאבק בשאה מוחמד עלי, המצור על תבריז, משברי ממשל ואי-שקט, ומצב יהודי פרס בעקבותיה.
+top:foreign-intervention-persia	top:persia-asia	התערבות המעצמות בפרס	ההתערבות הרוסית והבריטית בפרס, ההסכם האנגלו-רוסי ואזורי ההשפעה, ההסכם הרוסי-גרמני, הלוואות וסכסוכי הגבול הטורקי-פרסי.
+top:china	top:persia-asia	סין והמהפכה הסינית	המהפכה הסינית והרפובליקה, אי-שקט בסין, התערבות המעצמות, הלוואות, והסכסוכים עם רוסיה ויפן.
+top:japan-korea	top:persia-asia	יפן, קוריאה והתפשטות יפן	כיבוש קוריאה וסיפוחה, יחסי יפן עם ארה"ב וסין, והפוליטיקה היפנית.
+top:domestic-politics		פוליטיקה פנימית במדינות אירופה ואמריקה	הפוליטיקה הפנימית של המדינות (פרלמנטים, ממשלות, בחירות, חוקות, חצרות מלוכה); רוסיה, האימפריה העות'מאנית ומדינות הבלקן – תחת נושאיהן.
+top:french-domestic-politics	top:domestic-politics	פוליטיקה פנימית בצרפת	ממשלות ומשברי ממשלה בצרפת, הפרלמנט והבחירות, רפורמת הבחירות, הצבא והפוליטיקה, שערוריות ודעת הקהל הצרפתית (כולל ויכוחי מרוקו בפרלמנט).
+top:church-state-france	top:french-domestic-politics	הפרדת הדת והמדינה בצרפת	חוק ההפרדה של 1905, הסכסוך עם הוותיקן, הקתולים בצרפת ופנסיות לאנשי דת.
+top:german-domestic-politics	top:domestic-politics	פוליטיקה פנימית בגרמניה	הקייזר והחצר, הרייכסטאג והבחירות לו, זכות הבחירה בפרוסיה, אלזס-לורין, מדיניות כלפי הפולנים והדיכוי המשטרתי.
+top:british-domestic-politics	top:domestic-politics	פוליטיקה פנימית בבריטניה	הממשלה והפרלמנט הבריטיים, הבחירות, משבר התקציב ובית הלורדים, אירלנד ורפורמת הבחירות.
+top:austro-hungarian-domestic-politics	top:domestic-politics	פוליטיקה פנימית באוסטרו-הונגריה	הפרלמנט האוסטרי והבחירות, זכות הבחירה הכללית, המשבר ההונגרי, משברי שרים ומתיחות בין הלאומים בקיסרות.
+top:italian-domestic-politics	top:domestic-politics	פוליטיקה פנימית באיטליה	ממשלות ומשברים באיטליה, תסיסה אנטי-קלריקלית ומהומות.
+top:iberian-politics	top:domestic-politics	פוליטיקה בספרד ובפורטוגל	משברי ממשלה ומהומות בספרד, רצח מלך פורטוגל, המהפכה הפורטוגלית והרפובליקה וקשרים מלוכניים נגדה.
+top:smaller-european-states	top:domestic-politics	פוליטיקה במדינות אירופה הקטנות	פירוק האיחוד בין נורווגיה לשוודיה, הפוליטיקה בשוודיה, בהולנד, בבלגיה, בדנמרק ובשווייץ.
+top:americas-politics	top:domestic-politics	פוליטיקה ביבשת אמריקה	הפוליטיקה בארצות הברית (בחירות, מדיניות אנטי-טראסט), המהפכה במקסיקו ואירועים באמריקה הלטינית.
+top:catholic-church-papacy	top:domestic-politics	האפיפיורות והכנסייה הקתולית	האפיפיור והוותיקן, הישועים והכנסייה הקתולית ויחסיהן עם המדינות.
+top:colonialism		קולוניאליזם ואימפריאליזם	ההתפשטות הקולוניאלית של המעצמות, התחרות ביניהן, השלטון במושבות והביקורת עליו (מרוקו – תחת שאלת מרוקו).
+top:colonial-rivalry	top:colonialism	התחרות הקולוניאלית בין המעצמות	חלוקת אפריקה והעולם בין המעצמות, פיצויים קולוניאליים (קונגו), חלוקת 'ירושת' העולם המוסלמי והתפשטות על חשבון האימפריה העות'מאנית.
+top:french-colonial-empire	top:colonialism	האימפריה הקולוניאלית הצרפתית	השלטון הצרפתי באלג'יריה, תוניסיה, הודו-סין, מדגסקר ואפריקה, המדיניות הצרפתית בצפון אפריקה ומרידות נגד צרפת מחוץ למרוקו.
+top:british-empire	top:colonialism	האימפריה הבריטית: הודו, מצרים ותעלת סואץ	השלטון הבריטי בהודו ובמצרים, התסיסה נגדו, תעלת סואץ והמדיניות הבריטית בעדן ובערב.
+top:other-colonial-empires	top:colonialism	מושבות גרמניה, בלגיה, פורטוגל ואחרות	המושבות הגרמניות באפריקה, קונגו הבלגית, מושבות פורטוגל ואיטליה ומושבות נוספות.
+top:anti-colonial-critique	top:colonialism	ביקורת הקולוניאליזם והצדקותיו	'המשימה התרבותית', ניצול ודיכוי עמים במושבות, ביקורת על הציוויליזציה האירופית והפגנות סוציאליסטיות נגד קולוניאליזם.
+top:economy		כלכלה, מסחר ותחבורה	מסחר, כספים, תעשייה, תחבורה ויוקר המחיה.
+top:trade-tariffs	top:economy	מסחר, מכסים וחרמות כלכליים	סחר בינלאומי ומקומי, הסכמי סחר ומכסים, מונופולים, מחירי שוק וחרמות כלכליים בין מדינות.
+top:finance-banking	top:economy	בנקאות, הלוואות ובורסה	הלוואות ממלכתיות (למשל הלוואות צרפת לרוסיה), בנקים, בית רוטשילד, בורסות ופאניקות פיננסיות.
+top:railways-shipping	top:economy	מסילות ברזל, ספנות ותעלות	מסילת בגדאד ומסילות בארץ ישראל ובאימפריה, ספנות בים השחור ובבלקן, תעלת פנמה ונמלים.
+top:cost-of-living	top:economy	יוקר המחיה ומשברים כלכליים	התייקרות מזון ומחירים, הפגנות נגד יוקר המחיה, מחסור, משברים כלכליים ואבטלה.
+top:industry-concessions	top:economy	תעשייה, משאבים וזיכיונות	פיתוח כלכלי ותעשייה, תעשיות שונות, משאבי טבע וזיכיונות לחברות זרות.
+top:disasters-health		אסונות, מגפות ובריאות	אסונות טבע ואסונות מעשה ידי אדם, מגפות ובריאות הציבור.
+top:epidemics	top:disasters-health	מגפות	כולרה, דבר, אבעבועות ומחלות מדבקות אחרות, הסגר ובידוד בנמלים.
+top:natural-disasters	top:disasters-health	אסונות טבע ורעב	רעידות אדמה, שיטפונות, סערות, גלי חום ורעב.
+top:fires	top:disasters-health	שריפות	שריפות בערים, ברובעים יהודיים, בבתי כנסת ובבתי קולנוע, וסיוע לנפגעיהן.
+top:accidents	top:disasters-health	תאונות ואסונות תחבורה	אסונות ימיים (טיטניק), תאונות רכבת, תעופה וצפלינים, ואסונות מכרות.
+top:medicine-public-health	top:disasters-health	רפואה ובריאות הציבור	חידושים ברפואה (תרופת 606), שחפת, חיסונים, תברואה ובריאות בקהילות.
+top:press-culture-science		עיתונות, תרבות ומדע	העיתונות ומדוריה, ספרות, תיאטרון, בידור, הנצחה, מדע וטכנולוגיה.
+top:press-censorship	top:press-culture-science	חופש העיתונות וצנזורה	צנזורה, עיקולים, קנסות ומשפטים נגד עיתונים ועיתונאים, וחוקי עיתונות.
+top:jewish-press	top:press-culture-science	העיתונות היהודית	עיתונות ביידיש, בעברית ובלדינו, העיתונות היהודית בטורקיה ובסלוניקי, ומסעות ומשלחות של העיתון.
+top:press-opinion-polemics	top:press-culture-science	דעת קהל, תגובות העיתונות ופולמוסים	תגובות העיתונות האירופית והרוסית, פולמוסים עיתונאיים, הכחשות רשמיות, עיתונות ודיפלומטיה ועיתונות לאומנית.
+top:news-digests	top:press-culture-science	מדורי מברקים וידיעות קצרות	מדורי מברקים, כותרות וידיעות קצרות מעורבות שאין להם נושא מרכזי אחד.
+top:literature-serials	top:press-culture-science	ספרות, רומנים בהמשכים וביקורת	רומנים היסטוריים בהמשכים, סיפורת מתורגמת, יצירות סופרים (שלום עליכם), ביקורת ספרות ודרמה.
+top:satire-humour	top:press-culture-science	סאטירה והומור	סאטירה פוליטית וחברתית, פרודיות, הומור ומברקים הומוריסטיים.
+top:arts-entertainment	top:press-culture-science	תיאטרון, בידור, ספורט ותערוכות	תיאטרון (כולל יידי), שחמט וספורט, אופנה, תערוכות עולמיות וחיי חברה גבוהה.
+top:ads-notices	top:press-culture-science	מודעות ופרסומות	פרסומות מסחריות, מודעות מנוי, הגרלות וקופוני טיול לארץ ישראל, מודעות אבל וברכה.
+top:commemorations	top:press-culture-science	יובלות, הנצחה והספדים	חגיגות יובל, הנצחת אישים ואירועים, הספדים ופטירת אישים.
+top:aviation	top:press-culture-science	תעופה	טיסות ותחרויות טיסה, התפתחות התעופה וצפלינים (אסונות אוויר – גם תחת תאונות).
+top:science-archaeology	top:press-culture-science	מדע, ארכאולוגיה וטכנולוגיה	תגליות ותופעות מדעיות (שביט האלי), חפירות ארכאולוגיות, תחזיות טכנולוגיות והמצאות.
+top:society-labour		חברה, עבודה וסוציאליזם	תנועת הפועלים והסוציאליזם, שביתות, מעמד האישה, סטודנטים, מיליטריזם, לאומיות וחיי חברה.
+top:labour-strikes	top:society-labour	שביתות ותנאי עבודה	שביתות והפגנות פועלים, שביתות כלליות, סכסוכי עבודה, תנאי שכר ואבטלה.
+top:socialism	top:society-labour	סוציאליזם ותנועת הפועלים	מפלגות סוציאליסטיות וסוציאל-דמוקרטיות, האינטרנציונל וקונגרסיו, סולידריות פועלים, אנטי-מיליטריזם סוציאליסטי ואנרכיזם.
+top:women-family	top:society-labour	נשים, משפחה ונישואין	זכות הבחירה לנשים וזכויות נשים, השכלת נשים, לבוש ומעמד האישה, שידוכים, נישואין ושערוריות משפחתיות.
+top:prostitution-trafficking	top:society-labour	זנות וסחר בנשים	סחר בנשים ('העבדות הלבנה'), זנות ובתי בושת והמאבק בהם.
+top:students-universities	top:society-labour	סטודנטים, אוניברסיטאות וחופש אקדמי	תסיסת סטודנטים, חופש אקדמי, רפורמות באוניברסיטאות ופיקוח עליהן.
+top:militarism-conscription	top:society-labour	מיליטריזם, צבא וגיוס	מיליטריזם ופטריוטיזם, גיוס ושירות צבאי, הכנות ותמרונים צבאיים, אסטרטגיה וחימוש (צבא עות'מאני ויהודים בצבא – בנפרד).
+top:nationalism	top:society-labour	לאומיות ותנועות לאומיות	לאומיות ולאומנות כתופעה כללית, תנועות לאומיות באירופה ומתיחויות לאומיות (גרמנים וסלאבים, לגיונות פולניים).
+top:daily-life-leisure	top:society-labour	חיי יומיום, פנאי ונופש	נופש בבתי מרפא, טיולים ונסיעות, רכילות חברתית ותיאורי חיי יומיום.
+top:crime-law		פשיעה, משפט וענישה	פשיעה, משפטים, אלימות פוליטית, ענישה, ריגול ושחיתות.
+top:crime-robbery	top:crime-law	פשיעה ושוד	שוד, רצח, הונאות, גניבות, כנופיות ושוד מזוין (בעיקר ברוסיה ובפולין).
+top:trials	top:crime-law	משפטים ופרשות משפטיות	משפטים פליליים, פוליטיים וצבאיים ופרשות משפטיות בולטות, ומערכת המשפט.
+top:political-violence	top:crime-law	אלימות פוליטית, טרור והתנקשויות	התנקשויות ברשמים ובמלכים, פיגועי פצצות, טרור מהפכני ואנרכיסטי ורציחות פוליטיות.
+top:death-penalty-punishment	top:crime-law	עונש מוות, ענישה ובתי כלא	עונש המוות והוצאות להורג, ביטולו, עונשי גוף, בתי כלא ובריחת אסירים, חנינות.
+top:espionage	top:crime-law	ריגול	פרשיות ריגול ופעילות חתרנית.
+top:corruption-scandals	top:crime-law	שחיתות ושערוריות ציבוריות	שוחד ושחיתות בממשל ובצבא, שערוריות ציבוריות (פרשת מרקוני) ושרירות פקידים.
+top:islam-middle-east		האסלאם והעולם המוסלמי	דת, חברה, תרבות ותנועות פוליטיות בעולם המוסלמי והערבי, ויחסים בין דתות במזרח.
+top:pan-islamism	top:islam-middle-east	פאן-אסלאמיזם והתעוררות העולם המוסלמי	פאן-אסלאמיזם וסולידריות מוסלמית, התעוררות העולם המוסלמי, ח'ליפות, רפורמות חוקתיות במדינות מוסלמיות ורגשות אנטי-אירופיים.
+top:muslim-religious-life	top:islam-middle-east	דת ופולחן מוסלמיים	עלייה לרגל למכה, חגים, אמונות עממיות ופולחן קדושים, אנשי דת מוסלמים ומקומות קדושים.
+top:arab-egyptian-nationalism	top:islam-middle-east	לאומיות ערבית ומצרית	התנועה הלאומית הערבית, הלאומיות המצרית והעיתונות הערבית.
+top:ethnography-orient	top:islam-middle-east	תיאורים אתנוגרפיים של המזרח	תיאורי חיי בדואים, דרוזים, כורדים ושבטי מרוקו, תרבות מרוקאית וערבית, נוף וחיי יומיום במזרח ודימויים של עמי המזרח.
+top:interreligious-relations-orient	top:islam-middle-east	יחסים בין-דתיים במזרח	יחסי מוסלמים, נוצרים, דרוזים ויהודים, מתיחות בין-דתית וחשש ממלחמת קודש.
+ev:first-moroccan-crisis	top:franco-german-rivalry-morocco	המשבר המרוקאי הראשון	1905-03-31 Franco-German crisis over Morocco triggered by the Kaiser's Tangier visit
+ev:kaiser-visit-tangier	top:franco-german-rivalry-morocco	ביקור הקייזר בטנג'יר	1905-03-31 Wilhelm II landed at Tangier and declared support for Moroccan independence
+ev:delcasse-resignation	top:franco-german-rivalry-morocco	התפטרות דלקאסה	1905-06-06 French foreign minister Delcassé forced to resign under German pressure over Morocco
+ev:algeciras-conference	top:morocco-international-diplomacy	ועידת אלחסיראס	1906-01-16 international conference on Morocco; Act of Algeciras on police, state bank and open door
+ev:mauchamp-murder	top:french-intervention-morocco	רצח הרופא מושאן במרקש	1907-03-19 murder of French doctor Émile Mauchamp in Marrakesh, pretext for occupation of Oujda
+ev:occupation-of-oujda	top:french-intervention-morocco	כיבוש אוג'דה	1907-03-29 French troops from Algeria occupied Oujda
+ev:maclean-kidnapping	top:moroccan-tribal-revolts	חטיפת קאיד מקלין בידי רייסולי	1907-07-03 Raisuli kidnapped the Sultan's British military adviser Kaid Harry Maclean
+ev:casablanca-riots-1907	top:moroccan-tribal-revolts	המהומות בקזבלנקה 1907	1907-07-30 killing of European workers at the Casablanca port works, prelude to the French bombardment
+ev:bombardment-of-casablanca	top:french-intervention-morocco	הפגזת קזבלנקה	1907-08-05 French naval bombardment and landing at Casablanca
+ev:casablanca-mellah-pogrom-1907	top:moroccan-jews	פרעות במלאח של קזבלנקה	1907-08-05 looting and killing in the Jewish quarter of Casablanca during the bombardment
+ev:chaouia-campaign	top:french-intervention-morocco	מסע השאוויה	1907-08 French military campaign in the Chaouia hinterland of Casablanca
+ev:hafidiya	top:moroccan-internal-politics	החפיטיה (מלחמת האחים על הסולטנות)	1907-08-16 civil war in which Abd al-Hafid overthrew his brother Sultan Abd al-Aziz
+ev:franco-german-accord-1909	top:franco-german-rivalry-morocco	ההסכם הצרפתי-גרמני על מרוקו 1909	1909-02-09 accord recognizing French political interests in Morocco in return for German economic equality
+ev:melilla-war-1909	top:spanish-intervention-morocco	מלחמת מלייה 1909	1909-07-09 Spanish war against Rif tribes around Melilla
+ev:tragic-week	top:spanish-intervention-morocco	השבוע הטרגי בברצלונה	1909-07-26 riots in Barcelona against call-up of reservists for the Melilla war
+ev:siege-of-fez-1911	top:moroccan-tribal-revolts	מצור המורדים על פאס 1911	1911-03 rebel tribes besieged Sultan Abd al-Hafid in Fez
+ev:fez-expedition-1911	top:french-intervention-morocco	מסע פאס הצרפתי	1911-04 French relief column under Moinier entered Fez on 21 May 1911
+ev:spanish-landing-larache	top:spanish-intervention-morocco	הנחיתה הספרדית בלאראש	1911-06-08 Spain occupied Larache and Ksar el-Kebir in response to the French Fez expedition
+ev:agadir-crisis	top:franco-german-rivalry-morocco	משבר אגאדיר	1911-07-01 German gunboat Panther sent to Agadir; Second Moroccan Crisis
+ev:kert-campaign	top:spanish-intervention-morocco	מסע הקרט	1911-08-24 Spanish campaign against Rif tribes along the Kert river
+ev:morocco-congo-treaty	top:franco-german-rivalry-morocco	ההסכם הצרפתי-גרמני (מרוקו-קונגו) 1911	1911-11-04 Germany accepted French protectorate over Morocco in exchange for part of French Congo
+ev:treaty-of-fez	top:french-protectorate-morocco	הסכם פאס	1912-03-30 treaty making Morocco a French protectorate
+ev:fez-riots-1912	top:french-protectorate-morocco	מהומות פאס 1912 (טְרִיטֶל)	1912-04-17 mutiny of Moroccan troops and riots in Fez against the protectorate, including sack of the mellah
+ev:abdication-abd-al-hafid	top:moroccan-internal-politics	התפטרות הסולטאן עבד אל-חפיט	1912-08-12 abdication of Sultan Abd al-Hafid and accession of Yusuf
+ev:battle-of-sidi-bou-othman	top:french-intervention-morocco	קרב סידי בו עות'מאן	1912-09-06 French defeat of Ahmed al-Hiba's uprising and entry into Marrakesh
+ev:franco-spanish-treaty-1912	top:spanish-intervention-morocco	ההסכם הצרפתי-ספרדי על מרוקו 1912	1912-11-27 treaty establishing the Spanish protectorate zone in northern Morocco
+ev:entente-cordiale	top:alliances-ententes	ההסכמה הלבבית	1904-04-08 Anglo-French agreements incl. free hand for France in Morocco
+ev:franco-italian-agreement-1902	top:alliances-ententes	ההסכם הצרפתי-איטלקי על טריפולי ומרוקו	1902-11-01 secret Franco-Italian accord: Italian free hand in Tripoli, French in Morocco
+ev:young-turk-revolution	top:young-turk-revolution	מהפכת הטורקים הצעירים	1908-07-03 constitutional revolution restoring the 1876 Ottoman constitution
+ev:ottoman-election-1908	top:ottoman-politics	הבחירות לפרלמנט העות'מאני 1908	1908-11 first elections after the revolution; parliament opened 17 Dec 1908
+ev:31-march-incident	top:young-turk-revolution	ההפיכה הנגדית (אירוע 31 במרץ)	1909-04-13 counter-revolutionary uprising in Istanbul suppressed by the Action Army
+ev:deposition-abdul-hamid	top:young-turk-revolution	הדחת הסולטאן עבדול חמיד השני	1909-04-27 deposition of Abdul Hamid II, exile to Salonica and accession of Mehmed V
+ev:adana-massacre	top:armenian-question	טבח אדנה	1909-04 massacre of Armenians in Adana province
+ev:hauran-druze-rebellion	top:arab-provinces-revolts	מרד הדרוזים בחוראן	1909-05 Druze revolt in the Hauran suppressed by Sami Pasha al-Farouqi; executions in Damascus
+ev:albanian-revolt-1910	top:albanian-question	המרד האלבני 1910	1910-04 Albanian uprising in Kosovo vilayet
+ev:albanian-revolt-1911	top:albanian-question	המרד האלבני 1911	1911-03 Malësori uprising in northern Albania
+ev:albanian-revolt-1912	top:albanian-question	המרד האלבני 1912	1912-01 last Albanian revolt against Ottoman rule
+ev:albanian-independence	top:albanian-question	הכרזת העצמאות של אלבניה	1912-11-28 Albanian independence proclaimed at Vlorë
+ev:yemen-revolt-1911	top:arab-provinces-revolts	המרד בתימן 1911	1911 Zaydi revolt under Imam Yahya ended by the Treaty of Daan
+ev:raid-on-sublime-porte	top:ottoman-politics	הפשיטה על הפורטה הנשגבה (הפיכת 1913)	1913-01-23 CUP coup bringing the Three Pashas to power
+ev:bulgarian-independence	top:balkan-states-politics	הכרזת העצמאות של בולגריה	1908-10-05 Ferdinand proclaimed Bulgarian independence
+ev:bosnian-crisis	top:austria-hungary-balkans	משבר בוסניה	1908-10-06 Austro-Hungarian annexation of Bosnia-Herzegovina and the ensuing crisis
+ev:ottoman-boycott-austria-1908	top:austria-hungary-balkans	החרם העות'מאני על סחורות אוסטריות	1908-10 boycott of Austrian goods after annexation of Bosnia
+ev:cretan-union-1908	top:cretan-question	הכרזת איחוד כרתים עם יוון	1908-10-07 Cretan assembly declared union with Greece
+ev:goudi-coup	top:balkan-states-politics	הפיכת גודי	1909-08-28 Greek military coup leading to Venizelos' rise
+ev:balkan-league	top:balkan-wars	הקמת הברית הבלקנית	1912-03-13 alliance of Balkan states against the Ottoman Empire
+ev:first-balkan-war	top:balkan-wars	מלחמת הבלקן הראשונה	1912-10-08 Balkan League war against the Ottoman Empire
+ev:capture-of-thessaloniki-1912	top:balkan-wars	כיבוש סלוניקי בידי יוון	1912-11-08 surrender of Salonica to the Greek army
+ev:siege-of-scutari	top:balkan-wars	המצור על סקוטרי	1912-10-28 Montenegrin siege of Shkodër; Scutari crisis with the powers
+ev:siege-of-adrianople	top:balkan-wars	המצור על אדריאנופול	1912-11-03 Bulgarian-Serbian siege and capture of Edirne
+ev:london-conference-1912	top:balkan-wars	ועידת לונדון (השלום והשגרירים) 1912–1913	1912-12-16 peace talks and ambassadors' conference on the Balkan settlement and Albania
+ev:second-balkan-war	top:balkan-wars	מלחמת הבלקן השנייה	1913-06-29 war of Bulgaria against its former allies
+ev:treaty-of-bucharest-1913	top:balkan-wars	הסכם בוקרשט 1913	1913-08-10 peace treaty ending the Second Balkan War
+ev:assassination-george-i	top:balkan-states-politics	רצח המלך גאורגיוס הראשון	1913-03-18 assassination of King George I of Greece in Salonica
+ev:italo-turkish-war	top:italo-turkish-war	המלחמה האיטלקית-טורקית	1911-09-29 Italian war to seize Tripolitania and Cyrenaica
+ev:battle-of-tripoli-1911	top:libya-campaign	כיבוש טריפולי	1911-10-03 Italian bombardment and landing at Tripoli
+ev:battle-of-shar-al-shatt	top:libya-campaign	קרב שארע א-שט והטבח בטריפולי	1911-10-23 Ottoman-Arab attack near Tripoli followed by Italian reprisals
+ev:annexation-of-libya	top:libya-campaign	סיפוח טריפולי וקירנאיקה לאיטליה	1911-11-05 royal decree annexing Tripolitania and Cyrenaica
+ev:battle-of-beirut-1912	top:italo-turkish-naval-war	הפגזת בירות	1912-02-24 Italian cruisers sank Ottoman ships at Beirut
+ev:dardanelles-1912	top:italo-turkish-naval-war	ההתקפה האיטלקית על הדרדנלים וסגירתם	1912-04-18 Italian naval attack and Ottoman closure of the Straits
+ev:dodecanese-occupation	top:italo-turkish-naval-war	כיבוש איי הדודקאנס	1912-04 Italy occupied Rhodes and the Dodecanese
+ev:treaty-of-ouchy	top:italo-turkish-war-diplomacy	הסכם אושי (לוזאן 1912)	1912-10-18 peace treaty ending the Italo-Turkish War
+ev:russo-japanese-war	top:russo-japanese-war	המלחמה הרוסית-יפנית	1904-02-08 war between Russia and Japan over Manchuria and Korea
+ev:siege-of-port-arthur	top:russo-japanese-war	נפילת פורט ארתור	1904-08-01 Japanese siege and capture of Port Arthur
+ev:battle-of-mukden	top:russo-japanese-war	קרב מוקדן	1905-02-20 major land battle of the war
+ev:battle-of-tsushima	top:russo-japanese-war	קרב צושימה	1905-05-27 destruction of the Russian Baltic Fleet
+ev:treaty-of-portsmouth	top:russo-japanese-war	הסכם פורטסמות	1905-09-05 peace treaty ending the Russo-Japanese War
+ev:russian-revolution-1905	top:russian-revolution-1905	המהפכה הרוסית של 1905	1905-01-22 wave of revolutionary unrest in the Russian Empire
+ev:bloody-sunday-1905	top:russian-revolution-1905	יום ראשון העקוב מדם	1905-01-22 troops fired on Gapon's procession of workers
+ev:potemkin-mutiny	top:russian-revolution-1905	מרד המלחים בפוטיומקין	1905-06-27 mutiny on the battleship Potemkin off Odessa
+ev:october-manifesto	top:russian-revolution-1905	מניפסט אוקטובר	1905-10-30 Nicholas II granted civil liberties and an elected Duma
+ev:odessa-pogrom-1905	top:pogroms	פוגרום אודסה 1905	1905-10-31 anti-Jewish pogrom in Odessa after the October Manifesto
+ev:sevastopol-uprising-1905	top:russian-revolution-1905	מרד סבסטופול ופרשת שמידט	1905-11-24 naval uprising led by Lt. Pyotr Schmidt, executed 1906
+ev:moscow-uprising-1905	top:russian-revolution-1905	מרד דצמבר במוסקבה	1905-12-07 armed workers' uprising in Moscow
+ev:russian-election-1906	top:state-duma	הבחירות לדומה הראשונה	1906-03 elections to the First Duma
+ev:first-duma	top:state-duma	הדומה הראשונה ופיזורה	1906-05-10 first Russian parliament, dissolved after 72 days
+ev:vyborg-manifesto	top:state-duma	מניפסט ויבורג	1906-07-23 appeal of dissolved Duma deputies; signatories prosecuted
+ev:bialystok-pogrom	top:pogroms	פוגרום ביאליסטוק	1906-06-14 anti-Jewish pogrom in Białystok
+ev:siedlce-pogrom	top:pogroms	פוגרום שדלץ	1906-09-08 army-led pogrom in Siedlce
+ev:russian-election-1907-jan	top:state-duma	הבחירות לדומה השנייה	1907-01 elections to the Second Duma
+ev:second-duma	top:state-duma	הדומה השנייה	1907-03-05 second Duma, dissolved by Stolypin
+ev:june-coup-1907	top:state-duma	הפיכת יוני 1907	1907-06-16 dissolution of the Second Duma and new restrictive electoral law
+ev:russian-election-1907-sep	top:state-duma	הבחירות לדומה השלישית	1907-09 elections to the Third Duma
+ev:russian-election-1912	top:state-duma	הבחירות לדומה הרביעית	1912-09 elections to the Fourth Duma
+ev:stolypin-assassination	top:political-violence	רצח סטוליפין	1911-09-14 Stolypin shot by Dmitry Bogrov at the Kiev opera during the Tsar's visit
+ev:beilis-affair	top:blood-libels	פרשת בייליס	1911-03-20 blood libel after the murder of Andrei Yushchinsky; trial and acquittal of Menahem Mendel Beilis
+ev:lena-massacre	top:labour-strikes	טבח לנה	1912-04-17 troops shot striking gold miners on the Lena river
+ev:february-revolution	top:russian-revolution-1917	מהפכת פברואר	1917-03-08 overthrow of the Tsar and formation of the Provisional Government
+ev:october-revolution	top:russian-revolution-1917	מהפכת אוקטובר	1917-11-07 Bolshevik seizure of power
+ev:kishinev-pogrom	top:pogroms	פוגרום קישינב	1903-04-19 anti-Jewish pogrom in Kishinev (remembered and invoked in the corpus)
+ev:damascus-affair	top:blood-libels	עלילת דמשק	1840-02-05 1840 blood libel against the Jews of Damascus
+ev:hilsner-affair	top:blood-libels	פרשת הילזנר	1899-04 blood libel trial of Leopold Hilsner in Bohemia
+ev:persian-constitutional-revolution	top:persian-revolution	המהפכה החוקתית בפרס	1905-12 establishment of a parliament and constitution in Persia
+ev:siege-of-tabriz	top:persian-revolution	המצור על תבריז	1908-06 royalist siege of constitutionalist Tabriz, ended by Russian intervention
+ev:triumph-of-tehran	top:persian-revolution	כיבוש טהראן בידי החוקתיים והדחת השאה	1909-07-13 constitutionalists took Tehran and deposed Mohammad Ali Shah
+ev:anglo-russian-convention	top:foreign-intervention-persia	ההסכם האנגלו-רוסי	1907-08-31 division of Persia into spheres of influence
+ev:potsdam-agreement-1911	top:foreign-intervention-persia	ההסכם הרוסי-גרמני בפוטסדאם	1911-08-19 Russo-German agreement on Persia and the Baghdad railway
+ev:russian-ultimatum-persia-1911	top:foreign-intervention-persia	האולטימטום הרוסי לפרס 1911	1911-11-29 Russian ultimatum forcing Shuster's dismissal and closure of the Majlis
+ev:xinhai-revolution	top:china	המהפכה הסינית (שינהאי)	1911-10-10 overthrow of the Qing dynasty and founding of the Republic of China
+ev:manchurian-plague	top:epidemics	מגפת הדבר במנצ'וריה	1910-10 pneumonic plague epidemic in Manchuria
+ev:japan-korea-annexation	top:japan-korea	סיפוח קוריאה ליפן	1910-08-22 Japanese annexation of Korea
+ev:anglo-japanese-alliance-1905	top:alliances-ententes	חידוש הברית האנגלית-יפנית	1905-08-12 renewal and extension of the Anglo-Japanese Alliance
+ev:mexican-revolution	top:americas-politics	המהפכה המקסיקנית	1910-11-20 revolution against Porfirio Díaz
+ev:treaty-of-bjorko	top:alliances-ententes	הסכם ביורקה	1905-07-24 abortive Russo-German defensive treaty
+ev:russian-loan-1906	top:finance-banking	ההלוואה הצרפתית לרוסיה 1906	1906-04 large French-led international loan to Russia after Algeciras
+ev:hague-conference-1907	top:peace-movement-arbitration	ועידת השלום השנייה בהאג	1907-06-15 Second Hague Peace Conference
+ev:swinemunde-meeting-1907	top:royal-visits-summits	פגישת הקיסרים בסווינמינדה	1907-08-03 meeting of Wilhelm II and Nicholas II at Swinemünde
+ev:assassination-franz-ferdinand	top:wwi-outbreak-diplomacy	רצח פרנץ פרדיננד בסרייבו	1914-06-28 assassination in Sarajevo triggering the July Crisis
+ev:july-crisis	top:wwi-outbreak-diplomacy	משבר יולי ופרוץ מלחמת העולם	1914-06-28 diplomatic crisis leading to the outbreak of WWI
+ev:world-war-i	top:wwi	מלחמת העולם הראשונה	1914-07-28 global war 1914–1918
+ev:ottoman-entry-wwi	top:wwi-outbreak-diplomacy	כניסת האימפריה העות'מאנית למלחמה	1914-10-29 Black Sea raid and Ottoman declaration of war
+ev:battle-of-lodz-1914	top:wwi-eastern-front	הקרב על לודז'	1914-11-11 battle on the Eastern Front in Russian Poland
+ev:battle-of-sarikamish	top:wwi-ottoman-fronts	קרב סאריקאמיש	1914-12-22 Ottoman offensive defeated in the Caucasus
+ev:raid-on-suez-canal	top:wwi-ottoman-fronts	ההתקפה העות'מאנית על תעלת סואץ	1915-01-26 first Ottoman offensive against the Suez Canal
+ev:gallipoli-campaign	top:wwi-ottoman-fronts	מערכת גליפולי והדרדנלים	1915-02-19 Allied naval and land campaign at the Dardanelles
+ev:bulgaria-enters-wwi	top:wwi-outbreak-diplomacy	כניסת בולגריה למלחמה	1915-10-14 Bulgaria joined the Central Powers
+ev:macedonian-front	top:wwi-balkan-fronts	חזית סלוניקי	1915-10-05 Allied front based at Salonica
+ev:national-schism	top:wwi-balkan-fronts	הפילוג הלאומי ביוון וממשלת סלוניקי	1916-08 split between King Constantine and Venizelos' government in Salonica
+ev:romania-enters-wwi	top:wwi-balkan-fronts	כניסת רומניה למלחמה והמערכה הרומנית	1916-08-27 Romania's entry into the war and the Central Powers' counter-offensive
+ev:unrestricted-submarine-warfare-1917	top:wwi-naval-air-war	מלחמת הצוללות הבלתי מוגבלת	1917-02-01 German declaration of unrestricted U-boat warfare
+ev:us-entry-wwi	top:wwi-outbreak-diplomacy	כניסת ארה"ב למלחמה	1917-04-06 US declaration of war on Germany
+ev:jaffa-deportation-1917	top:wwi-jews	גירוש תל אביב ויפו	1917-04-06 Ottoman expulsion of the civilian population of Jaffa and Tel Aviv
+ev:jewish-legion	top:wwi-jews	הגדוד העברי	1917-08 Jewish battalions of the British army
+ev:balfour-declaration	top:zionist-movement	הצהרת בלפור	1917-11-02 British declaration supporting a Jewish national home in Palestine
+ev:tenth-zionist-congress	top:zionist-movement	הקונגרס הציוני העשירי	1911-08-09 Zionist Congress in Basel
+ev:galveston-movement	top:jewish-emigration-americas	תוכנית גלווסטון	1907 scheme diverting Jewish immigrants to Galveston, Texas
+ev:aliens-act-1905	top:immigration-restrictions	חוק הזרים הבריטי	1905-08-11 British law restricting immigration, aimed largely at East European Jews
+ev:war-of-the-languages	top:jewish-languages	מלחמת השפות (פרשת הטכניון)	1913-10 conflict over German vs Hebrew as language of instruction at the Technion
+ev:french-separation-law-1905	top:church-state-france	חוק הפרדת הדת והמדינה בצרפת	1905-12-09 law separating church and state in France
+ev:norway-sweden-dissolution	top:smaller-european-states	פירוק האיחוד בין נורווגיה לשוודיה	1905-06-07 Norway's separation from Sweden
+ev:hungarian-crisis-1905	top:austro-hungarian-domestic-politics	המשבר ההונגרי 1905–1906	1905 constitutional crisis between Hungarian coalition and the Crown; universal suffrage debate
+ev:cisleithanian-election-1907	top:austro-hungarian-domestic-politics	הבחירות באוסטריה 1907 (זכות בחירה כללית)	1907-05-14 first Austrian election under universal male suffrage
+ev:german-election-1907	top:german-domestic-politics	בחירות 'ההוטנטוטים' לרייכסטאג 1907	1907-01-25 Reichstag election fought over colonial policy
+ev:german-election-1912	top:german-domestic-politics	הבחירות לרייכסטאג 1912	1912-01-12 SPD became largest party; antisemitic parties defeated
+ev:peoples-budget	top:british-domestic-politics	תקציב העם ומשבר בית הלורדים	1909-04-29 Lloyd George budget and constitutional crisis
+ev:lisbon-regicide	top:iberian-politics	רצח מלך פורטוגל	1908-02-01 assassination of King Carlos I of Portugal and his heir
+ev:portuguese-revolution-1910	top:iberian-politics	המהפכה בפורטוגל	1910-10-05 overthrow of the Portuguese monarchy and proclamation of the republic
+ev:french-railway-strike-1910	top:labour-strikes	שביתת הרכבות בצרפת	1910-10-10 railway strike broken by Briand's mobilization of workers
+ev:british-railway-strike-1911	top:labour-strikes	שביתת הרכבות באנגליה 1911	1911-08-17 first national railway strike in Britain amid the Great Unrest
+ev:belfast-strike-1907	top:labour-strikes	שביתת הנמל והשוטרים בבלפסט	1907-05 dock strike in Belfast that drew in police mutiny
+ev:stuttgart-congress-1907	top:socialism	הקונגרס הסוציאליסטי הבינלאומי בשטוטגרט	1907-08-18 Second International congress on militarism and colonialism
+ev:marconi-scandal	top:corruption-scandals	פרשת מרקוני	1912 insider-trading scandal involving British ministers incl. Herbert Samuel
+ev:courrieres-mine-disaster	top:accidents	אסון המכרה בקורייר	1906-03-10 Europe's worst mining disaster
+ev:messina-earthquake	top:natural-disasters	רעידת האדמה במסינה	1908-12-28 earthquake and tsunami destroying Messina and Reggio
+ev:sinking-of-titanic	top:accidents	טביעת הטיטניק	1912-04-15 sinking of RMS Titanic
+ev:paris-madrid-air-race	top:aviation	תחרות הטיסה פריז–מדריד ומות שר המלחמה ברטו	1911-05-21 air race whose start crash killed French war minister Maurice Berteaux
+ev:halleys-comet-1910	top:science-archaeology	הופעת שביט האלי	1910-05 1910 apparition of Halley's Comet
+ev:sixth-cholera-pandemic	top:epidemics	מגפת הכולרה (1899–1923)	1899 sixth cholera pandemic; major outbreaks in Russia 1908–1910 and among Ottoman troops 1911–1913
+ev:brussels-exposition-1910	top:arts-entertainment	התערוכה העולמית בבריסל	1910-04-23 world's fair in Brussels

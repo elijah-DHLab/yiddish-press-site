@@ -14,8 +14,14 @@ H.PAPERS = {
   hyt:        { he: 'היינט',        en: 'Haynt',      color: '#1b6ca8' },
   unzerleben: { he: 'אונזר לעבן',   en: 'Unzer Leben', color: '#2f7d5b' }
 };
-H.TYPES = { top: 'נושאים', ppl: 'אנשים', pl: 'מקומות', org: 'ארגונים', grp: 'קבוצות אוכלוסייה' };
-H.TYPE1 = { top: 'נושא', ppl: 'אדם', pl: 'מקום', org: 'ארגון', grp: 'קבוצה' };
+H.TYPES = { top: 'נושאים', ev: 'אירועים', ppl: 'אנשים', pl: 'מקומות', org: 'ארגונים', grp: 'קבוצות אוכלוסייה' };
+H.TYPE1 = { top: 'נושא', ev: 'אירוע', ppl: 'אדם', pl: 'מקום', org: 'ארגון', grp: 'קבוצה' };
+/* שמות הקשרים באונטולוגיה: [יוצא, נכנס] */
+H.PRED = {
+  located_in: ['נמצא ב', 'מקומות בתוכו'], broader: ['תת־נושא / תת־קבוצה של', 'תתי־נושאים ותתי־קבוצות'], part_of: ['חלק מ', 'חלקים'],
+  country: ['מדינה', 'קשורים למדינה'], related: ['קשור ל', 'קשורים אליו'], location: ['מקום האירוע', 'אירועים במקום'],
+  participant: ['משתתפים', 'השתתף ב'], member_of: ['חבר ב', 'חברים']
+};
 H.CEN = ['נושא הכתבה', 'ידיעה אחת מתוך כמה', 'אזכור אגבי', 'לא מוזכר'];
 H.REL = ['גבוהה', 'בינונית', 'נמוכה'];
 H.EVENTS = [ // אירועי רקע כלליים (ידע היסטורי כללי, לא נגזר מהגיליון)
@@ -122,7 +128,26 @@ H.load = async function () {
   return H.init(await r.json());
 };
 H.init = function (D) {
-  H.meta = D.meta; H.ents = D.ents; H.A = D.arts;
+  H.meta = D.meta; H.ents = D.ents; H.A = D.arts; H.rels = D.rels || [];
+  for (const t of Object.keys(H.TYPES)) H.ents[t] = H.ents[t] || {};
+  H.typeOf = id => { const t = String(id).replace(/^\?/, '').split(':')[0]; return H.TYPES[t] ? t : null; };
+  H.info = id => { const t = H.typeOf(id); return t ? H.ents[t][id] : null; };
+  H.label = id => { const e = H.info(id); return e ? e.h : id; };
+  // היררכיה: אבות (נושא-אב, מקום מכיל, קבוצה רחבה) ותתי-ישויות
+  const ancMemo = new Map();
+  H.anc = id => {
+    if (ancMemo.has(id)) return ancMemo.get(id);
+    const out = [], st = [...((H.info(id) || {}).up || [])];
+    while (st.length) { const x = st.pop(); if (x === id || out.includes(x)) continue; out.push(x); st.push(...((H.info(x) || {}).up || [])); }
+    ancMemo.set(id, out); return out;
+  };
+  H.kids = new Map();
+  for (const t of Object.keys(H.TYPES)) for (const [id, e] of Object.entries(H.ents[t])) for (const u of e.up || []) { if (!H.kids.has(u)) H.kids.set(u, []); H.kids.get(u).push(id); }
+  H.relOut = new Map(); H.relIn = new Map();
+  for (const [s, p, o, w] of H.rels) {
+    if (!H.relOut.has(s)) H.relOut.set(s, []); H.relOut.get(s).push([p, o, w]);
+    if (!H.relIn.has(o)) H.relIn.set(o, []); H.relIn.get(o).push([p, s, w]);
+  }
   H.themeName = Object.fromEntries(D.meta.themes.map(t => [t.k, t.h]));
   H.themeKeys = D.meta.themes.map(t => t.k);
   H.minD = H.A[0].d; H.maxD = H.A[H.A.length - 1].d;
@@ -131,26 +156,44 @@ H.init = function (D) {
     if (h.length > 3 && h[0] === 'ה') h = h.slice(1);
     return h;
   };
+  const entText = id => { const e = H.info(id) || { h: id, y: [] }; return [e.h, ...(e.y || []), ...(e.a || []), e.en || ''].join(' '); };
   for (const a of H.A) {
     H.byId.set(a.id, a);
-    for (const t of Object.keys(H.TYPES)) a['k_' + t] = [...new Set(a[t].map(([h]) => nk(h)).filter(Boolean))];
+    for (const t of Object.keys(H.TYPES)) {
+      a['k_' + t] = a[t] || [];                                   // מזהי ישויות
+      a[t] = a['k_' + t].map(id => { const e = H.ents[t][id] || { h: id, y: [] }; return [e.h, (e.y || [])[0] || '']; }); // לתצוגה
+    }
+    a.tr = a.tr || []; a.cn = a.cn || [];
+    const own = Object.keys(H.TYPES).flatMap(t => a['k_' + t]);
+    a._anc = new Set(own); for (const id of own) for (const x of H.anc(id)) a._anc.add(x);
+    for (const x of a.cn) a._anc.add(x);
     a._sum = norm(a.s + ' ' + a.c);
-    for (const t of Object.keys(H.TYPES)) a['_' + t] = norm(a[t].map(([h, y]) => h + ' ' + y).join(' ; '));
+    for (const t of Object.keys(H.TYPES)) a['_' + t] = norm(a['k_' + t].map(entText).join(' ; ') + (t === 'top' ? ' ; ' + a.tr.join(' ; ') : ''));
+    a._top = a._top + ' ' + a._ev;
     a._all = [a._sum, a._top, a._ppl, a._pl, a._org, a._grp].join(' | ');
     a._ts = dayNum(a.d);
   }
-  // אינדקס ישויות
+  // אינדקס ישויות: arts = כולל תתי-ישויות (מרוקו כוללת את פאס; נושא כולל את תתי-הנושאים והאירועים שלו)
   for (const t of Object.keys(H.TYPES)) {
     const m = new Map();
-    for (const a of H.A) for (const k of a['k_' + t]) {
+    const get = (k, a) => {
       let e = m.get(k);
-      if (!e) { const info = H.ents[t][k] || { h: k, y: [] }; e = { key: k, type: t, h: info.h, y: info.y, arts: [], papers: {}, first: a.d, last: a.d, byYear: {}, _n: norm(info.h + ' ' + info.y.join(' ')) }; m.set(k, e); }
-      e.arts.push(a); e.papers[a.p] = (e.papers[a.p] || 0) + 1; e.last = a.d;
-      const y = a.d.slice(0, 4); e.byYear[y] = (e.byYear[y] || 0) + 1;
+      if (!e) { const info = H.ents[t][k] || { h: k, y: [] }; e = { key: k, type: t, h: info.h, y: info.y || [], info, arts: [], direct: 0, papers: {}, first: a.d, last: a.d, byYear: {}, _n: norm(entText(k)) }; m.set(k, e); }
+      return e;
+    };
+    for (const a of H.A) {
+      for (const k of a['k_' + t]) get(k, a).direct++;
+      for (const k of a._anc) {
+        if (H.typeOf(k) !== t) continue;
+        const e = get(k, a);
+        e.arts.push(a); e.papers[a.p] = (e.papers[a.p] || 0) + 1; e.last = a.d;
+        const y = a.d.slice(0, 4); e.byYear[y] = (e.byYear[y] || 0) + 1;
+      }
     }
     H.idx[t] = m;
-    for (const e of m.values()) e.count = e.arts.length;
+    for (const e of m.values()) { e.count = e.arts.length; if (e.arts.length) e.first = e.arts[0].d; }
   }
+  H.countries = [...new Set(H.A.flatMap(a => a.cn))].map(k => ({ k, h: H.label(k), n: H.A.filter(a => a.cn.includes(k)).length })).sort((a, b) => b.n - a.n);
   H.years = []; for (let y = +H.minD.slice(0, 4); y <= +H.maxD.slice(0, 4); y++) H.years.push(String(y));
   H.paperKeys = Object.keys(H.PAPERS).filter(p => H.A.some(a => a.p === p));
   H.paperRange = {}; for (const p of H.paperKeys) { const l = H.A.filter(a => a.p === p); H.paperRange[p] = [l[0].d, l[l.length - 1].d]; }
@@ -178,7 +221,9 @@ H.ensureOcrNorm = async function (onprog) {
 };
 
 /* ====== סינון ====== */
-H.newF = () => ({ q: '', scope: 'all', mode: 'all', papers: new Set(H.paperKeys), from: '', to: '', genre: new Set(), cen: new Set(), rel: new Set(), pt: '', th: '', ents: [], jw: 0 });
+H.newF = () => ({ q: '', scope: 'all', mode: 'all', papers: new Set(H.paperKeys), from: '', to: '', genre: new Set(), cen: new Set(), rel: new Set(), pt: '', th: '', cn: '', ents: [], jw: 0, deep: 1 });
+/* האם הכתבה מתויגת בישות (ובמצב "deep" גם באחת מתתי-הישויות שלה) */
+H.has = (a, e, deep = true) => deep ? a._anc.has(e.key) : a['k_' + e.type].includes(e.key);
 H.qMatch = function (a, F) {
   const t = toks(F.q);
   if (!t.length) return true;
@@ -203,8 +248,9 @@ H.filter = function (F, skip) {
     if (skip !== 'rel' && F.rel.size && !F.rel.has(a.r)) return false;
     if (F.pt && a.pt !== F.pt) return false;
     if (skip !== 'th' && F.th && !a.th.includes(F.th)) return false;
+    if (skip !== 'cn' && F.cn && !a.cn.includes(F.cn)) return false;
     if (F.jw && !a.jw) return false;
-    for (const e of F.ents) if (!a['k_' + e.type].includes(e.key)) return false;
+    for (const e of F.ents) if (!H.has(a, e, F.deep !== 0)) return false;
     return H.qMatch(a, F);
   });
 };
@@ -226,8 +272,8 @@ H.download = function (name, text, type = 'text/csv;charset=utf-8') {
 };
 H.artsCSV = function (list, name = 'articles') {
   const names = x => x.map(([h]) => h).join(' ; ');
-  const head = ['מזהה', 'עיתון', 'תאריך', 'קישור לספרייה הלאומית', 'סוגה', 'מרכזיות המונח', 'רלוונטיות', 'נושא-על ראשי', 'סיכום', 'מה נאמר על המונח', 'נושאים', 'אנשים', 'מקומות', 'ארגונים', 'קבוצות אוכלוסייה'];
-  const rows = list.map(a => [a.id, H.pname(a.p), a.d, a.u, a.g, a.m, a.r, H.themeName[a.pt], a.s, a.c, names(a.top), names(a.ppl), names(a.pl), names(a.org), names(a.grp)]);
+  const head = ['מזהה', 'עיתון', 'תאריך', 'קישור לספרייה הלאומית', 'סוגה', 'מרכזיות המונח', 'רלוונטיות', 'נושא-על ראשי', 'סיכום', 'מה נאמר על המונח', 'נושאים', 'אירועים', 'אנשים', 'מקומות', 'ארגונים', 'קבוצות אוכלוסייה', 'מדינות', 'נושאים (ניסוח מקורי)', 'מזהי ישויות'];
+  const rows = list.map(a => [a.id, H.pname(a.p), a.d, a.u, a.g, a.m, a.r, H.themeName[a.pt], a.s, a.c, names(a.top), names(a.ev), names(a.ppl), names(a.pl), names(a.org), names(a.grp), a.cn.map(H.label).join(' ; '), a.tr.join(' ; '), Object.keys(H.TYPES).flatMap(t => a['k_' + t]).join(' ; ')]);
   H.download(name + '.csv', H.toCSV(head, rows));
 };
 

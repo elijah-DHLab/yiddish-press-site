@@ -1,0 +1,730 @@
+[0] ppl:lucien-wolf | לוסיאן וולף | Lucien Wolf | British Jewish journalist and diplomatic activist (1857–1930)
+   *✓T Q6697145  Lucien Wolf / לוסיין וולף 1857–1930 | British-Jewish journalist, historian, advocate of Jewish rights <human> sl=9
+    ✓  Q106476970  Diplomaticus /   | Vanity Fair caricature of Lucien Wolf by Ritchie <print, work with multiple executions> sl=0
+    ✓T Q134522586  Lucien Wolf /  1861–1918 | French journalist <human> sl=0
+     T Q136435263   /   | sentenced to death in France <human> sl=0
+       Q139733452  LUCIEN WOLF AND THE MAKING OF POLAND: /   |  <chapter> sl=0
+     T Q55636759  Lucien Wolff /   |  <human> sl=0
+[21] ppl:henry-lane-wilson | הנרי ליין וילסון | Henry Lane Wilson | US ambassador to Mexico 1910–1913
+   *✓T Q2126571  Henry Lane Wilson / הנרי ליין וילסון 1857–1932 | American diplomat (1857–1932) <human> sl=7
+    ✓T Q106659829  H. Lane Wilson /  1871–1915 | British composer (1871 - 1915) <human> sl=1
+[45] ppl:ivan-vasiliev-gapon-assembly | איוון וסילייב | Ivan Vasiliev | worker leader in Gapon's Assembly, killed on Bloody Sunday 1905
+    ✓  Q2077776  Ivan Vasiliev / איוואן וסילייב 1989– | Russian ballet dancer, choreographer <human> sl=13
+    ✓  Q13468021  Ivan Vasiliev /  1984– | Russian triathlete <human> sl=8
+     T Q102255340  Ivan Vasilievich Sapronov /   | Ph.D. Voronezh State University <human> sl=0
+     T Q102309182  Ivan Vasilievich Brich /   | Ph.D. Institute of Mathematics of National Academy of Sciences of Ukraine 1980 <human> sl=0
+     T Q1988310  Ivan Kliun / איבן קליאן 1873–1943 | Russian artist (1873-1943) <human> sl=15
+       Q777739  Ivan Vasilievich: Back to the Future / איוואן וסילייביץ' מסב את מקצועו  | 1973 film by Leonid Gaidai <film> sl=48
+[46] ppl:sandor-wekerle | שאנדור וקרלה | Sándor Wekerle | Prime Minister of Hungary (1848–1921)
+   *✓T Q340174  Sándor Wekerle / שאנדור וֶקֶרלה 1848–1921 | Hungarian politician (1848–1921) <human> sl=23
+    ✓T Q523613  Sándor Wekerle Jr. /  1878–1963 | Hungarian politician (1878-1963) <human> sl=5
+    ✓  Q20434427  Sándor Wekerle /   | Wikimedia disambiguation page <Wikimedia disambiguation page> sl=1
+[58] ppl:hyrcanus-ii | הורקנוס השני | Hyrcanus II | Hasmonean high priest and king; character in M. M. Dolitzky's serialized novel
+    ✓  Q359684  Hyrcanus II / יוחנן הורקנוס השני -109–-29 | High Priest and king of Judea <human> sl=37
+[67] ppl:sergei-zubatov | סרגיי זובטוב | Sergei Zubatov | Russian police official, founder of "police socialism" (1864–1917)
+     T Q2523397  Sergei Vasilyevich Zubatov / סרגיי זובאטוב 1864–1917 | Russian politician <human> sl=19
+       Q58434041   /   |  <> sl=0
+[68] ppl:sulzberger-american-jewish-leader | זולצברגר | Sulzberger | American Jewish communal leader (Mayer or Cyrus L. Sulzberger), mentioned 1910
+    ✓  Q21493113  Sulzberger /   | family name <family name> sl=4
+    ✓  Q99364595  Sulzberger /   | Swiss family <family> sl=0
+       Q130299380  Sulzberger Bach /   | tributary of Iller in the municipality of Sulzberg, Bavaria, Germany <stream> sl=0
+       Q17561156  Sulzberger-See /   | lake in Germany <lake, still waters> sl=5
+       Q21471022  Sulzberger Basin /   | undersea basin on the Ross Shelf, Antarctica <oceanic basin> sl=3
+       Q281737  Sulzberger Bay / מפרץ סלצברגר  | bay in Antarctica <bay> sl=17
+[79] ppl:moulay-zin | מולאי זין | Moulay Zin | brother of Abd al-Hafid, proclaimed sultan by rebel tribes in 1911
+     T Q105503629  Moulay Zine Zahidi /  –2021 | Moroccan politician <human> sl=2
+       Q61832855  Moulay Zine Alaoui /  1942– |  <human> sl=1
+[80] ppl:ivan-zinoviev | איוון זינובייב | Ivan Zinoviev | Russian ambassador to the Ottoman Empire 1898–1909
+    ✓  Q4192202  Ivan Zinoviev /   | Wikimedia disambiguation page <Wikimedia disambiguation page> sl=1
+[81] ppl:zalokostas-1916 | זלוקוסטס | Zalokostas | Greek politician, minister in the 1916 cabinet
+       Q111621710   /   | Wikimedia disambiguation page <Wikimedia disambiguation page> sl=1
+[88] ppl:epameinondas-zymvrakakis | אפמיינונדס זימבראקאקיס | Epameinondas Zymvrakakis | Greek general, member of the Salonica revolutionary movement 1916
+     T Q4191923  Epaminondas Zimvrakakis /  1863–1922 | Greek soldier <human> sl=5
+[99] ppl:sattar-khan | סתאר חאן | Sattar Khan | Iranian Constitutional Revolution leader from Tabriz (1868–1914)
+   *✓T Q1366531  Sattar Khan / סתאר ח'אן 1866–1914 | Iranian politician (1866-1914) <human> sl=23
+    ✓  Q5733039  Sattar Khan /   | 1972 film by Ali Hatami <film> sl=6
+    ✓T Q53105609  Sattar Khan /   |  <human> sl=0
+       Q5705178  Sattarkhan Dam /   | dam in Iran <embankment dam> sl=2
+       Q5686169  Sattar Khan Street /   | street in Tehran, Iran <street> sl=2
+       Q5901290  Sattar Khan House /   | house in Tabriz, Iranian national heritage site <house, cultural property> sl=3
+[105] ppl:eve | חוה | Eve | biblical first woman
+    ✓  Q830183  Eve / חוה -3759– | the first woman in the story of Genesis <mythical character, protoplast> sl=125
+    ✓  Q2693525  Eve / איב  | female given name <female given name> sl=9
+       Q1190554  occurrence / אירוע  | expression and recorded history of an event or events including participating ag <form of event> sl=39
+    ✓  Q26905786  Eve / איב  | family name <family name> sl=1
+    ✓  Q239464  Eve / איב 1978– | American rapper and actress <human> sl=36
+       Q29960  Even /   | Tungusic language spoken by the Evens in Siberia <natural language, modern language> sl=50
+[117] ppl:mikhail-taube | מיכאיל טאובה | Mikhail Taube | Russian deputy minister of education, resigned 1915 (1869–1961)
+   *✓T Q324248  Mikhail Taube /  1869–1961 | Russian lawyer and historian (1869-1961) <human> sl=9
+    ✓T Q17749465  Agapit /  1894–1936 | 1894-1936 <human> sl=3
+    ✓T Q18043471  Michael Taube /  1855–1924 | 1855-1924 <human> sl=2
+    ✓  Q21182926  Mikhail Taube /   | Wikimedia disambiguation page <Wikimedia human name disambiguation page> sl=2
+    ✓T Q123587078  Mikhail Taube /   |  <human> sl=0
+[124] ppl:princess-tarakanova | הנסיכה טאראקאנובה | Princess Tarakanova | 18th-century pretender to the Russian throne, imprisoned in the Peter and Paul Fortress
+    ✓  Q467349  Princess Tarakanoff /  1753–1775 | Pretender to the Russian throne <human> sl=16
+    ✓  Q4224894  Princess Tarakanova /  [1864–] | painting by Konstantin Flavitsky <painting> sl=8
+    ✓  Q58636630  Princess Tarakanova /  [1862–] | painting by Konstantin Flavitsky (initial version) <painting> sl=0
+    ✓  Q3823704  Princess Tarakanova /   | 1938 film by Mario Soldati, Fedor Ozep <film> sl=7
+    ✓  Q4224895  Princess Tarakanova /   | 1910 film <film> sl=6
+    ✓  Q54290556  Princess Tarakanova /   | Wikimedia disambiguation page <Wikimedia disambiguation page> sl=2
+[134] ppl:zhang-zhidong | ג'אנג ג'ידונג | Zhang Zhidong | Chinese statesman of the late Qing (1837–1909)
+   *✓T Q197344  Zhang Zhidong / ג'אנג ג'ה-דונג 1837–1909 | Viceroy of Liangguang (1837-1909) <human> sl=25
+    ✓  Q15934341  Zhang Zhidong / זאנג ז'ידונג 1971– | Chinese businessman <human> sl=12
+    ✓  Q11068418  Zhang Zhidong /  1648–1713 | Qing dynasty person CBDB = 58371 <human> sl=1
+    ✓T Q45702715  Zhang Zhidong /   | Qing dynasty person CBDB = 345848 <human> sl=0
+       Q120587641   /   |  <> sl=0
+       Q118481329   /   |  <> sl=0
+[143] ppl:istvan-tisza | אישטוואן טיסה | István Tisza | Prime Minister of Hungary (1861–1918)
+   *✓T Q336493  István Tisza / אישטוון טיסה 1861–1918 | Hungarian politician (1861–1918) <human> sl=36
+    ✓  Q124667857  István Tisza /  1929–2019 | Hungarian mining engineer (1929-2019) <human> sl=0
+    ✓T Q76190174  István Tisza / אישטוואן טיסה 1886–1918 | Hungarian military officer (1886-1918) <human> sl=1
+       Q135804961  István Tisza and the mobilization for war [Num343607] /   | Medals › Commemorative medals - Hungary <coin type> sl=0
+       Q131321721   /  1935– |  <human> sl=1
+    ✓  Q124044920  István Tisza /   | Wikimedia disambiguation page <Wikimedia disambiguation page> sl=1
+[145] ppl:talaat-pasha | טלעת פאשה | Talaat Pasha | Young Turk leader, Ottoman Interior Minister (1874–1921)
+     T Q315888  Talaat Paşa / טלעת פאשה 1874–1921 | Turkish Ottoman politician (1874–1921) <human> sl=54
+       Q65072843  Talaat Pasha: Father of Modern Turkey, Architect of Genocide /   | book by Hans-Lukas Kieser <written work> sl=3
+     T Q2571543  Talaat Harb /  1867–1941 | Egyptian economist (1867-1941) <human> sl=16
+       Q127911937   /   |  <> sl=0
+[147] ppl:nikolai-teslenko | ניקולאי טסלנקו | Nikolai Teslenko | Russian lawyer and Kadet Duma deputy (1870–1942)
+     T Q4456396  Nikolay Teslenko /  1870–1942 | writer and lawyer (1870-1942) <human> sl=2
+[158] ppl:emile-train | אמיל טריין | Émile Train | French aviator whose plane killed War Minister Berteaux, May 1911
+     T Q3263605  Louis Émile Train /  1877–1939 |  <human> sl=3
+[166] ppl:maria-tarnowska | מריה טרנובסקה | Maria Tarnowska | Russian countess tried in Venice for murder, 1910
+    ✓  Q110005099  Maria Tarnowska /  1917–2014 | Polish Righteous Among the Nations <human> sl=0
+    ✓T Q11769193  Maria Tarnowska /  1880–1965 | Polish nurse (1880-1965) <human> sl=8
+    ✓T Q6761609  Maria Tarnowska /  1877–1949 | Russian murderer <human> sl=8
+    ✓  Q21497333  Maria Tarnowska /  1942– | art historian (1942-) <human> sl=1
+[170] ppl:fyodor-fyodorovich-trepov | פיודור טרפוב | Fyodor Trepov | Governor-General of Kiev 1908–1914 (1854–1938)
+    ✓T Q2603588  Fyodor Trepov /  1812–1889 | Russian politician (1812–1889) <human> sl=12
+    ✓T Q3920484  Fyodor Trepov /  1854–1938 | Russian military and government figure, son of the government official (1854–193 <human> sl=6
+    ✓  Q4462436  Fyodor Trepov /   | Wikimedia disambiguation page <Wikimedia human name disambiguation page> sl=2
+    ✓T Q65131209  Fyodor Trepov /  1883–1915 |  <human> sl=1
+[193] ppl:judah-jewish-diplomat-historical | יהודה | Judah | historical Jewish diplomat mentioned in a survey of Jewish diplomats (Haynt 1912)
+    ✓  Q1102915  Judah / יהודה  | male given name <male given name> sl=3
+    ✓  Q16850979  Judah /   | family name <family name> sl=4
+    ✓  Q48685  Kingdom of Judah / ממלכת יהודה [-929–-585] | Israelite Kingdom, whose capital was Jerusalem and Hebron, c. 930–586 BCE <kingdom, historical country> sl=86
+    ✓  Q282220  Judah / יהודה -1565– | biblical figure; fourth son of Jacob and Leah; brother of Joseph <human biblical figure> sl=60
+    ✓  Q193748  ancient Israel and Judah / התקופה הישראלית [-1200–-585] | ancient civilization of the Levant <historical region, cultural region> sl=41
+       Q71130  Judah Friedlander / ג'ודה פרידלנדר 1969– | American actor and comedian <human> sl=24
+[194] ppl:prince-joachim-of-prussia | הנסיך יואכים מפרוסיה | Prince Joachim of Prussia | youngest son of Wilhelm II (1890–1920)
+    ✓T Q60371  Prince Joachim of Prussia / יואכים, נסיך פרוסיה 1890–1920 | Prussian prince (1890-1920) <human> sl=26
+    ✓T Q733353  Prince Joachim Albert of Prussia /  1876–1939 | Member of the House of Hohenzollern (1876–1939) <human> sl=10
+    ✓  Q75381840  Prince Joachim of Prussia /  1984– | (born 1984) <human> sl=0
+[198] ppl:archduke-joseph-1910 | הארכידוכס יוזף | Archduke Joseph of Austria | Austrian archduke (Joseph August or Joseph Karl), mentioned 1910
+     T Q319764  Archduke Joseph, Palatine of Hungary / הארכידוכס יוזף, פלטין הונגריה 1776–1847 | archduke of Austria (1776-1847) <human> sl=28
+[211] ppl:luka-jukic | לוקה יוקיץ' | Luka Jukić | Croatian who attempted to assassinate the Ban of Croatia, 1912
+     T Q139096194   /  1887–1929 |  <human> sl=0
+     T Q20310224  Luka Jukic /  1887–1929 | Bosnian Croat nationalist <human> sl=5
+[216] ppl:yazid-of-morocco | מולאי יזיד | Yazid of Morocco | Sultan of Morocco 1790–1792, persecutor of Jews
+    ✓  Q177160  Yazid of Morocco / מולאי יזיד 1750–1792 | Sultan of Morocco <human> sl=17
+[224] ppl:hillerson-lawyer | עורך הדין הילרסון | Hillerson | Russian-Jewish lawyer whose trial was postponed, 1909
+       Q881260   /  1983– | American biathlete <human> sl=1
+[229] ppl:prusia-wife-of-yankel | פרוסיה, אשת יענקל | Prusia | wife of Yankel, defendant in the 1753 Pavolitch/Markova Volitsa blood-libel trial
+    ✓  Q37471194  Prusia /   | family name <family name> sl=0
+       Q3408667  Prusias /   | genus of arachnids <taxon> sl=8
+       Q27306  Kingdom of Prussia / ממלכת פרוסיה [1701–1918] | former European state (1701–1918), part of the German Empire after 1871 <historical country> sl=91
+       Q1760255  Prusiana /   | genus of insects <taxon> sl=9
+       Q38872  Prussia / פרוסיה [1525–1933] | common term for the Duchy, the Kingdom and the Free State of Prussia (1525–1947) <historical country> sl=135
+    ✓  Q35295729  Prusia /   | stream in Chiapas, Mexico <stream> sl=1
+[230] ppl:rabbi-yaakov-greece-history | הרב יעקב | Rabbi Yaakov | rabbi mentioned in a historical survey of Greek Jewry (Unzer Leben 1916)
+     T Q92358801  Rabbi Yaakov Schneersohn / יעקב שניאורסון  | son of the Tzemach Tzedek <human> sl=0
+     T Q2919022  Yaakov Abuhatzeira / יעקב אביחצירא 1806–1880 | Moroccan rabbi <human> sl=8
+       Q123551878  Rabbi Yaakov Perlow, Head of Hasidic Dynasty in Brooklyn, Dies at 89 /   | The New York Times article (April 10, 2020) <obituary> sl=0
+       Q1376849  Jacob ben Asher / יעקב בן אשר 1269–1340 | German rabbinic authority (c. 1269 - c. 1343) <human> sl=18
+     T Q140053154  Jacob ben Benjamin Ze'ev Zak / יעקב ז"ק  |  <human> sl=1
+       Q12408202  Yaakov Filber / יעקב הלוי פילבר 1936– |  <human> sl=2
+       Q142099680  Yaacov Levy / יעקב לוי 1958– | rabbi of the Atrid community in Jerusalem (born 1958) <human> sl=0
+[233] ppl:mikhail-efimov | מיכאיל יפימוב | Mikhail Efimov | pioneer Russian aviator (1881–1919)
+    ✓  Q10483679  Mikhail Yefimov /  1978– | Russian footballer <human> sl=1
+   *✓T Q4177390  Mikhail Efimov /  1881–1919 | Russian aviator (1881–1919) <human> sl=7
+    ✓T Q21096980  Mikhail Yefimov /  1904– |  <human> sl=1
+    ✓  Q12542543  Mikhail Yefimov /  1930– |  <human> sl=1
+     T Q968099  Mikhail Koltsov / מיכאיל קולצוב 1898–1940 | Soviet journalist (1898–1940) <human> sl=20
+       Q827054  Mikhail Shvydkoi / מיכאיל שווידקוי 1948– | Russian art historian <human> sl=11
+[234] ppl:ivan-yefremov | איוון יפרמוב | Ivan Yefremov | Russian Progressist Duma deputy (1866–1945)
+    ✓  Q54828  Ivan Yefremov / איוואן יפרמוב 1908–1972 | Soviet paleontologist, science fiction author and social thinker (1908–1972) <human> sl=41
+    ✓  Q6096204  Ivan Yefremov /  1986– | Uzbekistani weightlifter <human> sl=14
+    ✓T Q4177501  Ivan Yefremov /  1774–1843 |  <human> sl=3
+    ✓  Q4177503  Ivan Yefremov /  1946– | Russian general <human> sl=2
+    ✓  Q4177504  Ivan Yefremov /  1931–2006 | Soviet builder (1931–2006) <human> sl=1
+    ✓T Q137944654  Ivan Nikolaïevitch Efremov /  1866–1945 | Russian politician (1866–1945) <human> sl=4
+[237] ppl:rabbi-isaac-diplomat-historical | ר' יצחק | Rabbi Isaac | historical Jewish figure mentioned in a survey of Jewish diplomats (Haynt 1912)
+       Q7278540  Rabbi Isaac Elchanan Theological Seminary / ישיבת רבינו יצחק אלחנן [1896–] | Jewish Theological seminary located in Manhattan, U.S. <yeshiva, educational institution> sl=6
+     T Q7278542  Rabbi Isaac the smith / רבי יצחק נפחא  | Member of the second generation of Amoraim <human> sl=6
+     T Q112660946  Isaac Judah Loeb Rabinowitz /  –1851 | Lithuanian rabbi and scholar <human> sl=1
+       Q117640556  Rabbi Isaac Elchonon Cemetery /  [1920–] | cemetery in Middlesex County, Massachusetts, United States <cemetery> sl=0
+       Q319902  Isaac Abrabanel / יצחק אברבנאל 1437–1508 | Portuguese-Spanish Jewish businessman, exegete and philosopher (1437-1508) <human> sl=40
+       Q2909247  Isaac ibn Ghiyyat / יצחק אבן גיאת 1038–1089 | 11th-century Spanish Jewish Talmudic scholar <human> sl=6
+       Q7336982  Rivam / יצחק בן מאיר 1090–1130 | French rabbi <human> sl=2
+[240] ppl:ivan-yakushkin | איוון יקושקין | Ivan Yakushkin | Decembrist (1793–1857), prisoner of the Peter and Paul Fortress
+   *✓T Q4537335  Ivan Yakushkin /  1885–1960 | Russian (Soviet) botanist and plant breeder <human> sl=3
+    ✓T Q124416049  Ivan Yakushkin /   |  <human> sl=0
+[245] ppl:jesus | ישו | Jesus | founder of Christianity
+    ✓  Q1158269  Jesus /   | male given name <male given name> sl=11
+       Q18327976  Jesús / חסוס  | male given name <male given name> sl=4
+       Q302  Jesus Christ / ישו -5–30 | central figure of Christianity (c. 6 or 4 BC – AD 30 or 33) <human biblical figure, human> sl=347
+    ✓  Q66827303  Jesus /   | female given name <female given name> sl=0
+    ✓  Q6188067  Jesus /   | 1987 video game <video game> sl=2
+    ✓  Q9011569  Jesús /   | Borrough of Tortosa <single entity of population, decentralized municipal entity> sl=3
+[247] ppl:ben-israel-correspondent | בן-ישראל | Ben-Israel | pen name of Der Fraynd's Paris correspondent, 1907
+    ✓  Q106286066  Ben Israel / בן ישראל  | family name <family name> sl=0
+       Q100371839  ben Israel Ephraim /  1692–1781 |  <human> sl=0
+    ✓  Q111911980  Ben-Israel /   | surname list <family name> sl=1
+       Q19073675  Ben Israel, Manasseh (DNB00) /   | entry in Dictionary of National Biography <DNB redirect page> sl=1
+       Q118914707  Shelomo Ben-Israel / שלמה בן-ישראל 1908–1989 | American–Israeli author and journalist <human> sl=1
+       Q117517161  Ben Israel Cemetery /   | cemetery in Hubbard County, Minnesota, United States <cemetery> sl=0
+[254] ppl:m-cohen-tangier | מ. כהן | M. Cohen | Jewish source in Tangier reporting on Morocco, Apr 1912
+    ✓T Q109650927  Moos Cohen /  1901– |  <human> sl=0
+    ✓T Q102198318  M. Cohen /   | D.Phil. University of Oxford 1962 <human> sl=0
+    ✓T Q113654240  M. Cohen /   | photographer, active in Prague, c. 1870 <human> sl=0
+    ✓  Q16187017  Mark S. Cohen /  1956– | American neuroscientist <human> sl=2
+       Q5734761  Geert van Oorschot /  1909–1987 | Dutch writer (1909-1987) <human> sl=3
+    ✓  Q97477677  Mandy Cohen /  1978– | American internist and health official <human> sl=3
+[261] ppl:mustafa-kamil-pasha | מוסטפא כאמל פאשא | Mustafa Kamil Pasha | Egyptian nationalist leader (1874–1908)
+     T Q2669418  Mustafa Kamil / מוסטפא כאמל 1874–1908 | Egyptian politician (1874–1908) <human> sl=20
+[263] ppl:m-l-author | מ. ל. | M. L. | initials of an author of a Russian press review (Der Fraynd 1906)
+     T Q2656885  Merritt Lyndon Fernald /  1873–1950 | American botanist (1873-1950) <human> sl=18
+     T Q213163  Élisabeth Louise Vigée Le Brun / אליזבט ויז'ה-לה ברן 1755–1842 | French portrait painter (1755–1842) <human> sl=69
+       Q8027  Martin Luther King Jr. / מרטין לותר קינג 1929–1968 | American Baptist minister and civil rights leader (1929–1968) <human> sl=253
+    ✓  Q18674200  Mary Lawrance /  1776–1831 | English flower painter (1776–1845) <human> sl=5
+    ✓T Q47037672  Mary Loudon / מרי לודון  | artist <human> sl=0
+    ✓T Q104556629  Margaret Lowther Page / מרגרט לאות'ר פייג' 1759– | poet 1759–1835 <human> sl=0
+[274] ppl:larzi-1912 | לארזי | Larzi | Persian figure named with Salar ad-Dawla, Oct 1912
+       Q385751  Larzicourt /  [1983–] | commune in Marne, France <commune of France> sl=35
+       Q550302  Nicolas de Largillière /  1656–1746 | French painter (1656–1746) <human> sl=29
+       Q3218197  Larzicourt-Isle-sur-Marne /  [1974–1982] | former commune in France <commune of France> sl=2
+       Q84602339  Larzicourt /  [–1973] | former commune in France <commune of France> sl=0
+       Q5783318  Larzian /   | village in Iran <village> sl=9
+       Q140111638  Larzinho Infantil /   | school in Governador Valadares, Minas Gerais, Brazil <school, temporarily closed school> sl=0
+[284] ppl:heinrich-loewe | היינריך לווה | Heinrich Loewe | German Zionist and librarian (1869–1951)
+   *✓T Q106246  Heinrich Loewe / היינריך לווה 1869–1951 | German journalist and librarian (1869–1951) <human> sl=4
+    ✓T Q112409288  Heinrich Loewe /  1894–1908 |  <human> sl=0
+     T Q133478669   /  1850– |  <human> sl=0
+       Q135942355  Heinrich Loewe Archive / ארכיון הינריך לווה  | archive in Israel <historical archive> sl=0
+     T Q6215956  Johann Heinrich Loewe /  1808–1892 | Austrian philosopher <human> sl=4
+     T Q132143980   /  1871– | victim of National Socialism from Berlin <human> sl=0
+[291] ppl:jacob-levy-antimilitarist | יעקב לוי | Jacob Levy | French antimilitarist tried in 1907
+    ✓T Q102170292  Jacob Levy /   | Ph.D. Weizmann Institute of Science 1990 <human> sl=0
+    ✓  Q105218474  Jacob Levy /  1962– | barrister <human> sl=0
+    ✓T Q113442023  Jacob Levy /  1889–1977 | German pediatrician <human> sl=0
+     T Q89404  Jacob L. Moreno / יעקב לוי מורנו 1889–1974 | Austrian-American psychiatrist <human> sl=35
+    ✓T Q1380932  Jacob Levy / יעקב לוי 1819–1892 | German rabbi, lexicographer and orientalist (1819–1892) <human> sl=4
+    ✓T Q7063104  Jacob Levy / יעקב לוי 1894–1956 | Israeli historian, translator and writer <human> sl=6
+[292] ppl:levy-lisbon | לוי | Levy | member of the Jewish community of Lisbon, 1912
+    ✓  Q14626636  Levy / לוי  | family name <family name> sl=5
+    ✓  Q21143999  Levy /   | male given name <male given name> sl=1
+    ✓  Q215512  Levi / לוי -1565–-1428 | in Genesis, the third son of Jacob and a brother of Joseph <human biblical figure> sl=54
+    ✓T Q531662  Henri Leopold Levy / אנרי לאופולד לוי 1840–1904 | French painter (1840-1904) <human> sl=14
+    ✓T Q3588633  Émile Lévy / אמיל לוי 1826–1890 | French painter (1826-1890) <human> sl=12
+       Q115801594  Lévy /   | male given name <male given name> sl=0
+[306] ppl:sergei-lukyanov | סרגיי לוקיאנוב | Sergei Lukyanov | Chief Procurator of the Holy Synod 1909–1911
+    ✓  Q105871515  Sergei Lukyanov /  2000– | Russian association football player <human> sl=1
+    ✓  Q7939219  Sergei Lukyanov /  1910–1965 | Soviet actor (1910–1965) <human> sl=8
+[314] ppl:wilhelm-liebknecht | וילהלם ליבקנכט | Wilhelm Liebknecht | German Social Democratic leader (1826–1900)
+   *✓T Q20127  Wilhelm Liebknecht / וילהלם ליבקנכט 1826–1900 | German journalist, writer and socialist politician (1826–1900) <human> sl=51
+    ✓T Q94904748  Wilhelm Liebknecht /  1901–1975 | German lawyer, economist, translator and communist (1901–1975) <human> sl=0
+    ✓  Q94786758  Wilhelm Liebknecht /  1736–1805 | Hessian government lawyer and public prosecutor in Giessen (1736–1805) <human> sl=0
+       Q99739736  Wilhelm-Liebknecht-Platz /   | square in Leipzig, Germany <square, street> sl=1
+       Q97262641  Wilhelm-Liebknecht-Straße /   | street in Dresden, Germany <street> sl=1
+       Q49233936  Wilhelm-Liebknecht-Platz 3-4 (Leipzig) /  [1912–] | building in Leipzig, Saxony, Germany <commercial building, administrative building> sl=1
+[317] ppl:hubert-lyautey | הובר ליוטה | Hubert Lyautey | French general, Resident-General in Morocco from 1912
+     T Q265104  Louis-Hubert Lyautey / אובר ליאוטי 1854–1934 | general and colonial administrator from France (1854-1934) <human> sl=28
+[331] ppl:henri-lemoine | אנרי למואן | Henri Lemoine | French engineer tried for a diamond-making fraud, 1908
+    ✓  Q982742  Henri Lemoine /  1909–1991 | French cyclist (1909–1991) <human> sl=11
+    ✓T Q113895440  Henri Lemoine /  1848–1924 | French photographer <human> sl=1
+    ✓  Q11775572  Henri Lemoine /   | Wikimedia disambiguation page <Wikimedia human name disambiguation page> sl=1
+    ✓T Q42575261  Henri Lemoine /  1889–1968 | French archivist and historian <human> sl=0
+    ✓  Q5715583  Henri Lemoine /  1905–1908 | French fraudster <human> sl=1
+    ✓  Q48810212  Henri Lemoine /  1927–2017 |  <human> sl=0
+[344] ppl:louis-lepine | לואי לפין | Louis Lépine | Prefect of Police of Paris (1846–1933)
+   *✓T Q3262574  Louis Lépine /  1846–1933 | French diplomat (1846–1933) <human> sl=7
+    ✓T Q25873690  Louis Lépine /  1848–1921 | French sculptor (1848-1921) <human> sl=1
+       Q3389946  place Louis-Lépine /   | square in Paris, France <square> sl=8
+[354] ppl:colonel-mall | קולונל מאל | Colonel Mall | French officer killed fighting Moroccan tribes, Nov 1910
+     T Q5537354  George Bruce Malleson /  1825–1898 | British army officer <human> sl=7
+[376] ppl:samuel-de-medina | שמואל די מדינה | Samuel de Medina | rabbi of Salonica, the Maharashdam (1505–1589)
+    ✓  Q7413006  Samuel de Medina / שמואל די מדינה 1505–1589 | rabbi <human> sl=5
+[380] ppl:ernst-ludwig-grand-duke-of-hesse | ארנסט לודוויג, הדוכס הגדול של הסן | Ernst Ludwig, Grand Duke of Hesse | Grand Duke of Hesse 1892–1918
+     T Q57507  Ernest Louis, Grand Duke of Hesse and by Rhine / ארנסט לודוויג, הדוכס הגדול של הסן 1868–1937 | German aristocrat (1868-1937) <human> sl=33
+[382] ppl:modiano-salonica-villa | מודיאנו | Modiano | Salonica Jew in whose villa King Constantine stayed, 1913
+    ✓  Q37437111  Modiano / מודיאנו  | family name <family name> sl=1
+    ✓  Q3859977  Modiano /  [1868–] | Italian playing cards manufacturer <board game publishing company, enterprise> sl=5
+       Q15711710  Modiano Market / שוק מודיאנו [1922–] | covered market in Thessaloniki, Greece <building, market> sl=10
+       Q110751204  Modiano family / משפחת מודיאנו  | Italian Jewish family <family> sl=1
+    ✓  Q1412178  Modiano / מודיאנו  | Wikimedia disambiguation page <Wikimedia disambiguation page> sl=8
+       Q141478839   /   |  <film production company> sl=0
+[386] ppl:muhammad | מוחמד | Muhammad | prophet of Islam
+    ✓  Q5837762  Muhammad / מוחמד  | male given name (محمد) <male given name> sl=27
+    ✓  Q9458  Muhammad / מוחמד 571–632 | Arabian political leader and the founder of Islam (c. 570–632) <human> sl=293
+       Q36107  Muhammad Ali / מוחמד עלי 1942–2016 | American boxer (1942–2016) <human> sl=185
+     T Q484141  Muhammad Iqbal / מוחמד אקבאל 1877–1938 | British-Indian Islamic philosopher, poet and politician (1877-1938) <human> sl=110
+    ✓  Q5964503  Muhammad Khan (Ilkhan) /  1350–1339 | Claimant to the throne of the Ilkhanate <human> sl=18
+    ✓  Q26905901  Muhammad / מוחמד  | family name <family name> sl=2
+[387] ppl:mohammed-al-amin-1907 | מולאי מוחמד | Moulay Mohammed | Moroccan prince, a pretender to the throne in 1907
+       Q3050987  Moulay Ali Cherif /  1588–1659 | Founder of the 'Alawi dynasty <human> sl=15
+       Q1951892  Muhammad al-Shaykh / מוחמד א-שייח' 1490–1557 | Saadian dynasty Sultan of Morocco (1490–1557) <human> sl=21
+       Q548563  Mohammed ben Abdallah / מולאי מוחמד בן עבדאללה 1710–1790 | Sultan of Morocco (1710–1790) <human> sl=23
+[390] ppl:gazi-ahmed-muhtar-pasha | גאזי אחמד מוחתאר פאשה | Gazi Ahmed Muhtar Pasha | Ottoman field marshal and statesman (1839–1919)
+     T Q401411  Ahmed Muhtar Pasha / אהמט מוחתאר פאשא 1832–1919 | Ottoman grand vizier and general (1832-1919) <human> sl=26
+[391] ppl:david-effendi-molho | דוד אפנדי מולכו | David Effendi Molho | Ottoman Jew appointed senator, 1910
+     T Q130455979  Da'ud Effendi Molko / דוד אפנדי מולכו 1845– |  <human> sl=1
+[392] ppl:moses-montefiore | משה מונטיפיורי | Moses Montefiore | British Jewish philanthropist (1784–1885)
+   *✓T Q733118  Moses Montefiore / משה מונטיפיורי 1784–1885 | British financier and Jewish activist (1784–1885) <human> sl=30
+    ✓T Q75852708  Moses Montefiore /  1829– | (born 1829) <human> sl=0
+       Q136201983   /   | book 2010 <version, edition or translation> sl=0
+       Q47465738  Moses Montefiore water tower / מגדל המים בשכונת מונטיפיורי  |  <water tower> sl=2
+       Q17022777  Moses Montefiore Academy /   | public school in Chicago, Illinois, United States <school> sl=1
+       Q6915886  Moses Montefiore Congregation /   | synagogue in Bloomington, Illinois <synagogue> sl=1
+[399] ppl:james-monroe | ג'יימס מונרו | James Monroe | fifth President of the United States (Monroe Doctrine)
+    ✓  Q11815  James Monroe / ג'יימס מונרו 1758–1831 | president of the United States from 1817 to 1825 (1758–1831) <human> sl=159
+    ✓T Q129348  James Monroe /  1821–1898 | American congressman (1821-1898) <human> sl=8
+    ✓  Q136551427  James Monroe /  1953– | American musician <human> sl=0
+    ✓T Q336615  James Monroe /  1799–1870 | American congressman for New York (1799-1870) <human> sl=4
+    ✓  Q20173608  James Monroe /  [1820–] | painting by Gilbert Stuart <painting> sl=0
+    ✓  Q28796816  James Monroe /  [1816–] | painting by John Vanderlyn <painting> sl=1
+[401] ppl:alexander-the-great | אלכסנדר מוקדון | Alexander the Great | king of Macedon (356–323 BC)
+    ✓  Q8409  Alexander the Great / אלכסנדר הגדול -355–-322 | king of Macedonia and conqueror of Achaemenid Persia (356–323 BC) <human> sl=266
+    ✓  Q3610098  Pallas Athena /  [1655–] | painting by Rembrandt <painting> sl=8
+    ✓  Q619228  Alexander the Great / אלכסנדר הגדול  | 1956 film by Robert Rossen <film> sl=26
+    ✓  Q3610808  Alexander the Great /   | song by Iron Maiden <musical work/composition> sl=3
+    ✓  Q4720514  Alexander the Great /   | board game <board game> sl=2
+    ✓  Q80802852  Alexander the Great /  [1494–] | painting by Umbrian School / Master of the Griselda Legend (active late 15th C–e <painting> sl=0
+[402] ppl:mohammed-el-mokri | מוחמד אל-מוקרי | Mohammed el-Mokri | Moroccan envoy (later grand vizier) (1851–1957)
+     T Q1391212  Muhammad al-Muqri /  1854–1957 | Moroccan politician <human> sl=11
+[403] ppl:nikolai-muravyov-1850 | ניקולאי מורביוב | Nikolai Muravyov | Russian ambassador in Rome, briefly named Portsmouth delegate 1905 (1850–1908)
+     T Q545912  Nikolay Muravyov-Amursky /  1809–1881 | Russian noble (1809-1881) <human> sl=23
+[404] ppl:j-p-morgan | ג'. פ. מורגן | J. P. Morgan | American financier (1837–1913)
+   *✓T Q54168  J. P. Morgan / ג'יי. פי. מורגן 1837–1913 | American financier, banker, and art collector (1837–1913) <human> sl=78
+    ✓T Q57413151  Jason Phipps Morgan /   | researcher ORCID id 0000-0002-3100-0877 <human> sl=0
+    ✓  Q131323671  J. P. Morgan /  1976– | American professional stock car racing driver <human> sl=1
+    ✓T Q174774  John Pierpont Morgan, Jr. / ג'ון פירפונט מורגן ג'וניור 1867–1943 | American banker (1867-1943) <human> sl=15
+    ✓T Q58458484  Jason P. Morgan /   | researcher ORCID ID = 0000-0003-2785-8165 <human> sl=0
+    ✓  Q1194886  J. P. Morgan / ג'יי פי מורגן  | Wikimedia disambiguation page <Wikimedia human name disambiguation page> sl=6
+[407] ppl:morozov-1911 | מורוזוב | Morozov | Russian industrialist (Morozov family) whose death was reported, Aug 1911
+    ✓  Q12797037  Morozov / מורוזוב  | family name (Морозов) <family name> sl=2
+    ✓  Q47483979  Morozov /   | family name <family name> sl=1
+       Q6024371  Morozovella /   | genus of foraminifers <fossil taxon> sl=3
+    ✓  Q6913314  Morozov /   | lunar crater <lunar crater> sl=10
+       Q37569140  Morozova /   | family name <family name> sl=1
+    ✓  Q18791048  Morozov /   | human settlement in Solntsevsky District, Kursk Oblast, Russia <khutor> sl=3
+[408] ppl:john-morley | ג'ון מורלי | John Morley | British Liberal statesman (1838–1923)
+    ✓T Q116145413  John Morley /   |  <human> sl=0
+    ✓T Q100887796  John Morley /   | college basketball player (1971–1973) Rhode Island <human> sl=0
+    ✓T Q110730963  John Morley /   | Est 1460 - <human> sl=0
+   *✓T Q333519  John Morley /  1838–1923 | British statesman, writer and journalist (1838–1923) <human> sl=29
+    ✓T Q63456465  John W Morley /   | researcher <human> sl=0
+    ✓  Q113809614  John Morley /  1933–2001 | 1933-12-05--2001 <human> sl=0
+[416] ppl:gaber-banker-tehran | ג'אבר | Gaber | banker in Tehran, 1908
+    ✓  Q12789516  Gaber /   | male given name <male given name> sl=2
+    ✓  Q12789512  Gaber /   | family name <family name> sl=3
+       Q3919  Gaborone / גאבורונה [1965–] | capital city of Botswana <city, big city> sl=164
+       Q754558  Gaber, Desinić /   | settlement in the Municipality of Desinić, Krapina-Zagorje County, Croatia <settlement in Croatia> sl=11
+       Q689478  Gabersdorf /   | municipality in Leibnitz District, Styria, Austria <rural municipality of Austria, municipality of Austria> sl=29
+    ✓  Q7289997  Gaber /   | village in Dragoman municipality, Sofia oblast, Bulgaria <kmetstvo of Bulgaria, village of Bulgaria> sl=14
+[417] ppl:benjamin-of-tudela | בנימין מטודלה | Benjamin of Tudela | 12th-century Jewish traveller
+    ✓  Q318820  Benjamin of Tudela / בנימין מטודלה 1130–1174 | Jewish explorer and writer <human> sl=46
+       Q127247818   /   |  <> sl=0
+       Q58518053   /   |  <> sl=0
+[424] ppl:yosef-meyuhas | יוסף מיוחס | Yosef Meyuhas | Jerusalem Sephardi educator and writer (1868–1942)
+     T Q6735721  Joseph Meyouhas / יוסף מיוחס 1868–1942 |  <human> sl=1
+[428] ppl:eliyahu-haim-meisel | אליהו חיים מייזל | Eliyahu Haim Meisel | Chief Rabbi of Łódź (1821–1912)
+     T Q6042124  Elijah Hayyim Maisel / אליהו חיים מייזל 1821–1912 | Polish rabbi (1821–1912) <human> sl=5
+[441] ppl:kuzma-minin | קוזמה מינין | Kuzma Minin | Russian national hero of 1612
+    ✓  Q469785  Kuzma Minin / קוזמה מינין –1616 | the first democratically elected legitimate acting head of the Russian state, or <human> sl=34
+    ✓  Q18127044  Kuzma Minin /  [–2020] | scrapped bulk carrier <bulk carrier> sl=2
+       Q105581364  Kuzma Minin. /  [1894–] | painting <painting> sl=0
+       Q61857528  Kuzma Minin and Prince Dmitry Pozharsky /  [1850–] | 1850 history painting by Mikhail Scotti <painting> sl=0
+       Q119967026  Kuzma Minin grave /   |  <historic site> sl=1
+[448] ppl:pavel-mishchenko | פאבל מישצ'נקו | Pavel Mishchenko | Russian cavalry general (1853–1918)
+    ✓T Q13415830  Pavel Mishchenko /  1869–1938 | Russian botanist (1869-1938) <human> sl=4
+   *✓T Q2443464  Pavel Mishchenko /  1853–1918 | Russian general (1853–1918) <human> sl=12
+[451] ppl:shalom-dovber-schneersohn | שלום דובער שניאורסון | Shalom Dovber Schneersohn | fifth Lubavitcher Rebbe (1860–1920)
+   *✓T Q2661448  Sholom Dovber Schneersohn / שלום דובער שניאורסון 1860–1920 | Russian rabbi (1860–1920) <human> sl=15
+    ✓T Q5371049  Shalom Dovber Schneersohn / שלום דובער שניאורסון (רצ'יצה) 1834–1908 | Russian rabbi <human> sl=2
+[456] ppl:mandelberg-1907 | מנדלברג | Mandelberg | author of statistics on Jewish education in Kiev province (Der Fraynd 1907)
+    ✓  Q106404295  Mandelberg /   | family name <family name> sl=1
+    ✓  Q6215021  Johan Edvard Mandelberg /  1730–1786 | Swedish-Danish artist (1730-1786) <human> sl=6
+    ✓  Q31309840  Mandelberg /   |  <hill> sl=1
+    ✓  Q31309827  Mandelberg /   |  <hill> sl=1
+    ✓  Q101197017  Mandelberg /   | street in Annaberg-Buchholz, Saxony, Germany <street> sl=0
+       Q3285477   /  [1992–] |  <Alsace Grand Cru AOC> sl=2
+[457] ppl:moses-mendelssohn | משה מנדלסון | Moses Mendelssohn | Jewish philosopher of the Enlightenment (1729–1786)
+    ✓  Q76997  Moses Mendelssohn / משה מנדלסון 1729–1786 | German-Jewish philosopher and theologian (1729–1786) <human> sl=63
+    ✓  Q58129325  Moses Mendelssohn /  [1771–] | painting by anonymous <painting> sl=0
+       Q1726364  Moses-Mendelssohn-Preis / פרס משה מנדלסון  |  <award> sl=2
+    ✓  Q62615177  Moses Mendelssohn /   | German article in Die Gartenlaube, 1879, no. 36 <article> sl=1
+    ✓  Q87282770  Moses Mendelssohn /   | episode of In Our Time <radio series episode> sl=0
+       Q136223674   /   | book 2010 <version, edition or translation> sl=0
+[458] ppl:max-mandelstamm | מקס מנדלשטם | Max Mandelstamm | Kiev ophthalmologist and Zionist/territorialist leader (1839–1912)
+     T Q1912439  Max E. Mandelstamm / מקס עמנואל מנדלשטם 1839–1912 | Russian ophthalmologist (1839–1912) <human> sl=7
+[459] ppl:alexander-manuilov | אלכסנדר מנואילוב | Alexander Manuilov | economist, rector of Moscow University until 1911 (1861–1929)
+     T Q4280698  Aleksandr Manuylov /  1861–1929 | (1861—1929) — Russian economist and politician, rector of the Imperial Moscow Un <human> sl=8
+[462] ppl:manola-1911 | מנולה | Manola | Spaniard defeated in fighting near Fez, Apr 1911
+    ✓  Q104621168  Manola /   | female given name <female given name> sl=1
+    ✓  Q17379797  Manola /   | genus of insects <taxon> sl=2
+    ✓  Q24620867  Manola /   | village in West Sumba Regency, East Nusa Tenggara, Indonesia <desa> sl=0
+    ✓  Q2390861  majo / maja / מאחו  | people from the lower classes of Spanish society, especially in Madrid <social class> sl=13
+    ✓  Q36855688  Manola /   | family name <family name> sl=1
+    ✓  Q27667744  Manola /  [1905–] | painting by Julio Romero de Torres <painting> sl=1
+[463] ppl:benoit-ulysse-de-ratti-menton | רטי-מנטון | Ratti-Menton | French consul in Damascus during the Damascus affair 1840
+     T Q2660557   / ראטי מנטון 1799–1864 | French diplomat <human> sl=3
+[464] ppl:mantel-1912 | מנטל | Mantel | member of the Jewish community of Lisbon, 1912
+    ✓  Q21448549  Mantel /   | family name <family name> sl=1
+    ✓  Q473172  Mantel /   | market municipality of Germany <market municipality of Germany, municipality without town privileges in Germany> sl=39
+    ✓  Q4327778  fireplace mantel / לזבז לאח  | framework around a fireplace <> sl=6
+       Q56054  Mantellidae / מנטליים  | family of amphibians <taxon> sl=35
+       Q1627754  Mantella /   | genus of amphibians <taxon> sl=26
+       Q6752131  coat /   | general term for a form of outerwear of differing lengths and having some shapin <> sl=9
+[470] ppl:mikhail-menshikov | מיכאיל מנשיקוב | Mikhail Menshikov | antisemitic columnist of Novoye Vremya (1859–1918)
+    ✓  Q6849743  Mikhail Menshikov /  1948–2026 | Russian mathematician <human> sl=3
+    ✓T Q4290651  Mikhail Menshikov /  1859–1918 | Russian literary critic <human> sl=4
+    ✓T Q4290649  Mikhail Menshikov /  1902–1976 | Soviet diplomat (1902–1976) <human> sl=3
+[478] ppl:afonso-v-of-portugal | אפונסו החמישי, מלך פורטוגל | Afonso V of Portugal | King of Portugal 1438–1481, patron of Isaac Abravanel
+    ✓  Q299119  Afonso V of Portugal / אפונסו החמישי, מלך פורטוגל 1432–1481 | King of Portugal and the Algarves <human> sl=55
+[479] org:de-rothschild-freres | בית רוטשילד בפריז | de Rothschild Frères | the Paris Rothschild bank
+     T Q2882957  Rothschild banking family of France / משפחת הבנקאים רוטשילד הצרפתית [1817–1991] | French family of bankers <bank, organization> sl=4
+     T Q122143900  Banque Rothschild /  [1817–1991] | former French bank <business, bank> sl=8
+[481] ppl:nissim-mazliach | נסים מצליח | Nissim Mazliach | Jewish deputy of Smyrna in the Ottoman parliament
+     T Q141834824   / נסים מצליח  |  <human> sl=1
+[483] ppl:alexander-makarov | אלכסנדר מקרוב | Alexander Makarov | Russian Minister of the Interior 1911–1912 (1857–1919)
+    ✓  Q111971534  Alexander Makarov /  1936– | Soviet/Russian photographer of Polish descent (1936-) <human> sl=0
+    ✓  Q951543  Alexander Alexeyevich Makarov /  1966– | Russian physicist <human> sl=9
+   *✓T Q1982875  Alexander Makarov /  1857–1919 | Russian politician (1857-1919) <human> sl=11
+    ✓T Q83523978  Alexander Makarov /   | researcher (ORCID 0000-0002-2020-0793) <human> sl=0
+    ✓  Q4275334  Alexander Makarov /  1946– | Russian politician (born 1946) <human> sl=3
+    ✓  Q4719533  Alexander Makarov / אלכסנדר מקארוב  | Wikimedia disambiguation page <Wikimedia human name disambiguation page> sl=6
+[487] ppl:william-mckinley | ויליאם מקינלי | William McKinley | President of the United States, assassinated 1901
+   *✓T Q35041  William McKinley / ויליאם מקינלי 1843–1901 | president of the United States from 1897 to 1901 (1843–1901) <human> sl=142
+    ✓T Q8015464  William McKinley Sr. /  1807–1892 | American businessman (1807–1892) <human> sl=3
+       Q706697  Red Garland / רד גארלנד 1923–1984 | American modern jazz pianist (1923-1984) <human> sl=22
+    ✓  Q28801722  William McKinley /  [1899–] | painting by Emily Drayton Taylor <painting> sl=0
+    ✓  Q47511161  William McKinley /  [1899–] | painting by Charles Ayer Whipple <painting> sl=0
+    ✓  Q28801519  William McKinley /  [1897–] | painting by August Benziger <painting> sl=0
+[488] ppl:harry-maclean | הארי מקלין | Harry Maclean | Kaid Maclean, British military adviser to the Sultan of Morocco, kidnapped by Raisuni 1907
+    ✓  Q1225338  Harry MacLean /  1908–1994 | German painter (1908-1994) <human> sl=2
+    ✓  Q17318739  Harry Maclean /  1951– | Speedway rider <human> sl=2
+    ✓  Q5671233  Harry N. MacLean /  1943– | American lawyer and writer <human> sl=4
+    ✓  Q76329848  Harry Bear Maclean /  2016– | (born 2016) <human> sl=0
+    ✓  Q17314235  Harry Maclean /   | Wikimedia disambiguation page <Wikimedia human name disambiguation page> sl=1
+[490] ppl:nikolai-maklakov | ניקולאי מקלקוב | Nikolai Maklakov | Russian Minister of the Interior 1912–1915
+     T Q1985032  Nikolay Maklakov /  1871–1918 | Russian politician (1871-1918) <human> sl=10
+[509] ppl:rudolf-martin | רודולף מרטין | Rudolf Martin | German economist who wrote on Russia's finances (1867–1916)
+    ✓  Q85729  Rudolf Martin / רודולף מרטין 1967– | German actor <human> sl=15
+    ✓T Q108469503  Rudolf Martin /  1904– |  <human> sl=0
+    ✓  Q106662473  Rudolf Martin /  1924– |  <human> sl=0
+   *✓T Q7377257  Rudolf Martin / רודולף מרטין 1864–1925 | Swiss anthropologist (1864-1925) <human> sl=8
+    ✓T Q94937602  Rudolf Martin /  1867–1939 | born 1867; <human> sl=1
+    ✓  Q7377255  Rudolf Martin /   | Wikimedia disambiguation page <Wikimedia human name disambiguation page> sl=3
+[512] ppl:mariamne-i | מרים החשמונאית | Mariamne I | Hasmonean wife of Herod; character in M. M. Dolitzky's serialized novel
+    ✓  Q266601  Mariamne I / מרים החשמונאית –-28 | second wife of Herod the Great <human> sl=29
+       Q270607  Mariamne II / מרים (בת הכהן הגדול) -100–-60 | wife of Herod the Great <human> sl=19
+     T Q3847650  Mariamne III / מרים (בת אריסטובולוס)  | Herodian princess <human> sl=7
+     T Q10326261  Mariamne / מרים בת אולימפיאס 50– | first wife of Herod of Chalcis <human> sl=4
+[516] ppl:jakob-marengo | יאקוב מרנגו | Jakob Marengo | Nama/Herero resistance leader against German rule (d. 1907)
+     T Q315748  Jacob Morenga /  1875–1907 | Namibian freedom fighter (1875-1907) <human> sl=9
+[521] ppl:karl-marx | קרל מרקס | Karl Marx | German philosopher and economist (1818–1883)
+   *✓T Q9061  Karl Marx / קרל מרקס 1818–1883 | German-born philosopher (1818–1883) <human> sl=314
+    ✓  Q1732309  Karl Marx /  1929–2008 | German painter (1929-2008) <human> sl=1
+    ✓T Q882538  Karl Marx /  1897–1985 | German composer and music educator (1897–1985) <human> sl=7
+    ✓T Q1732308  Karl Marx / קרל מרקס 1897–1966 | German journalist (1897–1966) <human> sl=4
+    ✓  Q101935308  Karl Marx /   | ship built in 1959, beached and abandoned in 1993 <cargo ship, shipwreck> sl=2
+       Q154804  Leipzig University / אוניברסיטת לייפציג [1409–] | university in Leipzig, Saxony, Germany (1409-) <comprehensive university, university of applied sciences> sl=67
+[522] ppl:frank-marshall | פרנק מרשל | Frank Marshall | American chess master (1877–1944)
+    ✓  Q549570  Frank Marshall / פרנק מרשל 1946– | American film producer and director (born 1946) <human> sl=31
+    ✓T Q117860379  Frank Marshall /   |  <human> sl=0
+   *✓T Q312814  Frank Marshall / פרנק מרשל 1877–1944 | American chess player <human> sl=43
+    ✓T Q4283267  Frank Marshall /  1883–1959 | Spanish pianist, componist and pedagogue (1883–1959) <human> sl=7
+    ✓  Q296788  Frank Marshall / פרנק מרשל  | Wikimedia disambiguation page <Wikimedia human name disambiguation page> sl=17
+    ✓T Q18681483  Francis Marshall /  1845–1906 | English rugby administrator, schoolmaster and cleric <human> sl=1
+[523] ppl:david-moshe-columnist | דוד-משה | David-Moshe | pen name of a satirical columnist in Unzer Leben (David Moshe ha-Levi)
+     T Q63649413  David C. Mosher /   | researcher <human> sl=0
+     T Q105374400  David Mosheim /  1869–1940 | Holocaust victim (born 1869) <human> sl=0
+       Q42041216  David Moshe Rosenbaum / דוד משה רוזנבוים 1924–1969 | Romanian rabbi (1924–1969) <human> sl=3
+     T Q7192680  David Mosheh Tshortkov / דוד משה פרידמן 1827–1903 | 19th century rabbi (1827–1903) <human> sl=3
+     T Q14787620  David Moshe Steinberg / דוד משה שטיינברג 1871–1941 | American hazzan (1871–1941) <human> sl=2
+       Q113488684  David M. Freidenreich /  1977– | American educator <human> sl=0
+       Q2900747  Moses Rosen / דוד משה רוזן 1912–1994 | Romanian rabbi (1912–1994) <human> sl=6
+[554] ppl:noah | נח | Noah | biblical patriarch
+    ✓  Q19819780  Noah / נואה  | male given name <male given name> sl=1
+    ✓  Q1379338  Noah /  [2012–] | Indonesian pop rock band <musical group> sl=19
+    ✓  Q26972634  Noah / נואה  | family name <family name, family name based on given name> sl=2
+    ✓  Q81422  Noah / נח  | biblical prophet, son of Lamech, major figure in the Book of Genesis <human biblical figure> sl=122
+     T Q452545  Noah Beery, Sr. / נואה ברי 1882–1946 | American actor (1882–1946) <human> sl=24
+    ✓  Q115529789  NOAH /  1993– | Japanese actor <human> sl=1
+[559] ppl:dmitri-neidhardt | דמיטרי נידהרדט | Dmitri Neidhardt | Russian senator, former Odessa city governor, led the 1910 Warsaw inspection
+     T Q4316390  Dmitry Neidhardt /  1861–1942 |  <human> sl=1
+[563] ppl:grand-duke-nicholas-nikolaevich-of-russia | הדוכס הגדול ניקולאי ניקולאייביץ' | Grand Duke Nicholas Nikolaevich of Russia | Russian commander-in-chief 1914–1915
+    ✓T Q163863  Grand Duke Nicholas Nikolaevich of Russia / ניקולאי ניקולאייביץ' האב 1831–1891 | Russian grand duke (1831-1891); third son and sixth child of Nicholas I of Russi <human> sl=31
+    ✓T Q160869  Grand Duke Nicholas Nikolaevich of Russia / ניקולאי ניקולאייביץ' הבן 1856–1929 | Russian general (1856-1929); son of Grand Duke Nicholas Nikolaevich the Elder an <human> sl=41
+    ✓  Q447267  Grand Duke Nicholas Nikolaevich of Russia /   | Wikimedia disambiguation page <Wikimedia human name disambiguation page> sl=8
+[574] ppl:jacob-isaac-niemirower | יעקב יצחק נימירובר | Jacob Isaac Niemirower | rabbi of Iași, later Chief Rabbi of Romania (1872–1939)
+     T Q2778326  Jacob Itzhak Niemirower / יעקב יצחק נימירובר 1872–1939 | Romanian rabbi (1872–1939) <human> sl=6
+[578] ppl:napoleon | נפוליאון בונפרטה | Napoleon | Emperor of the French (1769–1821)
+    ✓  Q517  Napoleon / נפוליאון בונפרטה 1769–1821 | French military leader, French Emperor 1804–1814 and again in 1815 (1769–1821) <human> sl=289
+    ✓  Q17522194  Napoleon / נפוליאון  | male given name <male given name> sl=4
+    ✓  Q986312  Napoleon /  [1834–] | city in and the county seat of Henry County, Ohio, United States <county seat, city in the United States> sl=41
+     T Q7721  Napoleon III / נפוליאון השלישי 1808–1873 | President of the Second French Republic, Emperor of the Second French Empire and <human> sl=128
+    ✓  Q36982451  Napoleon / נפוליאון  | family name <family name> sl=1
+       Q19882955  Napoléon /   | male given name <male given name> sl=1
+[584] ppl:joseph-nasi | יוסף נשיא | Joseph Nasi | Ottoman Jewish statesman, Duke of Naxos (1524–1579)
+    ✓  Q472202  Joseph Nasi / דון יוסף נשיא 1520–1579 | Ottoman Jewish statesman and financier <human> sl=22
+[586] ppl:paul-nathan | פאול נתן | Paul Nathan | German Jewish politician, leader of the Hilfsverein (1857–1927)
+    ✓  Q112454776  Paul Nathan /  1913– |  <human> sl=0
+    ✓  Q112369018  Paul Nathan /  1924– |  <human> sl=0
+    ✓T Q60840413  Paul C Nathan /   | researcher ORCID ID = 0000-0003-0334-0871 <human> sl=0
+   *✓T Q2061437  Paul Nathan / פאול נתן 1857–1927 | German politician, journalist and writer (1857–1927) <human> sl=4
+    ✓T Q91215238  Paul Nathan /   | researcher (ORCID 0000-0002-5612-8439) <human> sl=0
+     T Q101238272  Paul Nathan Goldwater /   | researcher <human> sl=0
+[621] ppl:nahum-sokolow | נחום סוקולוב | Nahum Sokolow | Zionist leader and Hebrew journalist (1859–1936)
+   *✓T Q918966  Nahum Sokolow / נחום סוקולוב 1859–1936 | Hebrew journalist, editor, essayist, and political leader (1859–1936) <human> sl=20
+    ✓T Q96642791  Nahum Sokolow /  1861–1936 |  <human> sl=0
+[624] ppl:wilhelm-souchon | וילהלם סושון | Wilhelm Souchon | German admiral commanding the Ottoman fleet 1914
+   *✓T Q62450  Wilhelm Souchon / וילהלם סושון 1864–1946 | German admiral (1864-1946) <human> sl=23
+    ✓T Q26202875  Wilhelm Ferdinand Souchon /  1825–1876 | German painter (1825–1876) <human> sl=3
+[628] ppl:w-t-stead | ויליאם סטד | W. T. Stead | British journalist (1849–1912)
+       Q26319157  W. T. Stead Memorial /  [1913–] | memorial in London <relief sculpture, memorial> sl=2
+     T Q288301  William Thomas Stead / ויליאם תומאס סטאד 1849–1912 | English newspaper editor (1849–1912) <human> sl=42
+       Q110794833   /   |  <> sl=0
+       Q56384799   /   |  <> sl=0
+       Q90652213   /   |  <> sl=0
+     T Q2580458  William S. Greene / ויליאם סטדמן גרין 1841–1924 | American politician (1841–1924) <human> sl=7
+       Q1457403  William Stedman / ויליאם סטדמן 1765–1831 | American politician (1765-1831) <human> sl=4
+[633] ppl:dimitrie-sturdza | דימיטרי סטורדזה | Dimitrie Sturdza | Prime Minister of Romania (1833–1914)
+   *✓T Q554730  Dimitrie Sturdza / דימיטריה סטורדזה 1833–1914 | Prime Minister of Romania (1833-1914) <human> sl=24
+    ✓  Q20431255  Dimitrie Sturdza /  1938– | Romanian businessman and tennis player <human> sl=3
+    ✓T Q112974222  Dimitrie M. Sturdza /  1820–1908 | Grand Hetman of Moldavia <human> sl=1
+    ✓  Q127599334  Șerban-Dimitrie Sturdza /  1967– | Romanian politician (born 1967) <human> sl=4
+       Q42524020  Dimitrie Sturdza House /  [1883–] | heritage house in Bucharest, Romania, now part of Cărturești Verona <house, shop> sl=3
+       Q18548238  boier Dumitrie 'Dumitru' Sturdza /  1720–1794 | Aft 1720 - <human> sl=1
+[634] ppl:mikhail-aleksandrovich-stakhovich | מיכאיל סטחוביץ' | Mikhail Aleksandrovich Stakhovich | Russian liberal politician, State Council member (1861–1923)
+   *✓T Q1930252  Mikhail Stakhovich /  1861–1923 | Russian politician (1861-1923) <human> sl=12
+    ✓T Q4441363  Mikhail Stakhovich /  1820–1858 | Russian writer (1820-1858) <human> sl=2
+[643] ppl:august-strindberg | אוגוסט סטרינדברג | August Strindberg | Swedish writer (1849–1912)
+     T Q7724   / יוהאן אוגוסט סטרינדברג 1849–1912 | Swedish writer and painter (1849–1912) <human> sl=119
+    ✓  Q18889393  August Strindberg /  [1892–] | painting by Edvard Munch <painting> sl=2
+    ✓  Q54355679  August Strindberg /  [1893–] | painting by Christian Krohg (Norwegian Museum of Cultural History) <painting> sl=0
+       Q18588601  August Strindberg, 1849-1912 /  [1885–] | painting by Sofie Holten <painting> sl=0
+    ✓  Q10422406  August Strindberg /   |  <written work> sl=1
+    ✓  Q121864407  August Strindberg /  [1896–] | lithograph by Edvard Munch (RES.B.00065, The Stenersen Collection) <lithograph print> sl=0
+[644] ppl:fengshan | פנגשאן | Fengshan | Qing general assassinated in Canton, Oct 1911
+    ✓  Q633500  Fongshan District /   | A district in Kaohsiung City, Taiwan <district of Taiwan> sl=18
+    ✓  Q10896247  Fengshan /   | subdistrict in Dandong, Liaoning, China <subdistrict in China> sl=1
+    ✓  Q5443440  Fengshan /   | town in Hebei, People's Republic of China <town of China> sl=2
+    ✓  Q10876921  Fengshan /   | township in Suihua, Heilongjiang, China <township of China> sl=3
+    ✓  Q10896237  Fengshan Yi and Mongolian Ethnic Township /   | township in Dafang County, Bijie, Guizhou, China <ethnic township> sl=1
+    ✓  Q15909987  Zhang Mao /  1436–1521 | Ming dynasty politician, c. 1437-1522 <human> sl=2
+[648] ppl:james-simon | ג'יימס סימון | James Simon | German Jewish philanthropist (1851–1932)
+    ✓T Q84859  James Simon / הנרי ג'יימס סימון 1851–1932 | German Jewish entrepreneur and art collector (1851-1932) <human> sl=9
+    ✓T Q827852  James Simon /  1880–1944 | German composer (1880–1944) <human> sl=8
+    ✓  Q21165404  James Simon /  –1757 | Irish member of the Royal Society (18th century) <human> sl=0
+    ✓  Q116502841  James Simon /  1987– | rugby league footballer <human> sl=0
+    ✓  Q28585020  James R. Simon /  1908–1973 | cinematographer <human> sl=0
+    ✓  Q1689217  Jim Simon /  1940– | American football player (born 1940) <human> sl=4
+[649] ppl:antoine-simon | אנטואן סימון | Antoine Simon | President of Haiti 1908–1911
+    ✓  Q2215137  Antoine Simon /  1736–1794 | French shoemaker and revolutionary <human> sl=12
+    ✓T Q111177884  Antoine Simon /   | Belgian lichenologist <human> sl=1
+   *✓T Q2856740  Antoine Simon /  1850–1916 | French pianist and composer (1850-1916) <human> sl=7
+    ✓  Q57616744  Antoine Simon /  1978– | researcher ORCID ID = 0000-0001-6023-6427 <human> sl=0
+    ✓  Q2856731  Antoine Simon /   | Wikimedia disambiguation page <Wikimedia human name disambiguation page> sl=2
+       Q4775422  Antoine-Simon Le Page du Pratz /  1695–1758 | French ethnographer, historian, and naturalist <human> sl=6
+[654] ppl:hugh-cecil | לורד יו ססיל | Hugh Cecil | British Conservative politician (1869–1956)
+   *✓T Q334182  Hugh Cecil, 1st Baron Quickswood /  1869–1956 | British politician (1869-1956) <human> sl=12
+    ✓  Q75256925  Hugh Peniston Cecil /  1941–2020 | British historian (1941–2020) <human> sl=0
+    ✓  Q75244992  Hugh Brownlow Amherst Cecil /  1995– | (born 1995) <human> sl=0
+    ✓T Q5930294  Hugh Cecil /  1889–1974 | British photographer (1889–1974) <human> sl=1
+     T Q976721  Hugh Lowther, 5th Earl of Lonsdale /  1857–1944 | British nobleman and sportsman (1857-1944) <human> sl=9
+       Q75779936  Hugh Cecil Camden Stafford Northcote /  1938– | (born 1938) <human> sl=0
+
+--- unambiguous auto picks (check the description fits):
+[1] ppl:david-wolffsohn (President of the Zionist Organization 1905–1911 (1) -> Q1177243 David Wolffsohn | German Jewish businessman (1855-1914)
+[2] ppl:vladimir-mikhailovich-volkonsky (Russian prince, deputy chairman of the State Duma ) -> Q3569551 Vladimir Mikhailovich Volkonsky | (1868-1953)
+[6] ppl:edouard-vaillant (French socialist deputy (1840–1915)) -> Q274464 Édouard Vaillant | politician (1840-1915)
+[10] ppl:sergei-witte (Russian statesman, Prime Minister 1905–1906 (1849–) -> Q155329 Sergei Witte | Russian statesman and first Prime Minister of the Russian Empire (1849
+[12] ppl:albert-willm (French socialist lawyer and deputy (mentioned 1907) -> Q2831639 Albert Willm | French politician (1868–1944)
+[16] ppl:wilhelm-ii-german-emperor (German Emperor and King of Prussia 1888–1918) -> Q2677 Wilhelm II | as King of Prussia last German Emperor from 1888 to 1918 (1859–1941)
+[17] ppl:prince-august-wilhelm-of-prussia (son of Wilhelm II (1887–1949)) -> Q58777 Prince August Wilhelm of Prussia | German prince and high ranking Nazi (1887-1949)
+[20] ppl:woodrow-wilson (President of the United States 1913–1921) -> Q34296 Woodrow Wilson | 28th President of the United States (1913–1921)
+[28] ppl:leo-winz (editor of the Berlin Jewish monthly "Ost und West") -> Q1818786 Leo Winz | Israeli journalist
+[31] ppl:chaim-weizmann (Zionist leader and chemist (1874–1952)) -> Q172183 Chaim Weizmann | Israeli statesman and British chemist (1874–1952)
+[32] ppl:grand-duchess-vera-konstantinovna-of-russia (Russian grand duchess, Duchess of Württemberg (185) -> Q240282 Grand Duchess Vera Konstantinovna of Russia | Grand Duchess of Russia (1854-1912)
+[37] ppl:grand-duke-andrei-vladimirovich-of-russia (Russian grand duke (1879–1956)) -> Q502763 Grand Duke Andrei Vladimirovich of Russia | Russian grand duke (1879-1956)
+[38] ppl:grand-duke-boris-vladimirovich-of-russia (Russian grand duke (1877–1943)) -> Q373048 Grand Duke Boris Vladimirovich of Russia | Russian grand duke (1877–1943); son of Grand Duke Vladimir Alexandrovi
+[39] ppl:grand-duke-kirill-vladimirovich-of-russia (Russian grand duke (1876–1938)) -> Q160948 Grand Duke Kirill Vladimirovich of Russia | Head of the House of Romanov (1924-1938)
+[42] ppl:eleftherios-venizelos (Prime Minister of Greece (1864–1936)) -> Q205545 Eleftherios Venizelos | Greek politician, former Prime Minister of Greece (1864–1936)
+[43] ppl:oscar-ii (King of Sweden (and Norway until 1905)) -> Q52924 Oscar II of Sweden | King of Sweden from 1872 to 1907 and Norway from 1872 to 1905 (1829–19
+[60] ppl:jean-jaures (French socialist leader (1859–1914)) -> Q12688 Jean Jaurès | French / Occitan socialist leader (1859-1914)
+[63] ppl:nikolai-von-der-osten-sacken (Russian ambassador in Berlin (1831–1912)) -> Q324061 Nikolai von der Osten-Sacken | Russian diplomat (1831-1912)
+[65] ppl:zeev-jabotinsky (Zionist leader and writer (1880–1940)) -> Q319896 Ze'ev Jabotinsky | Russian Jewish poet, founder of Revisionist Zionist movement (1880–194
+[69] ppl:max-liebermann-von-sonnenberg (German antisemitic politician (1848–1911)) -> Q123515 Max Liebermann von Sonnenberg | Prussian military officer and anitsemitic opinion journalist and polit
+[70] ppl:jean-jules-jusserand (French ambassador to the United States (1855–1932)) -> Q1685608 Jean Jules Jusserand | French historian and diplomat (1855–1932)
+[73] ppl:lij-iyasu (heir and uncrowned Emperor of Ethiopia (1895–1935)) -> Q379889 Iyasu V | Emperor of Abyssinia (1895-1935) and temporary loyalist of Garad Diiri
+[82] ppl:hillel-zlatopolsky (Zionist and Hebraist, industrialist from Kiev (186) -> Q6742524 Hillel Zlatopolsky | 
+[84] ppl:isaac-newton-seligman (American Jewish banker, met Witte at Portsmouth 19) -> Q6076874 Isaac Newton Seligman | American banker (1855–1917)
+[90] ppl:israel-zangwill (Anglo-Jewish writer, leader of the Jewish Territor) -> Q113681 Israel Zangwill | British Zionist author (1864–1926)
+[98] ppl:baqir-khan (Iranian Constitutional Revolution leader from Tabr) -> Q799913 Baqer Khan | Iranian revolutionary (1862-1916)
+[100] ppl:zelimkhan (Ingush/Chechen abrek (outlaw) in the North Caucasu) -> Q4153106 Zelimkhan | Ingush abrek (1872–1913)
+[102] ppl:abd-al-hafid (Sultan of Morocco 1908–1912) -> Q276936 Abd al-Hafid of Morocco | Sultan of Morocco (1875-1937)
+[104] ppl:abbas-ii-of-egypt (last Khedive of Egypt 1892–1914) -> Q157159 Abbas II | Khedive of Egypt (1874-1944) (r. 1892-1914)
+[106] ppl:nikolai-khomyakov (Chairman of the Third State Duma 1907–1910 (1850–1) -> Q525797 Nikolai Khomyakov | Russian politician (1850-1925)
+[110] ppl:abdul-hamid-ii (Ottoman Sultan 1876–1909) -> Q134817 Abdul Hamid II | 34th Sultan of the Ottoman Empire (1876–1909)
+[112] ppl:hassan-i-of-morocco (Sultan of Morocco 1873–1894, father of Abdelaziz a) -> Q496845 Hassan I of Morocco | Moroccan Sultan (1836-1894)
+[116] ppl:togo-heihachiro (Japanese admiral, victor at Tsushima (1848–1934)) -> Q296785 Tōgō Heihachirō | Japanese admiral of the fleet (1848–1934)
+[118] ppl:christian-von-tattenbach (German envoy to Morocco 1905 (1846–1910)) -> Q216679 Christian von Tattenbach | German diplomat
+[121] ppl:william-howard-taft (President of the United States 1909–1913) -> Q35648 William Howard Taft | 27th President of the United States from 1909 to 1913 (1857–1930)
+[126] ppl:nikolai-tagantsev (Russian jurist, member of the State Council (1843–) -> Q2655838 Nikolai Tagantsev | Russian legal scholar (1843–1923)
+[127] ppl:ivan-shcheglovitov (Russian Minister of Justice 1906–1915) -> Q2027257 Ivan Shcheglovitov | Russian politician (1861–1918)
+[130] ppl:mark-twain (American writer (1835–1910)) -> Q7245 Mark Twain | American author and humorist (1835–1910)
+[131] ppl:ivan-tolmachev (Russian general, city governor of Odessa 1907–1911) -> Q93174417 Ivan Tolmachev | researcher (ORCID 0000-0002-2888-5539)
+[132] ppl:leo-tolstoy (Russian writer (1828–1910)) -> Q7243 Leo Tolstoy | Russian author (1828–1910)
+[138] ppl:tommaso-tittoni (Italian Foreign Minister (1855–1931)) -> Q537144 Tommaso Tittoni | Prime Minister of Italy (1855-1931)
+[142] ppl:vasily-timiryazev (Russian statesman, former Minister of Trade (1849–) -> Q52170382 Vasily Timiryazev | 19th-century Russian literary figure, journalist, theatre critic, and 
+[148] ppl:tessema-nadew (Ethiopian Ras, regent for Lij Iyasu (d. 1911)) -> Q19667088 Tessema Nadew | Ethiopian military commander and Regent to Lij Iyasu
+[149] ppl:takahira-kogoro (Japanese diplomat, delegate at Portsmouth 1905) -> Q920897 Takahira Kogorō | Japanese politician (1854–1926)
+[151] ppl:charles-j-train (US admiral, commander of the Asiatic Fleet 1905) -> Q5079392 Charles J. Train | United States admiral (1845-1906)
+[152] ppl:terauchi-masatake (Japanese Army Minister (1852–1919)) -> Q315559 Terauchi Masatake | Japanese general (1852-1919)
+[153] ppl:sergei-nikolaevich-trubetskoy (Russian philosopher, rector of Moscow University () -> Q2390351 Sergei Nikolaevich Trubetskoy | Russian philosopher, professor and rector of the Imperial Moscow Unive
+[160] ppl:savielly-tartakower (chess master (1887–1956)) -> Q161135 Savielly Tartakower | Polish and French chess player (1887–1956)
+[163] ppl:davis-trietsch (Zionist activist and writer (1870–1935)) -> Q1178182 Davis Trietsch | German writer (1870-1935)
+[164] ppl:heinrich-von-treitschke (German historian (1834–1896)) -> Q62400 Heinrich von Treitschke | German historian and political writer (1834-1896)
+[169] ppl:vladimir-trepov (Russian State Council member (1863–1918)) -> Q4462433 Vladimir Trepov | 
+[172] ppl:siegbert-tarrasch (German chess master (1862–1934)) -> Q76558 Siegbert Tarrasch | German chess player, chess writer, and chess theoretician (1862–1934)
+[178] ppl:aleksey-yermolov (Russian statesman, member of the State Council (18) -> Q4176649 Aleksey Yermolov | Russian politician
+[180] ppl:yamagata-aritomo (Japanese field marshal and statesman (1838–1922)) -> Q297636 Yamagata Aritomo | Japanese military leader and statesman (1838–1922)
+[185] ppl:yamamoto-tatsuo (Japanese Finance Minister 1911–1912) -> Q458627 Yamamoto Tatsuo | Japanese politician (1856-1947)
+[189] ppl:shmuel-yankev-yatskan (founder and editor of the Warsaw Yiddish daily Hay) -> Q61696969 Samuel Jacob Jazkan | Jewish-Polish Yiddish journalist and publisher
+[192] ppl:eliezer-ben-yehuda (reviver of the Hebrew language (1858–1922)) -> Q181728 Eliezer Ben-Yehuda | Russian hebrew linguist, grammarian, journalist, lexicographer, newspa
+[195] ppl:eugenie-de-montijo (Empress of the French, wife of Napoleon III (1826–) -> Q157130 Eugénie de Montijo | Empress consort of the French from 1853 to 1870 (1826–1920)
+[196] ppl:sophia-of-prussia (Queen of Greece, wife of Constantine I (1870–1932)) -> Q155822 Sophia of Prussia | Queen consort of Greece (1870–1932)
+[197] ppl:constantine-i-of-greece (King of Greece 1913–1917, 1920–1922) -> Q152099 Constantine I of Greece | King of Greece (r. 1913–17; 1920–22)
+[199] ppl:charles-i-of-austria (Archduke Karl Franz Josef, later Emperor of Austri) -> Q51068 Charles I of Austria | Last monarch of Austria-Hungary (r. 1916–1918)
+[200] ppl:franz-joseph-i-of-austria (Emperor of Austria 1848–1916) -> Q51056 Franz Joseph I of Austria | Emperor of Austria and King of Hungary (1830–1916)
+[205] ppl:take-ionescu (Romanian statesman (1858–1922)) -> Q1243658 Take Ionescu | Romanian politician (1858-1922)
+[207] ppl:alexandra-iosifovna (Russian grand duchess, widow of Grand Duke Konstan) -> Q57950 Princess Alexandra of Saxe-Altenburg | wife of Grand Duke Constantine Nikolaevich of Russia (1830-1911)
+[209] ppl:yusef-of-morocco (Sultan of Morocco 1912–1927) -> Q276937 Yusef of Morocco | Sultan of Morocco (1882-1927)
+[214] ppl:andrei-yushchinsky (Kiev boy whose murder led to the Beilis blood-libe) -> Q3626824 Andrei Yushchinsky | Murdered Ukrainian child (1898–1911)
+[215] ppl:semyon-yushkevich (Russian-Jewish writer and playwright (1868–1927)) -> Q4535566 Semyon Yushkevich | Russian language writer and playwright (1868–1927)
+[219] ppl:yahya-muhammad-hamid-ed-din (Imam of Yemen (1869–1948)) -> Q163945 Yahya Muhammad Hamid ed-Din | Imam (1869–1948)
+[223] ppl:david-yellin (Jerusalem educator and Zionist leader (1864–1941)) -> Q12405710 David Yellin | Jewish educator, writer and scholar
+[227] ppl:paul-von-hindenburg (German field marshal (1847–1934)) -> Q2667 Paul von Hindenburg | Prussian-German field marshal of the German Empire, statesman and pres
+[236] ppl:isaac (biblical patriarch) -> Q81781423 Olatunde Isaac | researcher
+[253] ppl:cohen-odessa-1905 (member of the Odessa Passover-relief (maot hittim)) -> Q110476307 Cohen | Dutch carpet weaver
+[255] ppl:mendel-cohen-egypt (Jewish communal figure in Egypt, 1910) -> Q30252276 Mendel Cohen | 
+[260] ppl:ali-kemal (Ottoman journalist and politician (1867–1922)) -> Q349199 Ali Kemal | Ottoman liberal journalist, politician and poet (1867-1922)
+[265] ppl:bonar-law (British Conservative leader (1858–1923)) -> Q166663 Bonar Law | Prime Minister of the United Kingdom from 1922 to 1923
+[267] ppl:leopold-ii-of-belgium (King of the Belgians 1865–1909) -> Q12967 Leopold II of Belgium | King of the Belgians from 1865 to 1909 (1835–1909)
+[269] ppl:13th-dalai-lama (Thubten Gyatso, Dalai Lama of Tibet (1876–1933)) -> Q25238 Thubten Gyatso | 13th Dalai Lama of Tibet (1876-1933)
+[270] ppl:ferdinand-lassalle (German socialist (1825–1864)) -> Q75784 Ferdinand Lassalle | German jurist and socialist (1825–1864)
+[276] ppl:zalman-david-levontin (Zionist, director of the Anglo-Palestine Bank (185) -> Q145159 Zalman David Levontin | 
+[279] ppl:princess-louise-of-belgium (eldest daughter of Leopold II, litigant over his e) -> Q237318 Princess Louise of Belgium | Belgian Royal (1858–1924)
+[280] ppl:emile-loubet (President of France 1899–1906) -> Q169502 Émile Loubet | 8th president of France (1838–1929)
+[285] ppl:narcisse-leven (President of the Alliance Israélite Universelle (1) -> Q828091 Narcisse Leven | French lawyer (1833-1915)
+[287] ppl:hippolytus-lutostansky (Russian antisemitic writer (1835–1915)) -> Q3136169 Hippolytus Lutostansky | Polish priest (1835–1915)
+[288] ppl:pierre-loti (French writer (1850–1923)) -> Q311854 Pierre Loti | French writer (1850-1923)
+[294] ppl:levin-odessa-1905 (member of the Odessa Passover-relief committee, 19) -> Q11228969 LEVIN | 
+[299] ppl:elhanan-leib-lewinsky (Hebrew writer (1857–1910)) -> Q7017172 Elhanan Leib Lewinsky | Russian Hebrew-language writer and Zionist leader
+[305] ppl:luigi-luzzatti (Prime Minister of Italy 1910–1911, of Jewish origi) -> Q710026 Luigi Luzzatti | Italian statesman and economist (1841-1927)
+[307] ppl:rosa-luxemburg (socialist revolutionary (1871–1919)) -> Q7231 Rosa Luxemburg | Polish-German Marxist revolutionary (1871–1919)
+[308] ppl:lavrentiev-1905 (participant in the Bloody Sunday procession, in Ga) -> Q707137 Mikhail Lavrentyev | Russian mathematician (1900-1980)
+[312] ppl:vladimir-liakhov (Russian colonel, commander of the Persian Cossack ) -> Q2993871 Vladimir Liakhov | Russian Cossack (1869–1920)
+[315] ppl:karl-liebknecht (German socialist (1871–1919)) -> Q75886 Karl Liebknecht | German socialist, editor, and co-founder of the Spartacus League (1871
+[320] ppl:moshe-leib-lilienblum (Hebrew writer and Hovevei Zion leader (1843–1910)) -> Q742539 Moshe Leib Lilienblum | Lithuanian rabbi (1843–1910)
+[321] ppl:nikolai-linevich (Russian commander-in-chief in Manchuria 1905 (1838) -> Q888207 Nikolai Linevich | Russian general (1839–1908)
+[322] ppl:friedrich-von-lindequist (German Colonial Secretary, resigned Nov 1911) -> Q106081 Friedrich von Lindequist | German colonial official (1862-1945)
+[332] ppl:spyridon-lambros (Greek historian, Prime Minister 1916–1917) -> Q728868 Spyridon Lambros | Greek historian, university professor and politician (1851-1919)
+[333] ppl:vladimir-lambsdorff (Russian Foreign Minister 1900–1906) -> Q142580 Vladimir Lamsdorf | Russian politician of Baltic German origin (1845-1907)
+[336] ppl:arkady-harting (Okhrana agent abroad, alias Landesen (Abraham Heke) -> Q4133950 Arkady Harting | Russian Empire spy
+[337] ppl:kenesaw-mountain-landis (US federal judge who fined Standard Oil in 1907) -> Q3106481 Kenesaw Mountain Landis | American judge and baseball commissioner (1866-1944)
+[339] ppl:paul-saladin-leonhardt (German chess master (1877–1934)) -> Q66451 Paul Saladin Leonhardt | German chess player (1877-1934)
+[340] ppl:vladimir-lenin (Bolshevik leader (1870–1924)) -> Q1394 Vladimir Lenin | Russian revolutionary, politician, political theorist, and founder of 
+[342] ppl:pavel-lessar (Russian envoy to China (1851–1905)) -> Q4259955 Pavel Lessar | diplomat, geographer and engineer (1851–1905)
+[348] ppl:mohammad-ali-shah-qajar (Shah of Persia 1907–1909, attempted comeback 1911) -> Q355603 Mohammad Ali Shah Qajar | The sixth Shah of Iran Qajar (1907–1909)
+[349] ppl:duke-peter-alexandrovich-of-oldenburg (Russian prince, husband of Grand Duchess Olga Alex) -> Q682770 Duke Peter Alexandrovich of Oldenburg | Russian duke (1868-1924)
+[351] ppl:titu-maiorescu (Prime Minister of Romania 1912–1914) -> Q342564 Titu Maiorescu | Romanian literary critic, academic and politician (1840-1917)
+[353] ppl:jacob-meir (Hakham Bashi of Salonica, Sephardi Chief Rabbi of ) -> Q6119001 Jacob Meir | former chief rabbi of HaYeshuv
+[367] ppl:abraham-mapu (Hebrew novelist (1808–1867)) -> Q330301 Abraham Mapu | Hebrew novelist (1808–1867)
+[372] ppl:ferdinand-i-of-bulgaria (Prince, then Tsar of Bulgaria 1887–1918) -> Q151667 Ferdinand I of Bulgaria | Bulgarian ruler (1861–1948)
+[373] ppl:alexander-of-battenberg (first Prince of Bulgaria (1857–1893)) -> Q159591 Alexander of Battenberg | Bulgarian ruler (1857–1893)
+[374] ppl:abdulmejid-ii (Ottoman prince, later the last Caliph (1868–1944)) -> Q203768 Abdülmecid II | last caliph of the Ottoman Dynasty (1868–1944)
+[375] ppl:ranavalona-iii (last Queen of Madagascar, exiled by France (1861–1) -> Q233326 Ranavalona III | last sovereign of the Kingdom of Madagascar (1861-1917)
+[377] ppl:francisco-i-madero (Mexican revolutionary leader, President 1911–1913) -> Q216766 Francisco I. Madero | Mexican revolutionary leader and president (1873-1913)
+[383] ppl:saul-modiano (Sephardi Jew involved in a 1911 informing affair a) -> Q112703701 Saul Modiano | 
+[384] ppl:george-v (King of the United Kingdom 1910–1936 (Prince of Wa) -> Q269412 George V | King of the United Kingdom from 1910 to 1936
+[385] ppl:edward-viii (Prince of Wales from 1910 (1894–1972)) -> Q590227 Edward VIII | King of the United Kingdom in 1936
+[388] ppl:emperor-meiji (Mutsuhito, Emperor of Japan 1867–1912) -> Q174231 Emperor Meiji | Emperor of Japan from 1867 until 1912
+[393] ppl:ernesto-teodoro-moneta (Italian pacifist, Nobel Peace Prize 1907) -> Q12086 Ernesto Teodoro Moneta | Italian journalist, revolutionary soldier and Nobel Peace Prize Laurea
+[394] ppl:luise-of-austria-tuscany (former Crown Princess of Saxony, Countess of Monti) -> Q257015 Archduchess Louise of Austria | Austrian archduchess (1870-1947)
+[395] ppl:nicholas-i-of-montenegro (Prince (1860–1910) and King (1910–1918) of Montene) -> Q283255 Nicholas I of Montenegro | Prince and King of Montenegro (1841–1921)
+[396] ppl:prince-peter-of-montenegro (youngest son of Nicholas I of Montenegro (1889–193) -> Q3064966 Prince Peter of Montenegro | Prince of Montenegro
+[398] ppl:ernest-monis (Prime Minister of France 1911, injured in the May ) -> Q561583 Ernest Monis | French politician (1846-1929)
+[413] ppl:mehmed-v (Ottoman Sultan 1909–1918) -> Q151494 Mehmed V | 35th Sultan of the Ottoman Empire (1909–1918)
+[421] ppl:maurice-maeterlinck (Belgian writer, Nobel laureate (1862–1949)) -> Q49747 Maurice Maeterlinck | Belgian playwright and essayist (1862–1949)
+[422] ppl:paul-wolff-metternich (German ambassador in London 1901–1912) -> Q214471 Paul Wolff Metternich | German diplomat (1853-1934)
+[425] ppl:jacques-mieses (German chess master (1865–1954)) -> Q77379 Jacques Mieses | German-British chess player and chess book author
+[427] ppl:alexander-meyendorff (Baron, deputy chairman of the Third Duma (1869–196) -> Q21106771 Alexander Meyendorff | 1848-1907
+[431] ppl:mikael-of-wollo (Ethiopian Ras, father of Lij Iyasu (1850–1918)) -> Q752011 Mikael of Wollo | father of the "uncrowned" Emperor Iyasu V
+[432] ppl:grand-duke-alexander-mikhailovich-of-russia (Russian grand duke (1866–1933)) -> Q464626 Grand Duke Alexander Mikhailovich of Russia | Russian grand duke and naval officer (1866-1933); fifth son of Grand D
+[434] ppl:gustav-michahelles (German envoy in Sofia 1914) -> Q1422427 Gustav Michahelles | German diplomat
+[435] ppl:milovan-milovanovic (Serbian Foreign Minister and Prime Minister (1863–) -> Q1290582 Milovan Milovanović | Serbian politician, diplomat and constitutional lawyer (1863-1912)
+[436] ppl:pavel-milyukov (leader of the Kadet party (1859–1943)) -> Q380286 Pavel Milyukov | Russian politician and historian (1859-1943)
+[440] ppl:alexandre-millerand (French Minister of War 1912 (1859–1943)) -> Q274540 Alexandre Millerand | French lawyer and statesman (1859–1943)
+[450] ppl:giacomo-malvano (Italian Jewish diplomat and senator (1841–1922)) -> Q3762165 Giacomo Malvano | Italian politician (1841–1922)
+[460] ppl:manuel-ii-of-portugal (last King of Portugal 1908–1910) -> Q154308 Manuel II of Portugal | King of Portugal (1889–1932)
+[471] ppl:tomas-garrigue-masaryk (Czech politician and scholar (1850–1937)) -> Q78492 Tomáš Garrigue Masaryk | Czechoslovak politician, statesman, sociologist and philosopher; first
+[475] ppl:peter-i-of-serbia (King of Serbia 1903–1921) -> Q211827 Peter I of Serbia | Serbian noble (1844–1921); King of Serbia from 1903 to 1918
+[489] ppl:vasily-maklakov (Kadet Duma deputy and lawyer (1869–1957)) -> Q4275807 Vasily Maklakov | Russian lawyer (1869–1957)
+[492] ppl:reginald-mckenna (British Home Secretary 1911–1915) -> Q333710 Reginald McKenna | British banker and Liberal politician (1863-1943)
+[493] ppl:august-von-mackensen (German field marshal (1849–1945)) -> Q76909 August von Mackensen | German field marshal (1849–1945)
+[494] ppl:meir-macnin (Moroccan Jewish merchant and diplomat (d. 1835)) -> Q113796191 Meir Macnin | 
+[496] ppl:ramon-corral (Vice President of Mexico 1904–1911) -> Q1372429 Ramón Corral | Vice President of Mexico 1904-1910
+[497] ppl:john-of-kronstadt (Russian Orthodox priest (1829–1908)) -> Q561659 John of Kronstadt | Russian saint (1829–1908)
+[500] ppl:abdelaziz-of-morocco (Sultan of Morocco 1894–1908) -> Q307132 Abdelaziz of Morocco | Sultan of Morocco (1878-1943)
+[502] ppl:david-margolin (Zionist named at the Marienbad meetings, Aug 1910) -> Q4281215 David Margolin | businessperson
+[506] ppl:daniil-mordovtsev (Russian-Ukrainian writer (1830–1905)) -> Q1970722 Daniil Mordovtsev | Ukrainian and Russian writer (1830-1905)
+[508] ppl:dmitry-merezhkovsky (Russian writer (1865–1941)) -> Q326459 Dmitry Merezhkovsky | Russian novelist, poet, religious thinker, and literary critic (1865–1
+[510] ppl:maria-pia-of-savoy (Queen Mother of Portugal (1847–1911)) -> Q238487 Maria Pia of Savoy | Queen of Portugal from 1862 to 1889
+[519] ppl:nikolai-markov (Markov II, far-right Duma deputy (1866–1945)) -> Q3341668 Nikolai Markov | Russian architect
+[524] ppl:prince-wilhelm-duke-of-sodermanland (Swedish prince (1884–1965)) -> Q435739 Prince Wilhelm, Duke of Södermanland | Swedish prince (1884–1965)
+[525] ppl:salima-machamba (last Sultana of Mohéli, pensioned by France (1874–) -> Q933224 Salima Machamba | last monarch (sultan/queen regnant) of Mohéli (Mwali) (1874-1964)
+[527] ppl:vladimir-meshchersky (Russian prince and conservative publisher (1839–19) -> Q1269550 Vladimir Meshchersky | Tsarist journalist (1839-1914)
+[533] ppl:grigor-nachovich (Bulgarian politician and diplomat (1845–1920)) -> Q3658170 Grigor Nachovich | Bulgarian politician (1845–1920)
+[535] ppl:nikolai-nebogatov (Russian rear admiral who surrendered at Tsushima () -> Q967806 Nikolai Nebogatov | Imperial Russian Navy admiral (1849–1922)
+[536] ppl:vladimir-dmitrievich-nabokov (Kadet politician, First Duma member (1870–1922)) -> Q2623261 Vladimir Dmitrievich Nabokov | Russian politician (1869-1922)
+[537] ppl:menelik-ii (Emperor (Negus) of Ethiopia 1889–1913) -> Q244748 Menilek II | Emperor of Ethiopia and King of Shewa (1844-1913)
+[542] ppl:emanuel-nobel (Russian-Swedish oil industrialist (1859–1932)) -> Q962364 Emanuel Nobel | Swedish oil baron (1859–1932)
+[543] ppl:stojan-novakovic (Serbian statesman, peace delegate in London 1913) -> Q1276512 Stojan Novaković | Serbian politician and historian (1842–1915)
+[544] ppl:nogi-maresuke (Japanese general, conqueror of Port Arthur (1849–1) -> Q468122 Nogi Maresuke | Japanese general (1849-1912)
+[551] ppl:max-nordau (Zionist leader and writer (1849–1923)) -> Q472270 Max Nordau | Hungarian Zionist leader, physician, author, and social critic (1849–1
+[555] ppl:haim-nahum (Hakham Bashi (Chief Rabbi) of the Ottoman Empire 1) -> Q2160858 Chaim Nahum | Ottoman rabbi (1872–1960)
+[557] ppl:ahmed-niyazi-bey (Young Turk officer, hero of the 1908 revolution) -> Q401421 Ahmed Niyazi Bey | Ottoman revolutionary (1873 – 1913)
+[560] ppl:aron-nimzowitsch (chess master (1886–1935)) -> Q295114 Aaron Nimzovich | Latvian-born Danish chess player and theoretician (1886–1935)
+[561] ppl:prince-nicholas-of-greece-and-denmark (Greek prince, military governor of Salonica 1912–1) -> Q170160 Prince Nicholas of Greece and Denmark | Prince of Greece and Denmark (1872-1938)
+[562] ppl:nicholas-ii-of-russia (Emperor of Russia 1894–1917) -> Q40787 Nicholas II of Russia | 14th and last Emperor of Russia (1894–1917)
+[564] ppl:grand-duke-peter-nikolaevich-of-russia (Russian grand duke (1864–1931)) -> Q446676 Grand Duke Peter Nikolaevich of Russia | Russian grand duke (1864–1931); second and youngest son of Grand Duke 
+[566] ppl:william-nicholson-1st-baron-nicholson (British Chief of the Imperial General Staff 1908–1) -> Q336722 William Nicholson, 1st Baron Nicholson | British Army officer (1845-1918)
+[580] ppl:nikolai-vissarionovich-nekrasov (Kadet Duma deputy (1879–1940)) -> Q126624339 Nikolai Nekrasov | 
+[585] ppl:ernesto-nathan (Jewish mayor of Rome 1907–1913) -> Q969393 Ernesto Nathan | Mayor of Rome (1845-1921)
+[587] ppl:matthew-nathan (British Jewish colonial governor (1862–1939)) -> Q973005 Matthew Nathan | British colonial administrator (1862–1939)
+[591] ppl:sergey-sazonov (Russian Foreign Minister 1910–1916) -> Q438489 Sergey Sazonov | Russian statesman and diplomat (1860-1927)
+[592] ppl:saionji-kinmochi (Prime Minister of Japan) -> Q297628 Saionji Kinmochi | Japanese politician (1849-1940)
+[593] ppl:saito-makoto (Japanese Navy Minister 1906–1914) -> Q335188 Saitō Makoto | Prime Minister of Japan (1858-1936)
+[594] ppl:salar-al-dawla (Qajar prince and rebel pretender in Persia (1880–1) -> Q3827351 Salar al-Dawla | salar od-Dowleh
+[598] ppl:maurice-sarrail (French general commanding the Salonica front (1856) -> Q176522 Maurice Sarrail | French general (1856–1929)
+[599] ppl:ferdinand-sarrien (Prime Minister of France 1906) -> Q718698 Ferdinand Sarrien | French politician (1840-1915)
+[602] ppl:suematsu-kencho (Japanese baron and statesman (1855–1920)) -> Q1058300 Suematsu Kenchō | Japanese politician (1855-1920)
+[603] ppl:aleksey-suvorin (publisher of Novoye Vremya (1834–1912); may refer ) -> Q2066821 Aleksey Suvorin | Russian publisher and journalist (1834-1912)
+[604] ppl:pehr-evind-svinhufvud (Speaker of the Finnish Diet 1907–1913) -> Q209439 Pehr Evind Svinhufvud | President of Finland (1861–1945)
+[605] ppl:boris-savinkov (Russian Socialist-Revolutionary terrorist and writ) -> Q381859 Boris Savinkov | Russian writer (1879-1925)
+[607] ppl:vladimir-sukhomlinov (Russian Minister of War 1909–1915) -> Q1093873 Vladimir Sukhomlinov | Russian general (1848-1926)
+[609] ppl:chaim-soloveitchik (rabbi of Brisk (1853–1918)) -> Q2637350 Chaim Soloveitchik | Rabbi from Belarus (1853-1918)
+[616] ppl:zhao-erxun (Viceroy of the Three Northeast Provinces (Manchuri) -> Q697535 Zhao Erxun | Qing Dynasty politician and historian (1844-1927)
+[626] ppl:thorvald-stauning (Danish Social Democratic leader (1873–1942)) -> Q367557 Thorvald Stauning | Prime Minister of Denmark (1873–1942)
+[627] ppl:zinovy-rozhestvensky (Russian admiral defeated at Tsushima (1848–1909)) -> Q453702 Zinovy Rozhestvensky | Russian admiral (1848-1909)
+[632] ppl:pyotr-stolypin (Prime Minister of Russia 1906–1911) -> Q138487 Pyotr Stolypin | Russian politician (1862–1911)
+[639] ppl:anatoly-stessel (Russian commander of Port Arthur (1848–1915)) -> Q2524487 Anatoly Stessel | Russian general of German origin (1848–1915)
+[646] ppl:manuel-fernandez-silvestre (Spanish colonel at Larache/Alcazar, Morocco 1911) -> Q3180734 Manuel Fernández Silvestre | Spanish general (1871–1921)
+[651] ppl:empress-dowager-cixi (ruler of Qing China (1835–1908)) -> Q47842 Empress Dowager Cixi | Chinese empress (1835–1908)
+[655] ppl:mohammad-vali-khan-tonekaboni (Sepahdar, Prime Minister of Persia 1911) -> Q179901 Mohammad Vali Khan Tonekaboni | Prime minister and General (1847-1926)
+[661] ppl:ernst-von-mendelssohn-bartholdy (German banker, head of Mendelssohn & Co. (1846–190) -> Q1360879 Ernst von Mendelssohn-Bartholdy | German private banker (1846-1909)
+[662] ppl:alfred-von-kiderlen-waechter (German Foreign Secretary 1910–1912, negotiator in ) -> Q72628 Alfred von Kiderlen-Waechter | German diplomat and politician (1852–1912)
+[663] ppl:gottlieb-von-jagow (German Foreign Secretary 1913–1916) -> Q215575 Gottlieb von Jagow | German diplomat (1863–1935)

@@ -1,0 +1,2081 @@
+pl:asilah [coastal town in northern Morocco] auto=Q730328
+  Q730328 Asilah|city in Morocco|36
+  Q63534495 Asilah|operatic character in the opera A Woman in Morocco|0
+  Q4806951 Asilah|village in Syria|6
+  Q26200258 Asilah|human settlement in Oman|2
+  Q122784483 Asilah|ship built in 1977|0
+  Q116366111 Asilah|female given name|0
+pl:abu-shusha [Arab village near Gezer, Ottoman Palesti] auto=None
+  Q4670360 Abu Shusha|village in Ramle, Mandatory Palestine|8
+  Q2256435 Abu Shusha|village in Haifa, Mandatory Palestine|8
+  Q30343786 Abū Shūshah|mountain in Saudi Arabia|1
+  Q134546576 Abu Shusha|Wikimedia disambiguation page|1
+pl:abram-greater-manchester [mining village in Lancashire, England (M] auto=None
+  Q4669333 Abram|village in Greater Manchester, England, UK|8
+pl:agadir [port city in southern Morocco (Agadir cr] auto=Q170525
+  Q170525 Agadir|city in Morocco|106
+  Q1588638 Hassania Agadir|association football club Hassania|19
+  Q389984 agadir|defensive fortification and community storage|12
+  Q28881619 Agadir Bouachiba|village in Anzou, Azilal, Morocco|5
+  Q52312010 Golf|ro-ro/passenger ship built in 1969|2
+  Q99736694 Charnwood|house in Hitchin, Hertfordshire, England, UK|1
+pl:masurian-lake-district [lake district in East Prussia (WWI battl] auto=Q858874
+  Q858874 Masurian Lake District|lake area in Poland|35
+  Q114175661 Great Masurian Lakes||4
+pl:adana [city in Cilicia, Ottoman Empire (1909 ma] auto=None
+  Q38545 Adana|central district and city in Adana Province, Turkey|130
+  Q40549 Adana Province|province in south-central Turkey|95
+  Q2824079 Adana|hamlet in Álava, Spain|6
+  Q11684416 Adana|female given name|1
+  Q109665088 Adana||0
+pl:edirne [Adrianople, city in Eastern Thrace] auto=Q43387
+  Q43387 Edirne|central district and city in Edirne Province, Turkey|283
+  Q83102 Edirne Province|province in northwestern Turkey|85
+  Q5338332 Edirne railway station|main railway station in Edirne, northwestern Turkey|7
+  Q5338337 Edirnekapı Martyr's Cemetery|cemetery in İstanbul, Turkey|8
+  Q1911990 Edirne district|district of Edirne, northwestern Turkey|7
+  Q6099099 Edirne|electoral district in Turkey|3
+pl:ungheni [town in Bessarabia] auto=None
+  Q858713 Ungheni|city in Moldova|47
+  Q167121 Ungheni|town in Mureș County, Romania|27
+  Q16425550 Ungheni|commune in Argeș County, Romania|21
+  Q16898438 Ungheni|locality in Mureș County, Romania|3
+  Q854443 Ungheni District|district of Moldova|31
+  Q2486599 Ungheni|commune in Iași County, Romania|23
+pl:uganda [British protectorate in East Africa] auto=Q1036
+  Q1036 Uganda|country in East Africa|312
+  Q25893750 Uganda|village in Central Mamberamo Regency, Highland Papua, I|1
+  Q11848889 Uganda|genus of insects|4
+  Q3894 Kampala|capital and the largest city of Uganda|184
+  Q1097943 Uganda Protectorate|former British protectorate|23
+pl:privoz [Oderfurt, town near Ostrava, Moravia] auto=Q1001632
+  Q1001632 Přívoz|urban district of Ostrava|6
+  Q44855678 Přívoz|street in Rohatec, Czech Republic|1
+  Q44848732 Přívoz|street in Bzenec, Czech Republic|0
+  Q44732945 Přívoz|street in Lanžhot, Czech Republic|0
+  Q43566474 Přívozská|street in Ostrava, Czech Republic|1
+  Q45409983 Přívozní|street in Prague, Czech Republic|1
+pl:ohrid [town in Macedonia] auto=None
+  Q1223508 Ohrid|town and seat of Ohrid Municipality, North Macedonia|90
+  Q1125333 Ohrid Municipality|local administrative unit (opština) in North Macedonia|31
+  Q156258 Lake Ohrid|lake in North Macedonia and Albania|63
+  Q157218 Ohrid|village in Boychinovtsi municipality, Montana oblast, B|16
+pl:oyster-bay-new-york [town in New York, home of Theodore Roose] auto=None
+  Q129361 Oyster Bay|town on Long Island, New York, United States|31
+  Q3477026 Oyster Bay|hamlet in Nassau County, New York, United States|19
+  Q7116308 Oyster Bay, New York|Wikimedia disambiguation page|1
+pl:uman [town in Kiev Governorate] auto=Q842
+  Q842 Oman|sovereign state in western Asia|298
+  Q37471558 Uman|family name|0
+  Q208499 Uman|city in Cherkasy Oblast in central Ukraine|66
+  Q103812172 Uman Raion|raion in Cherkasy Oblast, Ukraine (established in 2020)|18
+  Q1191833 University of Manitoba|public research university in Winnipeg, Manitoba, Canad|31
+pl:unter-den-linden [boulevard in Berlin] auto=Q160899
+  Q160899 Unter den Linden|street in Berlin, Germany|50
+  Q101092651 Unter den Linden|street in Torgau, Saxony, Germany|1
+  Q1371473 Unter den Linden|German television program|1
+  Q130561022 Unter den Linden|street in Jüchen, North Rhine-Westphalia, Germany|0
+  Q1737815 Unter den Linden metro station|Berlin U-Bahn station|14
+  Q50107148 Unter den Linden|painting by Eduard Gaertner (1852)|0
+pl:ontario [province of Canada] auto=Q1904
+  Q1904 Ontario|province of Canada|187
+  Q1639059 Ontario|city in Malheur County, Oregon, United States|45
+  Q2233872 Ontario|city in Richland County, Ohio, United States|39
+  Q488134 Ontario, California|city in San Bernardino County, California, United State|68
+  Q115025 Ontario County|county in New York, United States|53
+pl:ostend [port city in Belgium] auto=Q12996
+  Q12996 Ostend|coastal city in West Flanders, Belgium|82
+  Q563567 Ostend|city quarter of Frankfurt am Main|11
+  Q21766156 Ostend|city in Ostend municipality, Belgium|1
+  Q91427 Arrondissement of Ostend|1 of 43 administrative arrondissements of Belgium|22
+  Q690622 |asteroid|24
+  Q30063586 Ostend|painting by Joseph Mallord William Turner|2
+pl:australia [continent and Commonwealth of Australia] auto=None
+  Q408 Australia|country in Oceania|400
+  Q3960 Australian continent|continent in the Earth's Southern Hemisphere|136
+  Q104269190 Australia|unisex given name|0
+  Q3258 Australian Capital Territory|federal governing territory of Australia, containing th|121
+pl:ufa [city in the Urals, Russian Empire] auto=None
+  Q911 Ufa|capital city of the Republic of Bashkortostan, Russia|135
+  Q14867552 Ufa|genus of insects|5
+  Q41468 UFA|German film company|31
+  Q2250497 unsaturated fatty acid|fatty acid having at least one double or triple bond wi|12
+  Q210870 Ufa|river in Bashkiria, Chelyabinsk and Sverdlovsk Oblasts,|56
+  Q1201755 Franco-German University|organization|5
+pl:ochakiv [port town on the Black Sea, Kherson Gove] auto=Q850072
+  Q850072 Ochakiv|city in Mykolaiv Oblast, Ukraine|57
+  Q107300567 Ochakiv|municipality in Mykolaiv Oblast,Ukraine|3
+  Q41440 Ochakiv Raion|former raion in Mykolaiv Oblast, Ukraine|18
+  Q16710594 Ochakivske Mouth|estuary of the Danube in Ukraine|4
+  Q12143627 flag of Ochakiv Raion||1
+pl:ukraine [Ukraine (Little Russia), region of the R] auto=Q212
+  Q212 Ukraine|country in Eastern Europe|390
+  Q2296961 Ukraina Stadium|multi-purpose stadium in Lviv, Ukraine|11
+  Q4220180 Kievskaia starina|ethographic and literary chronicle|8
+pl:oral-kazakhstan [Uralsk, city in Uralsk Oblast, Russian E] auto=None
+  Q487439 Oral|city in Kazakhstan|76
+pl:lebanon [Mount Lebanon (Ottoman mutasarrifate) / ] auto=Q822
+  Q822 Lebanon|country in West Asia|330
+  Q993523 Lebanon|city in Grafton County, New Hampshire, United States|47
+  Q1520670 Lebanon|city in Wilson County, Tennessee, United States|42
+  Q6511050 Lebanon|2006 award-winning gay pornographic film directed by Co|2
+  Q1016139 Lebanon|county seat of Lebanon County, Pennsylvania, United Sta|47
+  Q986776 Lebanon|city and the county seat of Warren County, Ohio, United|46
+pl:rif [mountainous region of northern Morocco] auto=None
+  Q34174 Tarifit|Zenati Berber language of northern Morocco|57
+pl:riga [port city in Livonia, Russian Empire] auto=Q1773
+  Q1773 Riga|capital and largest city of Latvia|225
+  Q20727049 Riga|family name|2
+  Q274924 Admiral Kuznetsov|1985 Kuznetsov-class aircraft carrier|47
+  Q3494576 Square François Riga - Françoi|square in Schaerbeek, Brussels, Belgium|2
+  Q33013095 Riga|genus of insects|0
+pl:tetouan [city in northern Morocco] auto=Q185157
+  Q185157 Tétouan|Moroccan city located in the Western Rif|88
+  Q1257443 Tétouan Province|province of Morocco|18
+  Q1433058 Tetouan Saniat R'mel Airport|airport in Morocco|21
+  Q33721176 Tetouan||1
+  Q142081426 Plan, Campo de la Hipica (Teto|plan image of campo de la hipica|0
+pl:izmir [Smyrna, port city in western Anatolia] auto=None
+  Q35997 İzmir|city in İzmir Province, Turkey|165
+  Q344490 İzmir Province|province in west Turkey|87
+  Q1536377 Gulf of İzmir|gulf of the Aegean Sea|25
+  Q8080262 İzmir Büyükşehir Belediyesi SK|Turkish sports club|3
+  Q6099549 İzmir|electoral districts of İzmir, Turkey|3
+pl:tel-aviv [Tel Aviv (founded 1909 as Ahuzat Bayit) ] auto=Q33935
+  Q33935 Tel Aviv|city in Israel|192
+  Q2561450 Tel Aviv Sourasky Medical Cent|hospital in Tel Aviv, Israel|14
+  Q319239 Tel Aviv University|University in Tel Aviv, Israel|53
+  Q152406 Kiryat Gat|city in the Southern District of Israel|47
+  Q141556580 Tel Aviv|neighborhood in Moyogalpa municipality, Ometepe, Rivas |0
+pl:ikaria [Aegean island] auto=Q209576
+  Q88650121 Ikaria|genus of animals (fossil)|3
+  Q209576 Icaria|Greek island in the Aegean Sea|60
+  Q511242 Ikaria municipality|municipality of Greece|10
+  Q13526212 Ikarion|ancient Athenian deme|7
+  Q3148391 Ikaria|sculpture by Igor Mitoraj in La Défense in Paris, Franc|1
+pl:aydin [city in western Anatolia] auto=None
+  Q79846 Aydın Province|province in southwest Turkey|92
+  Q20669061 Aydın|male given name|2
+  Q27229572 Aydın|family name|1
+  Q108860853 Aydın|mahalle (administrative quarter) in Karabağlar, İzmir, |3
+  Q792885 Aydın|name: given name and surname|4
+  Q6901945 Aydın|village in İmranlı, Sivas, central Turkey|7
+pl:italy [Kingdom of Italy] auto=Q38
+  Q38 Italy|country in southern Europe|409
+  Q172579 Kingdom of Italy|kingdom in Southern Europe from 1861 to 1946|96
+  Q105415085 Italy|Counter-Strike map|1
+  Q223936 Kingdom of Italy|kingdom in southern Europe between 1805 and 1814|53
+  Q145694 Italian Peninsula|peninsula of southern Europe|103
+  Q838931 Kingdom of Italy|(962 – 1801) constituent kingdom of the Holy Roman Empi|40
+pl:azores [Portuguese Atlantic archipelago] auto=Q25263
+  Q25263 Azores|Atlantic Ocean archipelago and autonomous region of Por|138
+  Q4058447 Azores archipelago|archipelago in the North Atlantic (for the administrati|4
+  Q120470201 Azores|innhabited place in Priego de Córdoba, Spain|1
+  Q28679904 Azores||3
+  Q1934435 Astoria|cruise ship, a former ocean liner built in 1948, scrapp|15
+pl:aegean-islands [islands of the Aegean Sea (the Archipela] auto=Q878481
+  Q878481 Aegean Islands|islands in the Aegean sea|57
+  Q19543318 Aegean Islands|geographic subdivision of Greece|1
+pl:hainan [island province of China] auto=Q42200
+  Q42200 Hainan|province of China|140
+  Q1081204 Hainan Island|island in China which makes up the majority of the prov|27
+  Q11150297 Hainan|town in Jiangsu, People's Republic of China|4
+  Q13996979 Hainan|township in Hailun, Heilongjiang, China|4
+pl:indiana [US state] auto=Q1415
+  Q1415 Indiana|state of the United States of America|225
+  Q1184769 Indiana|municipality and county seat of Indiana County, Pennsyl|41
+  Q6346 Indianapolis|capital city of the U.S. state of Indiana and seat of M|165
+  Q1079140 Indiana University Bloomington|public research university located in Bloomington, Indi|68
+  Q6608367 Indiana University|university system, Indiana, United States|41
+  Q93312298 Indiana|family name|1
+pl:istanbul [Constantinople, Ottoman capital] auto=Q406
+  Q406 Istanbul|largest city in Turkey|290
+  Q534799 Istanbul Province|province in northwestern Turkey|87
+  Q18352396 Istanbul|board game|8
+  Q192964 Istanbul University|public university in Istanbul, Turkey|61
+  Q256 Turkish|Oghuz Turkic language of the Turkish people|248
+pl:issy-les-moulineaux [suburb of Paris (airfield)] auto=None
+  Q135265 Issy-les-Moulineaux|commune in Hauts-de-Seine, France|68
+  Q1168940 Moulineaux|commune in Seine-Maritime, France|38
+  Q3155727 Issy-les-Moulineaux Badminton |badminton club|2
+  Q285329 canton of Issy-les-Moulineaux-|canton of France (until March 2015)|12
+  Q1142107 Issy-les-Moulineaux Heliport|heliport in France|7
+pl:iceland [island in the North Atlantic (Danish dep] auto=Q189
+  Q189 Iceland|Nordic island country in the North Atlantic Ocean|356
+  Q294 Icelandic|North Germanic language mainly spoken in Iceland|185
+  Q3740828 Iceland|main island of the Republic of Iceland|14
+pl:iquitos [city in the Peruvian Amazon] auto=Q193289
+  Q193289 Iquitos|city of Peru|74
+  Q383734 Iquitos District|district of Peru|13
+  Q19595454 Itaya River|river passing through the city of Iquitos and flows int|6
+  Q1431540 Crnl. FAP Francisco Secada Vig|airport|18
+pl:ireland [island, part of the United Kingdom] auto=None
+  Q27 Ireland|country in Northwestern Europe|343
+  Q22890 Ireland|island in the North Atlantic Ocean|171
+  Q215530 Kingdom of Ireland|kingdom on the island of Ireland between 1542 and 1801|69
+  Q57695350 Ireland|part of the United Kingdom (1801–1922)|1
+  Q28199768 Ireland|family name|6
+  Q7411777 Samuel Ireland|British author and engraver|4
+pl:irkutsk [city in eastern Siberia] auto=Q6576
+  Q6576 Irkutsk|capital city of Irkutsk Oblast, Siberia, in eastern Rus|132
+  Q6585 Irkutsk Oblast|oblast and federal subject in central Siberia, Russia|133
+  Q3811849 Irkutsk|1987 Oscar-II-class submarine|6
+  Q1143949 Irkutsk Governorate|governorate of the Russian Empire|20
+  Q4203274 Irkutsk railway station|train station|12
+pl:alabama [US state] auto=Q173
+  Q173 Alabama|state of the United States of America|243
+  Q2140332 Alabama|American musical group; country music band|20
+  Q492318 University of Alabama|public university located in Tuscaloosa, Alabama, Unite|41
+  Q597443 CSS Alabama|screw sloop-of-war built in 1862|17
+  Q971195 Alabama Crimson Tide|intercollegiate sports teams of the University of Alaba|10
+  Q540672 Auburn University|public university in Auburn, Alabama, United States|34
+pl:albania [Albania (Ottoman Albanian lands, indepen] auto=Q222
+  Q222 Albania|country in southeastern Europe|387
+  Q1655535 Albania|Colombian municipality of the department of Santander|23
+  Q3607867 Albania|genus of molluscs|0
+  Q1576577 Albania|Colombian municipality of the department of Caquetá|22
+  Q8748 Albanian|Indo-European language, spoken primarily in Albania, Ko|181
+pl:northern-albania [northern Albanian highlands] auto=None
+  Q4412051 North Albania|NUTS region of Albania|9
+pl:elberfeld [industrial town in Rhine Province (now W] auto=None
+  Q702259 Elberfeld|former independent city in Germany, now part of Wuppert|22
+  Q37542241 Elberfeld|family name|0
+  Q1325222 Elberfeld|human settlement in Germany|2
+  Q2312564 Elberfeld|town in Indiana|27
+  Q135986150 Elberfeld|article in Meyer’s Universum, 1850|1
+  Q56099257 Elberfelder Straße|street in Berlin-Moabit, Germany|1
+pl:algeciras [port town in southern Spain (Algeciras C] auto=Q484552
+  Q484552 Algeciras|municipality and city in the province of Cádiz, Spain|89
+  Q1441055 Algeciras|Colombian municipality of the department of Huila|21
+  Q2516978 Port of Algeciras|international seaport in Algeciras, Spain|15
+  Q3326947 Kingdom of Algeciras||2
+  Q5668216 Algeciras|barangay of the Philippines in the municipality of Agut|1
+pl:algiers [capital of French Algeria] auto=Q3561
+  Q3561 Algiers|capital city of Algeria|216
+  Q20012828 Algiers|American rock band|8
+  Q19954293 Algiers|album by Algiers|1
+  Q141026 Algiers Province|province of Algeria|56
+  Q4724224 Algiers|community within the city of New Orleans, Louisiana, Un|9
+  Q1414527 Algiers|1938 film directed by John Cromwell|28
+pl:algarve [southern region of Portugal] auto=Q26831
+  Q26831 Algarve|NUTS 3 subregion of Portugal|74
+  Q106646065 Algarve|Danish cargo steamship built in 1921|2
+  Q76516549 Algarve|NUTS 2 subregion of Portugal|0
+  Q15782399 Algarve|former province of Portugal|1
+  Q83584371 Algarve|ship built in 1998|1
+pl:halle-saale [city in Prussian Saxony] auto=Q2814
+  Q2814 Halle (Saale)|city in the German state of Saxony-Anhalt|122
+  Q320366 Halle (Saale) Central Station|railway station in Germany|12
+  Q127431788 Halle (Saale)|The mint(s) at the City of Halle, Saxony-Anhalt, German|0
+  Q1571430 Halle (Saale) Thüringer Güterb|railway station in Halle (Saale), Germany|3
+pl:alsace [region of Alsace-Lorraine] auto=Q1142
+  Q1142 Alsace|territorial community and former administrative region |136
+  Q155144 Alsace–Lorraine|1871–1918 territory of the German Empire|59
+  Q39076516 Alsace|2019 Aquitaine-class FREMM multipurpose frigate|5
+  Q18677983 Grand Est|administrative region of France|108
+  Q690763 Alsace|Metro station, Lille, France|6
+pl:alsace-lorraine [German imperial territory 1871–1918] auto=Q155144
+  Q155144 Alsace–Lorraine|1871–1918 territory of the German Empire|59
+  Q110619617 Alsace-Lorraine|tram station in Grenoble, Grance|1
+  Q85950891 Alsace-Lorraine|tram station in Nice, France|1
+  Q140628130 ||0
+pl:lorraine [region (German Lorraine)] auto=Q1137
+  Q1158295 Lorraine|female given name|6
+  Q142162 Lorraine|town in Quebec, Canada|21
+  Q18355916 Lorraine|family name|3
+  Q1809182 Lorraine|1913 Bretagne-class battleship|17
+  Q1137 Lorraine|cultural region in France|123
+  Q17035388 Lorraine|2011 studio album by Lori McKenna|1
+pl:alytus [Olita, town in Vilna Governorate] auto=Q450625
+  Q450625 Alytus|city in Lithuania|87
+  Q97191523 Alytus|genus of flea beetles|1
+  Q3685407 Alytus City Municipality|city municipality of Lithuania|6
+  Q450557 Alytus|basketball club of Alytus, Lithuania|9
+  Q769940 Alytus District Municipality|district municipality of Lithuania|29
+  Q669470 Alytus County|county of Lithuania|66
+pl:ganja-azerbaijan [Elisabethpol, city in the Caucasus] auto=None
+  Q131290 Ganja|city in Azerbaijan|102
+pl:aleksandrow-kujawski [Russian–Prussian border station in Congr] auto=None
+  Q325124 Aleksandrów Kujawski|city and urban gmina of Poland|50
+  Q594180 Gmina Aleksandrów Kujawski|rural gmina of Poland|18
+  Q33658826 Aleksandrów Kujawski|urban municipality of Poland|1
+  Q1951631 Aleksandrów Kujawski railway s|railway station in Centrum, Poland|4
+  Q750491 Aleksandrów County|powiat of Poland|30
+  Q9146786 |railway station in Aleksandrów Kujawski, Poland|1
+pl:zaporizhzhia [Aleksandrovsk, city in Yekaterinoslav Go] auto=Q157835
+  Q157835 Zaporizhzhia|city and administrative centre of Zaporizhzhia Oblast, |125
+  Q268042 Ukrainian submarine Zaporizhzh|1970 Foxtrot-class submarine|10
+  Q171334 Zaporizhzhia Oblast|oblast (region) of Ukraine|109
+  Q1654125 Zaporizhzhia Raion|former raion in Zaporizhzhia Oblast, Ukraine|4
+  Q2341483 Zaporozhzhia|historical region in central east Ukraine below the Dni|21
+  Q4186975 Zaporizhzhia|village in Velyka Lepetykha Raion (district), Kherson O|8
+pl:alexandria [port city in Egypt] auto=None
+  Q209929 Alexandria|capital of the county of Teleorman, Romania|49
+  Q1240659 Alexandria|town in West Dunbartonshire, Scotland, UK|19
+  Q87 Alexandria|port city on the Mediterranean coast of Egypt|178
+  Q20899021 Alexandria|female given name|2
+  Q88 Alexandria|city in the state of Virginia, United States|82
+  Q6088 Alessandria|Italian city and commune in Piedmont|101
+pl:olsztyn [Allenstein, town in East Prussia] auto=Q82765
+  Q82765 Olsztyn|city in Warmian-Masurian Voivodeship, Poland|93
+  Q369699 Olsztyn|town in Silesian Voivodeship, Poland|24
+  Q553570 Gmina Olsztyn|urban-rural gmina of Poland|19
+  Q83395 Olsztyn County|powiat of Poland|33
+  Q999614 Olsztynek|city in powiat olsztyński, Warmian-Masurian Voivodeship|31
+  Q555006 Gmina Olsztynek|urban-rural gmina of Poland|18
+pl:alps [mountain range] auto=Q1286
+  Q1286 Alps|major mountain range system in central Europe|215
+  Q1151300 autoimmune lymphoproliferative|Human disease|6
+  Q131285412 Alps|supercomputer released in 2024|0
+  Q452375 ALPS|Swiss Alpine Museum|10
+  Q74152823 ALPS||0
+  Q765847 10957 Alps|asteroid|20
+pl:hamburg [port city, Germany] auto=None
+  Q51974 Hamburger SV|German sports club based in Hamburg, with its largest b|78
+  Q1055 Hamburg|city and state in the North of Germany|230
+  Q16870461 Hamburg|family name|3
+  Q1626 Hamburg-Mitte|district of Hamburg, Germany|29
+  Q1572860 Hamburg|1960 Hamburg-class destroyer|6
+pl:bad-ems [spa town in Hesse-Nassau] auto=Q490670
+  Q490670 Bad Ems|seat of Rhein-Lahn-Kreis and town in Rhineland-Palatina|62
+  Q31897013 Bad Ems|Settlement in Germany|1
+  Q17310439 Bad Ems station|railway station in Bad Ems, Germany|3
+  Q291091 Bad Emstal|municipality in Landkreis Kassel in Hesse, Germany|34
+  Q126382821 Bad Ems|article in Meyer’s Universum, 1833|1
+  Q54867485 Bad Ems-Nassau|association of municipalities in Rhine Lahn District, R|8
+pl:amsterdam [capital of the Netherlands] auto=Q727
+  Q727 Amsterdam|capital and most populous city of the Netherlands|286
+  Q9899 Amsterdam|municipality in the Netherlands, containing the cities |11
+  Q37471983 Amsterdam|family name|1
+  Q3152900 Amsterdam|place in Mpumalanga, South Africa|14
+  Q20857801 Amsterdam|2015 live album by Phish|1
+  Q190804 Rijksmuseum|museum in Amsterdam, Netherlands|70
+pl:angola [Portuguese colony in Africa] auto=Q916
+  Q916 Angola|country on the west coast of Southern Africa|325
+  Q108566441 Angola|Candomblé nation|0
+  Q24646 Steuben County|county in Indiana, United States|44
+  Q2826232 Portuguese Angola|1575-1975 Portuguese possession in West Africa|42
+  Q4763732 Angola|city in the Book of Mormon|2
+  Q1650708 Angola|city in Indiana, United States|45
+pl:united-kingdom [United Kingdom of Great Britain and Irel] auto=Q145
+  Q145 United Kingdom|island country in north-west Europe|396
+  Q174193 United Kingdom of Great Britai|historical sovereign state (1801–1922)|80
+  Q7887906 United Kingdom|album by Manny Montes|1
+  Q161885 Kingdom of Great Britain|constitutional monarchy in Western Europe (1707–1800)|90
+pl:hanover [city in Prussia] auto=Q1715
+  Q131908 Hanover|town in Grafton County, New Hampshire, United States|42
+  Q1715 Hanover|capital city of the German federated state of Lower Sax|172
+  Q164079 Kingdom of Hanover|German kingdom established in 1814|57
+  Q341679 Hanover County|county in Virginia, United States|46
+  Q987225 Hanover Township|one of twenty-three townships in Jo Daviess County, Ill|8
+pl:pomorie [Anchialos, Black Sea town in Bulgaria] auto=None
+  Q407372 Pomorie|city in Pomorie municipality, Burgas oblast, Bulgaria|40
+  Q2447996 Pomorie|municipality in Burgas oblast, Bulgaria|24
+  Q61052783 Pomorie|passenger train in Russia|1
+  Q389625 Pomorie Stadium|stadium|3
+pl:antwerp [port city in Belgium] auto=None
+  Q12892 Antwerp|city and municipality in the Flemish Region of Belgium;|164
+  Q1116 Antwerp|province in Flanders, Belgium|89
+  Q31467408 Antwerp|town in Antwerp municipality, Belgium|1
+  Q90845283 Antwerp|given name|1
+  Q5901 Onze-Lieve-Vrouwekathedraal|Roman-Catholic cathedral in Antwerp, Belgium|39
+pl:bar-montenegro [Antivari, Montenegrin port] auto=None
+  Q115276 Bar|coastal town in Montenegro|64
+pl:gorgan [Astarabad, city in northern Persia] auto=Q188155
+  Q188155 Gorgan|city in Golestan Province, Iran|77
+  Q1292686 Gorgan County|county of Golestan Province, Iran|28
+  Q5807368 German|village in Shahrud County, Iran|7
+  Q4594486 Qorqan|village in the Fuzuli District of Azerbaijan|11
+  Q36896795 Gorgan|family name|0
+  Q3894331 Gorgan|village in Alba County, Romania|11
+pl:astara [border town on the Caspian (Russia/Persi] auto=None
+  Q645855 Astara|city in Gilan Province, Iran|44
+  Q266896 Astara|city in Azerbaijan|51
+  Q269680 Astara District|district of Azerbaijan|52
+  Q188155 Gorgan|city in Golestan Province, Iran|77
+  Q1289684 Astara County|county in Gilan Province, Iran|30
+  Q60497749 Astara|human settlement in Tarakeswar community development bl|1
+pl:asia [continent] auto=Q48
+  Q48 Asia|part of terrestrial continent, mainly in the northeaste|365
+  Q726891 Asia|British rock band|26
+  Q210718 Asia|Roman province|52
+  Q3625042 Asia|female given name|3
+  Q37020313 Asia|family name|1
+  Q540597 Asia Carrera|American pornographic film actress (born 1972/1973)|39
+pl:essen [industrial city in the Ruhr] auto=Q2066
+  Q2066 Essen|city in Ruhr Region, Düsseldorf Government Region, Nort|135
+  Q571423 Essen|municipality in Cloppenburg District, Lower Saxony, Ger|39
+  Q16869855 Essen|family name|4
+  Q135607 Essen Central Station|railway station in Essen, Germany|14
+pl:afghanistan [Emirate of Afghanistan] auto=Q889
+  Q889 Afghanistan|country in Central and South Asia|364
+  Q27715795 Afghanistan|academic journal|0
+  Q1138904 Kingdom of Afghanistan|kingdom in Central Asia between 1926–1973|47
+  Q140029805 Afghanistan|edited book published by Oxford University Press (2020)|0
+pl:apulia [region of southern Italy] auto=Q1447
+  Q10416467 Apulia|genus of insects|4
+  Q1447 Apulia|region of Italy|155
+  Q622686 Apúlia|civil parish in the municipality of Esposende, Portugal|16
+  Q16541807 Apulia|Chamber of Deputies constituency|3
+  Q18484550 Apúlia e Fão|former civil parish in the municipality of Esposende, P|8
+  Q89804530 Apulia|Italic district in classical antiquity|1
+pl:epirus [region in northwestern Greece / southern] auto=None
+  Q565751 Epirus|historical region of present-day Greece and Albania|58
+  Q1820754 Epirus|Roman province|22
+  Q111310426 Epirus|genus of aedemonini|0
+  Q180484 Epirus Region|one of the 13 regions of Greece|80
+  Q11266977 Epirus|ancient Greek state and kingdom, located in the geograp|31
+  Q62021425 Epirus|horse|0
+pl:german-south-west-africa [German colony (Herero wars)] auto=None
+  Q153665 German South-West Africa|former colony of the German Empire|51
+  Q104729250 German South-West Africa : San|folder of the 20th Century Press Archives|0
+  Q99726908 German South-West Africa : Set|folder of the 20th Century Press Archives|0
+  Q99723612 German South-West Africa : Med|folder of the 20th Century Press Archives|0
+pl:ekenas [town in southern Finland] auto=Q1004838
+  Q1004838 Ekenäs|town and former municipality in Finland, now part of Ra|31
+  Q373884 Ekenäs landskommun|former municipality of Finland, now part of Raseborg|7
+  Q33110345 Ekenäs|settlement in Strömstad Municipality, Sweden|1
+  Q110983809 Ekenäs lighthouse|lighthouse in Kalmar Municipality, Sweden|0
+  Q2184122 Ekenäs|locality in Kalmar Municipality, Sweden|3
+pl:bilhorod-dnistrovskyi [Akkerman, town in Bessarabia] auto=Q672990
+  Q672990 Bilhorod-Dnistrovskyi|city in Odesa Oblast, Ukraine|61
+  Q2034651 Bilhorod-Dnistrovskyi Raion|former raion in Odesa Oblast, Ukraine|13
+  Q103842889 Bilhorod-Dnistrovskyi Raion|raion in Odesa Oblast, Ukraine (established in 2020)|19
+  Q12086551 Bilhorod-Dnistrovskyi|railway station in Bilhorod-Dnistrovskyi, Ukraine|5
+  Q1968086 Bilhorod-Dnistrovskyi Fortress|fortress in Ukraine|23
+  Q106103924 Bilhorod-Dnistrovskyi urban hr|hromada in Bilhorod-Dnistrovskyi Raion, Odesa Oblast, U|5
+pl:ardabil [city in Persian Azerbaijan] auto=Q180103
+  Q134228 Ardabil Province|province of Iran|93
+  Q180103 Ardabil|city in Ardabil Province, Iran|84
+  Q1277868 Ardabil County|county in Ardabil Province, Iran|28
+  Q127429621 Ardabil|The mint at the ancient site of Ardabil in Iran|0
+pl:ardanuc [town near the Russo-Turkish border (1914] auto=Q638539
+  Q638539 Ardanuç|district and town in Artvin Province, Turkey|30
+  Q2405579 Ardanuç district|district of Artvin, northeastern Turkey|6
+  Q16365061 Ardanuç Castle|castle in Ardanuç, Artvin, Turkey|4
+  Q55535006 Ardanuç bucağı|sub-district (bucak) in Turkey|1
+pl:erzincan [city in eastern Anatolia] auto=Q136217
+  Q136217 Erzincan|central district and city in Erzincan Province, Turkey|84
+  Q483173 Erzincan Province|province in east Turkey|80
+  Q4881497 Erzincan district|district of Erzincan, eastern Turkey|5
+  Q6099268 Erzincan|electoral district in Turkey|3
+  Q1431262 Erzincan Airport|airport in Erzincan, eastern Turkey|16
+  Q115794250 Erzincan|family name|1
+pl:erzurum [city in eastern Anatolia] auto=Q122803
+  Q122803 Erzurum|city in Turkey|94
+  Q376797 Erzurum Province|province in east Turkey|85
+  Q105109787 Erzurum|2021 video game|0
+  Q87183456 Erzurum|family name|0
+  Q6008093 Erzurum|mahalle (administrative quarter) in Çankaya, Ankara, we|3
+  Q136455840 Erzurum|mahalle (administrative quarter) in Yerköy, Yozgat, cen|0
+pl:arkhangelsk [port on the White Sea] auto=Q1851
+  Q1851 Arkhangelsk|city in the northwest of Russia|109
+  Q1875 Arkhangelsk Oblast|oblast and federal subject in the North-West of Russia|127
+  Q19741915 Arkhangelsk|Russian submarine|6
+  Q2861586 Arkhangelskoye Estate|historical estate near Moscow, Russia|16
+  Q18765773 Arkhangelsk|village in Pachelmsky District, Penza Oblast, Russia|4
+  Q19355152 296577 Arkhangelsk|asteroid|4
+pl:aram [ancient Aramean land (Syria) in historic] auto=None
+  Q4068496 Aram|given name for both female and male (Արամ)|10
+  Q269851 Aramon|commune in Gard, France|45
+  Q134435145 Aram|Muslum Aslans Gedichtband erschien 2021|0
+pl:armenia [Armenian lands (Ottoman and Russian Arme] auto=Q399
+  Q399 Armenia|sovereign state in the South Caucasus region of Eurasia|356
+  Q934767 Armenia|Colombian municipality of the department of Antioquia|26
+  Q37182918 Armenia|family name|0
+pl:diyarbakir [city in southeastern Anatolia] auto=Q83387
+  Q83387 Diyarbakır|city in Southeastern Anatolia, Turkey|101
+  Q83081 Diyarbakır Province|province in southeast Turkey|82
+  Q6099107 Diyarbakır|electoral district for the Grand National Assembly of T|3
+  Q525377 Diyarbakır Airport|airport in Turkey|21
+  Q2738695 Diyarbakır|district of Turkey|2
+pl:macedonia [Ottoman Macedonia region] auto=Q221
+  Q103251 Macedonia|geographical and historical region in southeastern Euro|77
+  Q221 North Macedonia|country in southeastern Europe|327
+  Q81734 Macedonia|geographic and administrative region of Greece|85
+  Q39702 Macedonia|Wikimedia disambiguation page|107
+pl:erfurt [city in Prussian Saxony / Thuringia] auto=Q1729
+  Q1729 Erfurt|capital city of the German federal state of Thuringia|143
+  Q37525765 Erfurt|family name|1
+  Q31997476 Erfurt|city in Erfurt, Germany|1
+  Q476107 Erfurt Central Station|railway station in Erfurt, Germany|11
+  Q1301441 Erfurt|Braunschweig-class corvette|5
+  Q1296736 egapark|park in Erfurt, Thuringia, Germany|5
+pl:ottoman-palestine [Land of Israel / Palestine under Ottoman] auto=None
+  Q617602 Palestine|city in and county seat of Anderson County, Texas, Unit|48
+  Q219060 Palestine|political entity that enjoys incomplete recognition as |226
+  Q23792 Palestine|geographic region in West Asia|151
+  Q193714 Mandatory Palestine|League of Nations Mandate in the Middle East under Brit|80
+  Q407199 Occupied Palestinian territory|Palestinian territory occupied by Israel in 1967 (the W|47
+pl:orient [the East (Eastern lands)] auto=None
+  Q1916168 Orient|human settlement in Adair County, Iowa, United States o|36
+  Q3461988 Orient|census-designated place in Suffolk County, New York|23
+  Q19595 Leyton Orient F.C.|association football club in London, England|40
+  Q77 Uruguay|sovereign state in South America|325
+  Q575726 Orient|city in Franklin County, Illinois, United States|32
+  Q37281561 Orient|family name|1
+pl:greece [Kingdom of Greece] auto=None
+  Q41 Greece|country in Southeast Europe|378
+  Q11772 Ancient Greece|Greek civilization from 1200 BC to 600 AD|180
+  Q36902901 Greece|family name|1
+  Q17077105 Greece|constituency of the European Parliament|5
+  Q265824 Second Hellenic Republic|historiographical concept of Greece (1924–1935)|34
+  Q2610369 Greece|town in Monroe County, New York, United States|26
+pl:athens [capital of Greece] auto=Q1524
+  Q203263 Athens|consolidated city-county and county seat of Clarke Coun|80
+  Q1524 Athens|capital and largest city of Greece|289
+  Q79439 Athens|county seat of Limestone County, Alabama, United States|49
+  Q547867 National and Kapodistrian Univ|university in Athens, Greece|52
+  Q844930 Classical Athens|city-state in ancient Greece|55
+  Q570807 Athens|township municipality in Ontario, Canada|6
+pl:baku [city on the Caspian, Caucasus] auto=Q9248
+  Q9248 Baku|capital of Azerbaijan|249
+  Q359024 Admiral Gorshkov|1987 Project 1143.4 aircraft carrier of the Soviet and |14
+  Q68078772 Baku|sports club|0
+  Q18592037 Baku|genus of crustaceans|1
+  Q4076080 Baku railway station|main railway station in Baku, Azerbaijan|48
+pl:bochum [city in the Ruhr] auto=Q2103
+  Q2103 Bochum|city in North Rhine-Westphalia, Germany|110
+  Q56037416 Hauptbahnhof metro station|metro station in Bochum|2
+  Q31916839 Bochum||1
+  Q1150364 Senwabarwana|town in the Limpopo province, South Africa|13
+pl:beersheba [town in southern Ottoman Palestine] auto=Q41843
+  Q41843 Beersheba|city in Israel|99
+  Q5423629 Beersheba Subdistrict|subdistrict of Israel|5
+  Q7411316 Nahal Be'er Sheva|The main river in Beersheba, Israel|6
+  Q122567380 Beersheba|hamlet in York County, South Carolina, United States|0
+  Q127057445 BEERSHEBA|hymn tune|0
+  Q4875423 Turner Stadium|football stadium in Be'er Sheva, Israel|19
+pl:barakli [village on the Struma front, Macedonia] auto=None
+  Q3419420 Valtero|village in Serres, Greece|8
+  Q2883796 Barakli|village in North Macedonia|9
+  Q4821425 Baraklı|village in Evciler, Afyonkarahisar, western Turkey|9
+  Q6861778 Baraklı|mahalle (administrative quarter) in Keles, Bursa, north|6
+  Q6861845 Baraklı|village in Delice, Kırıkkale, central Turkey|4
+  Q6861720 Baraklı|village in Sarıkaya, Yozgat, central Turkey|4
+pl:baskale [town near Van, eastern Anatolia] auto=None
+  Q812759 Başkale district|district of Van, eastern Turkey|39
+  Q6853999 Başkale|mahalle (administrative quarter) in Narman, Erzurum, ea|7
+  Q49277251 Başkale||1
+  Q6065588 Başkale||4
+  Q1003959 Başkalecik|village in Pülümür, Tunceli, eastern Turkey|9
+  Q32472362 Başkale Brook|river in Van, eastern Turkey|1
+pl:baghdad [city in Mesopotamia] auto=Q1530
+  Q1530 Baghdad|capital city of Iraq|251
+  Q62 San Francisco|city and county in California, United States|239
+  Q191075 Baghdad Governorate|governorate of Iraq|57
+  Q135476315 Baghdad|Village in Chama, Zambia|1
+  Q550376 University of Baghdad|university in Iraq|43
+  Q581569 |asteroid|19
+pl:baden-baden [spa town in Baden] auto=Q4100
+  Q4100 Baden-Baden|town in Baden-Württemberg, Germany|107
+  Q9164082 Baden-Baden|Swedish music group|2
+  Q442698 Baden-Baden|railway station in Oos, Germany|9
+pl:buenos-aires [capital of Argentina] auto=Q1486
+  Q44754 Buenos Aires Province|province of Argentina|98
+  Q1486 Buenos Aires|capital and largest city of Argentina|276
+  Q2025478 Buenos Aires|Colombian municipality of the department of Cauca|25
+  Q1648230 Buenos Aires|municipality in Rivas Department, Nicaragua, on the sho|11
+  Q4985538 Buenos Aires train station|former train terminal in Buenos Aires|6
+  Q113610607 Buenos Aires|vocal track by Madonna; 1996 original soundtrack record|0
+pl:bohemia [crown land of Austria] auto=None
+  Q39193 Bohemia|historical region in the Czech Republic|107
+  Q9056 Czech|West Slavic language|222
+  Q42585 Kingdom of Bohemia|monarchy in Central Europe, predecessor of modern Czech|65
+  Q3625676 Bohemia|Mexican beer|7
+  Q56292895 Bohemia|academic journal|1
+  Q213 Czech Republic|country in Central Europe|355
+pl:bavaria [Kingdom of Bavaria] auto=Q980
+  Q980 Bavaria|federated state in the south of Germany|206
+  Q154195 Kingdom of Bavaria|kingdom in Central Europe between 1806 and 1918, from J|64
+  Q55334469 Bavaria|beer brand|1
+  Q64913456 Bavaria|family name|1
+  Q106318202 Bavaria|cargo ship built in 1966|1
+  Q812285 Bavarian State Painting Collec|artworks held by the Free State of Bavaria for Alte Pin|11
+pl:bukhara [city / Emirate of Bukhara in Central Asi] auto=None
+  Q5764 Bukhara|city in Bukhara Province of Uzbekistan|128
+  Q746558 Emirate of Bukhara|1785–1920 state in Central Asia|52
+  Q577668 Khanate of Bukhara|former state (16th–18th century) in Central Asia, cente|57
+  Q487372 Bukhara Region|region of Uzbekistan|67
+  Q4100455 Bukhara|human settlement in Vozhegodsky District, Vologda Oblas|6
+  Q4100462 Bukhara|human settlement in Sharansky District, Republic of Bas|9
+pl:bulawayo [city in Rhodesia] auto=Q193250
+  Q193250 Bulawayo|city in Zimbabwe|80
+  Q24045859 Bulawayo Province|province of Zimbabwe|2
+  Q4987234 Bulawayo|royal kraal of Shaka Zulu|3
+  Q48801289 Bulawayo Central Hospital|hospital in Zimbabwe|2
+  Q203414 Bulawayo Railway Museum|railway museum in Bulawayo, Zimbabwe|8
+pl:boston [city in Massachusetts, US] auto=Q100
+  Q100 Boston|capital city of the U.S. state of Massachusetts and sea|217
+  Q894076 Boston|district in Lincolnshire, England|18
+  Q311975 Boston|town and port in Lincolnshire, England, UK|44
+  Q204289 Boston|American rock band|43
+  Q16860275 Boston|family name (Boston)|2
+  Q314574 Boston|municipality of the Philippines in the province of Dava|27
+pl:bosnia-and-herzegovina [Bosnia, annexed by Austria-Hungary 1908] auto=Q225
+  Q225 Bosnia and Herzegovina|country in Southeast Europe|342
+  Q1291601 Constitution of Bosnia and Her|The Constitution of Bosnia and Herzegovina|23
+  Q99286256 Bosnia and Herzegovina|the country of Bosnia and Herzegovina as depicted in St|0
+pl:bosphorus [strait at Constantinople] auto=Q35958
+  Q35958 Bosporus Strait|narrow strait in northwestern Turkey|132
+  Q21231512 Landscape from Tsarigrad|painting by Vladimir Dimitrov|2
+  Q896267 Boğaziçi University|state university in İstanbul, Turkey|39
+  Q60221071 Bosphorus|painting by Rufin Sudkovsky|0
+  Q105071472 Bosphorus|painting by Ivan Aivazovsky|0
+pl:bukovina [Austrian crown land] auto=None
+  Q105206 Bukovina|historical region in Central Europe|73
+  Q46422689 Bukovina|street in Hradiště|0
+  Q528257 Bukovina|village in Blansko District of South Moravian region|25
+  Q630970 Bukovina|municipality of Slovakia|25
+  Q11363215 Bukovina|part of Kralovice in Plzeň-North District|4
+pl:burgas [Black Sea port in Bulgaria] auto=None
+  Q6509 Burgas|city in Burgas municipality, Burgas oblast, Bulgaria|107
+  Q167807 Burgas|municipality in Burgas oblast, Bulgaria|23
+  Q369220 Burgas Province|oblast of Bulgaria, largest by area|75
+  Q117960959 Burgas|family name|1
+  Q1324587 Burgas Airport|commercial airport serving Burgas, Bulgaria|39
+pl:bordeaux [city in France] auto=Q1479
+  Q1479 Bordeaux|city and commune in Gironde, New Aquitaine, France|184
+  Q37492134 Bordeaux|family name|1
+  Q1113532 Bordeaux-Saint-Clair|commune in Seine-Maritime, France|41
+  Q1167170 Bordeaux-en-Gâtinais|commune in Loiret, France|36
+  Q108921269 Bordeaux attraction area|attraction area in France|1
+pl:barysaw [Borisov, town in Minsk Governorate] auto=Q19313
+  Q19313 Barysaw|city in Belarus|68
+  Q28380425 Barysaw|railway station in Belarus|6
+  Q2371226 Barysawski trakt|metro station in Minsk, Belarus|10
+  Q4094008 Barysaŭščyna|village in Chojniki district, Belarus|7
+  Q6467891 Barysaŭka|village in Belarus|6
+  Q13662795 Barysaŭščyna|village in Belarus|5
+pl:baranavichy [Baranovichi, railway town in Minsk Gover] auto=Q237655
+  Q237655 Baranavichy|city in Belarus|64
+  Q20676500 Baranavičy|suburb in Belarus|4
+  Q20451920 Baranavičy|village in Pastavy district, Belarus|4
+  Q1885613 Baranavichy District|district of Belarus|26
+pl:bursa [city in northwestern Anatolia] auto=Q40738
+  Q40738 Bursa|city in Bursa province in western Turkey|137
+  Q43690 Bursa Province|province in northwestern Turkey|95
+  Q4882675 Bursa|genus of molluscs|8
+  Q1507974 Tel Aviv Stock Exchange|stock exchange located in Tel Aviv, Israel|25
+  Q5000546 Bursa|Romanian newspaper|2
+  Q98097417 Bursa|genus of plants|0
+pl:bushehr [Persian Gulf port of Persia] auto=None
+  Q132945 Bushehr Province|province of Iran|89
+  Q158928 Bushehr|capital city of Bushehr Province, Iran|75
+  Q1568659 Bushehr County|county in Bushehr Province, Iran|25
+  Q4115735 Persian Gulf University|university in Bushehr, Iran|6
+  Q138576901 IRIS 422 Bushehr|ship of the Iranian Navy|5
+pl:barajas [town near Madrid (airfield)] auto=None
+  Q166276 Madrid-Barajas Airport|international airport serving Madrid, Spain|74
+  Q2474414 Barajas|station on Line 8 of Madrid Metro|14
+  Q5719257 Barajas|human settlement in Navarredonda de Gredos, Province of|2
+  Q20205508 Barajas|human settlement in Mexico|6
+  Q807230 Barajas|21th city district of Madrid, Spain|25
+pl:jakarta [Batavia, capital of the Dutch East Indie] auto=Q3630
+  Q3630 Jakarta|capital and largest city of Indonesia|252
+  Q10114 South Jakarta|city in Jakarta Province, Indonesia|32
+  Q10111 East Jakarta|city in Jakarta Province, Indonesia|30
+  Q1199713 Batavia|capital of the Dutch East Indies (1619–1949), now the c|28
+  Q10109 Central Jakarta|city in Jakarta Province, Indonesia|29
+  Q10116 West Jakarta|city in Jakarta Province, Indonesia|29
+pl:biala-podlaska [town in Siedlce Governorate] auto=None
+  Q209932 Biała Podlaska|city with powiat rights in the Lublin Voivodeship in ea|60
+  Q614238 Gmina Biała Podlaska|rural gmina of Poland|22
+  Q910824 Biała County, Lublin Voivodesh|county in Poland|34
+  Q619666 Biała Podlaska Airport|airport|9
+  Q9137580 Biała Podlaska||1
+  Q2900889 Biała Podlaska, Warmian-Masuri|village in Warmian-Masurian, Poland|5
+pl:bialystok [city in Grodno Governorate] auto=Q761
+  Q761 Białystok|city and capital of Podlaskie Voivodeship in eastern Po|109
+  Q31915550 Białystok||1
+  Q1126261 Białystok County|powiat of Poland|34
+  Q4902926 Bialystok University of Techno|technical university in Białystok, Poland|10
+  Q2262365 Białystok railway station|railway station in Białystok, Poland|11
+pl:bitola [Monastir, city in Macedonia] auto=Q157246
+  Q157246 Bitola|town and seat of Bitola Municipality, North Macedonia|89
+  Q159380 Bitola Municipality|local administrative unit (opština) in North Macedonia|31
+  Q1438810 Bitola railway station|railway station in North Macedonia|8
+  Q22553088 Bitola|watercourse in Democratic Republic of the Congo|1
+  Q62740914 Bitola||1
+pl:bitlis [city in eastern Anatolia] auto=Q83531
+  Q83531 Bitlis|central district and city in Bitlis Province, Turkey|75
+  Q83239 Bitlis Province|province in southeast Turkey|84
+  Q107684338 Bitlis|family name|0
+  Q2550582 Bitlis district|district of Bitlis, southeastern Turkey|5
+  Q6098841 Bitlis|electoral district|3
+  Q1587075 Bitlis vilayet|Ottoman province|19
+pl:beylerbeyi [quarter/palace on the Asian shore of Con] auto=Q853184
+  Q853184 Beylerbeyi|mahalle (administrative quarter) in Üsküdar, İstanbul–A|15
+  Q65405691 Beylerbeyi|mahalle (administrative quarter) in Şehitkamil, Gaziant|5
+  Q853144 Beylerbeyi|mahalle (administrative quarter) in Sarayköy, Denizli, |5
+  Q6845711 Beylerbeyi|mahalle (administrative quarter) in Kandıra, Kocaeli, n|4
+  Q740406 beylerbey|during the Safavid Empire and Ottoman Empire period, th|47
+pl:biel-bienne [town in Switzerland] auto=Q1034
+  Q1034 Biel/Bienne|town and municipality in the canton of Bern in Switzerl|92
+  Q660893 Biel/Bienne administrative dis|administrative district of the canton of Bern, Switzerl|26
+  Q56448968 Biel/Bienne|Settlement within the Swiss municipality of the same na|1
+pl:bilbao [city in the Basque Country, Spain] auto=Q8692
+  Q8692 Bilbao|municipality and city in Spain|150
+  Q16833411 Bilbao|family name|2
+  Q2479784 Bilbao|Madrid Metro station|15
+  Q3821730 Bilbao|1978 film by Bigas Luna|6
+  Q723433 Bilbao|archaeological site|5
+  Q5728537 Bilbao|human settlement in Mexico|4
+pl:bielsko-biala [Bielitz, town in Austrian Silesia] auto=Q106583
+  Q106583 Bielsko-Biała|city in Silesian Voivodeship, Poland|80
+  Q31915764 Bielsko-Biała||1
+  Q1667897 Bielsko-Biała Museum and Castl|castle, museum (Bielsko-Biała, Poland)|12
+  Q31915767 Bielsko-Biała||1
+  Q1747120 Bielsko-Biała Voivodeship|former voivodeship of Poland from 1975 to 1998|16
+pl:beth-zur [ancient town in Judea (historical fictio] auto=None
+  Q4897432 Beth-zur|archaeological site in West Bank, Israel|8
+  Q1290572 Battle of Beth Zur|164 BCE battle|9
+pl:blagoveshchensk [city on the Amur, Russian Far East] auto=None
+  Q6934 Blagoveshchensk|city in Amur Oblast, Russia|96
+  Q105179 Blagoveshchensk|town in the Republic of Bashkortostan, Russia|48
+  Q4087725 Blagoveshchensk|railway station in Blagoveshchensk, Russia|2
+  Q20021018 Urban settlement Blagoveshchen|human settlement in Blagoveshchensky District, Republic|2
+  Q10740329 Blagoveshchensk Urban Okrug|human settlement in Amur Oblast, Khabarovsk Krai, Russi|5
+  Q804290 Blagoveshchensky District|municipal district in Russia|26
+pl:belgium [Kingdom of Belgium] auto=Q31
+  Q31 Belgium|country in western Europe|385
+  Q106879226 Belgium|family name|1
+  Q138527661 Belgium|1875 chapter|1
+  Q2025327 Belgium|village in Ozaukee County, Wisconsin|23
+  Q210003 Halle|city and municipality in Flemish Brabant, Belgium|49
+pl:belgrade [capital of Serbia] auto=Q3711
+  Q3711 Belgrade|capital and largest city of Serbia|230
+  Q647393 Belgrade|suburb of Namur, Wallonia, Belgium|6
+  Q240631 University of Belgrade|university in Belgrade, Serbia|52
+  Q815570 Belgrade|city in Gallatin County, Montana, United States|44
+  Q2301099 Belgrade|town in Kennebec County, Maine, USA|28
+  Q2074197 City of Belgrade|city and district of Serbia|10
+pl:balta [town in Podolia Governorate] auto=None
+  Q10425607 Balta|genus of insects|8
+  Q16479786 Balta|family name|2
+  Q2605922 Balta|commune in Mehedinți County, Romania|20
+  Q6275173 Balta|village in Mehedinți County, Romania|10
+  Q805554 Balta|city in Podilsk Raion, Odesa Oblast, Ukraine.|47
+pl:blida [town in Algeria] auto=Q216990
+  Q31891121 Blida|female given name|2
+  Q109849995 Blida|family name|1
+  Q216990 Blida|city and commune in Algeria|62
+  Q233637 Blida Province|province of Algeria|58
+  Q884046 Blida|human settlement in Lebanon|11
+pl:belfast [city in Ireland] auto=Q10686
+  Q10686 Belfast|capital city of Northern Ireland|164
+  Q2075675 Belfast|city in Waldo County, Maine, United States|42
+  Q100736066 Belfast|2021 film directed by Kenneth Branagh|39
+  Q4882228 Belfast|unincorporated community in Marshall County, Tennessee,|5
+  Q4882232 Belfast|single by Boney M.|5
+  Q2894321 Belfast|2004 studio album by Mägo de Oz|5
+pl:benghazi [city in Cyrenaica] auto=Q40816
+  Q40816 Benghazi|second largest city in Libya|104
+  Q33507 Benghazi District|district of Libya|26
+  Q1848787 Benghazi International Stadium|A football stadium in Benghazi, Libya|13
+  Q103777617 Benghazi|shipwreck off the Scottish coast|0
+  Q80587436 Benghazi to Taucheira (Kenrick|Area (conceptual/geographic) in Libya|0
+  Q122788824 Benghazi|ship built in 1978|0
+pl:bangkok [capital of Siam] auto=Q1861
+  Q1861 Bangkok|capital of Thailand|264
+  Q13091846 Bangkok|village in Lamongan Regency, East Java, Indonesia|8
+  Q11016342 Bangkok|village in Boyolali Regency, Central Java, Indonesia|5
+  Q13542934 Bangkok|village in Kediri Regency, East Java, Indonesia|5
+  Q729664 1998 Asian Games|13th edition of the Asian Games|32
+  Q13027191 Wat Mahannapharam School|Bangkok Metropolitan Administration School|1
+pl:bedzin [town in Piotrków Governorate] auto=Q461513
+  Q461513 Będzin|city and urban gmina in the Dąbrowa Basin (the Lesser P|58
+  Q972886 Będzin County|powiat of Poland|34
+  Q2211789 Będzin|railway station in Będzin, Poland|4
+  Q5005566 Będzinko|village in West Pomeranian, Poland|9
+  Q557545 Gmina Będzino|rural gmina of Poland|18
+  Q951133 Będzino|village in West Pomeranian Voivodeship, Poland|13
+pl:basra [port city in Mesopotamia] auto=Q48195
+  Q48195 Basra|capital of Basra Governorate, in southern Iraq|105
+  Q37495387 Basra|family name|1
+  Q6056137 Basra|1907 Samsun-class destroyer|3
+  Q193551 Basra Governorate|governorate in southern Iraq|59
+  Q6702265 30936 Basra|asteroid|8
+  Q2280309 Basra|Archaeological site in Morocco|8
+pl:braunschweig [city / Duchy of Brunswick] auto=Q2773
+  Q2773 Brunswick|city in Lower Saxony, Germany|117
+  Q1008020 Braunschweig|federal electoral district of Germany|2
+  Q901859 Braunschweig|1962 Köln-class frigate|6
+  Q326029 Duchy of Brunswick|historical German state (1815–1918)|39
+  Q36935387 Braunschweig|family name|2
+pl:bergen [city in Norway] auto=Q26793
+  Q26793 Bergen|Norwegian city in Vestland, Norway|150
+  Q9901 Bergen|municipality in North Holland, the Netherlands|50
+  Q9804 Bergen|municipality in Limburg, the Netherlands|45
+  Q549007 Bergen|municipality in the Weißenburg-Gunzenhausen district, i|36
+  Q492538 Bergen auf Rügen|city in Germany|52
+  Q505665 Bergen|town in the north of Celle district on the Lüneburg Hea|49
+pl:berdychiv [town in Kiev Governorate] auto=Q158799
+  Q158799 Berdychiv|town and administrative center of the Berdychivsky Dist|58
+  Q962724 Berdychiv Raion|raion of Ukraine|7
+  Q3597593 159181 Berdychiv|asteroid|9
+  Q11687732 Berdychiv|railway station in Berdychiv, Ukraine|6
+  Q11825538 Berditshev County|subdivision of the Kiev Governorate of the Russian Empi|5
+  Q102446300 Berdychiv Raion|raion in Zhytomyr Oblast, Ukraine (established in 2020)|20
+pl:brody [town in eastern Galicia] auto=None
+  Q465104 Brody|city in the Lviv Oblast, Ukraine|53
+  Q13630463 Brody|family name|5
+  Q16693231 Brody|village in Barysaŭ district, Belarus|8
+  Q16693233 Brody|village in Maladziečna district, Belarus|8
+  Q149790 Brody|town in Żary County, Lubuskie Voivodeship, Poland|20
+pl:bydgoszcz [Bromberg, town in Prussian Posen] auto=Q41252
+  Q41252 Bydgoszcz|city in the Kuyavian-Pomeranian Voivodeship in north-ce|112
+  Q750576 Bydgoszcz County|powiat of Poland|30
+  Q5003992 |village in the administrative district of Gmina Lipnica|5
+  Q2462693 Feliks Nowowiejski Music Acade|the Feliks Nowowiejski Music Academy in Bydgoszcz|5
+  Q61071650 Bydgoszcz||1
+pl:brooklyn [borough of New York City] auto=Q18419
+  Q18419 Brooklyn|borough of New York City, New York, United States|129
+  Q16275093 Brooklyn|unisex given name|3
+  Q2446296 Brooklyn|town in Connecticut|23
+  Q1930227 Brooklyn|village in Michigan, United States|24
+  Q632682 Brooklyn Museum|art museum in Brooklyn, New York|49
+  Q371625 Brooklyn College|senior college of the City University of New York, loca|22
+pl:bryansk [city in Oryol Governorate] auto=Q2801
+  Q2801 Bryansk|city in the south-west of European Russia|96
+  Q4097520 Bryansk|1988 Delta IV-class submarine|6
+  Q2810 Bryansk Oblast|administrative division (oblast) in western Russia|126
+  Q27532884 Bryansk Urban Okrug|urban okrug in Russia|3
+  Q4414828 Bryansky selsoviet|human settlement in Kizlyarsky District, Republic of Da|1
+  Q4097516 Bryansk|village in Kizlyarsky District, Russia|4
+pl:british-columbia [province of Canada] auto=Q1973
+  Q1973 British Columbia|province of Canada|176
+  Q102434966 british columbia|Ph.D. University of British Columbia 2014|0
+  Q918861 Colony of British Columbia|British possession in North America between 1858–1866|11
+  Q2514958 Colony of British Columbia|British possession in North America between 1866–1871|5
+  Q4835275 BC Cancer Agency|Canadian cancer centre|2
+pl:brindisi [port city in Apulia] auto=Q13496
+  Q13496 Brindisi|Italian comune|109
+  Q37312359 Brindisi|family name|1
+  Q16148 Province of Brindisi|province of Italy|79
+  Q849715 Brindisi – Salento Airport|airport in Brindisi, southern Italy, located 6 kilometr|25
+  Q2603520 Libiamo ne' lieti calici|duet from Act I of Giuseppe Verdi's opera La Traviata|18
+  Q4968202 Brindisi|song to drink alcohol to|5
+pl:brussels [capital of Belgium] auto=Q239
+  Q239 Brussels|municipality in the Brussels-Capital Region and capital|241
+  Q9005 Brussels metropolitan area|metropolitan area of Brussels, in Belgium|21
+  Q2668371 Brussels Dutch|dialect of Dutch spoken Brussels|10
+  Q2927086 Brussels|civil town in Door County, Wisconsin|12
+  Q2718202 Brussels|village in Calhoun County, Illinois, United States|27
+  Q994375 Brussels|community in Huron County, Ontario, Canada|6
+pl:berlin [capital of Germany] auto=Q64
+  Q64 Berlin|federated state, capital and largest city of Germany|335
+  Q2660845 Berlin|family name|6
+  Q821199 Berlin|town in Hartford County, Connecticut, United States|27
+  Q1086827 Berlin|borough in Camden County, New Jersey, United States|33
+  Q821198 Berlin|American synthpop band|27
+  Q821245 Berlin|town in Washington County, Vermont, United States|20
+pl:bremen [city-state in Germany] auto=None
+  Q24879 Bremen|city in the Bremen federated state, Germany|164
+  Q1209 Bremen|federated state of Germany|132
+  Q631094 Bremen Hauptbahnhof|railway station in Bremen-Mitte, Germany|15
+  Q907348 Bremen|1979 Bremen-class frigate|7
+  Q907350 Bremen|family name|2
+  Q907354 Bremen|human settlement in Geisa, Germany|3
+pl:bern [capital of Switzerland] auto=None
+  Q70 Bern|city in Switzerland, capital of the canton of Bern and |207
+  Q935784 Kościerzyna|city and urban gmina of Poland|41
+  Q11911 Canton of Berne|canton of Switzerland|104
+  Q37477115 Bern|family name|2
+pl:brno [Brünn, capital of Moravia] auto=Q14960
+  Q14960 Brno|city in the Czech Republic|147
+  Q11342506 Brno|scrapped cargo ship|2
+  Q192697 South Moravian Region|region of the Czech Republic|79
+  Q12039338 Brno-město|neighborhood of Brno-střed|4
+  Q222686 Masaryk Circuit|race track|25
+  Q11088399 Brno Central Cemetery|cemetery in Brno, Czech Republic|7
+pl:bransk [town in Grodno Governorate] auto=None
+  Q607410 Brańsk|city and urban gmina of Poland|38
+  Q615313 Gmina Brańsk|rural gmina of Poland|22
+  Q6469901 Bransk|village in Belarus|5
+  Q2810 Bryansk Oblast|administrative division (oblast) in western Russia|126
+  Q43466943 Bránská|street in Moravská Třebová, Czech Republic|1
+  Q31925875 Brańsk||1
+pl:braila [Danube port in Romania] auto=Q188478
+  Q188478 Brăila|capital of the county of Brăila, Romania|78
+  Q188503 Brăila County|county in Romania|67
+  Q12084844 Brăila|village in Chișinău Municipality, Moldova|4
+  Q16898152 Brăila|locality in Brăila County, Romania|1
+  Q12728802 Brăila|Railway station of Brăila, Romania|4
+pl:barcelona [city in Catalonia, Spain] auto=Q1492
+  Q1492 Barcelona|city in Catalonia, Spain|246
+  Q7156 FC Barcelona|football club in Barcelona, Catalonia, Spain|155
+  Q174114 Barcelona|municipality of the Philippines in the province of Sors|26
+  Q279991 Barcelona|album by Freddie Mercury|25
+  Q1640731 Polytechnic University of Cata|public university in Barcelona, Spain|22
+  Q28496610 Barcelona|Parliament of Catalonia constituency|4
+pl:besiktas [quarter of Constantinople] auto=Q459495
+  Q459495 Beşiktaş|district of İstanbul, northwestern Turkey|57
+  Q172567 Beşiktaş J.K.|Turkish association football club based in Istanbul|86
+  Q4900434 Beşiktaş|village in central district, Ardahan, northeastern Turk|10
+  Q6092189 Beşiktaş|neighbourhood in Istanbul|0
+  Q136554303 Beşiktaş|mahalle (administrative quarter) in Ayancık, Sinop, nor|0
+pl:georgia-us-state [US state] auto=None
+  Q1428 Georgia|state of the United States of America|233
+  Q5354684 election in Georgia|elections in the US state of Georgia|4
+pl:volhynia [Volhynian Governorate, Russian Empire] auto=Q7530
+  Q7530 Volhynia|historical region in south-eastern Poland, south-wester|54
+  Q1333965 Volhynian Governorate|governorate of the Russian Empire|28
+  Q27149954 Volhynia|2016 film by Wojciech Smarzowski|17
+  Q111020750 Volhynia|region in Ukraine|0
+  Q1586886 Volhynian Voivodeship|former voivodeship of Polish–Lithuanian Commonwealth|16
+pl:governorate-of-livonia [Baltic governorate of the Russian Empire] auto=None
+  Q1419584 Livonia Governorate|governorate of the Russian Empire|40
+pl:gusev [Gumbinnen, town in East Prussia (1914 ba] auto=None
+  Q5663 Gusev|city of Gusevsky District of Kaliningrad Oblast, Russia|56
+  Q5620835 Gusev|family name (Гусев)|3
+  Q575919 Gusev|crater on the planet Mars|27
+  Q19371396 Alexandr Vladimirovich Gussev|Russian parasitologist (1917-1999)|4
+  Q3111773 Gusev|short story by Anton Chekhov|11
+  Q21514420 Yury Gusev|Soviet botanist (1922–1985/86)|2
+pl:guria [region in western Georgia] auto=Q19038
+  Q19038 Guria|region (mkhare) of Georgia|69
+  Q141622031 Guria|given name|0
+  Q60789781 Guria||1
+  Q60652722 Guria|human settlement in Nandakumar community development bl|0
+  Q16367739 Guria||1
+pl:gorizia [Görz, town on the Isonzo front] auto=Q6596
+  Q6596 Gorizia|Italian comune|90
+  Q16184 Province of Gorizia|former province of Italy (1927-2017)|81
+  Q2991244 County of Görz|a land that emerged from the possessions of the Counts |18
+  Q1058827 7675 Gorizia|asteroid|21
+  Q692946 Gorizia and Gradisca|Crown land of the empire of Austria|23
+  Q2547836 Gorizia|1930 Zara-class cruiser|14
+pl:gezer [ancient site in Ottoman Palestine] auto=Q1466687
+  Q1466687 Gezer|archaeological site in the foothills of the Judaean Mou|31
+  Q975999 Gezer|kibbutz in central Israel|9
+  Q76865529 Gezer|family name|3
+  Q2693373 Gezer Regional Council|place in Israel|11
+pl:djibouti [port of French Somaliland] auto=None
+  Q977 Djibouti|sovereign state in Africa|300
+  Q3604 Djibouti|capital city of Djibouti|150
+  Q503135 Djibouti|national anthem of Djibouti|42
+  Q8273241 Djibouti||5
+  Q18206510 Djibouti|2010 novel by Elmore Leonard|4
+pl:gibraltar [British territory in southern Spain] auto=Q1410
+  Q1410 Gibraltar|British overseas territory on the southern end of the I|221
+  Q2067047 Gibraltar|village on Belgium-French border|1
+  Q156050 brucellosis|Human and animal disease|72
+  Q3105359 Gibraltar|2006 album by Abd al Malik|1
+  Q124098984 Gibraltar|musical work composed by DJ Ritmin|0
+  Q28162389 Gibraltar|lieu-dit in Lac-Saint-Joseph, Quebec, Canada|0
+pl:galata [quarter of Constantinople] auto=None
+  Q37476711 Galata|family name|0
+  Q1007545 Galatasaray High School|high school in Turkey|21
+  Q501817 Galata|neighbourhood of Beyoğlu on the North side of the Golde|40
+  Q5518003 Galata|community in Nicosia District, Republic of Cyprus|12
+  Q2013766 Galata|village in Teteven municipality, Lovech oblast, Bulgari|18
+pl:galveston [port city in Texas (Jewish immigration)] auto=Q135744
+  Q135744 Galveston|city in and county seat of Galveston County, Texas, Uni|78
+  Q31770058 Galveston, Texas||1
+  Q5341023 education in Galveston, Texas||1
+pl:hlukhiv [town in Chernigov Governorate] auto=Q864827
+  Q864827 Hlukhiv|town in Shostka raion, Sumy Oblast in northern Ukraine|60
+  Q2998021 Hlukhiv Raion|raion in Sumy Oblast, Ukraine|18
+  Q12096194 Hlukhiv|railway station in Hlukhiv, Ukraine|4
+  Q4140322 Hlukhiv National Pedagogical U|education organization in Hlukhiv, Ukraine|6
+  Q4140282 Hlukhiv|village in Sokal Raion, Lviv Oblast, Ukraine|10
+pl:glasgow [city in Scotland] auto=Q4093
+  Q4093 Glasgow|city in Scotland, United Kingdom|176
+  Q24232634 Glasgow|family name|2
+  Q55934339 Glasgow City|council area of Scotland, UK|14
+  Q192775 University of Glasgow|university in Glasgow, Scotland, United Kingdom, founde|72
+  Q68826097 Glasgow|Scottish parish|1
+  Q68078318 Glasgow|sports club|0
+pl:galilee [region of northern Palestine] auto=Q83241
+  Q83241 Galilee|large region mainly located in northern Israel|93
+  Q3138952 galilee|porch of a Roman or Gothic style church|7
+  Q5518600 Galilee|human settlement in Rhode Island, United States of Amer|1
+  Q38082638 Galilee|locality in Queensland, Australia|0
+  Q2915499 Upper Galilee|Mountainous area straddling Northern Palestina and sout|25
+  Q5518604 Galilee|New Zealand-bred Thoroughbred racehorse|1
+pl:gallipoli [town / peninsula on the Dardanelles] auto=None
+  Q40243990 Gallipoli|1986 video game|1
+  Q52143 Gallipoli|Italian comune|71
+  Q192860 Gallipoli|peninsula in northwestern Turkey|63
+  Q216907 Gelibolu|district and town in Çanakkale Province, Turkey|57
+  Q164983 Gallipoli Campaign|1915–1916 military campaign during World War I|76
+pl:galicia-eastern-europe [Austrian crown land] auto=None
+  Q180086 Galicia|historical and geographic region in western Ukraine and|70
+  Q3573883 Eastern Galicia|geographical region in western Ukraine|16
+pl:western-galicia [western part of Galicia] auto=None
+  Q132705777 Western Galician Conservators |monument protection institution that was engaged in the|4
+  Q180086 Galicia|historical and geographic region in western Ukraine and|70
+pl:jamaica [British colony in the Caribbean] auto=Q766
+  Q766 Jamaica|island state in the Caribbean Sea|283
+  Q235399 Jamaica men's national associa|men's national association football team representing J|59
+  Q1320403 Jamaica|neighborhood of Queens, New York City, United States|24
+  Q2526023 Colony of Jamaica|British colony on the island of Jamaica, 1655–1962|16
+  Q61271609 Jamaica||4
+  Q119139534 Jamaica||1
+pl:genoa [port city in Italy] auto=Q1449
+  Q1449 Genoa|Italian city|180
+  Q2074 Genoa CFC|association football club in Genoa, Italy|87
+  Q593321 University of Genoa|university in Genoa, Italy|32
+  Q174306 Republic of Genoa|medieval and early modern maritime republic from (1005-|78
+  Q575588 Genoa|city in DeKalb County, Illinois, United States|35
+  Q958138 Genoa|city in Nance County, Nebraska, United States|33
+pl:grozny [town in Terek Oblast (oil)] auto=Q5196
+  Q5196 Grozny|capital city of the Chechen Republic, Russia|127
+  Q25394203 Grozny|1962 Project 58 guided missile cruiser of the Soviet Na|5
+  Q60792115 Soviet destroyer Grozny|1936 Gnevny-class destroyer|4
+  Q4150104 Grozny|human settlement in Kirovskoye rural settlement, Maykop|11
+  Q86685797 Grozny|Russian historical television series|3
+  Q21657077 Grozny|sheep breed|2
+pl:oradea [Grosswardein / Nagyvárad, Hungary] auto=Q93358
+  Q93358 Oradea|capital of the county of Bihor, Romania|100
+  Q16898113 Oradea|locality in Bihor County, Romania|0
+  Q12728805 Oradea Railway Station|railway station in Oradea, Romania|5
+pl:greenwich [district of London] auto=None
+  Q179385 Greenwich|town in south-east London, England, UK|69
+  Q49202 Greenwich|town in Fairfield County, Connecticut, United States, s|51
+  Q693450 Royal Borough of Greenwich|royal borough in the London Region in England|65
+  Q800840 Greenwich|National Rail and Docklands Light Railway station in Gr|13
+  Q2246925 Greenwich|village in Huron County, Ohio, United States|25
+pl:germany [German Empire] auto=Q183
+  Q183 Germany|country in Central Europe|405
+  Q1206012 German Reich|official name for the German nation state from 1871 to |51
+  Q41304 Weimar Republic|Germany in the years 1918/1919–1933|114
+  Q37444958 Germany|family name|1
+  Q138527606 Germany|1875 chapter|1
+  Q139776664 Germany||0
+pl:dahomey [French colony in West Africa] auto=None
+  Q962 Benin|sovereign state in West Africa|308
+  Q468814 Dahomey|1600–1904 kingdom in West Africa|61
+  Q124319816 Dahomey|2024 documentary film by Mati Diop|21
+  Q798431 Republic of Dahomey|former country|36
+  Q113954700 Dahomey|encyclopedia article published in 2010|0
+  Q12257903 Fon people|West African ethnic group, largest in Benin|40
+pl:casablanca [port city in Morocco (Dar el-Beida)] auto=Q7903
+  Q7903 Casablanca|largest city of Morocco|153
+  Q37497783 Casablanca|family name|0
+  Q1046707 Casablanca Records|American recording label|19
+  Q132689 Casablanca|1942 film directed by Michael Curtiz|107
+  Q3742 Casablanca|Chilean commune|27
+pl:dublin [capital of Ireland] auto=Q1761
+  Q1761 Dublin|capital and largest city of Ireland|239
+  Q173500 County Dublin|county of Ireland|68
+  Q16865980 Dublin|family name|2
+  Q2073605 Dublin|village in Belarus|10
+  Q1202897 Dublin City University|university in Ireland|24
+  Q988937 Dublin|city in Ohio, United States|49
+pl:dharamshala [town in British India (1905 earthquake)] auto=Q186182
+  Q186182 Dharamshala|city in Himachal Pradesh, India|83
+  Q3631028 dharamshala|type of sanctuary, communal or religious resthouse|10
+  Q15649724 Dharamshala Vidhan Sabha const|constituency of the Himachal Pradesh legislative assemb|5
+pl:dubasari [Dubossary, town in Kherson Governorate (] auto=Q688654
+  Q688654 Dubăsari|city in Pridnestrovie, Moldova|43
+  Q878278 Dubăsari District|district of Moldova|31
+  Q2627106 Dubăsari District|district of Transnistria|16
+  Q28920271 Dubăsari|forest nature reserve of Moldova|1
+  Q2439123 Dubăsarii Vechi|village in Criuleni District, Moldova|12
+pl:dover [port town in England] auto=None
+  Q179224 Dover|town and major ferry port in Kent, South East England|86
+  Q33518 Dover|capital city of the U.S. state of Delaware and seat of |130
+  Q24666009 Dover|civil parish in Dover district, Kent, England, UK|1
+  Q1088760 Dover|town in Morris County, New Jersey, United States|41
+  Q2137023 Dover Publications|American book publisher|14
+  Q1252897 Dover|town in Tasmania, Australia|9
+pl:daugavpils [Dvinsk, city in Vitebsk Governorate] auto=Q80021
+  Q80021 Daugavpils|state city in south-eastern Latvia|104
+  Q960572 Daugavpils Municipality|municipality of Latvia between 2009 and 2021|30
+  Q33670491 Daugavpils||1
+  Q2653770 Daugavpils train station|railway station in Latvia|13
+  Q745143 Daugavpils District|former district of Latvia|25
+  Q1854796 Daugavpils University|university in Latvia|19
+pl:delhi [city in British India] auto=Q1353
+  Q1353 Delhi|megacity and union territory of India|205
+  Q68078429 Delhi|sports club|0
+  Q5253725 Delhi|town in Delaware County, New York, USA|25
+  Q665105 University of Delhi|Central university located in New Delhi|58
+pl:sidirokastro [Demir Hisar, town in Macedonia] auto=Q1018794
+  Q1018794 Sidirokastro|town in the Serres regional unit, Macedonia, Greece|24
+  Q21591337 Sidirokastro|human settlement in Greece|1
+  Q18009329 Sidirokastro railway station|railway station in Central Macedonia, Greece|1
+  Q20963716 Siderokastron|Medieval castle|7
+  Q98554034 Sidirokastro railway station|Disused railway station in Peloponnese region, Greece|0
+  Q37286951 Sidirokastro Indoor Sports Hal|basketball venue at Sidirokastro, Serres, Greece|0
+pl:demir-kapija [gorge and village on the Vardar] auto=Q1014699
+  Q1014699 Demir Kapija|town and seat of Demir Kapija Municipality, North Maced|39
+  Q2370973 Demir Kapija Municipality|local administrative unit (opština) in North Macedonia|33
+  Q12906050 Demir Kapija Canyon||6
+  Q31499514 Demir Kapija|mountain in Serbia|1
+  Q12906440 Demir Kapija railway station|railway station in North Macedonia|2
+  Q12277834 ||3
+pl:damascus [city in Ottoman Syria] auto=Q3766
+  Q3766 Damascus|capital and largest city of Syria|243
+  Q106274115 Damascus|short story by Daryl Gregory|0
+  Q122385723 Damascus|2020 video game|0
+  Q232399 Rif Dimashq Governorate|governorate in Syria|57
+  Q3934822 Damascus eyalet|Ottoman province in the Levant|20
+  Q1351317 Damascus University|public university in Damascus, Syria|43
+pl:denver [city in Colorado, US] auto=Q16554
+  Q16554 Denver|consolidated city-county and capital of the U.S. state |186
+  Q519427 University of Denver|private university in the Rocky Mountain Region of the |32
+  Q5259660 Denver|village in Norfolk, England|12
+  Q71045520 Denver|male given name|1
+  Q135677381 Denver|populated place in Humphreys County, Tennessee, United |0
+pl:danube [river] auto=Q1653
+  Q1653 Danube|second-longest river in Europe|200
+  Q1165108 Danube|Paris Métro station|19
+  Q106847690 Danube|metro station in Dubai, United Arab Emirates|4
+  Q3708297 Danube|human settlement in Herkimer County, New York, United S|18
+  Q50814710 Danube|Academic journal published by De Gruyter Open, covering|0
+pl:denmark [Kingdom of Denmark] auto=Q35
+  Q35 Denmark|country in Northern Europe|369
+  Q756617 Kingdom of Denmark|transcontinental sovereign state and constitutional mon|56
+  Q37044634 Denmark|family name|2
+  Q106500037 Denmark|given name|1
+  Q671384 Statens Museum for Kunst|art museum in Copenhagen, Denmark|33
+  Q5257930 Denmark|constituency of the European Parliament|8
+pl:darjeeling [hill town in Bengal, India] auto=None
+  Q1134759 Darjeeling district|district in West Bengal, India|46
+  Q169997 Darjeeling|City in West Bengal, India|93
+  Q5223069 Darjeeling Lok Sabha constitue|Lok Sabha Constituency in West Bengal|7
+  Q83558110 Darjeeling|painting by Mrinal Kanti Das|0
+  Q24949017 Darjeeling railway station|railway station in West Bengal|4
+pl:dardanelles [strait between the Aegean and the Sea of] auto=Q6514
+  Q6514 Dardanelles|strait in northwestern Turkey|108
+  Q28162554 Dardanelles|lieu-dit in Clarendon, Quebec, Canada|0
+  Q5222418 Dardanelles|Australian rock band|1
+  Q164983 Gallipoli Campaign|1915–1916 military campaign during World War I|76
+  Q5222420 Dardanelles|EP|1
+  Q28368436 Dardanelles|human settlement in United States of America|3
+pl:south-america [continent] auto=Q18
+  Q18 South America|continent located mainly in the southwestern quadrant o|345
+  Q247096 paracoccidioidomycosis|primary systemic mycosis that results in systemic funga|12
+  Q99290067 South America|continent of South America as depicted in Star Trek|0
+pl:south-africa [South Africa (Union from 1910)] auto=Q258
+  Q258 South Africa|country in southern Africa|368
+  Q193619 Union of South Africa|state in southern Africa from 1910 to 1961, predecessor|64
+pl:dresden [capital of Saxony] auto=Q1731
+  Q1731 Dresden|capital city of the Free State of Saxony in Germany|183
+  Q206353 Dresden|town in Tennessee, United States|33
+  Q704354 Dresden Central Station|railway station in Dresden, Germany|20
+  Q653002 Staatliche Kunstsammlungen Dre|complex of 15 world famous Museums in Dresden, Germany |18
+  Q158158 TU Dresden|institute of higher education in the city of Dresden, S|41
+  Q4890 Gemäldegalerie Alte Meister|art gallery in Dresden, Germany|38
+pl:derna [port in Cyrenaica] auto=None
+  Q211866 Derna|city in Libya|52
+  Q136671339 Derna||0
+  Q16425641 Derna|commune in Bihor County, Romania|23
+  Q69021 Dernancourt|commune in Somme, France|39
+  Q1013186 Dernacueillette|commune in Aude, France|45
+  Q1066259 Derna|village in Bihor County, Romania|10
+pl:darnytsia [suburb of Kiev] auto=None
+  Q2093770 Darnytsia|railway station in Kyiv, Ukraine|15
+  Q18327331 Darnytsia|historical subdivision in left Coast of Kyiv, Ukraine|5
+  Q608532 Darnytsia|metro station in Kyiv, Ukraine|14
+  Q4155091 Darnytsia|village in Bratske Raion (district), Mykolaiv Oblast (p|8
+  Q1970473 Darnytskyi District|administrative district (raion) of Kyiv, Ukraine|26
+  Q12099570 Darnytsia-Depo|railway station in Kyiv, Ukraine|3
+pl:ozyorsk [Darkehmen, town in East Prussia] auto=None
+  Q175795 Ozyorsk|human settlement in Kaliningrad Oblast, Russia|42
+pl:hesse [German state] auto=Q1199
+  Q1615700 Hesse|family name|8
+  Q1199 Hesse|state in the center of Germany|182
+  Q21993 Hesse|commune in Moselle, France|36
+  Q19518460 Paul Hesse|German zoologist and malacologist (1857–1938)|2
+  Q20135 Grand Duchy of Hesse|member state of the German Confederation & the German E|43
+  Q116026307 Hesse||0
+pl:varna [Black Sea port in Bulgaria] auto=None
+  Q504684 Vahrn|municipality in South Tyrol, Italy|52
+  Q6506 Varna|city in Varna municipality, Varna oblast, Bulgaria|121
+  Q20829022 Varna|family name|1
+  Q183487 Varna Province|oblast of Bulgaria|73
+  Q748965 Varna|municipality in Varna oblast, Bulgaria|20
+  Q16629241 Varna|1842 Sultan Makhmud-class ship of the line|3
+pl:warsaw [capital of Congress Poland] auto=Q270
+  Q270 Warsaw|capital and largest city of Poland|289
+  Q106494408 Warsaw|2019 video game|1
+  Q37500217 Warsaw|family name|0
+  Q144488 University of Warsaw|largest university in Poland|63
+  Q992560 Warsaw|city in Indiana, United States|42
+  Q1718656 Warsaw University of Technolog|technical university in Warsaw, Poland|29
+pl:hawaii [US territory in the Pacific] auto=Q782
+  Q782 Hawaii|state of the United States of America|268
+  Q68740 Hawaii|largest of the Hawaiian islands|81
+  Q18703903 Hawaii|2013 film by Marco Berger|12
+  Q487334 Hawaii County|county in Hawaii, United States|51
+  Q156418 Kingdom of Hawaiʻi|historical kingdom in the Hawaiian Islands (1778–1893)|55
+pl:wallachia [region of Romania] auto=Q171393
+  Q171393 Wallachia|historical and geographical region of Romania|87
+  Q2542557 Wallachia|black metal band|2
+  Q3564994 Wallachian Open Air Museum|organizational unit of the National Open-air Museum|14
+  Q103775047 Wallachia|shipwreck off the Scottish coast|0
+  Q1854529 Wallachian Plain|landform in Romania and Serbia|22
+pl:volga [river] auto=Q626
+  Q615655 Volga|city in Brookings County, South Dakota, United States|31
+  Q626 Volga|river in Russia; the longest river in Europe|190
+  Q124218432 HMS Aladar Youssanoff|1905 seaplane tender|2
+  Q25285 Tatar|Turkic language spoken by Tatars|142
+  Q119058 Volga|Automobile brand of the manufacturer GAZ from the Sovie|26
+pl:volochysk [Russian–Austrian border town in Volhynia] auto=Q219762
+  Q219762 Volochysk|city of Ukraine|42
+  Q971973 Volochysk Raion|raion of Ukraine|16
+  Q12090508 Volochysk|railway station in Volochysk, Ukraine|3
+  Q20861607 Volochysk Hromada|hromada in Khmelnytskyi Oblast, Ukraine|4
+  Q16694885 Volochysk Volost||2
+  Q16712693 flag of Volochysk Raion||1
+pl:voronezh [city in central Russia] auto=Q3426
+  Q3426 Voronezh|capital city of Voronezh Oblast in central Russia|119
+  Q3447 Voronezh Oblast|federal subject of Russia|124
+  Q4206070 Voronezh|1988 Oscar-II-class submarine|5
+  Q847893 Voronezh|river in Tambov, Lipetsk, and Voronezh Oblasts, Russia|38
+  Q4125372 Voronizh|village in Sumy Oblast, Ukraine|23
+  Q1807470 Voronezh State University|university in Russia|17
+pl:vatican-city [Papal See in Rome] auto=Q237
+  Q237 Vatican City|Holy See's independent state, an enclave within Rome, I|343
+  Q32039279 Vatican City||1
+  Q11327751 Vatican City||1
+  Q87222526 COVID-19 pandemic in Vatican C|details of ongoing viral outbreak in Vatican City|24
+pl:vyazma [town in Smolensk Governorate] auto=None
+  Q102307 Vyazma|town and administrative center of Vyazemsky District of|64
+  Q4130370 Vyazma|railway station in Russia (1870)|3
+  Q1975880 Vyazma|river in Ivanovo Oblast, Russia|7
+  Q1581489 Vyazma|river in Smolensk Oblast, Russia|22
+  Q4130371 Vyazma|river in Tver Oblast, Russia|3
+  Q39478204 Vyazma-Bryanskaya|railway station|3
+pl:vyborg [town in the Grand Duchy of Finland] auto=Q14657
+  Q14657 Vyborg|city in Leningrad Oblast, Russia|106
+  Q578073 Väinämöinen|Finnish Navy coastal defence ship built in 1932, later |15
+  Q2638238 Vyborg railway station|railway station in Vyborg, Russia|13
+  Q7677 Vyborgsky District|administrative division of Leningrad Oblast, Russia|26
+  Q27590334 Vyborgskoye Urban Settlement|human settlement in Vyborgsky District, Leningrad Oblas|2
+pl:villa-allatini [villa in Salonica where Abdul Hamid II w] auto=None
+  Q20083845 Allatini Villa|building in Municipality of Thessaloniki, Central Maced|11
+pl:wilhelmshohe [palace near Kassel, imperial residence] auto=None
+  Q28008143 Wilhelmshöhe||1
+  Q798792 Bad Wilhelmshöhe|district of a German city Kassel|3
+  Q24505425 Wilhelmshöhe|nature reserve in Lennestadt, North Rhine-Westphalia, G|2
+  Q62611679 Wilhelmshöhe|German article in Die Gartenlaube, 1860, no. 21|1
+  Q105971242 Wilhelmshöhe|street in Berlin-Kreuzberg, Germany|1
+  Q25393514 Wilhelmshöhe|summit in Hürth, Germany|1
+pl:uiju [town in northern Korea] auto=None
+  Q701248 Uiju County|county of North Korea|17
+  Q139377786 Uiju|Korean given name|0
+pl:vienna [capital of Austria-Hungary] auto=Q1741
+  Q1741 Vienna|capital of and state in Austria|295
+  Q1002926 Vienna|town in Fairfax County, Virginia, United States|34
+  Q577544 Vienna|city in Johnson County, Illinois, United States|38
+  Q4011458 Vienna|female given name|2
+  Q2297508 Vienna|album by Ultravox|12
+  Q11215 Windows 7|personal computer operating system by Microsoft that wa|103
+pl:venice [city in Italy] auto=Q641
+  Q773853 Venice|beachfront neighborhood in Los Angeles, California, USA|40
+  Q641 Venice|capital city of Veneto, Italy|232
+  Q4948 Republic of Venice|former state (697–1797) controlling, at various times, |96
+  Q37556754 Venice|family name|1
+  Q3555518 Venice|1999 video game|2
+  Q7919972 Venice|2007 puzzle video game|2
+pl:vinohrady [Königliche Weinberge, district of Prague] auto=Q662985
+  Q662985 Vinohrady|city district of Prague, Czech Republic|16
+  Q44689797 Vinohrady|street in Brno, Czech Republic|1
+  Q106892641 Vinohrady|article in Otto's encyclopedia|1
+  Q45522767 Vinohrady|street in Prague, Czech Republic|1
+  Q44734142 Vinohrady|street in Mikulov, Czech Republic|1
+  Q44851958 Vinohrady|street in Kyjov, Czech Republic|0
+pl:vinnytsia [town in Podolia Governorate] auto=Q157144
+  Q157144 Vinnytsia|capital city of Vinnytsia Oblast in western Ukraine|103
+  Q2332282 Vinnytsia|1976 Grisha-class corvette|8
+  Q166709 Vinnytsia Oblast|administrative division (oblast) in center of Ukraine|100
+  Q2996129 Vinnytsia Raion|former raion of Vinnytsia Oblast, Ukraine|17
+  Q12093387 Vinnytsia|railway station|11
+  Q4111610 Vinnytsia State Pedagogical Un|Ukrainian university|9
+pl:visegrad-bosnia [town in eastern Bosnia] auto=Q239266
+  Q239266 Višegrad|town in Bosnia and Herzegovina|58
+  Q548097 Visegrád|town in Hungary|59
+  Q15615134 Višegrad Municipality|municipality of Bosnia and Herzegovina|9
+  Q3403669 Višegrad|cultural heritage monument of Kosovo|10
+pl:vichy [spa town in France] auto=Q93351
+  Q93351 Vichy|commune in Allier, France|99
+  Q69808 Vichy France|client state of Nazi Germany, administering the Free Zo|88
+  Q3469317 Vichy|unincorporated community in Maries County, Missouri|4
+  Q2079719 Vichy|Cosmetic brand|7
+pl:vladivostok [Pacific port of Russia] auto=Q959
+  Q959 Vladivostok|Russian city and the administrative center of Primorsky|162
+  Q7938939 ENS Gamal Abdel Nasser|2013 Mistral-class amphibious assault ship|10
+  Q4112951 Vladivostok|1969 Project 1134 Berkut guided missile cruiser of the |5
+  Q4112949 Vladivostok railway station|railway station in Primorsky Krai, Russia|14
+pl:netherlands [Kingdom of the Netherlands] auto=Q55
+  Q55 Netherlands|one of the four autonomous countries of the Kingdom of |375
+  Q29999 Kingdom of the Netherlands|transcontinental sovereign state and constitutional mon|108
+  Q25227 Netherlands Antilles|former country within the Kingdom of the Netherlands|133
+  Q476033 Low Countries|historical coastal landscape in north western Europe|65
+  Q16250490 Netherlands|constituency of the European Parliament|7
+  Q170072 Dutch Republic|predecessor state of the Netherlands (1581–1795)|82
+pl:hong-kong [British colony in southern China] auto=Q8646
+  Q8646 Hong Kong|city and special administrative region of China|304
+  Q1054923 British Hong Kong|British colony and dependent territory from 1841 to 199|45
+  Q2735819 Hong Kong|1994 live album by Jean-Michel Jarre|9
+  Q11277867 Hong Kong|Japanese owarai talent|1
+  Q95977692 Hong Kong Baptist University L|Library of Hong Kong Baptist University|0
+pl:hungary [Hungarian half of Austria-Hungary] auto=None
+  Q171150 Kingdom of Hungary|Central European monarchy (1000–1946)|74
+  Q600018 Kingdom of Hungary|Central European state between 1920 and 1946|48
+  Q25395037 Kingdom of Hungary|Hungary with Croatia and Slavonia without Istria and Da|6
+  Q253094 Kingdom of Hungary|Crownland of the Habsburg Monarchy from 1526 and the Au|30
+  Q16056854 Kingdom of Hungary|former Central European monarchy (1301–1526)|13
+  Q1470101 Kingdom of Hungary (1000–1301)|former Central European monarchy (1000–1301)|16
+pl:venezuela [republic in South America] auto=Q717
+  Q717 Venezuela|country in South America|347
+  Q8875751 Venezuela|metro station in Buenos Aires|8
+  Q14513308 Venezuela|genus of arachnids|1
+  Q37121577 Venezuela|family name|1
+pl:westphalia [Prussian province] auto=None
+  Q8614 Westphalia|region in Germany|60
+  Q168426 University of Münster|German university|39
+  Q158070 |main-belt asteroid|41
+  Q1010509 Westphalia|city in Kansas, United States|32
+  Q153943 Kingdom of Westphalia|former country during Napoleon era (1807-1813)|50
+pl:verdun [fortress town in France (1916 battle)] auto=None
+  Q154748 Verdun|commune in Meuse, France|82
+  Q518076 Verdun|borough in Montreal, Quebec, Canada, former municipalit|17
+  Q1368088 Verdun|commune in Ariège, France|36
+  Q18639864 Verdun|2015 squad-based realistic multiplayer first-person sho|10
+  Q37572551 Verdun|family name|0
+  Q56114255 Verdun|given name|0
+pl:worms [city in Hesse] auto=None
+  Q3852 Worms|town in Rhineland-Palatinate, Germany|100
+  Q604063 World Register of Marine Speci|web-based database of marine species|46
+  Q24514449 Worms|family name|2
+  Q278771 Worms|1995 video game|21
+  Q2268746 Worms|2007 video game|12
+  Q6073593 TCG Karamursel||1
+pl:versailles [town near Paris] auto=None
+  Q621 Versailles|French city and commune in Yvelines, in Île-de-France|126
+  Q2946 Palace of Versailles|palace in Versailles, France and location of the Museum|109
+  Q15053661 Versailles|American 21st century musician|1
+  Q37519355 Versailles|family name|0
+  Q960109 Versailles|city in Woodford County, Kentucky, United States|38
+pl:zakynthos [Zante, Ionian island] auto=None
+  Q144880 Zakynthos|Greek island in the Ionian Sea|74
+  Q144869 Zakynthos|city on the island of Zakynthos, Ionian Islands, Greece|36
+  Q12875663 Zakynthos Municipality|municipality of Greece|10
+  Q1542407 Zakynthos Regional Unit|regional unit of Greece|19
+  Q8065259 Zacynthus|son of the legendary Arcadian chief Dardanus|6
+  Q85986238 Zakynthos|oil products tanker built in 2010|1
+pl:zgierz [town near Łódź] auto=Q104407
+  Q104407 Zgierz|city and urban gmina of Poland|63
+  Q2314140 Gmina Zgierz|rural gmina of Poland|19
+  Q1125855 Zgierz County|powiat of Poland|33
+  Q2436634 Zgierz railway station|railway station in Zgierz, Poland|5
+  Q33728666 Zgierz||1
+  Q112210783 Zgierz massacre|public execution of 100 Poles (96 men and 4 women) carr|2
+pl:zliten [town in Tripolitania] auto=Q207259
+  Q207259 Zliten|city in Libya|40
+  Q18776717 Zliten|village in Bolshesoldatsky District, Russia|4
+  Q21993814 Zliten truck bombing|2016 Libyan militant attack|7
+  Q8073053 Zlitan Municipality|municipality of Libya|3
+pl:izra [village in the Hauran, Syria] auto=None
+  Q3235210 Izra District|district of Syria|18
+  Q12247289 Izra' Subdistrict||7
+  Q1676159 Izra|city in Izra district, Syria|24
+  Q23809411 Izra-n-Tirsi|hill in Algeria|1
+pl:zhytomyr [capital of Volhynia Governorate] auto=Q156713
+  Q156713 Zhytomyr|capital city of Zhytomyr Oblast in northwestern Ukraine|105
+  Q40637 Zhytomyr Oblast|oblast of northern Ukraine|101
+  Q2620750 Zhytomyr Raion|raion in Zhytomyr Oblast, Ukraine|14
+  Q2757317 117240 Zhytomyr|asteroid|10
+  Q12104625 Zhytomyr|railway station in Ukraine|7
+  Q102463833 Zhytomyr Raion|raion in Zhytomyr Oblast, Ukraine (established in 2020)|16
+pl:zeitun [Armenian town in Cilicia (now Süleymanlı] auto=None
+  Q2664842 Süleymanlı|mahalle (administrative quarter) in Onikişubat, Kahrama|18
+  Q17026465 Al-Zaytun|quarter of Gaza's old city|14
+  Q4116309 Zeitoun|district in Cairo, Egypt|6
+pl:zealand [Danish island (or Dutch Zeeland)] auto=None
+  Q705 Zeeland|province of the Netherlands|116
+  Q25535 Zealand|island in Denmark|96
+pl:zikhron-yaakov [Jewish colony in Ottoman Palestine] auto=None
+  Q198399 Zichron Yaakov|town and local council in Haifa District, Israel|30
+  Q113363477 Zichron Yaacov Cemetery|Cemetery in Zichron Yaacov, Israel|0
+  Q141805278 Zikhron Ya'akov Natural Region|natural Region in Haifa, Israel|1
+  Q10860773 Zichron Ya'akov|neighborhood in Jerusalem, Israel|2
+pl:zolochiv [Złoczów, town in eastern Galicia] auto=Q623594
+  Q623594 Zolochiv|city in Lviv Oblast in western Ukraine|54
+  Q2608054 Zolochiv Raion|former raion in Lviv Oblast|14
+  Q2010577 Zolochiv, Kharkiv Oblast|urban type settlement and hromada Bohodukhiv raion, Kha|18
+  Q1975552 Zolochiv Raion|former raion of Kharkiv Oblast (1923-2020)|17
+  Q103839840 Zolochiv Raion|raion in Lviv Oblast, Ukraine (established in 2020)|21
+  Q12107002 Zolochiv|railway station in Zolochiv, Kharkiv Oblast, Ukraine|2
+pl:zolotonosha [town in Poltava Governorate] auto=Q219769
+  Q219769 Zolotonosha|city of Ukraine|43
+  Q2567065 Zolotonosha Raion|former raion in Cherkasy Oblast, Ukraine|4
+  Q103812353 Zolotonosha Raion|raion in Cherkasy Oblast, Ukraine (established in 2020)|22
+  Q16654381 Zolotonosha|Village in North Kazakhstan region|6
+  Q4193585 Zolotonoshsky Uyezd|administrative subdivision of Kiev Viceroyalty, Little |3
+pl:zelechow [town in Siedlce Governorate] auto=None
+  Q393091 Żelechów|city of Poland|29
+  Q2347653 Gmina Żelechów|urban-rural gmina of Poland|19
+  Q9397370 Żelechów|village in Gmina Zabia Wola, Poland|9
+  Q8083210 Żelechów, Lubusz Voivodeship|village in Lubusz, Poland|9
+  Q8083212 Żelechów|village in Masovian, Poland|8
+pl:zambrow [town in Łomża Governorate] auto=None
+  Q145719 Zambrów|city and urban gmina of Poland|42
+  Q2323862 Gmina Zambrów|rural gmina of Poland|21
+  Q1125749 Zambrów County|powiat of Poland|33
+  Q83645420 Zambrów|ship built in 1969|1
+  Q33727506 Zambrów||1
+pl:semmering [Alpine pass and resort in Austria] auto=None
+  Q659891 Semmering|municipality in Neunkirchen District, Lower Austria, Au|46
+  Q63600 Semmering Pass|mountain pass in Austria|22
+  Q69352246 Semmering|cadastral municipality in Spital am Semmering in Bruck-|3
+  Q19842286 Semmering|Austrian ski resort|9
+  Q259313 Semmering railway|railway line|50
+  Q21879617 Semmering||1
+pl:zanzibar [island sultanate in East Africa] auto=None
+  Q1774 Zanzibar Islands|semi-autonomous part of Tanzania|113
+  Q2222874 Zanzibar City|city in Tanzania|66
+  Q7332301 Unguja|island in Tanzania|48
+  Q706541 Zanzibar Archipelago|archipelago in Tanzania|62
+  Q593490 Zanzibar|Italian television series|3
+pl:giurgiu [Danube port in Romania] auto=Q202351
+  Q202351 Giurgiu|capital of the county of Giurgiu, Romania|60
+  Q193055 Giurgiu County|county of Romania|61
+  Q56810815 Giurgiu Nord railway station|railway station in Giurgiu, Romania|2
+  Q16898270 Giurgiu|locality in Giurgiu County, Romania|0
+  Q79854420 Giurgiulești railway station|railway station in Giurgiulești|1
+pl:kharkiv [city in Kharkov Governorate] auto=None
+  Q42308 Kharkiv|capital city of Kharkiv Oblast in eastern Ukraine|171
+  Q170666 Kharkiv Oblast|oblast of Ukraine|100
+  Q1458695 National University of Kharkiv|university in Ukraine|39
+  Q2631924 Kharkiv Raion|raion in Kharkiv Oblast, Ukraine (1923–2020)|4
+  Q1033990 Kharkiv|river in Russia and Ukraine|23
+  Q521873 9167 Kharkiv|asteroid|25
+pl:khabarovsk [city in the Russian Far East] auto=None
+  Q7788 Khabarovsk Krai|federal subject of Russia|120
+  Q4454 Khabarovsk|city in Russia, administrative center of the Khabarovsk|122
+  Q578796 Khabarovsk-1|railway station in Khabarovsk, Russia|13
+  Q826690 Khabarovsky District|municipal district in Russia|14
+  Q11712956 MS Sounds of Orient|ship built in 1962, scrapped in 1989|3
+pl:hebron [city in Ottoman Palestine] auto=None
+  Q2692516 Hebron|village and civil parish in Northumberland, England|13
+  Q168225 Hebron|Palestian city in the occupied West Bank|100
+  Q1484910 Hebron|town in Connecticut, United States|24
+  Q960489 Hebron|city in and county seat of Thayer County, Nebraska, Uni|40
+  Q1592833 Hebron|Catholic titular see|1
+  Q264180 Hebron Governorate|governorate of the Palestinian National Authority|34
+pl:hadimkoy [village west of Constantinople (Çatalca ] auto=Q6675155
+  Q6675155 Hadımköy|mahalle (administrative quarter) in Arnavutköy, İstanbu|4
+  Q48802710 Beykent|BRT station in Istanbul|3
+  Q65251997 Hadımköy|settlement in Turkey|1
+  Q127418281 Hadımköy Hadım Baba Mosque|mosque in İstanbul, Turkey|0
+  Q133259808 Hadımköy Martyrs' Cemetery|martyrs' cemetery in Arnavutköy (İlçe) District|0
+  Q133484393 |hospital in Arnavutköy (İlçe) District|0
+pl:al-hudaydah [Red Sea port in Yemen] auto=None
+  Q275755 Al Hudaydah Governorate|governorate of Yemen|44
+  Q270041 Al Hudaydah|city in Yemen|64
+  Q20301638 Al Hudaydah|human settlement in Yemen|3
+  Q20301646 Al Hudaydah|village in Al Wazi'iyah District, Yemen|1
+  Q31287857 Al Ḩudaydah||1
+pl:morocco [Sultanate of Morocco] auto=Q1028
+  Q1028 Morocco|sovereign state in North Africa|335
+  Q142141374 Morocco|board game|0
+  Q2118555 Morocco leather|soft, pliable leather used for bookbinding, wallets, li|20
+  Q577754 Morocco|1930 film by Josef von Sternberg and Henry Hathaway|34
+  Q3708053 Morocco titular see|titular see|3
+  Q12183875 Sharifian Empire|historical name given to Morocco|10
+pl:chios [Aegean island] auto=None
+  Q160483 Chios|Greek island in the Aegean Sea|81
+  Q748832 Chios|Greek town on the homonymous island|42
+  Q1690590 Chios Municipality|municipality of Greece|11
+  Q12876840 Chios|parliamentary constituency of Greece|3
+  Q16332718 Chios Regional Unit|regional unit in North Aegean, Greece|18
+  Q1074481 Chios|son of Poseidon, eponym of Chios island, water deity in|3
+pl:aleppo [city in northern Syria] auto=None
+  Q41183 Aleppo|city in Aleppo Governorate, Syria|150
+  Q214064 Aleppo Governorate|governorate of Syria|59
+  Q61994005 Aleppo|horse|0
+  Q2302663 University of Aleppo|university in Aleppo, Syria|26
+  Q113460527 Aleppo|painting by Jenny Saville|0
+pl:chalcis [town on Euboea, Greece] auto=Q200133
+  Q13635343 Chalcis|genus of insects|8
+  Q200133 Chalkída|Greek city in Central Greece region|64
+  Q21235810 Chalcis|ancient polis of Euboea|2
+  Q979091 Qinnasrin|archaeological site|20
+  Q5739811 Chalcis|nymph in Greek mythology|4
+  Q9188689 Chalcis|ancient town of Elis|3
+pl:khamovniki [district of Moscow] auto=None
+  Q862100 Khamovniki District|human settlement in Central Administrative Okrug, Mosco|20
+  Q20018468 Khamovniki Barracks||2
+  Q122168357 Khamovniki Districtional Court|Districtional Court in Russia|0
+pl:al-hasa [region in eastern Arabia] auto=None
+  Q27126243 Al-Hasa District|district of Jordan|6
+  Q33765974 Al-Hasa|village in Jordan|3
+  Q311321 Hasakah|capital city of Hasakah Governorate in Syria|62
+  Q35183094 Al Hasa Sub-District||1
+  Q117190681 Al-Hasa|sub-district in Al Bayda, Yemen|1
+pl:kherson [city in Kherson Governorate] auto=None
+  Q156732 Kherson|capital city of Kherson Oblast in southern Ukraine|120
+  Q163271 Kherson Oblast|oblast (region) of Ukraine|110
+  Q638445 Chersonesus|ancient city in today's Sevastopol, Crimea|65
+  Q1540289 Kherson Governorate|region of the Russian Empire (1803–1922)|33
+  Q108410527 Kherson urban hromada|territorial hromada in Kherson Raion, Kherson Oblast, U|6
+  Q97495637 Kherson Raion|raion in Kherson Oblast, Ukraine (established in 2020)|19
+pl:taourirt [town in eastern Morocco] auto=None
+  Q28903473 Taourirt|douar in Morocco|4
+  Q2329701 Taourirt|city in Morocco|30
+  Q2948533 Taourirt railway station|railway station in Taourirt, Morocco|3
+  Q2165392 Taourirt Province|province of Morocco|17
+  Q16593169 Ksar of Taourirt|Moroccan cultural heritage site|11
+  Q23785798 Taourirt|mountain in Algeria|1
+pl:tafilalt [oasis region in southeastern Morocco] auto=None
+  Q19950954 Drâa-Tafilalet|region of Morocco, formerly known as Sijilmasa from its|34
+  Q1017333 Tafilalt|region and oasis in Morocco, previously also known as S|27
+  Q29437745 Tafilalt|Wikimedia disambiguation page|1
+pl:tarnow [town in western Galicia] auto=Q106281
+  Q106281 Tarnów|city with powiat rights of Poland|77
+  Q2098840 Gmina Tarnów|rural gmina of Poland|18
+  Q1340642 Tarnów County|powiat of Poland|30
+  Q329833 Tarnowskie Góry|town in the Silesian Voivodeship in southern Poland|59
+pl:tver [city in central Russia] auto=Q2288
+  Q2288 Tver|town and administrative center of Tver region in wester|107
+  Q22124796 TVer|Japanese video streaming service|6
+  Q25522148 Tver|19th century ship|1
+  Q2292 Tver Oblast|federal subject of Russia|122
+  Q14927640 Tver|railway station in Tver, Russia|8
+  Q7055126 North Devon Railway|former English railway company|3
+pl:tiberias [city in Ottoman Palestine] auto=Q151920
+  Q19744164 Tiberias|village in Bolaang Mongondow Regency, North Sulawesi, I|2
+  Q151920 Tiberias|city in Galilee, Israel|82
+  Q47007230 Tiberias|locality in Tasmania, Australia|1
+  Q111124483 Tiberias Hostel|hostel in Tiberias|0
+  Q76626712 Tiberias|painting by Reuven Rubin|0
+  Q135451418 Tiberias||1
+pl:taganrog [port on the Sea of Azov] auto=Q170513
+  Q170513 Taganrog|port city in Rostov Oblast in southern Russia|97
+  Q4449573 Taganrog|port on the Sea of Azov, Russia|2
+  Q4449549 Taganrog|river in Krasnoyarsk Krai, Russia|2
+  Q2324386 Taganrog Technological Institu|university in Russia that existed in 1993–2006|4
+  Q28966963 Taganrog old lighthouse|historic site in Taganrog, Rostov oblast Russia|6
+pl:tahiti [French Polynesian island] auto=Q42000
+  Q42000 Tahiti|island in the Southern Pacific Ocean|123
+  Q45148398 Tahiti|street in Pečky, Czech Republic|0
+  Q34128 Tahitian|language of French Polynesia without official language |77
+  Q12070509 Tahiti|South Korean girl group|12
+  Q1049719 Faa'a International Airport|airport|27
+pl:tuapse [Black Sea town in the Caucasus] auto=Q196702
+  Q196702 Tuapse|town in Krasnodar Krai, Russia|71
+  Q261493 Tuapsinsky District|raion in Krasnodar Krai, Russia|17
+  Q2031904 Tuapse|river in Krasnodar Krai, Russia|9
+  Q4464786 Tuapse-Passenger railway stati|railway station in Tuapse, Russia|4
+  Q110990538 Tuapse — Vesioloe|railway line of the North Caucasian Railway in Russia|0
+  Q108718020 Tuapse|port in Russia|4
+pl:togo [German colony in West Africa] auto=None
+  Q712832 Volta Region|administrative region in Ghana|46
+  Q161062 Togoland|former protectorate of the German colonial empire in We|45
+  Q945 Togo|country in West Africa|302
+  Q512700 Togoland campaign|1914 French and British invasion of the German colony o|17
+  Q99395578 Togoland : Economy, general|folder of the 20th Century Press Archives|0
+pl:tuzi [town near Lake Scutari (Albanian revolt ] auto=Q991302
+  Q991302 Tuzi|human settlement in Montenegro|37
+  Q749438 Tuzie|commune in Charente, France|28
+  Q12750439 Tuzi Municipality|municipality of Montenegro|13
+  Q69523989 Tuzi|family name|0
+  Q12865132 Tuzi|human settlement in Georgia|5
+pl:tutrakan [Danube town in Dobruja (1916 battle)] auto=None
+  Q2609628 Tutrakan|municipality in Silistra oblast, Bulgaria|22
+  Q404939 Tutrakan|city in Tutrakan municipality, Silistra oblast, Bulgari|37
+  Q123950906 Tutrakan|street in Ovcha Kupel dist. Sofia (Bulgaria)|0
+  Q1076516 Tutrakantsi|village in Provadia municipality, Varna oblast, Bulgari|10
+  Q7856983 Tutrakan Peak|mountain Peak in Northeastern Bulgaria|5
+  Q125525687 Tutrakan spiritual district||0
+pl:tula [city in central Russia] auto=None
+  Q2770 Tula|city in the center of European Russia|102
+  Q1193547 Tulane University|private research university in New Orleans, Louisiana, |37
+  Q97478881 Tula|female given name|1
+  Q2792 Tula Oblast|federal subject of Russia|124
+  Q157713 Tulle|commune in Corrèze, France|71
+  Q87233814 Tula|1763 genus in Solanoideae described by Michel Adanson|0
+pl:toulouse [city in southern France] auto=Q7880
+  Q7880 Toulouse|French commune and city in Haute-Garonne, Occitania|176
+  Q37046089 Toulouse|family name|1
+  Q1470517 Toulouse-le-Château|commune in Jura, France|34
+  Q19518 Toulouse FC|French association football club|56
+  Q1273188 Toulouse III - Paul Sabatier U|French university, in the Academy of Toulouse (1969-202|24
+  Q3117393 TBS Education|French business school|30
+pl:toulon [naval port in southern France] auto=Q44160
+  Q44160 Toulon|commune of France|120
+  Q983445 Toulon-sur-Arroux|commune in Saône-et-Loire, France|35
+  Q1857064 RC Toulonnais|French rugby union club|18
+  Q262979 Toulon-sur-Allier|commune in Allier, France|46
+  Q575533 Toulon|city in Illinois, United States|38
+  Q1364825 Toulonjac|commune in Aveyron, France|41
+pl:tomaszow-mazowiecki [town in Piotrków Governorate] auto=Q157994
+  Q157994 Tomaszów Mazowiecki|city and urban gmina in Poland|55
+  Q2458435 Gmina Tomaszów Mazowiecki|rural gmina of Poland|18
+  Q606486 Tomaszów Mazowiecki County|powiat of Poland|29
+  Q9359866 Tomaszów Mazowiecki|railway station in Tomaszów Mazowiecki, Poland|3
+  Q33721592 Tomaszów Mazowiecki||1
+  Q971688 Tomaszów Mazowiecki Białobrzeg|railway station in Tomaszów Mazowiecki, Poland|3
+pl:tunis [capital of Tunisia] auto=Q3572
+  Q948 Tunisia|country in North Africa|329
+  Q3572 Tunis|capital of Tunisia|184
+  Q2017684 French protectorate of Tunisia|1881-1956 monarchy in Northern Africa|39
+  Q24626846 Tunis|village in South Central Timor Regency, East Nusa Tengg|1
+  Q328109 Tunis Governorate|governorate in Tunisia|37
+  Q557516 |asteroid|26
+pl:tonkin [northern region of French Indochina] auto=Q1858
+  Q1858 Hanoi|capital of Vietnam|203
+  Q37066416 Tonkin|family name|2
+  Q622778 Tonkin|northern part of Vietnam, to the west of the Gulf of To|40
+  Q54967974 Tonkin|given name|0
+  Q106782703 Tonkin||0
+pl:tukums [town in Courland] auto=Q636935
+  Q636935 Tukums|city and capital of Tukums Municipality, Latvia|54
+  Q97232977 Tukums Municipality|municipality of Latvia from 1 July 2021|30
+  Q369007 Tukums Municipality|municipality of Latvia between 2009 and 2021|4
+  Q843542 Tukums District|former district of Latvia|24
+  Q15219904 Tukums|village in Latvia|2
+  Q3760588 Tukums county|former county of Latvia and Russian Empire|6
+pl:tokyo [capital of Japan] auto=Q1490
+  Q1490 Tokyo|capital and largest city of Japan|305
+  Q7473516 Tokyo|special wards in the eastern part of Tokyo Metropolis i|42
+  Q308891 ward area of Tokyo|special municipality in the eastern part of Tokyo Metro|41
+  Q7813796 Tokyo|Masaharu Fukuyama song|2
+  Q7842 University of Tokyo|national university in Tokyo, Japan|85
+pl:thuringia [region of central Germany] auto=Q1205
+  Q1205 Thuringia|federated state in the center of Germany|169
+  Q27916557 Thuringia|state of East Germany|1
+  Q1678 Saale|river in Germany|63
+  Q4210 Thuringian Forest|mountain range in Thuringia, Germany|42
+  Q24010948 Thuringia|book in the series Handbook of German Art Monuments by |0
+pl:rumelia [European Turkey] auto=Q184002
+  Q184002 Rumelia|Ottoman possessions in the Balkans|52
+  Q4400028 Rumelia|village in Madzharovo municipality, Haskovo oblast, Bul|12
+  Q4811008 Rumelia eyalet|1365–1867 Ottoman province in the Balkans|25
+pl:tasmania [Australian state] auto=Q34366
+  Q34366 Tasmania|state of Australia|169
+  Q56649108 Tasmania|constituency of the Australian senate|0
+  Q3593416 Tasmania|island of Australia (for the state of Australia consist|11
+  Q962011 University of Tasmania|public university located in Tasmania, Australia|28
+  Q5148519 Colony of Tasmania|British self-governing colony between 1856 and 1901|6
+  Q5284572 Tasmania|Australian federal electoral division (1901–1903)|1
+pl:tetovo [town in western Macedonia] auto=Q157024
+  Q157024 Tetovo|town and seat of Tetovo Municipality, North Macedonia|75
+  Q3245456 Tetovo Municipality|local administrative unit (opština) in North Macedonia|33
+  Q2021973 Tetovo|village in Ruse municipality, Ruse oblast, Bulgaria|14
+  Q6693721 Lower Polog dialect|Torlakian dialect|3
+  Q12910952 Tetovo Fortress|archaeological site in Macedonia|7
+  Q12906468 Tetovo railway station|railway station in North Macedonia|1
+pl:tibet [region in Central Asia] auto=Q17252
+  Q17269 Tibet Autonomous Region|autonomous region of China|130
+  Q17252 Tibet|plateau region in west China|179
+  Q1506760 Tibet|French comic artist (1931-2010)|12
+  Q34271 Tibetan|Tibeto-Burman language|124
+  Q2444884 Tibet|former de facto state in East Asia|40
+pl:tianjin [port city in northern China] auto=Q11736
+  Q11736 Tianjin|municipality of China|156
+  Q113491044 Tianjin County|historical administrative division of China|0
+  Q2031560 Tianjin University|university in Tianjin, China|18
+  Q148164 |asteroid|30
+  Q61819663 Tianjin|lunar crater|5
+  Q3528029 Tianjin||4
+pl:tbilisi [Tiflis, capital of the Caucasus Viceroya] auto=Q994
+  Q994 Tbilisi|capital and the largest city of Georgia (country)|229
+  Q274924 Admiral Kuznetsov|1985 Kuznetsov-class aircraft carrier|47
+  Q2156963 Tbilisi||6
+  Q1341835 Tbilisi Central Station|main railway station in Tbilisi, Georgia|20
+  Q37006 Tbilisi Metro|rapid transit system of Tbilisi, Georgia|55
+  Q37008 Tbilisi State University|university in Tbilisi, Georgia|47
+pl:tangier [port city in northern Morocco, seat of f] auto=Q126148
+  Q126148 Tangier|city in and capital of Tanger-Tetouan-Al Hoceima, Moroc|125
+  Q111914584 Tangier|2010 studio album by Billy Thorpe|1
+  Q817275 Tangier|Moroccan city|15
+  Q1373391 Tangier|town in Accomack County, Virginia, United States|30
+  Q104119779 Diocese of Tanger (Tangier)|medieval diocese of the Roman Catholic Church (1459-157|0
+  Q27978149 Tangier|painting by Ferdinand van Kessel|0
+pl:bozcaada [Tenedos island] auto=Q211817
+  Q10259759 Bozcaada district|district of Çanakkale, northwestern Turkey|15
+  Q211817 Bozcaada|island off the northwestern coast of Turkey|50
+  Q49277292 Bozcaada|district capital of the island|1
+  Q6050068 Bozcaada Castle|Fort|5
+pl:tanta [city in the Nile Delta] auto=Q271771
+  Q4197837 Tanta|district in Tabalong Regency, South Kalimantan Province|6
+  Q4254768 Tanta|village in Tabalong Regency, South Kalimantan, Indonesi|4
+  Q271771 Tanta|city in Egypt|64
+  Q137546275 Tanta|Peruvian restaurant chain|1
+  Q134778543 Tanta|family name|0
+pl:tenerife [Canary island] auto=Q40846
+  Q40846 Tenerife|one of the main islands of the Canary archipelago|131
+  Q1525827 Tenerife|Colombian municipality in the department of Magdalena|24
+  Q48851521 Tenerife|Spanish political constituency|3
+  Q52349995 IMO 9216846|container ship built in 2002|1
+  Q21483926 Tenerife|Senate constituency in Spain|3
+  Q29429760 Tenerife|2005 documentary directed by Chantal Hébert and Phil Co|0
+pl:trabzon [Black Sea port in Anatolia] auto=Q45301
+  Q45301 Trabzon|city in Turkey|121
+  Q388995 Trabzon Province|province in northeastern Turkey|83
+  Q5069394 Trabzon|electoral district|4
+  Q1169859 Trabzon Airport|airport near the city of Trabzon in the eastern Black S|26
+  Q110622310 Trabzon|bulk carrier launched in 2011|1
+pl:trieste [Austrian Adriatic port] auto=Q546
+  Q546 Trieste|city and seaport in northeastern Italy|138
+  Q850157 Bathyscaphe Trieste|deep sea scientific submarine|30
+  Q37493443 Trieste|family name|1
+  Q25345688 Trieste|2019 light aircraft carrier|15
+  Q29855780 Trieste|given name|1
+  Q122984884 Trieste|male given name|0
+pl:tripoli-libya [capital of Ottoman Tripolitania (Libya)] auto=None
+  Q193409 Tripoli|city in Peloponnese, Greece|65
+  Q3579 Tripoli|capital city of Libya|189
+  Q186202 Giovanni Battista Tiepolo|Italian painter (1696–1770)|67
+  Q37284982 Tripoli|family name|0
+  Q168954 Tripoli|city in northern Lebanon|93
+  Q139709304 Tripoli||0
+pl:tripolitania [Ottoman province in North Africa] auto=Q192435
+  Q192435 Tripolitania|historic region and former province of Libya|58
+  Q2526060 Tripolitania|titular see in Libya|3
+  Q3433694 Italian Tripolitania|1927-1934 Italian possession in North Africa|19
+  Q1529261 Tripolitania vilayet|Ottoman province|25
+  Q3716754 Tripolitania|Roman province in North Africa|6
+pl:ternopil [town in eastern Galicia] auto=Q156743
+  Q156743 Ternopil|city of Ternopil Oblast, Ukraine|99
+  Q536032 Ternopil|2002 Grisha-class corvette|6
+  Q173407 Ternopil Oblast|administrative division (oblast) of western Ukraine|100
+  Q2995495 Ternopil Raion|raion in Ternopil Oblast, Ukraine (until 2020)|10
+  Q12160829 Ternopil|railway station in Ternopil, Ukraine|7
+  Q94473 I. Ya. Horbachevsky Ternopil N|university in Ternopil, Ukraine|22
+pl:transvaal [province of South Africa] auto=None
+  Q190959 Transvaal Province|former province of South Africa|61
+  Q1187978 Transvaal Colony|British colony from 1877 to 1881 and 1902 to 1910|30
+  Q550374 South African Republic|independent Boer-ruled country in Southern Africa betwe|56
+  Q33890 Northern Sotho|Bantu language|67
+pl:terrassa [industrial town in Catalonia] auto=Q13939
+  Q13939 Terrassa|city in Catalonia, Spain|92
+  Q4894452 Terrassa Museum|museum in Spain|5
+  Q23992105 Terrassa||1
+  Q107541688 Terrassa|masia in Gavet de la Conca, Pallars Jussà, Lleida, Cata|0
+  Q17184302 Terrassa|human settlement in Gavet de la Conca, Pallars Jussà, A|2
+pl:tashkent [city in Russian Turkestan] auto=Q269
+  Q269 Tashkent|capital of Uzbekistan|195
+  Q19727210 Tashkent|1938 Tashkent-class destroyer|11
+  Q487585 Tashkent Region|region of Uzbekistan|67
+  Q25532028 Gʻafur Gʻulom Printing and Pub|publishing house in Uzbekistan|1
+  Q651133 National University of Uzbekis|private university in Tashkent, Uzbekistan|28
+  Q4120994 Tashkent|Metro station|5
+pl:cherkasy [town in Kiev Governorate] auto=Q157055
+  Q157055 Cherkasy|city in Ukraine|98
+  Q161808 Cherkasy Oblast|administrative division (oblast) in central Ukraine|103
+  Q2342372 Cherkasy Raion|former raion in Cherkasy Oblast, Ukraine|11
+  Q103796930 Cherkasy Raion|raion in Cherkasy Oblast, Ukraine (established in 2020)|17
+  Q4513140 Cherkasy|village in Kovel Raion, Volyn Oblast, Ukraine|9
+  Q1771041 Cherkasy|railway station|7
+pl:yalta [resort town in Crimea] auto=Q128499
+  Q128499 Yalta|city in Crimea, Ukraine|103
+  Q121461888 Yalta|family name|0
+  Q4537455 Yalta|rural settlement in Manhush Hromada, Mariupol Raion, Do|12
+  Q139667 |asteroid|39
+  Q2629652 Yalta Municipality|municipality in Crimea, Ukraine|16
+pl:iasi [city in Moldavia, Romania] auto=Q46852
+  Q46852 Iași|capital of the county of Iași, Romania|108
+  Q16898350 |locality in Iași County, Romania|0
+  Q4968773 Iași|village in Brașov County, Romania|11
+  Q182888 Iași County|county of Romania|67
+  Q5983536 Iași Railway Station|Railway Station in Romania|11
+  Q23670 It's Always Sunny in Philadelp|American comedy television series|35
+pl:japan [Empire of Japan] auto=Q17
+  Q17 Japan|island country in East Asia|419
+  Q5287 Japanese|language spoken in East Asia|300
+  Q188712 Empire of Japan|empire in the Asia-Pacific region from 1868 to 1947|97
+  Q205662 Tokugawa shogunate|1603–1868 Japanese military government|73
+pl:iacobeni [village in Bukovina] auto=None
+  Q1065619 Iacobeni|village in Suceava County, Romania|10
+  Q16439999 Iacobeni|commune in Sibiu County, Romania|22
+  Q16427516 Iacobeni|commune in Suceava County, Romania|20
+  Q221054 Iacobeni|village in Harghita County, Romania|11
+  Q1059402 Iacobeni|village in Sibiu County, Romania|9
+  Q755697 Iacobeni|village in Cluj County, Romania|10
+pl:judea [southern region of the Land of Israel] auto=None
+  Q94586595 Judea|given name|0
+  Q104028 Judea|region of ancient Israel|80
+  Q1003997 Judaea|province of the Roman Empire (6–135 CE)|54
+  Q15843470 Roman Palestine|the period of Roman control over the Southern Levant|9
+  Q36678 West Bank|Palestinian territory on the western bank of the Jordan|141
+pl:johannisthal [airfield near Berlin] auto=Q655012
+  Q655012 Johannisthal|locality of Berlin|12
+  Q51301802 Johannisthal|human settlement in Germany|2
+  Q66235716 Johannisthal Kirche|tram stop in Berlin, Germany|1
+  Q19963727 Johannisthal|locality of Windischeschenbach|2
+  Q139660107 Johannisthal|Village in the municipality of Rüstorf, district of Vöc|0
+  Q111333233 Johannisthaler Park|park in Treptow-Köpenick, Germany|0
+pl:johannesburg [city in the Transvaal] auto=Q34647
+  Q34647 Johannesburg|largest city in South Africa|188
+  Q25097099 Johannesburg|album by Mumford & Sons|1
+  Q743171 Johannesburg|census-designated place in Kern County, California|29
+  Q6217141 Johannesburg|racehorse|3
+  Q2346838 City of Johannesburg Metropoli|metropolitan municipality in Gauteng, South Africa|14
+  Q217426 Soweto|township of South Africa|61
+pl:yokohama [port city in Japan] auto=Q38283
+  Q38283 Yokohama|designated city in Kanagawa Prefecture, Japan|170
+  Q141696780 Yokohama|2016 board game|0
+  Q1205910 Yokohama|town in Kamikita district, Aomori prefecture, Japan|25
+  Q801658 Yokohama Station|railway station and metro station in Nishi-ku, Yokohama|21
+  Q1192619 Yokohama National University|Japanese national university|18
+  Q8054634 Yokohama International Swimmin|building in Tsuzuki-ku, Kanagawa Prefecture, Japan|3
+pl:jena [university town in Thuringia (SPD congre] auto=Q3150
+  Q3150 Jena|city in Thuringia, Germany|115
+  Q16864313 Jena|family name (ଜେନା)|1
+  Q154561 University of Jena|university located in Jena, Thuringia, Germany|54
+  Q1017042 Jena|parish seat of La Salle Parish, Louisiana, United State|36
+  Q16290330 Jena|female given name|2
+pl:heidelberg [university town in Baden] auto=Q2966
+  Q2966 Heidelberg|large city in Karlsruhe Government Region, Baden-Württe|147
+  Q1594002 Heidelberg|suburb of Melbourne, Victoria, Australia|11
+  Q1594009 Heidelberg|town in Gauteng province, South Africa|17
+  Q467998 Heidelberg Central Station|railway station in Heidelberg, Germany|13
+  Q151510 Heidelberg University|public research university in Heidelberg, Baden-Württem|85
+  Q30768916 Heidelberg||1
+pl:aegean-sea [sea] auto=Q34575
+  Q34575 Aegean Sea|part of the Mediterranean Sea, between the Greek mainla|154
+  Q254304 Aegean Sea|Byzantine province in the northern Aegean Sea|15
+  Q83626624 Aegean Sea|ship built in 2010|1
+  Q83627161 Aegean Sea|tugboat built in 1962|1
+  Q380572 Aegean Sea oil spill|1992 environmental disaster off the coast of Galicia, S|10
+  Q106623948 Aegean Sea|Chinese defunct website|1
+pl:red-sea [sea] auto=Q23406
+  Q23406 Red Sea|seawater inlet of the Indian Ocean|192
+  Q30831 Red Sea Governorate|Egyptian governorate|56
+  Q135015367 Red Sea|2023 video game developed by Eternal Sands Media|0
+  Q310120 Red Sea|state in Sudan|45
+  Q19888766 Red Sea|painting by Anselm Kiefer|0
+  Q20789306 Red Sea|painting by Akseli Gallen-Kallela|0
+pl:north-sea [sea] auto=Q1693
+  Q1693 North Sea|marginal sea of the Atlantic Ocean|194
+  Q1247 Caribbean Sea|marginal tropical sea of the Atlantic Ocean, located ea|184
+  Q119314 North Sea Canal|Dutch ship canal|24
+  Q3460263 North Sea|census-designated place in Suffolk County, New York|21
+  Q107068399 The Burning Sea|2021 film directed by John Andreas Andersen|9
+  Q7086642 Olga Mærsk|container ship, built in 1948|3
+pl:black-sea [sea] auto=Q166
+  Q166 Black Sea|sea between Europe and Asia|240
+  Q1913944 Euxeinos Pontos|ancient name of the Black Sea|2
+  Q3640758 Black Sea|album by XTC|7
+  Q15059365 Black Sea|2014 film by Kevin Macdonald|18
+  Q28568398 Black Sea|painting by Philip Guston|0
+  Q4921793 Black Sea|album by Fennesz|3
+pl:mediterranean-sea [sea] auto=Q4918
+  Q4918 Mediterranean Sea|sea between Europe, Africa and Asia|276
+  Q986177 mediterranean sea|type of sea with limited water exchange with outer ocea|31
+  Q17379799 Akdeniz|statue by İlhan Koman|10
+  Q72499 Mediterranean Basin|loosely defined region of lands around the Mediterranea|72
+  Q83641243 X-Press Netravati|ship built in 2006|1
+  Q83650360 Mediterranean Sea|vehicles carrier built in 2010|1
+pl:giannitsa [Yenidje, town in Macedonia] auto=Q929022
+  Q929022 Giannitsa|city in Pella regional unit, Macedonia, Greece|38
+  Q16322721 Elaiochori|village in Kalamata, Messinia, Greece|3
+  Q12279886 Giannitsa Lake|former lake of Greece|11
+  Q12875650 Giannitsa Municipal Unit|subdivision of Pella Municipality, Greece|1
+  Q16327691 Clock Tower of Giannitsa|building in Municipality of Pella, Central Macedonia, G|3
+  Q112293227 Giannitsa General Hospital|hospital in Pella regional unit, Greece|0
+pl:jekabpils [Jakobstadt, town in Courland] auto=Q191120
+  Q191120 Jēkabpils|state city of Latvia in Jēkabpils Municipality, municip|65
+  Q97231194 Jēkabpils Municipality|municipality of Latvia from 1 July 2021|31
+  Q1579101 Jēkabpils Municipality|municipality of Latvia between 2009 and 2021|5
+  Q843675 Jēkabpils District|former district of Latvia|25
+  Q33682469 Jēkabpils||1
+  Q140399959 Jēkabpils|1921 painting by Uga Skulme (102.5×122 cm)|0
+pl:dnipro [Yekaterinoslav, city in southern Russia] auto=None
+  Q48256 Dnipro|city and administrative center of Dnipropetrovsk Oblast|146
+  Q40855 Dnieper|river in Eastern Europe|126
+  Q2635183 MFC Kremin Kremenchuk|professional football club based in Kremenchuk, Ukraine|11
+  Q606937 Dnipro Raion|urban district in Kyiv Municipality, Ukraine|22
+  Q170672 Dnipropetrovsk Oblast|administrative division (oblast) in central Ukraine|108
+pl:jerusalem [city in Ottoman Palestine] auto=Q1218
+  Q1218 Jerusalem|city in the Middle East, holy to the three Abrahamic re|300
+  Q10540001 Jerusalem|family name|4
+  Q478463 Jerusalem|novel by Selma Lagerlöf|10
+  Q25909258 Jerusalem|village in Puncak Regency, Central Papua, Indonesia|1
+  Q55502 Kingdom of Jerusalem|medieval Christian kingdom in the Middle East|77
+  Q2116978 Jérusalem|1986 studio album by Alpha Blondy and The Wailers|3
+pl:kuwait [sheikhdom in the Persian Gulf] auto=None
+  Q817 Kuwait|sovereign state in Western Asia|306
+  Q35178 Kuwait City|capital of Kuwait|169
+  Q3273657 Kuwait University|university in Kuwait|16
+pl:kolkata [Calcutta, city in British India] auto=Q1348
+  Q1348 Kolkata|capital city of West Bengal, India|208
+  Q388535 Netaji Subhas Chandra Bose Int|International airport in Kolkata, India|43
+  Q2088496 Kolkata district|district in West Bengal, India|35
+  Q1156894 Kolkata Knight Riders|cricket team in the Indian Premier League|30
+  Q6427323 Kolkata railway station|Railway Station in West Bengal, India|8
+pl:znamenskaya-church [Church of the Sign, St Petersburg] auto=Q4192815
+  Q4192815 Znamenskaya Church|Orthodox church in Dubrovitsy, Podolsk Urban Okrug, Mos|13
+  Q4192820 Znamenskaya Church||3
+  Q112328075 Znamenskaya Church|church in Yaroslavl, Russia|2
+  Q3580778 Znamenskaya Church in Tsarskoe|church building in Pushkin, Russia|4
+  Q108331694 Znamenskaya Church (Abalak)|church building in Abalak, Russia|1
+  Q78851990 Znamenskaya Church in the selo|church building, architectural landmark in Ilyinskoe, R|2
+pl:st-peters-basilica [basilica in the Vatican] auto=Q12512
+  Q12512 St. Peter's Basilica|church in Vatican City|133
+  Q2887029 St. Peter's Basilica|basilica in Luxeuil-les-Bains, France|5
+  Q810126 Old St. Peter's Basilica|church in Rome, Papal States|30
+  Q22827385 St. Peter's Basilica Church|ruins of a Roman Catholic church near Mitrovica, Kosovo|8
+pl:crete [island under Ottoman suzerainty, united ] auto=Q34374
+  Q958049 Crete|city in Saline County, Nebraska, United States|37
+  Q34374 Crete|island of Greece|158
+  Q46135 Créteil|French commune and city in Val-de-Marne, Île-de-France|82
+  Q110095657 Crete|given name|0
+  Q1267522 Crete Region|administrative region of Greece|28
+  Q135018017 CRETE|video game developed by Mayhem Mirror Studios|0
+pl:lens-pas-de-calais [coal town in northern France (Courrières] auto=None
+  Q165271 Lens|commune in Pas-de-Calais, France|92
+pl:larache [port in northern Morocco] auto=Q606775
+  Q606775 Larache|town in Morocco|44
+  Q1759567 Larache Province|province in Tanger-Tétouan, Moroco|19
+  Q33689300 Larache||1
+  Q28119997 Ensenada de Vilaboa|beach in Spain|0
+pl:lviv [Lemberg, capital of Galicia] auto=Q36036
+  Q36036 Lviv|capital city of Lviv Oblast in western Ukraine|178
+  Q164193 Lviv Oblast|administrative division (oblast) in western Ukraine|108
+  Q80207 Lviv University|public university in Lviv, Ukraine|50
+  Q1817355 Lviv Polytechnic|technical university in Lviv|26
+  Q55075131 Lviv|Ukrainian cycling team (2017-)|3
+pl:levant [eastern Mediterranean lands] auto=None
+  Q15761348 Levant|academic journal|0
+  Q37202817 Levant|family name|1
+  Q81483 Levant|geographic and cultural region consisting of the easter|106
+  Q3076765 Ottoman Syria|the region of Syria under the Ottoman Empire (1516–1918|30
+  Q7075820 Occupied Enemy Territory Admin|joint British and French military administration over p|23
+  Q13415123 Syria|area located east of the Mediterranean sea|42
+pl:heligoland [German North Sea island] auto=Q3038
+  Q3038 Heligoland|municipality in Schleswig-Holstein, Germany|88
+  Q3129772 Heligoland|German island|7
+  Q1602516 Heligoland|2010 album by Massive Attack|15
+  Q5705328 Heligoland|2003 novel by Shena Mackay|1
+  Q5705325 Heligoland|Australian musical group|1
+pl:lugano [town in Switzerland] auto=None
+  Q7024 Lugano|city in the canton of Ticino, Switzerland|120
+  Q14418 Lake Lugano|lake in Switzerland and Italy|64
+  Q660612 Lugano District|district, including, but not limited to, the city of Lu|31
+  Q146166 1936 Lugano|asteroid|35
+  Q692422 Canton of Lugano|canton of the Helvetic Republic|9
+pl:lugoj [Lugos, town in Hungary (Banat)] auto=Q258981
+  Q258981 Lugoj|city in Timiș County, Romania|49
+  Q16898584 Lugoj|locality in Timiș County, Romania|2
+  Q60803576 Lugoj railway station|railway station in Lugoj, Romania|3
+  Q6699832 Lugoj River|river in Romania|3
+  Q18895 Lugojel|village in Gavojdia, Timiș County, Romania|12
+  Q60803563 Lugoj Nord railway station|railway station in Romania|0
+pl:lodz [industrial city in Congress Poland] auto=Q580
+  Q580 Łódź|city in Łódź Voivodeship in central Poland|139
+  Q471231 Łódź|village of Poland|14
+  Q9395036 Łódź|village in Greater Poland, Poland|5
+  Q33731189 Łódź|municipality of Poland|1
+  Q54158 Łódź Voivodeship|voivodeship of Poland|103
+pl:luleburgaz [town in Eastern Thrace (1912 battle)] auto=Q214670
+  Q214670 Lüleburgaz|town and district in Kırklareli Province, Turkey|48
+  Q1947903 Lüleburgaz district|district of Kırklareli, northwestern Turkey|6
+  Q49277849 Lüleburgaz||1
+  Q48989206 Lüleburgaz railway station|railway station in Turkey|4
+pl:london [capital of the United Kingdom] auto=Q84
+  Q84 London|capital and largest city of England and the United King|357
+  Q92561 London|city in Ontario, Canada|86
+  Q935090 London Records|UK multi-national record label|24
+  Q1281978 London|family name|4
+  Q1001456 London|city in Madison County, Ohio, United States|41
+pl:lucerne [city in Switzerland] auto=Q4191
+  Q4191 Lucerne|city at Lake Lucerne, in central Switzerland|122
+  Q156106 Medicago sativa|species of plant, alfalfa|95
+  Q12121 Canton of Lucerne|canton of Switzerland|101
+  Q42403080 Lucerne|English translation by Nathan Haskell Dole|1
+  Q28162405 Lucerne|neighbourhood in Gatineau, Quebec, Canada, former munic|1
+  Q138374393 Lucerne|former municipality in Quebec, Canada, merged into the |0
+pl:luxembourg [Grand Duchy of Luxembourg] auto=None
+  Q32 Luxembourg|country in Western Europe|335
+  Q1126 Luxembourg Province|province in Wallonia, Belgium|86
+  Q1842 Luxembourg|capital and largest city of Luxembourg|176
+  Q83370535 Luxembourg|family name|1
+  Q801140 Luxembourg railway station|railway station|23
+  Q9051 Luxembourgish|Germanic language or language variety spoken in Luxembo|140
+pl:locarno [town in Switzerland] auto=Q11935
+  Q11935 Locarno|municipality in the canton of Ticino in Switzerland|79
+  Q502053 Locarno Film Festival|annual film festival in Locarno, Switzerland|44
+  Q660653 Locarno District|district of the canton of Ticino, Switzerland|35
+  Q146176 |asteroid|36
+  Q2008656 Locarno|settlement in Varallo, Italy|9
+  Q686540 Locarno railway station|railway station in Switzerland|12
+pl:liaoyang [city in Manchuria (1904 battle)] auto=Q75203
+  Q75203 Liaoyang|prefecture-level city in Liaoning, China|51
+  Q1332373 Liaoyang County|county in Liaoyang, Liaoning, China|15
+  Q6540167 Liaoyang railway station|railway station in Liaoyang, People's Republic of China|5
+  Q112030727 Liaoyang Zhou|historical administrative division of China|0
+  Q14075937 Liaoyang Town||1
+  Q113548736 Liaoyang||0
+pl:liepaja [Libau, port in Courland] auto=Q167668
+  Q167668 Liepāja|state city in western Latvia, along the Baltic Sea|94
+  Q33690190 Liepāja||1
+  Q83638441 Liepāja|ship built in 1984|1
+  Q843678 Liepāja District|former district of Latvia|25
+  Q5244326 Liepāja train station|railway station in Liepāja, Latvia|11
+pl:liverpool [port city in England] auto=Q24826
+  Q24826 Liverpool|city in Merseyside, England, United Kingdom|184
+  Q1130849 Liverpool F.C.|association football club in Liverpool, England|134
+  Q5355602 Liverpool|state electoral district of New South Wales, Australia|2
+  Q3835510 Liverpool|1992 video game|2
+  Q21665571 Liverpool|local government district in Merseyside, England, UK|5
+pl:lithuania [Lithuanian lands of the Russian Empire] auto=Q37
+  Q37 Lithuania|country in northeastern Europe|352
+  Q49683 Grand Duchy of Lithuania|Eastern European monarchical state that existed from 12|80
+  Q98878711 Lithuania|2020 audio track by Big Sean|0
+  Q76545039 Lithuania|family name|1
+  Q9083 Lithuanian|Baltic language spoken in Lithuania|184
+pl:lille [city in northern France] auto=Q648
+  Q648 Lille|city and commune in Nord, Hauts-de-France, Northern Fra|162
+  Q28318437 Lille|family name|2
+  Q19516 Lille OSC|association football club in Lille, France|73
+  Q90593 Lillesand|municipality in Agder, Norway|46
+  Q17447609 Lidija Bačić|Croatian singer|14
+  Q725235 Lille|municipality in Antwerp, Belgium|29
+pl:lemnos [Aegean island] auto=Q192483
+  Q5632937 HMS Jonquil|1940 Flower-class corvette|5
+  Q192483 Lemnos|island of Greece|68
+  Q6521256 Lemnos|town in Victoria, Australia|4
+  Q655612 Lemnos Regional Unit|regional unit|19
+  Q21580054 Lemnos|Greek city-state located on the eponymous island|0
+pl:linz [capital of Upper Austria] auto=Q41329
+  Q41329 Linz|capital city of Upper Austria, Austria|143
+  Q37437005 Linz|family name|1
+  Q1597532 Linz|human settlement in near Meißen, Germany|2
+  Q1761106 Linz||1
+  Q475667 Führermuseum|unrealized art museum planned by Adolf Hitler|17
+  Q390125 Linz am Rhein|town in Rhineland-Palatinate, Germany|43
+pl:lisbon [capital of Portugal] auto=Q597
+  Q597 Lisbon|municipality and capital city of Portugal|267
+  Q37567902 Lisbon|family name|0
+  Q207199 Lisbon District|district of Portugal|57
+  Q43187878 Lisbon|constituency of the Assembly of the Republic, the natio|5
+  Q115225766 Lisbon|dispersed rural community in Waterloo Region, Ontario, |1
+  Q1016603 Lisbon|village in Columbiana County, Ohio, USA|32
+pl:elk-poland [Lyck, town in East Prussia] auto=Q61480
+  Q61480 Ełk|city and urban gmina of Poland|58
+  Q966155 Ełk train station|railway station in Ełk, Poland|4
+  Q2008706 Elkhart|city in Elkhart County, Indiana, United States|48
+  Q554085 Gmina Ełk|rural gmina of Poland|18
+pl:lancashire [county in England] auto=Q23077
+  Q67311452 Lancashire|historic county of England|1
+  Q21279371 Lancashire|non-metropolitan county (doesn't include Blackpool or B|1
+  Q37539308 Lancashire|family name|1
+  Q23077 Lancashire|ceremonial county in North-West England, United Kingdom|88
+  Q60576015 Lancashire|Constituency of the Parliament of England (to 1707)|0
+pl:helsinki [Helsingfors, capital of Finland] auto=Q1757
+  Q1757 Helsinki|capital and most populous city of Finland|293
+  Q10520602 Helsinki|1980 Helsinki-class missile boat|4
+  Q28695 University of Helsinki|public university in Helsinki, Finland|67
+  Q3736245 Helsinki|electoral district of Finland|8
+  Q123947134 Helsinki|square in Sofia (Bulgaria)|0
+pl:larnaca [port in Cyprus] auto=Q171882
+  Q10554394 Larnaca|genus of insects|7
+  Q171882 Larnaca|city on the southern coast of Cyprus|92
+  Q59153 Larnaca District|district of Republic of Cyprus|55
+  Q55099871 Larnaca Municipality|municipality of Larnaca District, Republic of Cyprus|2
+  Q63525500 Larnaca|parish of Waljeers County, New South Wales, Australia|0
+pl:moheli [island in the Comoros] auto=Q271797
+  Q271797 Mohéli|autonomous island that forms part of the Union of the C|54
+  Q27222296 Mohéli|island located in the Indian Ocean off the coast of Afr|3
+  Q371500 Mohéli Bandar Es Eslam Airport|airport|16
+  Q3562401 flag of Mohéli||10

@@ -1,0 +1,98 @@
+# ---------------- parties ----------------
+E('org:constitutional-democratic-party', 'המפלגה החוקתית-דמוקרטית (הקדטים)', 'Constitutional Democratic Party', 'Russian liberal party (Kadets)', 'party', 'R',
+  'מפלגה הקדטית|מפלגת הקדטים|קאדטים|קדטים|קדטים (מפלגת החירות העממית)|מפלגת החירות העממית', alt=['Kadets', 'Party of People\'s Freedom'])
+E('org:russian-social-democratic-labour-party', 'מפלגת הפועלים הסוציאל-דמוקרטית של רוסיה', "Russian Social Democratic Labour Party", 'Russian Marxist party (RSDLP)', 'party', 'R', 'פקציה הסוציאל דמוקרטית')
+E('org:mensheviks', 'המנשביקים', 'Mensheviks', 'faction of the RSDLP', 'party faction', 'R', 'מנשביקים', parent='org:russian-social-democratic-labour-party')
+E('org:socialist-revolutionary-party', 'מפלגת הסוציאליסטים-רבולוציונרים', 'Socialist Revolutionary Party', 'Russian SR party', 'party', 'R',
+  'מפלגה הסוציאל רבולוציונית|מפלגה הסוציאל רבולוציונרית|סוציאל רבולוציונרים')
+E('org:trudoviks', 'הטרודוביקים', 'Trudoviks', 'Labour Group in the Russian Duma', 'parliamentary group', 'R', 'פקציית הטרודובים')
+E('org:narodnaya-volya', 'נרודניה וולייה', 'Narodnaya Volya', 'Russian revolutionary organization (People\'s Will)', 'revolutionary organization', 'R', 'נרודנאיה וולייה')
+E('org:union-of-the-russian-people', 'איגוד העם הרוסי', 'Union of the Russian People', 'Russian far-right monarchist organization (Black Hundreds)', 'party', 'R', 'סויוזניקים|סוציאל דמוקרטים של קייב')
+E('org:kiev-constitutional-progressive-party', 'המפלגה החוקתית-פרוגרסיבית של קייב', 'Kiev Constitutional-Progressive Party', 'local Russian liberal party, Kiev 1906', 'party', 'R', 'מפלגה החוקתית הפרוגרסיבית של קייב')
+E('org:jewish-independent-labour-party', 'המפלגה היהודית העצמאית', 'Jewish Independent Labour Party', 'Zubatov-sponsored Jewish workers\' party in Russia', 'party', 'R', 'מפלגה היהודית העצמאית|מפלגה העצמאית')
+E('org:georgian-socialist-federalist-revolutionary-party', 'מפלגת הפדרליסטים הגאורגית', 'Georgian Socialist-Federalist Revolutionary Party', 'Georgian federalist party', 'party', 'R', 'מפלגת הפדרליסטים הגאורגית')
+E('org:armenian-revolutionary-federation', 'הפדרציה המהפכנית הארמנית (דשנקציון)', 'Armenian Revolutionary Federation', 'Armenian party (Dashnaktsutyun)', 'party', '', 'מפלגה הרבולוציונית הארמנית דשנקצוטיון', alt=['Dashnaktsutyun'])
+E('org:polish-socialist-party', 'המפלגה הסוציאליסטית הפולנית', 'Polish Socialist Party', 'PPS', 'party', 'PL', 'מפלגה הסוציאליסטית הפולנית|מפלגה הסוציאליסטית הפולנית (פ.פ.ס.)|פ.פ.ס.', alt=['PPS'])
+E('org:polish-peoples-party-parliamentary-club', 'המועדון הפרלמנטרי של המפלגה העממית הפולנית', "Polish People's Party (Galicia) parliamentary club", 'Polish peasant party club in the Austrian Reichsrat', 'parliamentary group', 'A', 'קלוב הפרלמנטרי של המפלגה העממית הפולנית')
+E('org:social-democratic-party-of-germany', 'המפלגה הסוציאל-דמוקרטית של גרמניה', 'Social Democratic Party of Germany', 'German SPD', 'party', 'G',
+  'מפלגה הסוציאל דמוקרטית הגרמנית|מפלגה הסוציאל דמוקרטית של גרמניה|סוציאל דמוקרטיה הגרמנית|סוציאל דמוקרטים הגרמנים|מפלגה הסוציאליסטית הגרמנית|סוציאליסטים הגרמנים|סוציאל דמוקרטיה|סוציאל דמוקרטים (מפלגה סוציאליסטית)', alt=['SPD'])
+E('org:centre-party-germany', 'מפלגת המרכז', 'Centre Party (Germany)', 'German Catholic party (Zentrum)', 'party', 'G', 'מפלגת המרכז|מרכז')
+E('org:german-conservative-party', 'המפלגה השמרנית הגרמנית', 'German Conservative Party', 'Prussian/German conservatives', 'party', 'G', 'שמרנים')
+E('org:national-liberal-party-germany', 'המפלגה הלאומית-ליברלית', 'National Liberal Party (Germany)', 'German national-liberal party', 'party', 'G', 'מפלגה הלאומית ליברלית')
+E('org:progressive-peoples-party-germany', 'מפלגת העם הפרוגרסיבית', "Progressive People's Party (Germany)", 'German left-liberal party 1910–1918', 'party', 'G', 'מפלגה הפרוגרסיבית')
+E('org:freeminded-peoples-party', 'מפלגת העם החופשית', "Free-minded People's Party", 'German left-liberal party 1893–1910', 'party', 'G', 'מפלגת העם הגרמנית הפרוגרסיבית')
+E('org:christian-social-party-austria', 'המפלגה הנוצרית-סוציאלית', 'Christian Social Party (Austria)', 'Austrian Christian-social (antisemitic) party of Lueger', 'party', 'A',
+  'מפלגה הנוצרית סוציאלית האוסטרית|מפלגת הסוציאליסטים הנוצרים')
+E('org:social-democratic-party-of-austria', 'המפלגה הסוציאל-דמוקרטית האוסטרית', 'Social Democratic Workers\' Party of Austria', 'Austrian social democrats', 'party', 'A', 'סוציאל דמוקרטים האוסטרים')
+E('org:social-democratic-party-of-hungary', 'המפלגה הסוציאל-דמוקרטית ההונגרית', 'Social Democratic Party of Hungary', 'Hungarian socialist party', 'party', 'A', 'מפלגה הסוציאליסטית בהונגריה')
+E('org:party-of-independence-and-48', 'מפלגת העצמאות ו-48', "Party of Independence and '48", 'Hungarian national opposition party', 'party', 'A', 'מפלגה הלאומית ההונגרית')
+E('org:catholic-peoples-party-hungary', 'מפלגת העם הקתולית', "Catholic People's Party (Hungary)", 'Hungarian Catholic party (Néppárt)', 'party', 'A', 'מפלגת העם (הונגריה)')
+E('org:french-section-of-the-workers-international', 'המפלגה הסוציאליסטית הצרפתית (SFIO)', "French Section of the Workers' International", 'unified French socialist party, 1905–', 'party', 'F',
+  'מפלגה הסוציאליסטית המאוחדת הצרפתית|מפלגה הסוציאליסטית הצרפתית|מפלגה הסוציאליסטית הצרפתית המאוחדת|סוציאליסטים הצרפתים', alt=['SFIO'])
+E('org:radical-party-france', 'המפלגה הרדיקלית', 'Radical Party (France)', 'French Radical-Socialist party', 'party', 'F', 'מפלגה הרדיקלית|מפלגה הסוציאליסטית הרדיקלית')
+E('org:liberal-party-uk', 'המפלגה הליברלית', 'Liberal Party (UK)', 'British Liberal party', 'party', 'UK')
+E('org:conservative-party-uk', 'המפלגה השמרנית', 'Conservative Party (UK)', 'British Conservative party', 'party', 'UK')
+E('org:labour-party-uk', 'מפלגת הלייבור', 'Labour Party (UK)', 'British Labour party', 'party', 'UK', 'מפלגת הפועלים')
+E('org:irish-parliamentary-party', 'המפלגה האירית', 'Irish Parliamentary Party', 'Irish nationalist party at Westminster', 'party', 'UK', 'מפלגה האירית|מפלגת הפועלים האירית')
+E('org:social-democratic-federation', 'הפדרציה הסוציאל-דמוקרטית', 'Social Democratic Federation', 'British socialist organization', 'party', 'UK', 'פדרציה הסוציאל דמוקרטית האנגלית')
+E('org:australian-labor-party', 'מפלגת הלייבור האוסטרלית', 'Australian Labor Party', 'Australian labour party', 'party', 'AU', 'מפלגת הפועלים באוסטרליה')
+E('org:belgian-labour-party', 'מפלגת הפועלים הבלגית', "Belgian Labour Party", 'Belgian socialist party', 'party', 'BE', 'מפלגת הפועלים הבלגית')
+E('org:social-democrats-denmark', 'המפלגה הסוציאל-דמוקרטית הדנית', 'Social Democrats (Denmark)', 'Danish social democratic party', 'party', 'DK', 'מפלגה הסוציאל דמוקרטית הדנית')
+E('org:social-democratic-workers-party-netherlands', 'מפלגת הפועלים הסוציאל-דמוקרטית ההולנדית', "Social Democratic Workers' Party (Netherlands)", 'Dutch SDAP', 'party', 'NL', 'מפלגה הסוציאל דמוקרטית ההולנדית')
+E('org:spanish-socialist-workers-party', 'מפלגת הפועלים הסוציאליסטית הספרדית', "Spanish Socialist Workers' Party", 'Spanish socialist party (PSOE)', 'party', 'S', 'סוציאל דמוקרטים הספרדים|סוציאליסטים הספרדים')
+E('org:romanian-social-democrats', 'הסוציאליסטים הרומנים', 'Romanian socialist movement', 'Romanian social-democratic movement', 'party', 'RO', 'סוציאליסטים רומנים')
+E('org:norwegian-republican-movement', 'המפלגה הרפובליקנית הנורווגית', 'Norwegian republicans (1905)', 'republican current in Norway during the 1905 monarchy debate', 'party', 'NO', 'מפלגה הרפובליקנית (נורווגיה)')
+E('org:republican-party-united-states', 'המפלגה הרפובליקנית', 'Republican Party (United States)', 'US Republican party', 'party', 'US', 'מפלגה הרפובליקנית')
+E('org:democratic-party-united-states', 'המפלגה הדמוקרטית', 'Democratic Party (United States)', 'US Democratic party', 'party', 'US')
+E('org:democrat-party-persia', 'המפלגה הדמוקרטית (פרס)', 'Democrat Party (Persia)', 'Persian constitutionalist party (Ferqe-ye Demokrat)', 'party', 'P', 'מפלגה הדמוקרטית (פרס)')
+E('org:ottoman-democratic-party', 'המפלגה הדמוקרטית העות\'מאנית', 'Ottoman Democratic Party', 'Ottoman opposition party, 1909', 'party', 'O')
+E('org:rikken-kokuminto', 'המפלגה הלאומית החוקתית', 'Rikken Kokumintō', 'Japanese Constitutional Nationalist Party', 'party', 'J', 'מפלגה הלאומית (יפן)')
+E('org:italian-nationalists', 'המפלגה הלאומית האיטלקית', 'Italian nationalists', 'Italian nationalist party/current (1905)', 'party', 'I', 'מפלגה הלאומית האיטלקית')
+E('org:committee-of-union-and-progress', 'ועד האחדות והקדמה', 'Committee of Union and Progress', 'Young Turk party (CUP)', 'party', 'O', 'מפלגת איחוד והתקדמות', alt=['CUP', 'İttihat ve Terakki'])
+E('org:young-turks', 'הטורקים הצעירים', 'Young Turks', 'Ottoman constitutional reform movement', 'political movement', 'O',
+  'מפלגת הטורקים הצעירים|צעירים הטורקים|צעירים התורכים|תורכים הצעירים')
+E('org:cemiyet-i-ilmiye', "אגודת העלמאא (ג'מעייתי עילמייה)", 'Cemiyet-i İlmiye', 'Ottoman association of ulema; clerical opposition, 1909', 'party', 'O', 'מפלגה הקלריקלית אימיה')
+E('org:jewish-national-party-salonica', 'המפלגה היהודית-לאומית בסלוניקי', 'Jewish National Party (Salonica)', 'Zionist-national Jewish faction in Salonica', 'party', 'O', 'מפלגה היהודית לאומית בסלוניקי')
+E('org:ottoman-constitutionalists', 'החוקתיים', 'Ottoman constitutionalists', 'supporters of the Ottoman constitution (1909)', 'political movement', 'O', 'קונסטיטוציונליסטים')
+E('org:central-powers', 'מעצמות המרכז', 'Central Powers', 'Germany, Austria-Hungary, Ottoman Empire, Bulgaria (WWI)', 'alliance', '', 'סכמה (ארבע מעצמות)', alt=['Quadruple Alliance'])
+E('org:great-powers', 'המעצמות הגדולות', 'Great powers', 'the European great powers (concert of Europe)', 'group of states', '', 'מעצמות האירופיות|מעצמות הגדולות')
+X('מפלגה הדמוקרטית', 'org:democratic-party-united-states', {
+  'unzerleben19080712-01.2.15': 'org:democrat-party-persia', 'unzerleben19090419-01.2.2': 'org:ottoman-democratic-party'})
+X('מפלגה הליברלית', 'org:liberal-party-uk', {'dfr19060223-01.2.9': None})
+X('מפלגה הסוציאל דמוקרטית', 'org:social-democratic-party-of-germany', {
+  'dfr19070120-01.2.21': 'org:russian-social-democratic-labour-party', 'dfr19071007-01.2.20': 'org:french-section-of-the-workers-international'})
+X('מפלגה הסוציאליסטית', 'org:social-democratic-party-of-germany', {'dfr19071022-01.2.2': 'org:french-section-of-the-workers-international'})
+X('מפלגה השמרנית', 'org:conservative-party-uk', {'hyt19111112-01.2.13': 'org:german-conservative-party'})
+X('סוציאל דמוקרטים', 'org:russian-social-democratic-labour-party', {
+  'dfr19060223-01.2.9': 'org:social-democratic-party-of-germany', 'hyt19110813-01.2.14': None, 'hyt19110825-01.2.13': 'org:social-democratic-party-of-germany',
+  'hyt19111030-01.2.11': 'org:social-democratic-party-of-germany', 'hyt19111124-01.2.14': 'org:social-democratic-party-of-germany'})
+X('סוציאליסטים', None, {
+  'dfr19050521-01.2.7': 'org:french-section-of-the-workers-international', 'dfr19060315-01.2.2': 'org:french-section-of-the-workers-international'})
+X('מפלגת הסוציאל דמוקרטים', None)
+X('קבוצה הסוציאליסטית בפרלמנט', None)
+X('מפלגה השמרנית דמוקרטית', None)
+D('מפלגה הצבאית', 'generic "military party" faction, not a named organization')
+D('מפלגת המלחמה בבולגריה', 'generic "war party" faction, not a named organization')
+D('מפלגה היוונית', 'generic "Greek party" faction')
+E('org:swedish-interparliamentary-peace-group', 'קבוצת השלום הפרלמנטרית בשוודיה', 'Swedish parliamentary peace group', 'Swedish interparliamentary peace group (1912)', 'parliamentary group', 'SE', 'קבוצת השלום הפרלמנטרית בשוודיה')
+E('org:inter-parliamentary-union', 'האיחוד הבין-פרלמנטרי', 'Inter-Parliamentary Union', 'international organization of parliaments; its conferences', 'international organization', '', 'קונגרס הבין פרלמנטרי')
+
+# ---------------- news agencies ----------------
+E('org:agence-havas', 'סוכנות הוואס', 'Agence Havas', 'French news agency', 'news agency', 'F',
+  'סוכנות האבאס|סוכנות האבס|סוכנות האוואס|סוכנות הבאוואס|סוכנות הבאס|סוכנות הוואס|סוכנות הווס|סוכנות חבאס', alt=['Havas'])
+E('org:reuters', 'רויטרס', 'Reuters', 'British news agency', 'news agency', 'UK', 'סוכנות רויטר|סוכנות רויטרס')
+E('org:wolffs-telegraphisches-bureau', 'סוכנות וולף', "Wolffs Telegraphisches Bureau", 'German news agency', 'news agency', 'G', 'סוכנות הטלגרף וולף|סוכנות וולף|סוכנות הטלגרף הגרמנית')
+E('org:st-petersburg-telegraph-agency', 'סוכנות הטלגרף של פטרבורג', 'Saint Petersburg Telegraph Agency', 'official Russian news agency (Russian Telegraph Agency; from 1914 Petrograd T.A.)', 'news agency', 'R',
+  'סוכנות הטלגרף|סוכנות הטלגרף הרוסית|סוכנות הטלגרף של פטרבורג|סוכנות הטלגרפים הרוסית|סוכנות הטלגרפים של פטרבורג|סוכנות הטלגרפית הרוסית|סוכנות הטלגרפית פטא|סוכנות הידיעות הפטרבורגית|סוכנות הידיעות הרוסית',
+  alt=['Petrograd Telegraph Agency', 'Russian Telegraph Agency'])
+E('org:k-k-telegraphen-korrespondenz-bureau', 'לשכת הקורספונדנציה הטלגרפית הווינאית', 'k.k. Telegraphen-Korrespondenz-Bureau', 'official Austrian news agency', 'news agency', 'A',
+  'סוכנות הטלגרף הרשמית האוסטרית|סוכנות הידיעות קורספונדנץ ביורו')
+E('org:berliner-korrespondenz-bureau', 'סוכנות הידיעות של ברלין', 'Berliner Korrespondenz-Bureau', 'Berlin news bureau', 'news agency', 'G', 'סוכנות הידיעות של ברלין')
+E('org:agenzia-stefani', 'סוכנות סטפאני', 'Agenzia Stefani', 'Italian news agency', 'news agency', 'I', 'סוכנות הידיעות שטפני|סוכנות סטפאני|סוכנות סטפני')
+E('org:bulgarian-telegraph-agency', 'סוכנות הטלגרף הבולגרית', 'Bulgarian Telegraph Agency', 'Bulgarian news agency', 'news agency', 'BG', 'סוכנות הטלגרף הבולגרית')
+E('org:athens-news-agency', 'סוכנות הידיעות האתונאית', 'Athens News Agency', 'Greek news agency', 'news agency', 'GR', 'סוכנות הידיעות האתונאית')
+E('org:ottoman-telegraph-agency', 'הסוכנות העות\'מאנית', 'Ottoman news agency', 'Ottoman official news agency (Agence Ottomane)', 'news agency', 'O', 'סוכנות העותמאנית')
+E('org:central-news-agency', 'סוכנות סנטרל ניוז', 'Central News Agency', 'London news agency', 'news agency', 'UK', 'סוכנות צנטרל ניוז')
+X('סוכנות ראמר', None)
+E('org:russian-post-office-in-constantinople', 'הדואר הרוסי באימפריה העות\'מאנית', 'Russian post offices in the Ottoman Empire', 'Russian postal agency (ROPiT)', 'postal service', 'R', 'סוכנות הדואר הרוסית')
+E('org:odessa-post-office', 'סניף הדואר באודסה', 'Odessa post office', 'post office in Odessa', 'post office', 'R', 'סניף הדואר באודסה')

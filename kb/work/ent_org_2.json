@@ -1,0 +1,7137 @@
+{
+ "entities": [
+  {
+   "id": "org:government-of-france",
+   "he": "ממשלת צרפת",
+   "en": "Government of France",
+   "desc": "French government / cabinet of the Third Republic",
+   "kind": "government",
+   "country": "pl:france",
+   "keys": [
+    "ממשלה הצרפתית",
+    "ממשלת צרפת",
+    "מממשלת קלמנסו",
+    "קבינט הצרפתי",
+    "קבינט השרים הצרפתי",
+    "ממשל הצרפתי במרוקו"
+   ],
+   "qid_auto": "Q1450662",
+   "qid": "Q1450662"
+  },
+  {
+   "id": "org:government-of-the-united-kingdom",
+   "he": "ממשלת בריטניה",
+   "en": "Government of the United Kingdom",
+   "en_alt": [
+    "His Majesty's Government",
+    "British Cabinet"
+   ],
+   "desc": "British government / cabinet",
+   "kind": "government",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "ממשלה האנגלית",
+    "ממשלה הבריטית",
+    "ממשלת אנגליה",
+    "ממשלת בריטניה",
+    "קבינט הבריטי",
+    "קבינט הלונדוני",
+    "קבינט השרים הבריטי"
+   ],
+   "qid_auto": null,
+   "qid": "Q6063"
+  },
+  {
+   "id": "org:government-of-the-german-empire",
+   "he": "ממשלת גרמניה",
+   "en": "Government of the German Empire",
+   "desc": "imperial German government",
+   "kind": "government",
+   "country": "pl:germany",
+   "keys": [
+    "ממשלה הגרמנית",
+    "ממשלת גרמניה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:government-of-prussia",
+   "he": "ממשלת פרוסיה",
+   "en": "Prussian State Ministry",
+   "desc": "government of the Kingdom of Prussia",
+   "kind": "government",
+   "country": "pl:germany",
+   "keys": [
+    "ממשלה הפרוסית"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:government-of-wurttemberg",
+   "he": "ממשלת וירטמברג",
+   "en": "Government of the Kingdom of Württemberg",
+   "desc": "government of Württemberg",
+   "kind": "government",
+   "country": "pl:germany",
+   "keys": [
+    "ממשלת וירטמברג"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:government-of-the-russian-empire",
+   "he": "ממשלת רוסיה",
+   "en": "Government of the Russian Empire",
+   "desc": "Russian imperial government",
+   "kind": "government",
+   "country": "pl:russian-empire",
+   "keys": [
+    "ממשלה הרוסית",
+    "ממשלת רוסיה",
+    "משרד הממשלה (הממשלה)",
+    "משרד (המיניסטריון)"
+   ],
+   "qid_auto": "Q4426241",
+   "qid": null
+  },
+  {
+   "id": "org:council-of-ministers-of-the-russian-empire",
+   "he": "מועצת השרים של האימפריה הרוסית",
+   "en": "Council of Ministers of the Russian Empire",
+   "desc": "Russian cabinet 1905–1917",
+   "kind": "cabinet",
+   "country": "pl:russian-empire",
+   "keys": [],
+   "qid_auto": null,
+   "qid": "Q4426241"
+  },
+  {
+   "id": "org:government-of-the-ottoman-empire",
+   "he": "ממשלת האימפריה העות'מאנית",
+   "en": "Sublime Porte",
+   "en_alt": [
+    "Ottoman government",
+    "Babıali",
+    "Government of the Ottoman Empire"
+   ],
+   "desc": "the Ottoman central government (the Porte)",
+   "kind": "government",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "ממשל הטורקי",
+    "ממשלה הטורקית",
+    "ממשלה העותמאנית",
+    "ממשלה התורכית",
+    "ממשלת טורקיה",
+    "ממשלת תורכיה",
+    "קבינט העותמאני",
+    "קבינט השרים העותמאני",
+    "פורטה",
+    "פורטה (הממשלה העותמאנית)",
+    "פורטה העותמאנית",
+    "פורטה העליונה",
+    "שער העליון (הממשלה העותמאנית)",
+    "שלטון העותמאני"
+   ],
+   "qid_auto": null,
+   "qid": "Q18871"
+  },
+  {
+   "id": "org:government-of-austria-hungary",
+   "he": "ממשלת אוסטריה-הונגריה",
+   "en": "Government of Austria-Hungary",
+   "desc": "Austrian / Austro-Hungarian government",
+   "kind": "government",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "ממשלה האוסטרית",
+    "ממשלת אוסטריה",
+    "ממשלת אוסטריה הונגריה"
+   ],
+   "qid_auto": "Q117790139",
+   "qid": "Q117790139"
+  },
+  {
+   "id": "org:government-of-hungary",
+   "he": "ממשלת הונגריה",
+   "en": "Government of Hungary",
+   "desc": "Hungarian government (Kingdom of Hungary)",
+   "kind": "government",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "ממשלה ההונגרית",
+    "ממשלת הונגריה"
+   ],
+   "qid_auto": "Q1162751",
+   "qid": "Q1162751"
+  },
+  {
+   "id": "org:government-of-italy",
+   "he": "ממשלת איטליה",
+   "en": "Government of Italy",
+   "desc": "government of the Kingdom of Italy",
+   "kind": "government",
+   "country": "pl:italy",
+   "keys": [
+    "ממשלה האיטלקית",
+    "ממשלת איטליה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:government-of-spain",
+   "he": "ממשלת ספרד",
+   "en": "Government of Spain",
+   "desc": "Spanish government",
+   "kind": "government",
+   "country": "pl:spain",
+   "keys": [
+    "ממשלה הספרדית",
+    "ממשלת ספרד",
+    "משרד הממשלה הספרדי",
+    "משרד ספרד (הממשלה הספרדית)"
+   ],
+   "qid_auto": "Q1194749",
+   "qid": "Q1194749"
+  },
+  {
+   "id": "org:government-of-portugal",
+   "he": "ממשלת פורטוגל",
+   "en": "Government of Portugal",
+   "desc": "Portuguese government",
+   "kind": "government",
+   "country": "pl:portugal",
+   "keys": [
+    "ממשלה הפורטוגזית",
+    "ממשלת פורטוגל"
+   ],
+   "qid_auto": "Q740205",
+   "qid": "Q740205"
+  },
+  {
+   "id": "org:government-of-greece",
+   "he": "ממשלת יוון",
+   "en": "Government of Greece",
+   "desc": "Greek government",
+   "kind": "government",
+   "country": "pl:greece",
+   "keys": [
+    "ממשלה היוונית",
+    "ממשלת יוון"
+   ],
+   "qid_auto": "Q15260617",
+   "qid": "Q15260617"
+  },
+  {
+   "id": "org:government-of-bulgaria",
+   "he": "ממשלת בולגריה",
+   "en": "Government of Bulgaria",
+   "desc": "Bulgarian government",
+   "kind": "government",
+   "country": "pl:bulgaria",
+   "keys": [
+    "ממשלה הבולגרית",
+    "ממשלת בולגריה"
+   ],
+   "qid_auto": "Q2396053",
+   "qid": "Q2396053"
+  },
+  {
+   "id": "org:government-of-serbia",
+   "he": "ממשלת סרביה",
+   "en": "Government of Serbia",
+   "desc": "Serbian government",
+   "kind": "government",
+   "country": "pl:serbia",
+   "keys": [
+    "ממשלה הסרבית"
+   ],
+   "qid_auto": "Q1285499",
+   "qid": "Q1285499"
+  },
+  {
+   "id": "org:government-of-montenegro",
+   "he": "ממשלת מונטנגרו",
+   "en": "Government of Montenegro",
+   "desc": "Montenegrin government",
+   "kind": "government",
+   "country": "pl:montenegro",
+   "keys": [
+    "ממשלת מונטנגרו"
+   ],
+   "qid_auto": "Q3491143",
+   "qid": "Q3491143"
+  },
+  {
+   "id": "org:government-of-albania",
+   "he": "הממשלה הזמנית של אלבניה",
+   "en": "Provisional Government of Albania",
+   "desc": "Albanian government 1912–1914 (Vlorë)",
+   "kind": "government",
+   "country": "pl:albania",
+   "keys": [
+    "ממשלה האלבנית"
+   ],
+   "qid_auto": "Q1989935",
+   "qid": "Q1989935"
+  },
+  {
+   "id": "org:provisional-government-of-national-defence",
+   "he": "ממשלת ההגנה הלאומית",
+   "en": "Provisional Government of National Defence",
+   "desc": "Venizelos' revolutionary government in Salonica, 1916–1917",
+   "kind": "government",
+   "country": "pl:greece",
+   "keys": [
+    "ממשלה המהפכנית",
+    "ממשלה המהפכנית בסלוניקי",
+    "ממשלה המהפכנית הזמנית של מקדוניה והאיים",
+    "ממשלת סלוניקי",
+    "תנועה הלאומית"
+   ],
+   "qid_auto": "Q12879472",
+   "qid": "Q12879472"
+  },
+  {
+   "id": "org:makhzen",
+   "he": "המח'זן",
+   "en": "Makhzen",
+   "en_alt": [
+    "Government of Morocco"
+   ],
+   "desc": "the Moroccan sultan's government",
+   "kind": "government",
+   "country": "pl:morocco",
+   "keys": [
+    "ממשלה המרוקאית",
+    "ממשלת מרוקו",
+    "רשות העליונה"
+   ],
+   "qid_auto": "Q1684735",
+   "qid": "Q1684735"
+  },
+  {
+   "id": "org:government-of-persia",
+   "he": "ממשלת פרס",
+   "en": "Government of Qajar Persia",
+   "desc": "Persian government",
+   "kind": "government",
+   "country": "pl:persia",
+   "keys": [
+    "ממשלה הפרסית",
+    "ממשלת פרס"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:government-of-china",
+   "he": "ממשלת סין",
+   "en": "Government of China",
+   "desc": "Chinese government (Qing, then Beiyang)",
+   "kind": "government",
+   "country": "pl:china",
+   "keys": [
+    "ממשלה הסינית",
+    "ממשלת סין",
+    "ממשלה הכללית של סין",
+    "משלחת הסינית"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:guangdong-military-government",
+   "he": "הממשלה המהפכנית בקנטון",
+   "en": "Guangdong Military Government",
+   "desc": "revolutionary government in Canton, 1911",
+   "kind": "government",
+   "country": "pl:china",
+   "keys": [
+    "ממשלה המהפכנית בקנטון"
+   ],
+   "qid_auto": null,
+   "qid": "Q56273096"
+  },
+  {
+   "id": "org:government-of-japan",
+   "he": "ממשלת יפן",
+   "en": "Government of Japan",
+   "desc": "Japanese government",
+   "kind": "government",
+   "country": "pl:japan",
+   "keys": [
+    "ממשלה היפנית"
+   ],
+   "qid_auto": "Q1190574",
+   "qid": "Q1190574"
+  },
+  {
+   "id": "org:government-of-egypt",
+   "he": "ממשלת מצרים",
+   "en": "Government of the Khedivate of Egypt",
+   "desc": "Egyptian government",
+   "kind": "government",
+   "country": "pl:egypt",
+   "keys": [
+    "ממשלה המצרית"
+   ],
+   "qid_auto": null,
+   "qid": "Q4206677"
+  },
+  {
+   "id": "org:federal-government-of-the-united-states",
+   "he": "ממשלת ארצות הברית",
+   "en": "Federal government of the United States",
+   "desc": "US federal government",
+   "kind": "government",
+   "country": "pl:united-states",
+   "keys": [
+    "ממשלה האמריקאית",
+    "ממשלה האמריקאנית",
+    "ממשלה האמריקנית",
+    "ממשלת ארצות הברית"
+   ],
+   "qid_auto": "Q48525",
+   "qid": "Q48525"
+  },
+  {
+   "id": "org:government-of-argentina",
+   "he": "ממשלת ארגנטינה",
+   "en": "Government of Argentina",
+   "desc": "Argentine government",
+   "kind": "government",
+   "country": "pl:argentina",
+   "keys": [
+    "ממשל הארגנטינאי",
+    "ממשלה הארגנטינית",
+    "ממשלת ארגנטינה"
+   ],
+   "qid_auto": "Q8508468",
+   "qid": "Q8508468"
+  },
+  {
+   "id": "org:government-of-mexico",
+   "he": "ממשלת מקסיקו",
+   "en": "Government of Mexico",
+   "desc": "Mexican government",
+   "kind": "government",
+   "country": "pl:mexico",
+   "keys": [
+    "ממשלה המקסיקנית"
+   ],
+   "qid_auto": "Q5440529",
+   "qid": "Q5440529"
+  },
+  {
+   "id": "org:government-of-canada",
+   "he": "ממשלת קנדה",
+   "en": "Government of Canada",
+   "desc": "Canadian government",
+   "kind": "government",
+   "country": "pl:canada",
+   "keys": [
+    "ממשלה הקנדית"
+   ],
+   "qid_auto": "Q422404",
+   "qid": "Q422404"
+  },
+  {
+   "id": "org:government-of-australia",
+   "he": "ממשלת אוסטרליה",
+   "en": "Australian Government",
+   "desc": "Australian federal government",
+   "kind": "government",
+   "country": "pl:australia",
+   "keys": [
+    "ממשלה האוסטרלית"
+   ],
+   "qid_auto": "Q2991162",
+   "qid": "Q2991162"
+  },
+  {
+   "id": "org:government-of-the-netherlands",
+   "he": "ממשלת הולנד",
+   "en": "Government of the Netherlands",
+   "desc": "Dutch government",
+   "kind": "government",
+   "country": "pl:netherlands",
+   "keys": [
+    "ממשלה ההולנדית"
+   ],
+   "qid_auto": "Q4310949",
+   "qid": "Q4310949"
+  },
+  {
+   "id": "org:swiss-federal-council",
+   "he": "המועצה הפדרלית השווייצרית",
+   "en": "Federal Council (Switzerland)",
+   "desc": "Swiss federal government",
+   "kind": "government",
+   "country": "pl:switzerland",
+   "keys": [
+    "ממשלת שווייץ"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:chief-directorate-for-press-affairs",
+   "he": "המינהל הראשי לענייני דפוס",
+   "en": "Chief Directorate for Press Affairs",
+   "desc": "Russian censorship authority",
+   "kind": "agency",
+   "country": "pl:russian-empire",
+   "keys": [
+    "ממשל הראשי לצנזורה"
+   ],
+   "qid_auto": null,
+   "qid": "Q4139160"
+  },
+  {
+   "id": "org:french-parliament",
+   "he": "הפרלמנט הצרפתי",
+   "en": "French Parliament",
+   "desc": "parliament of the French Third Republic (esp. Chamber of Deputies)",
+   "kind": "parliament",
+   "country": "pl:france",
+   "keys": [
+    "פרלמנט הצרפתי"
+   ],
+   "qid_auto": "Q632552",
+   "qid": "Q632552"
+  },
+  {
+   "id": "org:french-senate",
+   "he": "הסנאט הצרפתי",
+   "en": "French Senate",
+   "desc": "upper house of the French Parliament",
+   "kind": "parliament",
+   "parent": "org:french-parliament",
+   "country": "pl:france",
+   "keys": [
+    "סנאט (צרפת)",
+    "סנאט הצרפתי",
+    "סנאט הצרפתי (בית משפט)"
+   ],
+   "qid_auto": "Q215987",
+   "qid": "Q215987"
+  },
+  {
+   "id": "org:parliament-of-the-united-kingdom",
+   "he": "הפרלמנט הבריטי",
+   "en": "Parliament of the United Kingdom",
+   "desc": "British parliament",
+   "kind": "parliament",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "פרלמנט האנגלי",
+    "פרלמנט הבריטי"
+   ],
+   "qid_auto": null,
+   "qid": "Q11010"
+  },
+  {
+   "id": "org:reichstag-german-empire",
+   "he": "הרייכסטאג",
+   "en": "Reichstag (German Empire)",
+   "desc": "parliament of the German Empire",
+   "kind": "parliament",
+   "country": "pl:germany",
+   "keys": [
+    "פרלמנט הגרמני",
+    "רייכסטאג"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:prussian-house-of-representatives",
+   "he": "הלנדטאג הפרוסי",
+   "en": "Landtag of Prussia",
+   "desc": "Prussian state parliament",
+   "kind": "parliament",
+   "country": "pl:germany",
+   "keys": [
+    "פרלמנט הפרוסי"
+   ],
+   "qid_auto": "Q650248",
+   "qid": "Q650248"
+  },
+  {
+   "id": "org:landtag-of-baden",
+   "he": "הלנדטאג של באדן",
+   "en": "Landtag of the Grand Duchy of Baden",
+   "desc": "parliament of Baden",
+   "kind": "parliament",
+   "country": "pl:germany",
+   "keys": [
+    "פרלמנט של בדן"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:imperial-council-austria",
+   "he": "הרייכסרט האוסטרי",
+   "en": "Imperial Council (Austria)",
+   "en_alt": [
+    "Reichsrat"
+   ],
+   "desc": "Austrian parliament (Reichsrat)",
+   "kind": "parliament",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "פרלמנט האוסטרי"
+   ],
+   "qid_auto": "Q565039",
+   "qid": null
+  },
+  {
+   "id": "org:diet-of-hungary",
+   "he": "הפרלמנט ההונגרי",
+   "en": "Diet of Hungary",
+   "desc": "Hungarian parliament",
+   "kind": "parliament",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "פרלמנט ההונגרי"
+   ],
+   "qid_auto": "Q700757",
+   "qid": "Q700757"
+  },
+  {
+   "id": "org:parliament-of-italy",
+   "he": "הפרלמנט האיטלקי",
+   "en": "Parliament of the Kingdom of Italy",
+   "desc": "Italian parliament",
+   "kind": "parliament",
+   "country": "pl:italy",
+   "keys": [
+    "פרלמנט האיטלקי"
+   ],
+   "qid_auto": "Q3365546",
+   "qid": "Q3365546"
+  },
+  {
+   "id": "org:states-general-of-the-netherlands",
+   "he": "המדינות הכלליות",
+   "en": "States General of the Netherlands",
+   "desc": "Dutch parliament",
+   "kind": "parliament",
+   "country": "pl:netherlands",
+   "keys": [
+    "פרלמנט ההולנדי"
+   ],
+   "qid_auto": "Q13417577",
+   "qid": "Q13417577"
+  },
+  {
+   "id": "org:ottoman-parliament",
+   "he": "הפרלמנט העות'מאני",
+   "en": "General Assembly of the Ottoman Empire",
+   "en_alt": [
+    "Ottoman Parliament",
+    "Meclis-i Umumi"
+   ],
+   "desc": "Ottoman parliament (1908–1920)",
+   "kind": "parliament",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "פרלמנט (העותמאני)",
+    "פרלמנט (בדמשק)",
+    "פרלמנט הטורקי",
+    "פרלמנט העותמאני",
+    "פרלמנט התורכי"
+   ],
+   "qid_auto": "Q3333555",
+   "qid": "Q3333555"
+  },
+  {
+   "id": "org:senate-of-the-ottoman-empire",
+   "he": "הסנאט העות'מאני",
+   "en": "Senate of the Ottoman Empire",
+   "desc": "upper house of the Ottoman parliament",
+   "kind": "parliament",
+   "parent": "org:ottoman-parliament",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "סנאט העותמאני"
+   ],
+   "qid_auto": "Q5080059",
+   "qid": "Q5080059"
+  },
+  {
+   "id": "org:hellenic-parliament",
+   "he": "הפרלמנט היווני",
+   "en": "Hellenic Parliament",
+   "desc": "Greek parliament (Vouli)",
+   "kind": "parliament",
+   "country": "pl:greece",
+   "keys": [
+    "פרלמנט היווני"
+   ],
+   "qid_auto": "Q477089",
+   "qid": "Q477089"
+  },
+  {
+   "id": "org:storting",
+   "he": "הסטורטינג",
+   "en": "Storting",
+   "desc": "Norwegian parliament",
+   "kind": "parliament",
+   "country": "pl:norway",
+   "keys": [
+    "פרלמנט הנורווגי"
+   ],
+   "qid_auto": null,
+   "qid": "Q109016"
+  },
+  {
+   "id": "org:riksdag-of-the-estates",
+   "he": "הריקסדאג",
+   "en": "Riksdag",
+   "desc": "Swedish parliament",
+   "kind": "parliament",
+   "country": "pl:sweden",
+   "keys": [
+    "פרלמנט השוודי"
+   ],
+   "qid_auto": "Q272930",
+   "qid": "Q272930"
+  },
+  {
+   "id": "org:parliament-of-romania",
+   "he": "הפרלמנט הרומני",
+   "en": "Parliament of Romania",
+   "desc": "Romanian parliament",
+   "kind": "parliament",
+   "country": "pl:romania",
+   "keys": [
+    "פרלמנט הרומני"
+   ],
+   "qid_auto": "Q1813360",
+   "qid": "Q1813360"
+  },
+  {
+   "id": "org:cortes-generales",
+   "he": "הקורטס",
+   "en": "Cortes Generales",
+   "desc": "Spanish parliament",
+   "kind": "parliament",
+   "country": "pl:spain",
+   "keys": [
+    "פרלמנט הספרדי"
+   ],
+   "qid_auto": "Q219692",
+   "qid": "Q219692"
+  },
+  {
+   "id": "org:senate-of-spain",
+   "he": "הסנאט הספרדי",
+   "en": "Senate of Spain",
+   "desc": "upper house of the Spanish Cortes",
+   "kind": "parliament",
+   "parent": "org:cortes-generales",
+   "country": "pl:spain",
+   "keys": [
+    "סנאט הספרדי"
+   ],
+   "qid_auto": "Q110578657",
+   "qid": null
+  },
+  {
+   "id": "org:congress-of-the-portuguese-republic",
+   "he": "הפרלמנט הפורטוגלי",
+   "en": "Congress of the Portuguese Republic",
+   "desc": "Portuguese parliament (First Republic)",
+   "kind": "parliament",
+   "country": "pl:portugal",
+   "keys": [
+    "פרלמנט הפורטוגלי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:national-assembly-of-the-republic-of-china",
+   "he": "הפרלמנט הסיני",
+   "en": "National Assembly (Republic of China)",
+   "desc": "Chinese parliament 1912–",
+   "kind": "parliament",
+   "country": "pl:china",
+   "keys": [
+    "פרלמנט הסיני"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:national-consultative-assembly",
+   "he": "המג'לס",
+   "en": "National Consultative Assembly",
+   "en_alt": [
+    "Majlis of Iran"
+   ],
+   "desc": "Persian parliament (Majlis)",
+   "kind": "parliament",
+   "country": "pl:persia",
+   "keys": [
+    "פרלמנט (פרס)",
+    "פרלמנט הפרסי",
+    "פרלמנט הפרסי (מגליס)",
+    "פרלמנט הפרסי (מגלס)"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:diet-of-finland",
+   "he": "הסיים הפיני",
+   "en": "Diet of Finland",
+   "desc": "Finnish parliament (Grand Duchy of Finland)",
+   "kind": "parliament",
+   "country": "pl:finland",
+   "keys": [
+    "סיים הפיני",
+    "סיים הפינלנדי"
+   ],
+   "qid_auto": "Q4348725",
+   "qid": "Q4348725"
+  },
+  {
+   "id": "org:senate-of-finland",
+   "he": "הסנאט הפיני",
+   "en": "Senate of Finland",
+   "desc": "government of the Grand Duchy of Finland",
+   "kind": "government",
+   "country": "pl:finland",
+   "keys": [
+    "סנאט הפינלנדי"
+   ],
+   "qid_auto": "Q1881775",
+   "qid": "Q1881775"
+  },
+  {
+   "id": "org:national-assembly-of-serbia",
+   "he": "הסקופשטינה",
+   "en": "National Assembly of Serbia",
+   "desc": "Serbian parliament (Skupština)",
+   "kind": "parliament",
+   "country": "pl:serbia",
+   "keys": [
+    "סקופשטינה",
+    "סקופשטינה הסרבית"
+   ],
+   "qid_auto": "Q920222",
+   "qid": "Q920222"
+  },
+  {
+   "id": "org:governing-senate",
+   "he": "הסנאט המנהל",
+   "en": "Governing Senate",
+   "desc": "supreme judicial-administrative body of the Russian Empire",
+   "kind": "senate",
+   "country": "pl:russian-empire",
+   "keys": [
+    "סנאט הרוסי"
+   ],
+   "qid_auto": "Q1788871",
+   "qid": "Q1788871"
+  },
+  {
+   "id": "org:united-states-congress",
+   "he": "הקונגרס של ארצות הברית",
+   "en": "United States Congress",
+   "desc": "US legislature",
+   "kind": "parliament",
+   "country": "pl:united-states",
+   "keys": [
+    "קונגרס האמריקאי",
+    "קונגרס האמריקני"
+   ],
+   "qid_auto": "Q11268",
+   "qid": "Q11268"
+  },
+  {
+   "id": "org:united-states-senate",
+   "he": "הסנאט של ארצות הברית",
+   "en": "United States Senate",
+   "desc": "upper house of the US Congress",
+   "kind": "parliament",
+   "parent": "org:united-states-congress",
+   "country": "pl:united-states",
+   "keys": [
+    "סנאט האמריקאי",
+    "סנאט האמריקאני"
+   ],
+   "qid_auto": "Q66096",
+   "qid": "Q66096"
+  },
+  {
+   "id": "org:polish-kolo-state-duma",
+   "he": "הקולו הפולני",
+   "en": "Polish Koło (State Duma)",
+   "desc": "Polish parliamentary club in the Russian State Duma",
+   "kind": "parliamentary group",
+   "country": "pl:russian-empire",
+   "keys": [
+    "קולו הפולני"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:ministry-of-finance-russian-empire",
+   "he": "משרד האוצר הרוסי",
+   "en": "Ministry of Finance (Russian Empire)",
+   "desc": "Russian finance ministry",
+   "kind": "ministry",
+   "country": "pl:russian-empire",
+   "keys": [
+    "משרד האוצר"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:ministry-of-finance-ottoman-empire",
+   "he": "משרד האוצר העות'מאני",
+   "en": "Ministry of Finance (Ottoman Empire)",
+   "desc": "Ottoman finance ministry",
+   "kind": "ministry",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "משרד האוצר העותמאני"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:ministry-of-national-education-russian-empire",
+   "he": "משרד ההשכלה העממית הרוסי",
+   "en": "Ministry of National Education (Russian Empire)",
+   "desc": "Russian education ministry",
+   "kind": "ministry",
+   "country": "pl:russian-empire",
+   "keys": [
+    "משרד ההשכלה",
+    "משרד החינוך"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:ministry-of-religion-and-education-austria",
+   "he": "משרד הדתות והחינוך האוסטרי",
+   "en": "Ministry of Religion and Education (Austria)",
+   "desc": "Cisleithanian education ministry",
+   "kind": "ministry",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "משרד החינוך האוסטרי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:ministry-of-religion-and-education-hungary",
+   "he": "משרד הדתות והחינוך ההונגרי",
+   "en": "Ministry of Religion and Public Education (Hungary)",
+   "desc": "Hungarian education ministry",
+   "kind": "ministry",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "משרד החינוך ההונגרי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:ministry-of-foreign-affairs-france",
+   "he": "משרד החוץ הצרפתי",
+   "en": "Ministry of Foreign Affairs (France)",
+   "en_alt": [
+    "Quai d'Orsay"
+   ],
+   "desc": "French foreign ministry (Quai d'Orsay)",
+   "kind": "ministry",
+   "country": "pl:france",
+   "keys": [
+    "משרד החוץ (צרפת)",
+    "משרד החוץ הצרפתי",
+    "משרד החוץ הצרפתי / מועצת השרים הצרפתית"
+   ],
+   "qid_auto": "Q789848",
+   "qid": "Q789848"
+  },
+  {
+   "id": "org:foreign-office",
+   "he": "משרד החוץ הבריטי",
+   "en": "Foreign Office",
+   "desc": "British foreign ministry",
+   "kind": "ministry",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "משרד החוץ הבריטי"
+   ],
+   "qid_auto": "Q358834",
+   "qid": "Q58211956"
+  },
+  {
+   "id": "org:german-foreign-office",
+   "he": "משרד החוץ הגרמני",
+   "en": "Foreign Office (German Empire)",
+   "en_alt": [
+    "Auswärtiges Amt"
+   ],
+   "desc": "German foreign ministry (Auswärtiges Amt)",
+   "kind": "ministry",
+   "country": "pl:germany",
+   "keys": [
+    "משרד החוץ הגרמני"
+   ],
+   "qid_auto": "Q56034",
+   "qid": "Q3315440"
+  },
+  {
+   "id": "org:waiwubu",
+   "he": "משרד החוץ הסיני",
+   "en": "Waiwubu",
+   "desc": "Qing foreign ministry",
+   "kind": "ministry",
+   "country": "pl:china",
+   "keys": [
+    "משרד החוץ הסיני"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:ministry-of-foreign-affairs-ottoman-empire",
+   "he": "משרד החוץ העות'מאני",
+   "en": "Ministry of Foreign Affairs (Ottoman Empire)",
+   "desc": "Ottoman foreign ministry",
+   "kind": "ministry",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "משרד החוץ העותמאני"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:ministry-of-foreign-affairs-russia",
+   "he": "משרד החוץ הרוסי",
+   "en": "Ministry of Foreign Affairs (Russian Empire)",
+   "desc": "Russian foreign ministry",
+   "kind": "ministry",
+   "country": "pl:russian-empire",
+   "keys": [
+    "משרד החוץ הרוסי"
+   ],
+   "qid_auto": "Q3251811",
+   "qid": "Q3251811"
+  },
+  {
+   "id": "org:reichskolonialamt",
+   "he": "משרד המושבות הגרמני",
+   "en": "Reichskolonialamt",
+   "desc": "German Imperial Colonial Office",
+   "kind": "ministry",
+   "country": "pl:germany",
+   "keys": [
+    "משרד המושבות הגרמני"
+   ],
+   "qid_auto": "Q876925",
+   "qid": "Q876925"
+  },
+  {
+   "id": "org:ministry-of-the-colonies-france",
+   "he": "משרד המושבות הצרפתי",
+   "en": "Ministry of the Colonies (France)",
+   "desc": "French colonial ministry",
+   "kind": "ministry",
+   "country": "pl:france",
+   "keys": [
+    "משרד המושבות הצרפתי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:ministry-of-war-russian-empire",
+   "he": "משרד המלחמה הרוסי",
+   "en": "Ministry of War (Russian Empire)",
+   "desc": "Russian war ministry",
+   "kind": "ministry",
+   "country": "pl:russian-empire",
+   "keys": [
+    "משרד המלחמה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:ministry-of-war-bulgaria",
+   "he": "משרד המלחמה הבולגרי",
+   "en": "Ministry of War (Bulgaria)",
+   "desc": "Bulgarian war ministry",
+   "kind": "ministry",
+   "country": "pl:bulgaria",
+   "keys": [
+    "משרד המלחמה הבולגרי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:prussian-ministry-of-war",
+   "he": "משרד המלחמה הפרוסי",
+   "en": "Prussian Ministry of War",
+   "desc": "war ministry of Prussia / German Empire",
+   "kind": "ministry",
+   "country": "pl:germany",
+   "keys": [
+    "משרד המלחמה הגרמני"
+   ],
+   "qid_auto": "Q17353963",
+   "qid": "Q17353963"
+  },
+  {
+   "id": "org:ministry-of-war-ottoman-empire",
+   "he": "משרד המלחמה העות'מאני",
+   "en": "Ministry of War (Ottoman Empire)",
+   "desc": "Ottoman war ministry",
+   "kind": "ministry",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "משרד המלחמה הטורקי"
+   ],
+   "qid_auto": null,
+   "qid": "Q6090884"
+  },
+  {
+   "id": "org:ministry-of-war-spain",
+   "he": "משרד המלחמה הספרדי",
+   "en": "Ministry of War (Spain)",
+   "desc": "Spanish war ministry",
+   "kind": "ministry",
+   "country": "pl:spain",
+   "keys": [
+    "משרד המלחמה הספרדי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:ministry-of-war-france",
+   "he": "משרד המלחמה הצרפתי",
+   "en": "Ministry of War (France)",
+   "desc": "French war ministry",
+   "kind": "ministry",
+   "country": "pl:france",
+   "keys": [
+    "משרד המלחמה הצרפתי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:ministry-of-trade-and-industry-russian-empire",
+   "he": "משרד המסחר והתעשייה הרוסי",
+   "en": "Ministry of Trade and Industry (Russian Empire)",
+   "desc": "Russian trade ministry",
+   "kind": "ministry",
+   "country": "pl:russian-empire",
+   "keys": [
+    "משרד המסחר"
+   ],
+   "qid_auto": "Q4294725",
+   "qid": "Q4294725"
+  },
+  {
+   "id": "org:board-of-trade",
+   "he": "משרד המסחר הבריטי",
+   "en": "Board of Trade",
+   "desc": "British trade ministry",
+   "kind": "ministry",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "משרד המסחר הבריטי"
+   ],
+   "qid_auto": null,
+   "qid": "Q887543"
+  },
+  {
+   "id": "org:ministry-of-justice-russian-empire",
+   "he": "משרד המשפטים הרוסי",
+   "en": "Ministry of Justice (Russian Empire)",
+   "desc": "Russian justice ministry",
+   "kind": "ministry",
+   "country": "pl:russian-empire",
+   "keys": [
+    "משרד המשפטים"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:ministry-of-evkaf",
+   "he": "משרד הווקף העות'מאני",
+   "en": "Ministry of Evkaf (Ottoman Empire)",
+   "desc": "Ottoman ministry of pious foundations",
+   "kind": "ministry",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "משרד הנכסים הדתיים (וקף)"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:ministry-of-internal-affairs-russian-empire",
+   "he": "משרד הפנים הרוסי",
+   "en": "Ministry of Internal Affairs (Russian Empire)",
+   "desc": "Russian interior ministry",
+   "kind": "ministry",
+   "country": "pl:russian-empire",
+   "keys": [
+    "משרד הפנים הרוסי"
+   ],
+   "qid_auto": "Q3739034",
+   "qid": "Q3739034"
+  },
+  {
+   "id": "org:ministry-of-the-interior-ottoman-empire",
+   "he": "משרד הפנים העות'מאני",
+   "en": "Ministry of the Interior (Ottoman Empire)",
+   "desc": "Ottoman interior ministry",
+   "kind": "ministry",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "משרד הפנים העותמאני"
+   ],
+   "qid_auto": "Q6091468",
+   "qid": "Q6091468"
+  },
+  {
+   "id": "org:ministry-of-the-interior-france",
+   "he": "משרד הפנים הצרפתי",
+   "en": "Ministry of the Interior (France)",
+   "desc": "French interior ministry",
+   "kind": "ministry",
+   "country": "pl:france",
+   "keys": [],
+   "qid_auto": "Q1518496",
+   "qid": "Q1518496"
+  },
+  {
+   "id": "org:admiralty",
+   "he": "האדמירליות",
+   "en": "Admiralty",
+   "desc": "British naval ministry",
+   "kind": "ministry",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "משרד הצי הבריטי"
+   ],
+   "qid_auto": "Q62034507",
+   "qid": null
+  },
+  {
+   "id": "org:ministry-of-ways-of-communication",
+   "he": "משרד דרכי התחבורה הרוסי",
+   "en": "Ministry of Ways of Communication",
+   "desc": "Russian transport (railways) ministry",
+   "kind": "ministry",
+   "country": "pl:russian-empire",
+   "keys": [
+    "משרד התחבורה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:main-administration-of-posts-and-telegraphs-russia",
+   "he": "המינהל הראשי של הדואר והטלגרף",
+   "en": "Main Directorate of Posts and Telegraphs (Russian Empire)",
+   "desc": "Russian postal and telegraph administration",
+   "kind": "agency",
+   "country": "pl:russian-empire",
+   "keys": [
+    "נהלה הראשית של הדואר והטלגרף"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:russian-railways-administration",
+   "he": "הנהלת מסילות הברזל הרוסית",
+   "en": "Railway Administration of the Russian Empire",
+   "desc": "Russian state railway directorate",
+   "kind": "agency",
+   "parent": "org:ministry-of-ways-of-communication",
+   "country": "pl:russian-empire",
+   "keys": [
+    "נהלת מסילות הברזל"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:directorate-of-public-schools-kiev",
+   "he": "הנהלת בתי הספר העממיים במחוז קייב",
+   "en": "Directorate of Public Schools (Kiev)",
+   "desc": "Russian school directorate, Kiev",
+   "kind": "agency",
+   "country": "pl:russian-empire",
+   "keys": [
+    "נהלת החינוך העממי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:odessa-city-administration",
+   "he": "עיריית אודסה",
+   "en": "Odessa City Administration",
+   "desc": "municipal government of Odessa",
+   "kind": "municipality",
+   "country": "pl:russian-empire",
+   "keys": [
+    "נהלת העיר אודסה",
+    "עירייה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:berlin-magistrate",
+   "he": "עיריית ברלין",
+   "en": "Magistrate of Berlin",
+   "desc": "Berlin municipal government",
+   "kind": "municipality",
+   "country": "pl:germany",
+   "keys": [
+    "עיריית ברלין"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:st-petersburg-governorate-chancellery",
+   "he": "קנצלריית גוברניית פטרבורג",
+   "en": "Chancellery of St. Petersburg Governorate",
+   "desc": "provincial chancellery",
+   "kind": "agency",
+   "country": "pl:russian-empire",
+   "keys": [
+    "קנצלריה של מחוז פטרבורג"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:kiev-prosecutors-office",
+   "he": "פרקליטות קייב",
+   "en": "Kiev Prosecutor's Office",
+   "desc": "Russian state prosecution, Kiev (Beilis affair)",
+   "kind": "prosecution",
+   "country": "pl:russian-empire",
+   "keys": [
+    "פרקליטות של קיוב",
+    "פרקליטות של קייב"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:jaffa-jerusalem-railway",
+   "he": "מסילת הרכבת יפו–ירושלים",
+   "en": "Jaffa–Jerusalem railway",
+   "desc": "railway line in Ottoman Palestine",
+   "kind": "railway",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "נהלת מסילת הברזל ירושלים (יפו)"
+   ],
+   "qid_auto": null,
+   "qid": "Q74951"
+  },
+  {
+   "id": "org:police-of-the-russian-empire",
+   "he": "משטרת האימפריה הרוסית",
+   "en": "Police of the Russian Empire",
+   "desc": "Russian imperial police",
+   "kind": "police",
+   "country": "pl:russian-empire",
+   "keys": [
+    "משטרה (אוצסטקים)",
+    "משטרה רוסית"
+   ],
+   "qid_auto": "Q123553936",
+   "qid": "Q123553936"
+  },
+  {
+   "id": "org:okhrana",
+   "he": "האוחרנה",
+   "en": "Okhrana",
+   "desc": "Russian secret police",
+   "kind": "secret police",
+   "country": "pl:russian-empire",
+   "keys": [
+    "משטרה חשאית"
+   ],
+   "qid_auto": "Q138503",
+   "qid": "Q138503"
+  },
+  {
+   "id": "org:odessa-police",
+   "he": "משטרת אודסה",
+   "en": "Odessa police",
+   "desc": "city police of Odessa",
+   "kind": "police",
+   "parent": "org:police-of-the-russian-empire",
+   "country": "pl:russian-empire",
+   "keys": [
+    "משטרת אודסה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:warsaw-police",
+   "he": "משטרת ורשה",
+   "en": "Warsaw police",
+   "desc": "city police of Warsaw",
+   "kind": "police",
+   "parent": "org:police-of-the-russian-empire",
+   "country": "pl:russian-empire",
+   "keys": [
+    "משטרת ורשה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:lodz-police",
+   "he": "משטרת לודז'",
+   "en": "Łódź police",
+   "desc": "city police of Łódź",
+   "kind": "police",
+   "parent": "org:police-of-the-russian-empire",
+   "country": "pl:russian-empire",
+   "keys": [
+    "משטרת לודז"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:kiev-police",
+   "he": "משטרת קייב",
+   "en": "Kiev police",
+   "desc": "city police of Kiev",
+   "kind": "police",
+   "parent": "org:police-of-the-russian-empire",
+   "country": "pl:russian-empire",
+   "keys": [
+    "משטרת קיוב"
+   ],
+   "qid_auto": "Q20859932",
+   "qid": "Q20859932"
+  },
+  {
+   "id": "org:prefecture-of-police",
+   "he": "משטרת פריז",
+   "en": "Prefecture of Police",
+   "desc": "Paris police",
+   "kind": "police",
+   "country": "pl:france",
+   "keys": [
+    "משטרת פריז"
+   ],
+   "qid_auto": "Q3408901",
+   "qid": "Q163265"
+  },
+  {
+   "id": "org:prussian-police",
+   "he": "המשטרה הפרוסית",
+   "en": "Prussian police",
+   "desc": "police of the Kingdom of Prussia",
+   "kind": "police",
+   "country": "pl:germany",
+   "keys": [
+    "משטרה הפרוסית",
+    "משטרת פרוסיה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:kriminalpolizei-germany",
+   "he": "המשטרה הפלילית הגרמנית",
+   "en": "Kriminalpolizei",
+   "desc": "German criminal police",
+   "kind": "police",
+   "country": "pl:germany",
+   "keys": [
+    "משטרה הפלילית הגרמנית"
+   ],
+   "qid_auto": null,
+   "qid": "Q684093"
+  },
+  {
+   "id": "org:amsterdam-police",
+   "he": "משטרת אמסטרדם",
+   "en": "Amsterdam police",
+   "desc": "city police of Amsterdam",
+   "kind": "police",
+   "country": "pl:netherlands",
+   "keys": [
+    "משטרת אמסטרדם"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:rotterdam-police",
+   "he": "משטרת רוטרדם",
+   "en": "Rotterdam police",
+   "desc": "city police of Rotterdam",
+   "kind": "police",
+   "country": "pl:netherlands",
+   "keys": [
+    "משטרת רוטרדם"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:royal-irish-constabulary",
+   "he": "משטרת בלפסט",
+   "en": "Royal Irish Constabulary",
+   "desc": "police in Ireland (Belfast)",
+   "kind": "police",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "משטרת בלפאסט"
+   ],
+   "qid_auto": "Q1549059",
+   "qid": "Q1549059"
+  },
+  {
+   "id": "org:moroccan-police-algeciras",
+   "he": "המשטרה המרוקאית",
+   "en": "Moroccan police (Algeciras Act)",
+   "desc": "Franco-Spanish-officered police in Moroccan ports under the Algeciras Act",
+   "kind": "police",
+   "country": "pl:morocco",
+   "keys": [
+    "משטרה המרוקאית",
+    "משטרת מרוקו"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:carabinieri",
+   "he": "הקרבינרים",
+   "en": "Carabinieri",
+   "desc": "Italian gendarmerie",
+   "kind": "gendarmerie",
+   "country": "pl:italy",
+   "keys": [
+    "קרבינירים"
+   ],
+   "qid_auto": "Q54852",
+   "qid": "Q54852"
+  },
+  {
+   "id": "org:german-embassy",
+   "he": "השגרירות הגרמנית",
+   "en": "Embassy of Germany",
+   "desc": "German embassies/legations (London, Bucharest etc.)",
+   "kind": "embassy",
+   "parent": "org:german-foreign-office",
+   "country": "pl:germany",
+   "keys": [
+    "שגרירות הגרמנית",
+    "שגרירות הגרמנית בלונדון",
+    "נציגות הגרמנית בבוקרשט"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:french-embassy",
+   "he": "השגרירות הצרפתית",
+   "en": "Embassy of France",
+   "desc": "French embassies/legations (Constantinople, Tangier etc.)",
+   "kind": "embassy",
+   "parent": "org:ministry-of-foreign-affairs-france",
+   "country": "pl:france",
+   "keys": [
+    "שגרירות הצרפתית",
+    "נציגות הצרפתית בקושטא"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:british-embassy",
+   "he": "השגרירות הבריטית",
+   "en": "Embassy of the United Kingdom",
+   "desc": "British embassies (Constantinople etc.)",
+   "kind": "embassy",
+   "parent": "org:foreign-office",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "שגרירות האנגלית",
+    "שגרירות הבריטית בקונסטנטינופול"
+   ],
+   "qid_auto": "Q24089693",
+   "qid": null
+  },
+  {
+   "id": "org:russian-embassy",
+   "he": "השגרירות הרוסית",
+   "en": "Embassy of Russia",
+   "desc": "Russian embassies/legations",
+   "kind": "embassy",
+   "parent": "org:ministry-of-foreign-affairs-russia",
+   "country": "pl:russian-empire",
+   "keys": [
+    "שגרירות הרוסית",
+    "שגרירות הרוסית בקרלסרוהה",
+    "נציגות הרוסית"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:ottoman-embassy",
+   "he": "השגרירות העות'מאנית",
+   "en": "Embassy of the Ottoman Empire",
+   "desc": "Ottoman embassies/legations (Paris etc.)",
+   "kind": "embassy",
+   "parent": "org:ministry-of-foreign-affairs-ottoman-empire",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "שגרירות טורקיה בפריז",
+    "נציגות הטורקית"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:persian-embassy",
+   "he": "השגרירות הפרסית",
+   "en": "Embassy of Persia",
+   "desc": "Persian legations",
+   "kind": "embassy",
+   "country": "pl:persia",
+   "keys": [
+    "שגרירות הפרסית",
+    "נציגות הפרסית"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:austro-hungarian-embassy",
+   "he": "השגרירות האוסטרית",
+   "en": "Embassy of Austria-Hungary",
+   "desc": "Austro-Hungarian embassies",
+   "kind": "embassy",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "שגרירות האוסטרית"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:italian-embassy",
+   "he": "השגרירות האיטלקית",
+   "en": "Embassy of Italy",
+   "desc": "Italian embassies",
+   "kind": "embassy",
+   "country": "pl:italy",
+   "keys": [
+    "שגרירות האיטלקית"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:japanese-embassy",
+   "he": "שגרירות יפן",
+   "en": "Embassy of Japan",
+   "desc": "Japanese embassies (Paris)",
+   "kind": "embassy",
+   "country": "pl:japan",
+   "keys": [
+    "שגרירות יפן"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:chinese-embassy",
+   "he": "השגרירות הסינית",
+   "en": "Embassy of China",
+   "desc": "Chinese legations",
+   "kind": "embassy",
+   "country": "pl:china",
+   "keys": [
+    "צי הסיני"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:british-consulate",
+   "he": "הקונסוליה הבריטית",
+   "en": "British consulate",
+   "desc": "British consular representation (various cities)",
+   "kind": "consulate",
+   "parent": "org:foreign-office",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "קונסוליה האנגלית",
+    "קונסוליה הבריטית"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:british-consulate-jerusalem",
+   "he": "הקונסוליה הבריטית בירושלים",
+   "en": "British Consulate in Jerusalem",
+   "desc": "British consulate in Ottoman Jerusalem",
+   "kind": "consulate",
+   "parent": "org:british-consulate",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "קונסוליה האנגלית בירושלים"
+   ],
+   "qid_auto": null,
+   "qid": "Q59290346"
+  },
+  {
+   "id": "org:french-consulate",
+   "he": "הקונסוליה הצרפתית",
+   "en": "French consulate",
+   "desc": "French consular representation (various cities)",
+   "kind": "consulate",
+   "parent": "org:ministry-of-foreign-affairs-france",
+   "country": "pl:france",
+   "keys": [
+    "קונסוליה הצרפתית",
+    "קונסוליה הצרפתית בדמשק"
+   ],
+   "qid_auto": "Q877619",
+   "qid": null
+  },
+  {
+   "id": "org:german-consulate",
+   "he": "הקונסוליה הגרמנית",
+   "en": "German consulate",
+   "desc": "German consular representation",
+   "kind": "consulate",
+   "parent": "org:german-foreign-office",
+   "country": "pl:germany",
+   "keys": [
+    "קונסוליה הגרמנית"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:russian-consulate",
+   "he": "הקונסוליה הרוסית",
+   "en": "Russian consulate",
+   "desc": "Russian consular representation (various cities)",
+   "kind": "consulate",
+   "parent": "org:ministry-of-foreign-affairs-russia",
+   "country": "pl:russian-empire",
+   "keys": [
+    "קונסוליה הרוסית",
+    "קונסוליה הרוסית באלכסנדריה",
+    "קונסוליה הרוסית הכללית בסלוניקי",
+    "קונסוליה הרוסית הראשית",
+    "קונסוליות הרוסיות"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:ottoman-consulate",
+   "he": "הקונסוליה העות'מאנית",
+   "en": "Ottoman consulate",
+   "desc": "Ottoman consular representation (Odessa etc.)",
+   "kind": "consulate",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "קונסוליה הטורקית",
+    "קונסוליה הטורקית באודסה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:greek-consulate",
+   "he": "הקונסוליה היוונית",
+   "en": "Greek consulate",
+   "desc": "Greek consular representation (Odessa, Jerusalem etc.)",
+   "kind": "consulate",
+   "country": "pl:greece",
+   "keys": [
+    "קונסוליה היוונית באודסה",
+    "קונסוליה הכללית היוונית בירושלים",
+    "קונסוליות יווניות"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:spanish-consulate",
+   "he": "הקונסוליה הספרדית",
+   "en": "Spanish consulate",
+   "desc": "Spanish consular representation in Morocco (Tangier, Fez, Alcazar)",
+   "kind": "consulate",
+   "country": "pl:spain",
+   "keys": [
+    "קונסוליה הספרדית",
+    "קונסוליה הספרדית באלקאזר",
+    "קונסוליה הספרדית בטנגיר",
+    "קונסוליה הספרדית בפז"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:persian-consulate",
+   "he": "הקונסוליה הפרסית",
+   "en": "Persian consulate",
+   "desc": "Persian consulate (Kiev)",
+   "kind": "consulate",
+   "country": "pl:persia",
+   "keys": [
+    "קונסוליה הפרסית בקייב"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:romanian-consulate",
+   "he": "הקונסוליה הרומנית",
+   "en": "Romanian consulate",
+   "desc": "Romanian consulate (Odessa)",
+   "kind": "consulate",
+   "country": "pl:romania",
+   "keys": [
+    "קונסוליה הרומנית",
+    "קונסולייה הרומנית"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:austro-hungarian-consulate",
+   "he": "הקונסוליה האוסטרית",
+   "en": "Austro-Hungarian consulate",
+   "desc": "Austro-Hungarian consulate (Buenos Aires)",
+   "kind": "consulate",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "קונסוליה האוסטרית בבואנוס איירס"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:united-states-consulate",
+   "he": "הקונסוליה האמריקאית",
+   "en": "United States consulate",
+   "desc": "US consular representation (Odessa etc.)",
+   "kind": "consulate",
+   "country": "pl:united-states",
+   "keys": [
+    "קונסול האמריקני באודסה",
+    "קונסוליות האמריקאיות"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:french-military-mission",
+   "he": "המשלחת הצבאית הצרפתית",
+   "en": "French military mission",
+   "desc": "French military mission (1917)",
+   "kind": "military mission",
+   "country": "pl:france",
+   "keys": [
+    "משלחת הצבאית הצרפתית"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:constitutional-democratic-party",
+   "he": "המפלגה החוקתית-דמוקרטית (הקדטים)",
+   "en": "Constitutional Democratic Party",
+   "en_alt": [
+    "Kadets",
+    "Party of People's Freedom"
+   ],
+   "desc": "Russian liberal party (Kadets)",
+   "kind": "party",
+   "country": "pl:russian-empire",
+   "keys": [
+    "מפלגה הקדטית",
+    "מפלגת הקדטים",
+    "קאדטים",
+    "קדטים",
+    "קדטים (מפלגת החירות העממית)",
+    "מפלגת החירות העממית"
+   ],
+   "qid_auto": null,
+   "qid": "Q155820"
+  },
+  {
+   "id": "org:russian-social-democratic-labour-party",
+   "he": "מפלגת הפועלים הסוציאל-דמוקרטית של רוסיה",
+   "en": "Russian Social Democratic Labour Party",
+   "desc": "Russian Marxist party (RSDLP)",
+   "kind": "party",
+   "country": "pl:russian-empire",
+   "keys": [
+    "פקציה הסוציאל דמוקרטית"
+   ],
+   "qid_auto": "Q204911",
+   "qid": "Q204911"
+  },
+  {
+   "id": "org:mensheviks",
+   "he": "המנשביקים",
+   "en": "Mensheviks",
+   "desc": "faction of the RSDLP",
+   "kind": "party faction",
+   "parent": "org:russian-social-democratic-labour-party",
+   "country": "pl:russian-empire",
+   "keys": [
+    "מנשביקים"
+   ],
+   "qid_auto": "Q191515",
+   "qid": "Q191515"
+  },
+  {
+   "id": "org:socialist-revolutionary-party",
+   "he": "מפלגת הסוציאליסטים-רבולוציונרים",
+   "en": "Socialist Revolutionary Party",
+   "desc": "Russian SR party",
+   "kind": "party",
+   "country": "pl:russian-empire",
+   "keys": [
+    "מפלגה הסוציאל רבולוציונית",
+    "מפלגה הסוציאל רבולוציונרית",
+    "סוציאל רבולוציונרים"
+   ],
+   "qid_auto": "Q217009",
+   "qid": "Q217009"
+  },
+  {
+   "id": "org:trudoviks",
+   "he": "הטרודוביקים",
+   "en": "Trudoviks",
+   "desc": "Labour Group in the Russian Duma",
+   "kind": "parliamentary group",
+   "country": "pl:russian-empire",
+   "keys": [
+    "פקציית הטרודובים"
+   ],
+   "qid_auto": "Q1570527",
+   "qid": "Q1570527"
+  },
+  {
+   "id": "org:narodnaya-volya",
+   "he": "נרודניה וולייה",
+   "en": "Narodnaya Volya",
+   "desc": "Russian revolutionary organization (People's Will)",
+   "kind": "revolutionary organization",
+   "country": "pl:russian-empire",
+   "keys": [
+    "נרודנאיה וולייה"
+   ],
+   "qid_auto": "Q787001",
+   "qid": "Q787001"
+  },
+  {
+   "id": "org:union-of-the-russian-people",
+   "he": "איגוד העם הרוסי",
+   "en": "Union of the Russian People",
+   "desc": "Russian far-right monarchist organization (Black Hundreds)",
+   "kind": "party",
+   "country": "pl:russian-empire",
+   "keys": [
+    "סויוזניקים",
+    "סוציאל דמוקרטים של קייב"
+   ],
+   "qid_auto": "Q580690",
+   "qid": "Q580690"
+  },
+  {
+   "id": "org:kiev-constitutional-progressive-party",
+   "he": "המפלגה החוקתית-פרוגרסיבית של קייב",
+   "en": "Kiev Constitutional-Progressive Party",
+   "desc": "local Russian liberal party, Kiev 1906",
+   "kind": "party",
+   "country": "pl:russian-empire",
+   "keys": [
+    "מפלגה החוקתית הפרוגרסיבית של קייב"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:jewish-independent-labour-party",
+   "he": "המפלגה היהודית העצמאית",
+   "en": "Jewish Independent Labour Party",
+   "desc": "Zubatov-sponsored Jewish workers' party in Russia",
+   "kind": "party",
+   "country": "pl:russian-empire",
+   "keys": [
+    "מפלגה היהודית העצמאית",
+    "מפלגה העצמאית"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:georgian-socialist-federalist-revolutionary-party",
+   "he": "מפלגת הפדרליסטים הגאורגית",
+   "en": "Georgian Socialist-Federalist Revolutionary Party",
+   "desc": "Georgian federalist party",
+   "kind": "party",
+   "country": "pl:russian-empire",
+   "keys": [
+    "מפלגת הפדרליסטים הגאורגית"
+   ],
+   "qid_auto": "Q5548046",
+   "qid": "Q5548046"
+  },
+  {
+   "id": "org:armenian-revolutionary-federation",
+   "he": "הפדרציה המהפכנית הארמנית (דשנקציון)",
+   "en": "Armenian Revolutionary Federation",
+   "en_alt": [
+    "Dashnaktsutyun"
+   ],
+   "desc": "Armenian party (Dashnaktsutyun)",
+   "kind": "party",
+   "keys": [
+    "מפלגה הרבולוציונית הארמנית דשנקצוטיון"
+   ],
+   "qid_auto": "Q318657",
+   "qid": "Q318657"
+  },
+  {
+   "id": "org:polish-socialist-party",
+   "he": "המפלגה הסוציאליסטית הפולנית",
+   "en": "Polish Socialist Party",
+   "en_alt": [
+    "PPS"
+   ],
+   "desc": "PPS",
+   "kind": "party",
+   "country": "pl:poland",
+   "keys": [
+    "מפלגה הסוציאליסטית הפולנית",
+    "מפלגה הסוציאליסטית הפולנית (פ.פ.ס.)",
+    "פ.פ.ס."
+   ],
+   "qid_auto": null,
+   "qid": "Q210431"
+  },
+  {
+   "id": "org:polish-peoples-party-parliamentary-club",
+   "he": "המועדון הפרלמנטרי של המפלגה העממית הפולנית",
+   "en": "Polish People's Party (Galicia) parliamentary club",
+   "desc": "Polish peasant party club in the Austrian Reichsrat",
+   "kind": "parliamentary group",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "קלוב הפרלמנטרי של המפלגה העממית הפולנית"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:social-democratic-party-of-germany",
+   "he": "המפלגה הסוציאל-דמוקרטית של גרמניה",
+   "en": "Social Democratic Party of Germany",
+   "en_alt": [
+    "SPD"
+   ],
+   "desc": "German SPD",
+   "kind": "party",
+   "country": "pl:germany",
+   "keys": [
+    "מפלגה הסוציאל דמוקרטית הגרמנית",
+    "מפלגה הסוציאל דמוקרטית של גרמניה",
+    "סוציאל דמוקרטיה הגרמנית",
+    "סוציאל דמוקרטים הגרמנים",
+    "מפלגה הסוציאליסטית הגרמנית",
+    "סוציאליסטים הגרמנים",
+    "סוציאל דמוקרטיה",
+    "סוציאל דמוקרטים (מפלגה סוציאליסטית)"
+   ],
+   "qid_auto": null,
+   "qid": "Q49768"
+  },
+  {
+   "id": "org:centre-party-germany",
+   "he": "מפלגת המרכז",
+   "en": "Centre Party (Germany)",
+   "desc": "German Catholic party (Zentrum)",
+   "kind": "party",
+   "country": "pl:germany",
+   "keys": [
+    "מפלגת המרכז",
+    "מרכז"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:german-conservative-party",
+   "he": "המפלגה השמרנית הגרמנית",
+   "en": "German Conservative Party",
+   "desc": "Prussian/German conservatives",
+   "kind": "party",
+   "country": "pl:germany",
+   "keys": [
+    "שמרנים"
+   ],
+   "qid_auto": "Q458791",
+   "qid": "Q458791"
+  },
+  {
+   "id": "org:national-liberal-party-germany",
+   "he": "המפלגה הלאומית-ליברלית",
+   "en": "National Liberal Party (Germany)",
+   "desc": "German national-liberal party",
+   "kind": "party",
+   "country": "pl:germany",
+   "keys": [
+    "מפלגה הלאומית ליברלית"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:progressive-peoples-party-germany",
+   "he": "מפלגת העם הפרוגרסיבית",
+   "en": "Progressive People's Party (Germany)",
+   "desc": "German left-liberal party 1910–1918",
+   "kind": "party",
+   "country": "pl:germany",
+   "keys": [
+    "מפלגה הפרוגרסיבית"
+   ],
+   "qid_auto": null,
+   "qid": "Q662377"
+  },
+  {
+   "id": "org:freeminded-peoples-party",
+   "he": "מפלגת העם החופשית",
+   "en": "Free-minded People's Party",
+   "desc": "German left-liberal party 1893–1910",
+   "kind": "party",
+   "country": "pl:germany",
+   "keys": [
+    "מפלגת העם הגרמנית הפרוגרסיבית"
+   ],
+   "qid_auto": "Q319457",
+   "qid": "Q319457"
+  },
+  {
+   "id": "org:christian-social-party-austria",
+   "he": "המפלגה הנוצרית-סוציאלית",
+   "en": "Christian Social Party (Austria)",
+   "desc": "Austrian Christian-social (antisemitic) party of Lueger",
+   "kind": "party",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "מפלגה הנוצרית סוציאלית האוסטרית",
+    "מפלגת הסוציאליסטים הנוצרים"
+   ],
+   "qid_auto": null,
+   "qid": "Q692131"
+  },
+  {
+   "id": "org:social-democratic-party-of-austria",
+   "he": "המפלגה הסוציאל-דמוקרטית האוסטרית",
+   "en": "Social Democratic Workers' Party of Austria",
+   "desc": "Austrian social democrats",
+   "kind": "party",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "סוציאל דמוקרטים האוסטרים"
+   ],
+   "qid_auto": null,
+   "qid": "Q179111"
+  },
+  {
+   "id": "org:social-democratic-party-of-hungary",
+   "he": "המפלגה הסוציאל-דמוקרטית ההונגרית",
+   "en": "Social Democratic Party of Hungary",
+   "desc": "Hungarian socialist party",
+   "kind": "party",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "מפלגה הסוציאליסטית בהונגריה"
+   ],
+   "qid_auto": "Q897658",
+   "qid": "Q897658"
+  },
+  {
+   "id": "org:party-of-independence-and-48",
+   "he": "מפלגת העצמאות ו-48",
+   "en": "Party of Independence and '48",
+   "desc": "Hungarian national opposition party",
+   "kind": "party",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "מפלגה הלאומית ההונגרית"
+   ],
+   "qid_auto": "Q1006324",
+   "qid": "Q1006324"
+  },
+  {
+   "id": "org:catholic-peoples-party-hungary",
+   "he": "מפלגת העם הקתולית",
+   "en": "Catholic People's Party (Hungary)",
+   "desc": "Hungarian Catholic party (Néppárt)",
+   "kind": "party",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "מפלגת העם (הונגריה)"
+   ],
+   "qid_auto": "Q1105551",
+   "qid": "Q1105551"
+  },
+  {
+   "id": "org:french-section-of-the-workers-international",
+   "he": "המפלגה הסוציאליסטית הצרפתית (SFIO)",
+   "en": "French Section of the Workers' International",
+   "en_alt": [
+    "SFIO"
+   ],
+   "desc": "unified French socialist party, 1905–",
+   "kind": "party",
+   "country": "pl:france",
+   "keys": [
+    "מפלגה הסוציאליסטית המאוחדת הצרפתית",
+    "מפלגה הסוציאליסטית הצרפתית",
+    "מפלגה הסוציאליסטית הצרפתית המאוחדת",
+    "סוציאליסטים הצרפתים"
+   ],
+   "qid_auto": "Q1332068",
+   "qid": "Q1332068"
+  },
+  {
+   "id": "org:radical-party-france",
+   "he": "המפלגה הרדיקלית",
+   "en": "Radical Party (France)",
+   "desc": "French Radical-Socialist party",
+   "kind": "party",
+   "country": "pl:france",
+   "keys": [
+    "מפלגה הרדיקלית",
+    "מפלגה הסוציאליסטית הרדיקלית"
+   ],
+   "qid_auto": null,
+   "qid": "Q1542710"
+  },
+  {
+   "id": "org:liberal-party-uk",
+   "he": "המפלגה הליברלית",
+   "en": "Liberal Party (UK)",
+   "desc": "British Liberal party",
+   "kind": "party",
+   "country": "pl:united-kingdom",
+   "keys": [],
+   "qid_auto": null,
+   "qid": "Q622441"
+  },
+  {
+   "id": "org:conservative-party-uk",
+   "he": "המפלגה השמרנית",
+   "en": "Conservative Party (UK)",
+   "desc": "British Conservative party",
+   "kind": "party",
+   "country": "pl:united-kingdom",
+   "keys": [],
+   "qid_auto": null,
+   "qid": "Q9626"
+  },
+  {
+   "id": "org:labour-party-uk",
+   "he": "מפלגת הלייבור",
+   "en": "Labour Party (UK)",
+   "desc": "British Labour party",
+   "kind": "party",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "מפלגת הפועלים"
+   ],
+   "qid_auto": null,
+   "qid": "Q9630"
+  },
+  {
+   "id": "org:irish-parliamentary-party",
+   "he": "המפלגה האירית",
+   "en": "Irish Parliamentary Party",
+   "desc": "Irish nationalist party at Westminster",
+   "kind": "party",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "מפלגה האירית",
+    "מפלגת הפועלים האירית"
+   ],
+   "qid_auto": "Q1311653",
+   "qid": "Q1311653"
+  },
+  {
+   "id": "org:social-democratic-federation",
+   "he": "הפדרציה הסוציאל-דמוקרטית",
+   "en": "Social Democratic Federation",
+   "desc": "British socialist organization",
+   "kind": "party",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "פדרציה הסוציאל דמוקרטית האנגלית"
+   ],
+   "qid_auto": null,
+   "qid": "Q1304246"
+  },
+  {
+   "id": "org:australian-labor-party",
+   "he": "מפלגת הלייבור האוסטרלית",
+   "en": "Australian Labor Party",
+   "desc": "Australian labour party",
+   "kind": "party",
+   "country": "pl:australia",
+   "keys": [
+    "מפלגת הפועלים באוסטרליה"
+   ],
+   "qid_auto": "Q216082",
+   "qid": "Q216082"
+  },
+  {
+   "id": "org:belgian-labour-party",
+   "he": "מפלגת הפועלים הבלגית",
+   "en": "Belgian Labour Party",
+   "desc": "Belgian socialist party",
+   "kind": "party",
+   "country": "pl:belgium",
+   "keys": [
+    "מפלגת הפועלים הבלגית"
+   ],
+   "qid_auto": "Q1811565",
+   "qid": "Q1811565"
+  },
+  {
+   "id": "org:social-democrats-denmark",
+   "he": "המפלגה הסוציאל-דמוקרטית הדנית",
+   "en": "Social Democrats (Denmark)",
+   "desc": "Danish social democratic party",
+   "kind": "party",
+   "country": "pl:denmark",
+   "keys": [
+    "מפלגה הסוציאל דמוקרטית הדנית"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:social-democratic-workers-party-netherlands",
+   "he": "מפלגת הפועלים הסוציאל-דמוקרטית ההולנדית",
+   "en": "Social Democratic Workers' Party (Netherlands)",
+   "desc": "Dutch SDAP",
+   "kind": "party",
+   "country": "pl:netherlands",
+   "keys": [
+    "מפלגה הסוציאל דמוקרטית ההולנדית"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:spanish-socialist-workers-party",
+   "he": "מפלגת הפועלים הסוציאליסטית הספרדית",
+   "en": "Spanish Socialist Workers' Party",
+   "desc": "Spanish socialist party (PSOE)",
+   "kind": "party",
+   "country": "pl:spain",
+   "keys": [
+    "סוציאל דמוקרטים הספרדים",
+    "סוציאליסטים הספרדים"
+   ],
+   "qid_auto": "Q138198",
+   "qid": "Q138198"
+  },
+  {
+   "id": "org:romanian-social-democrats",
+   "he": "הסוציאליסטים הרומנים",
+   "en": "Romanian socialist movement",
+   "desc": "Romanian social-democratic movement",
+   "kind": "party",
+   "country": "pl:romania",
+   "keys": [
+    "סוציאליסטים רומנים"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:norwegian-republican-movement",
+   "he": "המפלגה הרפובליקנית הנורווגית",
+   "en": "Norwegian republicans (1905)",
+   "desc": "republican current in Norway during the 1905 monarchy debate",
+   "kind": "party",
+   "country": "pl:norway",
+   "keys": [
+    "מפלגה הרפובליקנית (נורווגיה)"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:republican-party-united-states",
+   "he": "המפלגה הרפובליקנית",
+   "en": "Republican Party (United States)",
+   "desc": "US Republican party",
+   "kind": "party",
+   "country": "pl:united-states",
+   "keys": [
+    "מפלגה הרפובליקנית"
+   ],
+   "qid_auto": "Q29468",
+   "qid": "Q29468"
+  },
+  {
+   "id": "org:democratic-party-united-states",
+   "he": "המפלגה הדמוקרטית",
+   "en": "Democratic Party (United States)",
+   "desc": "US Democratic party",
+   "kind": "party",
+   "country": "pl:united-states",
+   "keys": [],
+   "qid_auto": "Q29552",
+   "qid": "Q29552"
+  },
+  {
+   "id": "org:democrat-party-persia",
+   "he": "המפלגה הדמוקרטית (פרס)",
+   "en": "Democrat Party (Persia)",
+   "desc": "Persian constitutionalist party (Ferqe-ye Demokrat)",
+   "kind": "party",
+   "country": "pl:persia",
+   "keys": [
+    "מפלגה הדמוקרטית (פרס)"
+   ],
+   "qid_auto": "Q5960507",
+   "qid": "Q5960507"
+  },
+  {
+   "id": "org:ottoman-democratic-party",
+   "he": "המפלגה הדמוקרטית העות'מאנית",
+   "en": "Ottoman Democratic Party",
+   "desc": "Ottoman opposition party, 1909",
+   "kind": "party",
+   "country": "pl:ottoman-empire",
+   "keys": [],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:rikken-kokuminto",
+   "he": "המפלגה הלאומית החוקתית",
+   "en": "Rikken Kokumintō",
+   "desc": "Japanese Constitutional Nationalist Party",
+   "kind": "party",
+   "country": "pl:japan",
+   "keys": [
+    "מפלגה הלאומית (יפן)"
+   ],
+   "qid_auto": "Q3062340",
+   "qid": "Q3062340"
+  },
+  {
+   "id": "org:italian-nationalists",
+   "he": "המפלגה הלאומית האיטלקית",
+   "en": "Italian nationalists",
+   "desc": "Italian nationalist party/current (1905)",
+   "kind": "party",
+   "country": "pl:italy",
+   "keys": [
+    "מפלגה הלאומית האיטלקית"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:committee-of-union-and-progress",
+   "he": "ועד האחדות והקדמה",
+   "en": "Committee of Union and Progress",
+   "en_alt": [
+    "CUP",
+    "İttihat ve Terakki"
+   ],
+   "desc": "Young Turk party (CUP)",
+   "kind": "party",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "מפלגת איחוד והתקדמות"
+   ],
+   "qid_auto": null,
+   "qid": "Q1559352"
+  },
+  {
+   "id": "org:young-turks",
+   "he": "הטורקים הצעירים",
+   "en": "Young Turks",
+   "desc": "Ottoman constitutional reform movement",
+   "kind": "political movement",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "מפלגת הטורקים הצעירים",
+    "צעירים הטורקים",
+    "צעירים התורכים",
+    "תורכים הצעירים"
+   ],
+   "qid_auto": "Q83896",
+   "qid": "Q83896"
+  },
+  {
+   "id": "org:cemiyet-i-ilmiye",
+   "he": "אגודת העלמאא (ג'מעייתי עילמייה)",
+   "en": "Cemiyet-i İlmiye",
+   "desc": "Ottoman association of ulema; clerical opposition, 1909",
+   "kind": "party",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "מפלגה הקלריקלית אימיה"
+   ],
+   "qid_auto": null,
+   "qid": "Q136198612"
+  },
+  {
+   "id": "org:jewish-national-party-salonica",
+   "he": "המפלגה היהודית-לאומית בסלוניקי",
+   "en": "Jewish National Party (Salonica)",
+   "desc": "Zionist-national Jewish faction in Salonica",
+   "kind": "party",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "מפלגה היהודית לאומית בסלוניקי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:ottoman-constitutionalists",
+   "he": "החוקתיים",
+   "en": "Ottoman constitutionalists",
+   "desc": "supporters of the Ottoman constitution (1909)",
+   "kind": "political movement",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "קונסטיטוציונליסטים"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:central-powers",
+   "he": "מעצמות המרכז",
+   "en": "Central Powers",
+   "en_alt": [
+    "Quadruple Alliance"
+   ],
+   "desc": "Germany, Austria-Hungary, Ottoman Empire, Bulgaria (WWI)",
+   "kind": "alliance",
+   "keys": [
+    "סכמה (ארבע מעצמות)"
+   ],
+   "qid_auto": null,
+   "qid": "Q152283"
+  },
+  {
+   "id": "org:great-powers",
+   "he": "המעצמות הגדולות",
+   "en": "Great powers",
+   "desc": "the European great powers (concert of Europe)",
+   "kind": "group of states",
+   "keys": [
+    "מעצמות האירופיות",
+    "מעצמות הגדולות"
+   ],
+   "qid_auto": "Q185145",
+   "qid": "Q185145"
+  },
+  {
+   "id": "org:swedish-interparliamentary-peace-group",
+   "he": "קבוצת השלום הפרלמנטרית בשוודיה",
+   "en": "Swedish parliamentary peace group",
+   "desc": "Swedish interparliamentary peace group (1912)",
+   "kind": "parliamentary group",
+   "country": "pl:sweden",
+   "keys": [
+    "קבוצת השלום הפרלמנטרית בשוודיה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:inter-parliamentary-union",
+   "he": "האיחוד הבין-פרלמנטרי",
+   "en": "Inter-Parliamentary Union",
+   "desc": "international organization of parliaments; its conferences",
+   "kind": "international organization",
+   "keys": [
+    "קונגרס הבין פרלמנטרי"
+   ],
+   "qid_auto": "Q176815",
+   "qid": "Q176815"
+  },
+  {
+   "id": "org:agence-havas",
+   "he": "סוכנות הוואס",
+   "en": "Agence Havas",
+   "en_alt": [
+    "Havas"
+   ],
+   "desc": "French news agency",
+   "kind": "news agency",
+   "country": "pl:france",
+   "keys": [
+    "סוכנות האבאס",
+    "סוכנות האבס",
+    "סוכנות האוואס",
+    "סוכנות הבאוואס",
+    "סוכנות הבאס",
+    "סוכנות הוואס",
+    "סוכנות הווס",
+    "סוכנות חבאס"
+   ],
+   "qid_auto": null,
+   "qid": "Q2826560"
+  },
+  {
+   "id": "org:reuters",
+   "he": "רויטרס",
+   "en": "Reuters",
+   "desc": "British news agency",
+   "kind": "news agency",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "סוכנות רויטר",
+    "סוכנות רויטרס"
+   ],
+   "qid_auto": "Q130879",
+   "qid": "Q130879"
+  },
+  {
+   "id": "org:wolffs-telegraphisches-bureau",
+   "he": "סוכנות וולף",
+   "en": "Wolffs Telegraphisches Bureau",
+   "desc": "German news agency",
+   "kind": "news agency",
+   "country": "pl:germany",
+   "keys": [
+    "סוכנות הטלגרף וולף",
+    "סוכנות וולף",
+    "סוכנות הטלגרף הגרמנית"
+   ],
+   "qid_auto": "Q552226",
+   "qid": "Q552226"
+  },
+  {
+   "id": "org:st-petersburg-telegraph-agency",
+   "he": "סוכנות הטלגרף של פטרבורג",
+   "en": "Saint Petersburg Telegraph Agency",
+   "en_alt": [
+    "Petrograd Telegraph Agency",
+    "Russian Telegraph Agency"
+   ],
+   "desc": "official Russian news agency (Russian Telegraph Agency; from 1914 Petrograd T.A.)",
+   "kind": "news agency",
+   "country": "pl:russian-empire",
+   "keys": [
+    "סוכנות הטלגרף",
+    "סוכנות הטלגרף הרוסית",
+    "סוכנות הטלגרף של פטרבורג",
+    "סוכנות הטלגרפים הרוסית",
+    "סוכנות הטלגרפים של פטרבורג",
+    "סוכנות הטלגרפית הרוסית",
+    "סוכנות הטלגרפית פטא",
+    "סוכנות הידיעות הפטרבורגית",
+    "סוכנות הידיעות הרוסית"
+   ],
+   "qid_auto": "Q782067",
+   "qid": "Q4461015"
+  },
+  {
+   "id": "org:k-k-telegraphen-korrespondenz-bureau",
+   "he": "לשכת הקורספונדנציה הטלגרפית הווינאית",
+   "en": "k.k. Telegraphen-Korrespondenz-Bureau",
+   "desc": "official Austrian news agency",
+   "kind": "news agency",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "סוכנות הטלגרף הרשמית האוסטרית",
+    "סוכנות הידיעות קורספונדנץ ביורו"
+   ],
+   "qid_auto": null,
+   "qid": "Q85017764"
+  },
+  {
+   "id": "org:berliner-korrespondenz-bureau",
+   "he": "סוכנות הידיעות של ברלין",
+   "en": "Berliner Korrespondenz-Bureau",
+   "desc": "Berlin news bureau",
+   "kind": "news agency",
+   "country": "pl:germany",
+   "keys": [
+    "סוכנות הידיעות של ברלין"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:agenzia-stefani",
+   "he": "סוכנות סטפאני",
+   "en": "Agenzia Stefani",
+   "desc": "Italian news agency",
+   "kind": "news agency",
+   "country": "pl:italy",
+   "keys": [
+    "סוכנות הידיעות שטפני",
+    "סוכנות סטפאני",
+    "סוכנות סטפני"
+   ],
+   "qid_auto": "Q1415690",
+   "qid": "Q1415690"
+  },
+  {
+   "id": "org:bulgarian-telegraph-agency",
+   "he": "סוכנות הטלגרף הבולגרית",
+   "en": "Bulgarian Telegraph Agency",
+   "desc": "Bulgarian news agency",
+   "kind": "news agency",
+   "country": "pl:bulgaria",
+   "keys": [
+    "סוכנות הטלגרף הבולגרית"
+   ],
+   "qid_auto": "Q2031809",
+   "qid": "Q2031809"
+  },
+  {
+   "id": "org:athens-news-agency",
+   "he": "סוכנות הידיעות האתונאית",
+   "en": "Athens News Agency",
+   "desc": "Greek news agency",
+   "kind": "news agency",
+   "country": "pl:greece",
+   "keys": [
+    "סוכנות הידיעות האתונאית"
+   ],
+   "qid_auto": "Q2634425",
+   "qid": "Q2634425"
+  },
+  {
+   "id": "org:ottoman-telegraph-agency",
+   "he": "הסוכנות העות'מאנית",
+   "en": "Ottoman news agency",
+   "desc": "Ottoman official news agency (Agence Ottomane)",
+   "kind": "news agency",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "סוכנות העותמאנית"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:central-news-agency",
+   "he": "סוכנות סנטרל ניוז",
+   "en": "Central News Agency",
+   "desc": "London news agency",
+   "kind": "news agency",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "סוכנות צנטרל ניוז"
+   ],
+   "qid_auto": null,
+   "qid": "Q5061519"
+  },
+  {
+   "id": "org:russian-post-office-in-constantinople",
+   "he": "הדואר הרוסי באימפריה העות'מאנית",
+   "en": "Russian post offices in the Ottoman Empire",
+   "desc": "Russian postal agency (ROPiT)",
+   "kind": "postal service",
+   "country": "pl:russian-empire",
+   "keys": [
+    "סוכנות הדואר הרוסית"
+   ],
+   "qid_auto": "Q4400527",
+   "qid": "Q4400527"
+  },
+  {
+   "id": "org:odessa-post-office",
+   "he": "סניף הדואר באודסה",
+   "en": "Odessa post office",
+   "desc": "post office in Odessa",
+   "kind": "post office",
+   "country": "pl:russian-empire",
+   "keys": [
+    "סניף הדואר באודסה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:novoye-vremya",
+   "he": "נובויה ורמיה",
+   "en": "Novoye Vremya",
+   "desc": "St Petersburg conservative daily",
+   "kind": "newspaper",
+   "country": "pl:russian-empire",
+   "keys": [
+    "נובוי ורמיה",
+    "נובויה וורמיה",
+    "נובויה ורמיה",
+    "נובוייה ורמיה",
+    "עיתון נובויה ורמיה",
+    "עיתון וורמיה"
+   ],
+   "qid_auto": "Q2598596",
+   "qid": "Q2598596"
+  },
+  {
+   "id": "org:rech-newspaper",
+   "he": "רֶץ'",
+   "en": "Rech (newspaper)",
+   "desc": "St Petersburg Kadet daily",
+   "kind": "newspaper",
+   "country": "pl:russian-empire",
+   "keys": [
+    "עיתון רֶץ",
+    "עיתון רייץ",
+    "עיתון רץ",
+    "רֶץ",
+    "רֶץ (עיתון)",
+    "רייטש",
+    "רייך",
+    "רייץ",
+    "ריעץ",
+    "רעטש",
+    "רץ"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:russkoye-slovo",
+   "he": "רוסקויה סלובו",
+   "en": "Russkoye Slovo",
+   "desc": "Moscow daily",
+   "kind": "newspaper",
+   "country": "pl:russian-empire",
+   "keys": [
+    "עיתון רוסקוֹיֶה סלובו",
+    "רוסקאיה סלובה",
+    "רוסקוֹיה סלובו",
+    "רוסקויה סלובו"
+   ],
+   "qid_auto": "Q4401039",
+   "qid": null
+  },
+  {
+   "id": "org:russkoye-znamya",
+   "he": "רוססקויה זנמיה",
+   "en": "Russkoye Znamya",
+   "desc": "organ of the Union of the Russian People",
+   "kind": "newspaper",
+   "country": "pl:russian-empire",
+   "keys": [
+    "רוסקאיה זנמיה",
+    "רוסקאיה נובויה (עיתון)"
+   ],
+   "qid_auto": "Q16932733",
+   "qid": "Q16932733"
+  },
+  {
+   "id": "org:russkaya-volya",
+   "he": "רוסקאיה וולייה",
+   "en": "Russkaya Volya",
+   "desc": "Petrograd daily 1916–1917",
+   "kind": "newspaper",
+   "country": "pl:russian-empire",
+   "keys": [
+    "רוסקאיא וולי��"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:russkoye-bogatstvo",
+   "he": "רוסקויה בוגטסטבו",
+   "en": "Russkoye Bogatstvo",
+   "desc": "Russian populist monthly",
+   "kind": "newspaper",
+   "country": "pl:russian-empire",
+   "keys": [
+    "רוסקויה בוגטסטבו"
+   ],
+   "qid_auto": "Q918215",
+   "qid": "Q918215"
+  },
+  {
+   "id": "org:russkiye-vedomosti",
+   "he": "רוסקיה וידומוסטי",
+   "en": "Russkiye Vedomosti",
+   "desc": "Moscow liberal daily",
+   "kind": "newspaper",
+   "country": "pl:russian-empire",
+   "keys": [
+    "רוסקיה וידומוסטי"
+   ],
+   "qid_auto": "Q2028759",
+   "qid": "Q2028759"
+  },
+  {
+   "id": "org:russian-chronicle",
+   "he": "רוסקי קרוניקל",
+   "en": "Russian Chronicle (periodical)",
+   "desc": "periodical cited 1910–1911 (title uncertain)",
+   "kind": "newspaper",
+   "country": "pl:russian-empire",
+   "keys": [
+    "רוסקי קראניקל (עיתון)",
+    "רוסקי קרוניקל (הכרוניקה הרוסית)"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:rossiya-newspaper",
+   "he": "רוסיה (עיתון)",
+   "en": "Rossiya (newspaper)",
+   "desc": "semi-official St Petersburg daily 1905–1914",
+   "kind": "newspaper",
+   "country": "pl:russian-empire",
+   "keys": [
+    "עיתון ראסיה",
+    "עיתון רוסיה",
+    "ראסיא"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:rus-newspaper",
+   "he": "רוס (עיתון)",
+   "en": "Rus' (newspaper)",
+   "desc": "St Petersburg liberal daily 1903–1910",
+   "kind": "newspaper",
+   "country": "pl:russian-empire",
+   "keys": [
+    "עיתון רוס",
+    "רוס"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:nasha-zhizn",
+   "he": "נאשה ז'יזן",
+   "en": "Nasha Zhizn",
+   "desc": "St Petersburg liberal daily 1904–1906",
+   "kind": "newspaper",
+   "country": "pl:russian-empire",
+   "keys": [
+    "נשה זיזן",
+    "נאשהזיזן",
+    "עיתון חיינו"
+   ],
+   "qid_auto": "Q16910332",
+   "qid": "Q16910332"
+  },
+  {
+   "id": "org:yevreyskaya-zhizn",
+   "he": "יברייסקאיה ז'יזן",
+   "en": "Yevreyskaya Zhizn",
+   "desc": "Russian-language Zionist periodical",
+   "kind": "newspaper",
+   "country": "pl:russian-empire",
+   "keys": [
+    "עיתון חיים יהודיים"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:sovremenny-mir",
+   "he": "סוברמני מיר",
+   "en": "Sovremenny Mir",
+   "desc": "St Petersburg monthly",
+   "kind": "newspaper",
+   "country": "pl:russian-empire",
+   "keys": [
+    "סובראמני מיר"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:sovremennoye-slovo",
+   "he": "סוברמנויה סלובו",
+   "en": "Sovremennoye Slovo",
+   "desc": "St Petersburg daily",
+   "kind": "newspaper",
+   "country": "pl:russian-empire",
+   "keys": [
+    "עיתון סוברמניה סלובו"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:severo-zapadny-krai",
+   "he": "סוורו-זאפדני קראי",
+   "en": "Severo-Zapadny Krai",
+   "desc": "Vilna daily",
+   "kind": "newspaper",
+   "country": "pl:russian-empire",
+   "keys": [
+    "סוורו זאפדני קראי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:priazovsky-krai",
+   "he": "פריאזובסקי קראי",
+   "en": "Priazovsky Krai",
+   "desc": "Rostov-on-Don daily",
+   "kind": "newspaper",
+   "country": "pl:russian-empire",
+   "keys": [
+    "מערכת העיתון פריאזובסקי קראי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:pridneprovsky-krai",
+   "he": "פרידנפרובסקי קראי",
+   "en": "Pridneprovsky Krai",
+   "desc": "Yekaterinoslav daily",
+   "kind": "newspaper",
+   "country": "pl:russian-empire",
+   "keys": [
+    "פרי דנפר קראי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:kamsky-krai",
+   "he": "קמסקי קראי",
+   "en": "Kamsky Krai",
+   "desc": "Russian provincial newspaper",
+   "kind": "newspaper",
+   "country": "pl:russian-empire",
+   "keys": [
+    "קמסקי קראי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:kievskaya-mysl",
+   "he": "קייבסקאיה מיסל",
+   "en": "Kievskaya Mysl",
+   "desc": "Kiev daily",
+   "kind": "newspaper",
+   "country": "pl:russian-empire",
+   "keys": [
+    "קייבסקאיה מיסל"
+   ],
+   "qid_auto": "Q4220163",
+   "qid": "Q4220163"
+  },
+  {
+   "id": "org:kievlyanin",
+   "he": "קייב (עיתון)",
+   "en": "Kievlyanin",
+   "desc": "Kiev newspaper (identification uncertain)",
+   "kind": "newspaper",
+   "country": "pl:russian-empire",
+   "keys": [
+    "עיתון קייב"
+   ],
+   "qid_auto": null,
+   "qid": "Q4220127"
+  },
+  {
+   "id": "org:slovo-newspaper",
+   "he": "סלובו",
+   "en": "Slovo (newspaper)",
+   "desc": "St Petersburg daily 1904–1909",
+   "kind": "newspaper",
+   "country": "pl:russian-empire",
+   "keys": [
+    "סלובו"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:strana-newspaper",
+   "he": "סטראנה",
+   "en": "Strana (newspaper)",
+   "desc": "St Petersburg liberal daily 1906–1907",
+   "kind": "newspaper",
+   "country": "pl:russian-empire",
+   "keys": [
+    "עיתון סטראנה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:golos-moskvy",
+   "he": "גולוס מוסקווי",
+   "en": "Golos Moskvy",
+   "desc": "Moscow Octobrist daily",
+   "kind": "newspaper",
+   "country": "pl:russian-empire",
+   "keys": [
+    "עיתון גולוס"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:trudovaya-kopeyka",
+   "he": "טרודובאיה קופייקה",
+   "en": "Trudovaya Kopeyka",
+   "desc": "St Petersburg popular daily",
+   "kind": "newspaper",
+   "country": "pl:russian-empire",
+   "keys": [
+    "עיתון טרודובאיה קופייקה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:novosti-newspaper",
+   "he": "נובוסטי",
+   "en": "Novosti (newspaper)",
+   "desc": "Russian newspaper",
+   "kind": "newspaper",
+   "country": "pl:russian-empire",
+   "keys": [
+    "עיתון נובוסט"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:rabochiy-gorod",
+   "he": "רבוצ'י גורוד",
+   "en": "Rabochiy Gorod",
+   "desc": "Russian newspaper 1906",
+   "kind": "newspaper",
+   "country": "pl:russian-empire",
+   "keys": [
+    "עיתון רבוצי גורוד"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:pravda-zhizni",
+   "he": "פרבדה ז'יזני",
+   "en": "Pravda Zhizni",
+   "desc": "Russian periodical",
+   "kind": "newspaper",
+   "country": "pl:russian-empire",
+   "keys": [
+    "פרבדה זיזני"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:narodny-vestnik",
+   "he": "נרודני וסטניק",
+   "en": "Narodny Vestnik",
+   "desc": "Russian newspaper 1906",
+   "kind": "newspaper",
+   "country": "pl:russian-empire",
+   "keys": [
+    "נאש וסטניק"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:soldatskaya-pravda",
+   "he": "סולדטסקאיה פרבדה",
+   "en": "Soldatskaya Pravda",
+   "desc": "Bolshevik soldiers' newspaper 1917",
+   "kind": "newspaper",
+   "country": "pl:russian-empire",
+   "keys": [
+    "סולדטסקאיה פראבדה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:pravo-journal",
+   "he": "פראבו",
+   "en": "Pravo (journal)",
+   "desc": "St Petersburg legal weekly",
+   "kind": "newspaper",
+   "country": "pl:russian-empire",
+   "keys": [
+    "עיתון פראבה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:period-newspaper",
+   "he": "פריוד",
+   "en": "Period (newspaper)",
+   "desc": "Russian newspaper cited 1906 (title uncertain)",
+   "kind": "newspaper",
+   "country": "pl:russian-empire",
+   "keys": [
+    "פֶּריוֹד"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:kurier-russian-newspaper",
+   "he": "קוריר",
+   "en": "Kurier (Russian newspaper)",
+   "desc": "Russian newspaper cited 1906",
+   "kind": "newspaper",
+   "country": "pl:russian-empire",
+   "keys": [
+    "קוריר"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:mir-newspaper",
+   "he": "מיר (עיתון)",
+   "en": "Mir (newspaper)",
+   "desc": "periodical \"Mir\" cited 1913",
+   "kind": "newspaper",
+   "keys": [
+    "עיתון מיר"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:dvuglavy-orel",
+   "he": "הנשר בעל שני הראשים",
+   "en": "Dvuglavy Orel",
+   "desc": "Russian nationalist newspaper \"Double-Headed Eagle\" (Kiev)",
+   "kind": "newspaper",
+   "country": "pl:russian-empire",
+   "keys": [
+    "עיתון הנשר בעל שני הראשים"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:haynt",
+   "he": "היינט",
+   "en": "Haynt",
+   "desc": "Warsaw Yiddish daily",
+   "kind": "newspaper",
+   "country": "pl:poland",
+   "keys": [
+    "ײנט",
+    "עיתון היינט",
+    "מערכת היינט",
+    "נחת צרפת"
+   ],
+   "qid_auto": "Q2919549",
+   "qid": "Q2919549"
+  },
+  {
+   "id": "org:unzer-leben",
+   "he": "אונזער לעבען",
+   "en": "Unzer Leben",
+   "desc": "Odessa/Warsaw Yiddish daily",
+   "kind": "newspaper",
+   "country": "pl:russian-empire",
+   "keys": [
+    "מערכת אונזער לעבען"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:hatzefirah",
+   "he": "הצפירה",
+   "en": "HaTzfira",
+   "desc": "Warsaw Hebrew daily",
+   "kind": "newspaper",
+   "country": "pl:poland",
+   "keys": [
+    "צפירה"
+   ],
+   "qid_auto": null,
+   "qid": "Q2906544"
+  },
+  {
+   "id": "org:ha-melitz",
+   "he": "המליץ",
+   "en": "HaMelitz",
+   "desc": "St Petersburg Hebrew newspaper",
+   "kind": "newspaper",
+   "country": "pl:russian-empire",
+   "keys": [
+    "מליץ"
+   ],
+   "qid_auto": "Q5636352",
+   "qid": "Q5636352"
+  },
+  {
+   "id": "org:naprzod",
+   "he": "נאפשוד",
+   "en": "Naprzód",
+   "desc": "Kraków Polish socialist daily",
+   "kind": "newspaper",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "נאפרוד"
+   ],
+   "qid_auto": "Q11789572",
+   "qid": "Q11789572"
+  },
+  {
+   "id": "org:kurier-lwowski",
+   "he": "קוריר לבובסקי",
+   "en": "Kurier Lwowski",
+   "desc": "Lwów Polish daily",
+   "kind": "newspaper",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "קוריר לבובסקי"
+   ],
+   "qid_auto": null,
+   "qid": "Q11751225"
+  },
+  {
+   "id": "org:di-tsukunft",
+   "he": "די צוקונפט",
+   "en": "Di Tsukunft",
+   "desc": "New York Yiddish monthly",
+   "kind": "newspaper",
+   "country": "pl:united-states",
+   "keys": [
+    "צוקונפט (שבועון)"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:zeitschrift-fur-demographie-und-statistik-der-juden",
+   "he": "צייטשריפט פיר דמוגרפיה וסטטיסטיקה של היהודים",
+   "en": "Zeitschrift für Demographie und Statistik der Juden",
+   "desc": "Berlin Jewish statistics journal",
+   "kind": "newspaper",
+   "country": "pl:germany",
+   "keys": [
+    "צייטשריפט פאר יודישע סטאטיסטיק"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:settimana-israelitica",
+   "he": "סטימנה איזראליטיקה",
+   "en": "La Settimana Israelitica",
+   "desc": "Florence Jewish weekly",
+   "kind": "newspaper",
+   "country": "pl:italy",
+   "keys": [
+    "סטימנה איזראעליקה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:haor",
+   "he": "האור",
+   "en": "HaOr",
+   "en_alt": [
+    "HaZvi"
+   ],
+   "desc": "Eliezer Ben-Yehuda's Hebrew newspaper (HaZvi / HaOr)",
+   "kind": "newspaper",
+   "country": "pl:ottoman-palestine",
+   "keys": [
+    "עיתון הצבי",
+    "עיתון האור"
+   ],
+   "qid_auto": "Q1513432",
+   "qid": "Q1513432"
+  },
+  {
+   "id": "org:el-avenir",
+   "he": "אל אבניר",
+   "en": "El Avenir",
+   "desc": "Salonica Ladino Zionist newspaper",
+   "kind": "newspaper",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "על אבני",
+    "עיתון אל אבינייר"
+   ],
+   "qid_auto": "Q3625221",
+   "qid": "Q3625221"
+  },
+  {
+   "id": "org:el-judio",
+   "he": "אל ג'ודיו",
+   "en": "El Judío",
+   "desc": "Ladino Zionist newspaper (Constantinople)",
+   "kind": "newspaper",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "על יודיא"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:la-nouvelle-philosophie-salonica",
+   "he": "הפילוסופיה החדשה",
+   "en": "New Philosophy (Salonica periodical)",
+   "desc": "Salonica periodical cited 1914",
+   "kind": "newspaper",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "פילוסופיה החדשה (כתב עת בסלוניקי)"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:oriental-trader",
+   "he": "אוריינטל הנדלר",
+   "en": "Orient-Händler (periodical)",
+   "desc": "trade periodical cited 1910",
+   "kind": "newspaper",
+   "keys": [
+    "עיתון אוריינטל הנדלר"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:tanin",
+   "he": "טנין",
+   "en": "Tanin (newspaper)",
+   "desc": "Constantinople CUP daily",
+   "kind": "newspaper",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "עיתון טאניין",
+    "עיתון תנין",
+    "עיתון טאניז"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:ikdam",
+   "he": "איקדאם",
+   "en": "İkdam",
+   "desc": "Constantinople daily",
+   "kind": "newspaper",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "עיתון אקדאם"
+   ],
+   "qid_auto": "Q6064230",
+   "qid": "Q6064230"
+  },
+  {
+   "id": "org:sabah-newspaper",
+   "he": "סבאח",
+   "en": "Sabah (Ottoman newspaper)",
+   "desc": "Constantinople daily",
+   "kind": "newspaper",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "עיתון סבאח"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:tercuman-i-hakikat",
+   "he": "טרג'ומאן",
+   "en": "Tercüman-ı Hakikat",
+   "desc": "Constantinople daily",
+   "kind": "newspaper",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "עיתון טרגמאן"
+   ],
+   "qid_auto": "Q7701689",
+   "qid": "Q7701689"
+  },
+  {
+   "id": "org:yeni-gazete",
+   "he": "ייני גזטה",
+   "en": "Yeni Gazete",
+   "desc": "Constantinople daily",
+   "kind": "newspaper",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "עיתון גני גאזטה",
+    "עיתון ייני גזטה"
+   ],
+   "qid_auto": null,
+   "qid": "Q125629550"
+  },
+  {
+   "id": "org:serbesti",
+   "he": "סרבסטי",
+   "en": "Serbestî",
+   "desc": "Constantinople liberal opposition daily",
+   "kind": "newspaper",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "עיתון סרבסטי",
+    "עיתון סרוויסטי"
+   ],
+   "qid_auto": "Q7452762",
+   "qid": "Q7452762"
+  },
+  {
+   "id": "org:tanzimat-newspaper",
+   "he": "תנזימאת",
+   "en": "Tanzimat (newspaper)",
+   "desc": "Ottoman newspaper",
+   "kind": "newspaper",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "עיתון תנזימאט"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:turk-newspaper",
+   "he": "טורק",
+   "en": "Türk (newspaper)",
+   "desc": "Ottoman Turkish newspaper",
+   "kind": "newspaper",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "עיתון טיורקי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:turk-courier",
+   "he": "טורק קוריר",
+   "en": "Türk Kurier",
+   "desc": "Ottoman newspaper cited 1909",
+   "kind": "newspaper",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "עיתון טורק קוריר"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:die-neue-turkei",
+   "he": "טורקיה החדשה",
+   "en": "Die neue Türkei (periodical)",
+   "desc": "periodical cited 1908",
+   "kind": "newspaper",
+   "keys": [
+    "עיתון טורקיה החדשה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:le-jeune-turc",
+   "he": "לה ז'ן טורק",
+   "en": "Le Jeune Turc",
+   "desc": "Constantinople French-language Young Turk daily",
+   "kind": "newspaper",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "מערכת העיתון יונג טורק"
+   ],
+   "qid_auto": "Q107260123",
+   "qid": "Q107260123"
+  },
+  {
+   "id": "org:sura-yi-ummet",
+   "he": "שורא-י אומת",
+   "en": "Şûrâ-yı Ümmet",
+   "desc": "CUP organ newspaper",
+   "kind": "newspaper",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "שורא י אומת"
+   ],
+   "qid_auto": "Q6015270",
+   "qid": "Q6015270"
+  },
+  {
+   "id": "org:sebilurresad",
+   "he": "סביל אל-רשאד",
+   "en": "Sebilürreşad",
+   "desc": "Ottoman Islamist periodical",
+   "kind": "newspaper",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "סביל אל רשאד (כתב עת)"
+   ],
+   "qid_auto": "Q6005235",
+   "qid": "Q6005235"
+  },
+  {
+   "id": "org:hadiqat-al-akhbar",
+   "he": "חדיקת אל-אח'באר",
+   "en": "Hadiqat al-Akhbar",
+   "desc": "Beirut Arabic newspaper",
+   "kind": "newspaper",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "עיתון חריקת אל אחבאר"
+   ],
+   "qid_auto": "Q12207336",
+   "qid": "Q12207336"
+  },
+  {
+   "id": "org:lisan-al-hal",
+   "he": "לסאן אל-חאל",
+   "en": "Lisan al-Hal",
+   "desc": "Beirut Arabic daily",
+   "kind": "newspaper",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "עיתון ליסאן אל חאל"
+   ],
+   "qid_auto": "Q6559136",
+   "qid": "Q6559136"
+  },
+  {
+   "id": "org:filastin",
+   "he": "פלסטין (עיתון)",
+   "en": "Falastin (newspaper)",
+   "desc": "Jaffa Arabic newspaper",
+   "kind": "newspaper",
+   "country": "pl:ottoman-palestine",
+   "keys": [
+    "עיתון פלסטין"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:al-muqtabas",
+   "he": "אל-מוקתבס",
+   "en": "Al-Muqtabas",
+   "desc": "Damascus Arabic newspaper",
+   "kind": "newspaper",
+   "country": "pl:syria",
+   "keys": [
+    "מקתבס"
+   ],
+   "qid_auto": null,
+   "qid": "Q112180812"
+  },
+  {
+   "id": "org:patris-newspaper",
+   "he": "פטריס",
+   "en": "Patris (newspaper)",
+   "desc": "newspaper cited 1911 in blood-libel affair",
+   "kind": "newspaper",
+   "keys": [
+    "פאטריס"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:hadriane-newspaper",
+   "he": "אדריאנה",
+   "en": "Hadriane (newspaper)",
+   "desc": "newspaper of Adrianople cited 1911",
+   "kind": "newspaper",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "עיתון הא דריאנה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:senin-newspaper",
+   "he": "סנין",
+   "en": "Senin (newspaper)",
+   "desc": "newspaper cited 1911",
+   "kind": "newspaper",
+   "keys": [
+    "עיתון סנין"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:le-temps",
+   "he": "לה טאן",
+   "en": "Le Temps",
+   "desc": "Paris daily",
+   "kind": "newspaper",
+   "country": "pl:france",
+   "keys": [
+    "עיתון טאן (Le Temps)",
+    "עיתון לה טאן"
+   ],
+   "qid_auto": "Q639137",
+   "qid": "Q639137"
+  },
+  {
+   "id": "org:le-matin-france",
+   "he": "לה מאטן",
+   "en": "Le Matin (France)",
+   "desc": "Paris daily",
+   "kind": "newspaper",
+   "country": "pl:france",
+   "keys": [
+    "עיתון לה מאטן",
+    "עיתון לה מטן",
+    "עיתון מאטין (Le Matin)",
+    "עיתון מאטען"
+   ],
+   "qid_auto": null,
+   "qid": "Q3224404"
+  },
+  {
+   "id": "org:le-figaro",
+   "he": "לה פיגרו",
+   "en": "Le Figaro",
+   "desc": "Paris daily",
+   "kind": "newspaper",
+   "country": "pl:france",
+   "keys": [
+    "עיתון לה פיגרו",
+    "עיתון פיגארו",
+    "פיגארו"
+   ],
+   "qid_auto": "Q216047",
+   "qid": "Q216047"
+  },
+  {
+   "id": "org:l-humanite",
+   "he": "ל'אומניטה",
+   "en": "L'Humanité",
+   "desc": "Paris socialist daily",
+   "kind": "newspaper",
+   "country": "pl:france",
+   "keys": [
+    "עיתון לאומניטה"
+   ],
+   "qid_auto": null,
+   "qid": "Q1137404"
+  },
+  {
+   "id": "org:laurore",
+   "he": "ל'אורור",
+   "en": "L'Aurore",
+   "desc": "Paris daily",
+   "kind": "newspaper",
+   "country": "pl:france",
+   "keys": [
+    "עיתון LAurore"
+   ],
+   "qid_auto": "Q2599521",
+   "qid": "Q2599521"
+  },
+  {
+   "id": "org:le-gaulois",
+   "he": "לה גולואה",
+   "en": "Le Gaulois",
+   "desc": "Paris daily",
+   "kind": "newspaper",
+   "country": "pl:france",
+   "keys": [
+    "עיתון גולואה"
+   ],
+   "qid_auto": "Q2082831",
+   "qid": "Q2082831"
+  },
+  {
+   "id": "org:leclair",
+   "he": "לקלר",
+   "en": "L'Éclair",
+   "desc": "Paris daily",
+   "kind": "newspaper",
+   "country": "pl:france",
+   "keys": [
+    "עיתון אקלייר"
+   ],
+   "qid_auto": null,
+   "qid": "Q51926334"
+  },
+  {
+   "id": "org:l-echo-de-paris",
+   "he": "אקו דה פריז",
+   "en": "L'Écho de Paris",
+   "desc": "Paris daily",
+   "kind": "newspaper",
+   "country": "pl:france",
+   "keys": [
+    "עיתון אכו"
+   ],
+   "qid_auto": "Q3205139",
+   "qid": "Q3205139"
+  },
+  {
+   "id": "org:le-journal",
+   "he": "לה ז'ורנל",
+   "en": "Le Journal",
+   "desc": "Paris daily",
+   "kind": "newspaper",
+   "country": "pl:france",
+   "keys": [
+    "עיתון זורנאל",
+    "עיתון זורנל"
+   ],
+   "qid_auto": "Q3223697",
+   "qid": "Q3223697"
+  },
+  {
+   "id": "org:le-petit-journal",
+   "he": "לה פטי ז'ורנל",
+   "en": "Le Petit Journal",
+   "desc": "Paris daily",
+   "kind": "newspaper",
+   "country": "pl:france",
+   "keys": [
+    "פטי זורנל"
+   ],
+   "qid_auto": "Q2115162",
+   "qid": "Q2115162"
+  },
+  {
+   "id": "org:le-petit-parisien",
+   "he": "לה פטי פריזיין",
+   "en": "Le Petit Parisien",
+   "desc": "Paris daily",
+   "kind": "newspaper",
+   "country": "pl:france",
+   "keys": [
+    "פטי פריזיין"
+   ],
+   "qid_auto": "Q831299",
+   "qid": "Q831299"
+  },
+  {
+   "id": "org:la-libre-parole",
+   "he": "לה ליבר פרול",
+   "en": "La Libre Parole",
+   "desc": "Paris antisemitic daily",
+   "kind": "newspaper",
+   "country": "pl:france",
+   "keys": [
+    "עיתון ליבר פארול"
+   ],
+   "qid_auto": "Q3210026",
+   "qid": "Q3210026"
+  },
+  {
+   "id": "org:le-soleil",
+   "he": "לה סולי",
+   "en": "Le Soleil (Paris)",
+   "desc": "Paris daily",
+   "kind": "newspaper",
+   "country": "pl:france",
+   "keys": [
+    "עיתון סואיי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:loeuvre",
+   "he": "ל'אובר",
+   "en": "L'Œuvre",
+   "desc": "Paris newspaper (identification uncertain)",
+   "kind": "newspaper",
+   "country": "pl:france",
+   "keys": [
+    "עיתון לואו"
+   ],
+   "qid_auto": null,
+   "qid": "Q1880717"
+  },
+  {
+   "id": "org:neue-freie-presse",
+   "he": "נויה פרייה פרסה",
+   "en": "Neue Freie Presse",
+   "desc": "Vienna liberal daily",
+   "kind": "newspaper",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "נויה פריה פרסה",
+    "נויה פרייה פרסה",
+    "נוייה פרייה פרסה",
+    "נויע פריה פרסה",
+    "נויע פרייע פרסה",
+    "נויע פרייע פרעסע",
+    "נוישה פרייה פרסה",
+    "עיתון נוי פרייה פרסה"
+   ],
+   "qid_auto": "Q2919142",
+   "qid": "Q2919142"
+  },
+  {
+   "id": "org:neues-wiener-journal",
+   "he": "נויעס וינר ז'ורנל",
+   "en": "Neues Wiener Journal",
+   "desc": "Vienna daily",
+   "kind": "newspaper",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "נויעס וינר זורנאל"
+   ],
+   "qid_auto": "Q1980429",
+   "qid": "Q1980429"
+  },
+  {
+   "id": "org:die-zeit-vienna",
+   "he": "די צייט",
+   "en": "Die Zeit (Vienna)",
+   "desc": "Vienna daily",
+   "kind": "newspaper",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "עיתון דיה צייט",
+    "עיתון צייט"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:fremden-blatt",
+   "he": "פרמדנבלאט",
+   "en": "Fremden-Blatt",
+   "desc": "Vienna semi-official daily",
+   "kind": "newspaper",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "עיתון פרמדנבלט",
+    "פרמדנבלאט",
+    "פרמדנבלט"
+   ],
+   "qid_auto": "Q1455076",
+   "qid": "Q1455076"
+  },
+  {
+   "id": "org:reichspost",
+   "he": "רייכספוסט",
+   "en": "Reichspost",
+   "desc": "Vienna Christian-social daily",
+   "kind": "newspaper",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "רייכספוסט"
+   ],
+   "qid_auto": "Q321586",
+   "qid": "Q2139624"
+  },
+  {
+   "id": "org:pester-lloyd",
+   "he": "פסטר לויד",
+   "en": "Pester Lloyd",
+   "desc": "Budapest German-language daily",
+   "kind": "newspaper",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "פסטר לויד"
+   ],
+   "qid_auto": "Q922150",
+   "qid": "Q922150"
+  },
+  {
+   "id": "org:politische-correspondenz",
+   "he": "פוליטישה קורספונדנץ",
+   "en": "Politische Correspondenz",
+   "desc": "Vienna semi-official news bulletin",
+   "kind": "newspaper",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "פוליטישה קורספונדנץ"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:hungaria-newspaper",
+   "he": "הונגריה (עיתון)",
+   "en": "Hungaria (newspaper)",
+   "desc": "Hungarian newspaper cited 1911",
+   "kind": "newspaper",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "עיתון הונגריה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:narodni-politika",
+   "he": "נארודני פוליטיקה",
+   "en": "Národní politika",
+   "desc": "Prague Czech daily",
+   "kind": "newspaper",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "עיתון נארודנה פוליטיקה"
+   ],
+   "qid_auto": "Q1240684",
+   "qid": "Q1240684"
+  },
+  {
+   "id": "org:berliner-lokal-anzeiger",
+   "he": "ברלינר לוקאל-אנצייגר",
+   "en": "Berliner Lokal-Anzeiger",
+   "desc": "Berlin daily",
+   "kind": "newspaper",
+   "country": "pl:germany",
+   "keys": [
+    "עיתון Berliner Lokal Anzeiger",
+    "עיתון לוקל אנצייגר"
+   ],
+   "qid_auto": "Q821625",
+   "qid": "Q821625"
+  },
+  {
+   "id": "org:vossische-zeitung",
+   "he": "פוסישה צייטונג",
+   "en": "Vossische Zeitung",
+   "desc": "Berlin liberal daily",
+   "kind": "newspaper",
+   "country": "pl:germany",
+   "keys": [
+    "פאסישע צייטונג",
+    "פוסישה צייטונג"
+   ],
+   "qid_auto": "Q675003",
+   "qid": "Q675003"
+  },
+  {
+   "id": "org:kolnische-zeitung",
+   "he": "קלנישה צייטונג",
+   "en": "Kölnische Zeitung",
+   "desc": "Cologne daily",
+   "kind": "newspaper",
+   "country": "pl:germany",
+   "keys": [
+    "עיתון הקלני",
+    "עיתון קלנישה צייטונג",
+    "קלניש צייטונג",
+    "קלנישה צייטונג"
+   ],
+   "qid_auto": "Q1795887",
+   "qid": "Q1795887"
+  },
+  {
+   "id": "org:frankfurter-zeitung",
+   "he": "פרנקפורטר צייטונג",
+   "en": "Frankfurter Zeitung",
+   "desc": "Frankfurt liberal daily",
+   "kind": "newspaper",
+   "country": "pl:germany",
+   "keys": [
+    "פרנקפורטר צייטונג"
+   ],
+   "qid_auto": "Q561972",
+   "qid": "Q561972"
+  },
+  {
+   "id": "org:norddeutsche-allgemeine-zeitung",
+   "he": "נורדדויטשה אלגמיינה צייטונג",
+   "en": "Norddeutsche Allgemeine Zeitung",
+   "desc": "Berlin semi-official daily",
+   "kind": "newspaper",
+   "country": "pl:germany",
+   "keys": [
+    "נורדדויטשה אלגמיינה צייטונג",
+    "עיתון נורדדויטשה אלגמיינה צייטונג"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:neue-preussische-zeitung",
+   "he": "קרויצצייטונג",
+   "en": "Neue Preußische Zeitung",
+   "en_alt": [
+    "Kreuzzeitung"
+   ],
+   "desc": "Berlin conservative daily (Kreuzzeitung)",
+   "kind": "newspaper",
+   "country": "pl:germany",
+   "keys": [
+    "קרויצצייטונג"
+   ],
+   "qid_auto": "Q212478",
+   "qid": "Q212478"
+  },
+  {
+   "id": "org:vorwarts",
+   "he": "פורווערטס",
+   "en": "Vorwärts",
+   "desc": "SPD central organ, Berlin",
+   "kind": "newspaper",
+   "country": "pl:germany",
+   "keys": [
+    "פורווערטס",
+    "פורוורטס"
+   ],
+   "qid_auto": "Q467800",
+   "qid": "Q467800"
+  },
+  {
+   "id": "org:die-post-berlin",
+   "he": "די פוסט",
+   "en": "Die Post (Berlin)",
+   "desc": "Berlin conservative daily",
+   "kind": "newspaper",
+   "country": "pl:germany",
+   "keys": [
+    "פוסט",
+    "צייטונג פוסט"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:markische-volksstimme",
+   "he": "מערקישע פאלקס-שטימע",
+   "en": "Märkische Volksstimme",
+   "desc": "Brandenburg social-democratic paper",
+   "kind": "newspaper",
+   "country": "pl:germany",
+   "keys": [
+    "עיתון מערקישע פאלקס שטימע"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:avanti",
+   "he": "אוואנטי!",
+   "en": "Avanti!",
+   "desc": "Italian socialist daily",
+   "kind": "newspaper",
+   "country": "pl:italy",
+   "keys": [
+    "עיתון אוואנטי"
+   ],
+   "qid_auto": null,
+   "qid": "Q790205"
+  },
+  {
+   "id": "org:corriere-della-sera",
+   "he": "קוריירה דלה סרה",
+   "en": "Corriere della Sera",
+   "desc": "Milan daily",
+   "kind": "newspaper",
+   "country": "pl:italy",
+   "keys": [
+    "עיתון קוריירה דella סרה",
+    "קוריירה דלה סרה",
+    "עיתון קוריירה",
+    "עיתון קריאלה"
+   ],
+   "qid_auto": "Q309135",
+   "qid": "Q309135"
+  },
+  {
+   "id": "org:il-secolo",
+   "he": "איל סקולו",
+   "en": "Il Secolo",
+   "desc": "Milan daily",
+   "kind": "newspaper",
+   "country": "pl:italy",
+   "keys": [
+    "סקולו",
+    "סוקולה (עיתון)"
+   ],
+   "qid_auto": "Q3792935",
+   "qid": "Q3792935"
+  },
+  {
+   "id": "org:il-messaggero",
+   "he": "איל מסג'רו",
+   "en": "Il Messaggero",
+   "desc": "Rome daily",
+   "kind": "newspaper",
+   "country": "pl:italy",
+   "keys": [
+    "מסאגרו"
+   ],
+   "qid_auto": "Q1658225",
+   "qid": "Q1658225"
+  },
+  {
+   "id": "org:il-popolo-romano",
+   "he": "איל פופולו רומנו",
+   "en": "Il Popolo Romano",
+   "desc": "Rome daily",
+   "kind": "newspaper",
+   "country": "pl:italy",
+   "keys": [
+    "פופולו רומנו"
+   ],
+   "qid_auto": "Q21192546",
+   "qid": "Q21192546"
+  },
+  {
+   "id": "org:la-tribuna",
+   "he": "לה טריבונה",
+   "en": "La Tribuna",
+   "desc": "Rome daily",
+   "kind": "newspaper",
+   "country": "pl:italy",
+   "keys": [
+    "עיתון טריבונה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:el-imparcial",
+   "he": "אל אימפרסיאל",
+   "en": "El Imparcial (Madrid)",
+   "desc": "Madrid daily",
+   "kind": "newspaper",
+   "country": "pl:spain",
+   "keys": [
+    "עיתון אימפרסיאל"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:la-manana",
+   "he": "לה מניאנה",
+   "en": "La Mañana (Madrid)",
+   "desc": "Madrid daily",
+   "kind": "newspaper",
+   "country": "pl:spain",
+   "keys": [
+    "עיתון מניאנה"
+   ],
+   "qid_auto": null,
+   "qid": "Q44700798"
+  },
+  {
+   "id": "org:la-prensa-argentina",
+   "he": "לה פרנסה",
+   "en": "La Prensa (Argentina)",
+   "desc": "Buenos Aires daily",
+   "kind": "newspaper",
+   "country": "pl:argentina",
+   "keys": [
+    "פרנסה (עיתון)"
+   ],
+   "qid_auto": null,
+   "qid": "Q1632268"
+  },
+  {
+   "id": "org:adevarul",
+   "he": "אדבארול",
+   "en": "Adevărul",
+   "desc": "Bucharest daily",
+   "kind": "newspaper",
+   "country": "pl:romania",
+   "keys": [
+    "עיתון אדֶברול"
+   ],
+   "qid_auto": "Q426356",
+   "qid": "Q426356"
+  },
+  {
+   "id": "org:universul",
+   "he": "אוניברסול",
+   "en": "Universul",
+   "desc": "Bucharest daily",
+   "kind": "newspaper",
+   "country": "pl:romania",
+   "keys": [
+    "עיתון אוניברסול"
+   ],
+   "qid_auto": "Q951617",
+   "qid": "Q951617"
+  },
+  {
+   "id": "org:samouprava",
+   "he": "סמואופרבה",
+   "en": "Samouprava",
+   "desc": "Belgrade Radical Party organ",
+   "kind": "newspaper",
+   "country": "pl:serbia",
+   "keys": [
+    "עיתון סמואופרווה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:glas-crnogorca",
+   "he": "גלאס צרנוגורצה",
+   "en": "Glas Crnogorca",
+   "desc": "Cetinje official newspaper",
+   "kind": "newspaper",
+   "country": "pl:montenegro",
+   "keys": [
+    "עיתון גלאס צרנוגורצה"
+   ],
+   "qid_auto": "Q12750236",
+   "qid": "Q12750236"
+  },
+  {
+   "id": "org:the-times",
+   "he": "הטיימס",
+   "en": "The Times",
+   "desc": "London daily",
+   "kind": "newspaper",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "עיתון טיימס"
+   ],
+   "qid_auto": "Q50008",
+   "qid": "Q50008"
+  },
+  {
+   "id": "org:the-standard",
+   "he": "הסטנדרד",
+   "en": "The Standard (London)",
+   "desc": "London daily",
+   "kind": "newspaper",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "סטנדרד"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:evening-news-london",
+   "he": "איבנינג ניוז",
+   "en": "Evening News (London)",
+   "desc": "London evening daily",
+   "kind": "newspaper",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "עיתון איבנינג ניוז"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:new-york-herald",
+   "he": "ניו יורק הראלד",
+   "en": "New York Herald",
+   "desc": "New York daily",
+   "kind": "newspaper",
+   "country": "pl:united-states",
+   "keys": [
+    "ניו יורק הראלד"
+   ],
+   "qid_auto": "Q924673",
+   "qid": "Q924673"
+  },
+  {
+   "id": "org:kosmos-journal",
+   "he": "קוסמוס",
+   "en": "Kosmos (journal)",
+   "desc": "periodical cited 1912",
+   "kind": "newspaper",
+   "keys": [
+    "קוסמוס (כתב עת)"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:imperial-russian-army",
+   "he": "הצבא הקיסרי הרוסי",
+   "en": "Imperial Russian Army",
+   "desc": "army of the Russian Empire",
+   "kind": "army",
+   "country": "pl:russian-empire",
+   "keys": [
+    "צבא הרוסי",
+    "צבא הקיסרי הרוסי",
+    "צבא רוסיה"
+   ],
+   "qid_auto": "Q1078222",
+   "qid": "Q1078222"
+  },
+  {
+   "id": "org:ottoman-army",
+   "he": "הצבא העות'מאני",
+   "en": "Ottoman Army",
+   "desc": "army of the Ottoman Empire",
+   "kind": "army",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "צבא הטורקי",
+    "צבא הטורקי (ארטילריה)",
+    "צבא העותמאני",
+    "צבא התורכי",
+    "צבא טורקיה",
+    "משמר הגבול הטורקי"
+   ],
+   "qid_auto": "Q6025264",
+   "qid": null
+  },
+  {
+   "id": "org:action-army",
+   "he": "צבא הפעולה",
+   "en": "Action Army",
+   "en_alt": [
+    "Hareket Ordusu"
+   ],
+   "desc": "Young Turk army from Salonica that suppressed the 31 March Incident, April 1909",
+   "kind": "army",
+   "parent": "org:ottoman-army",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "צבא הטורקי הצעיר",
+    "צבא הצעיר טורקי",
+    "צבא התורכי הצעיר",
+    "צבא המקדוני"
+   ],
+   "qid_auto": "Q6670743",
+   "qid": "Q6670743"
+  },
+  {
+   "id": "org:iii-corps-ottoman-empire",
+   "he": "הקורפוס השלישי העות'מאני",
+   "en": "III Corps (Ottoman Empire)",
+   "desc": "Ottoman army corps based in Salonica",
+   "kind": "army corps",
+   "parent": "org:ottoman-army",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "קורפוס הצבאי השלישי",
+    "קורפוס השלישי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:iv-corps-ottoman-empire",
+   "he": "הקורפוס הרביעי העות'מאני",
+   "en": "IV Corps (Ottoman Empire)",
+   "desc": "Ottoman army corps",
+   "kind": "army corps",
+   "parent": "org:ottoman-army",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "קורפוס הרביעי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:french-army",
+   "he": "הצבא הצרפתי",
+   "en": "French Army",
+   "desc": "army of France",
+   "kind": "army",
+   "country": "pl:france",
+   "keys": [
+    "צבא הצרפתי",
+    "צבא הצרפתי (ארטילריה)",
+    "צבא הצרפתי (כוח חקר)",
+    "צבא",
+    "פלג הקדמי"
+   ],
+   "qid_auto": "Q1076619",
+   "qid": "Q1076619"
+  },
+  {
+   "id": "org:spanish-army",
+   "he": "הצבא הספרדי",
+   "en": "Spanish Army",
+   "desc": "army of Spain",
+   "kind": "army",
+   "country": "pl:spain",
+   "keys": [
+    "צבא הספרדי"
+   ],
+   "qid_auto": "Q1322103",
+   "qid": "Q1322103"
+  },
+  {
+   "id": "org:british-army",
+   "he": "הצבא הבריטי",
+   "en": "British Army",
+   "desc": "army of the United Kingdom",
+   "kind": "army",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "צבא האנגלי",
+    "צבא הבריטי"
+   ],
+   "qid_auto": "Q222595",
+   "qid": "Q222595"
+  },
+  {
+   "id": "org:imperial-german-army",
+   "he": "הצבא הגרמני",
+   "en": "Imperial German Army",
+   "desc": "army of the German Empire",
+   "kind": "army",
+   "country": "pl:germany",
+   "keys": [
+    "צבא הגרמני"
+   ],
+   "qid_auto": "Q313422",
+   "qid": "Q313422"
+  },
+  {
+   "id": "org:4th-army-german-empire",
+   "he": "הארמייה הרביעית הגרמנית",
+   "en": "4th Army (German Empire)",
+   "desc": "Duke Albrecht of Württemberg's army, 1914",
+   "kind": "army",
+   "parent": "org:imperial-german-army",
+   "country": "pl:germany",
+   "keys": [
+    "צבא של דוכס וירטמברג"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:german-general-staff",
+   "he": "המטה הכללי הגרמני",
+   "en": "German General Staff",
+   "desc": "Prussian/German Great General Staff",
+   "kind": "general staff",
+   "parent": "org:imperial-german-army",
+   "country": "pl:germany",
+   "keys": [
+    "צבא הכללי"
+   ],
+   "qid_auto": "Q10572199",
+   "qid": "Q10572199"
+  },
+  {
+   "id": "org:austro-hungarian-army",
+   "he": "הצבא האוסטרו-הונגרי",
+   "en": "Austro-Hungarian Army",
+   "desc": "army of Austria-Hungary",
+   "kind": "army",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "צבא האוסטרו הונגרי",
+    "צבא האוסטרי",
+    "רגימנט הרגלי הצכי"
+   ],
+   "qid_auto": "Q682645",
+   "qid": "Q682645"
+  },
+  {
+   "id": "org:royal-italian-army",
+   "he": "הצבא האיטלקי",
+   "en": "Royal Italian Army",
+   "desc": "army of the Kingdom of Italy",
+   "kind": "army",
+   "country": "pl:italy",
+   "keys": [
+    "צבא האיטלקי"
+   ],
+   "qid_auto": "Q2257793",
+   "qid": "Q2257793"
+  },
+  {
+   "id": "org:bulgarian-army",
+   "he": "הצבא הבולגרי",
+   "en": "Bulgarian Army",
+   "desc": "army of Bulgaria",
+   "kind": "army",
+   "country": "pl:bulgaria",
+   "keys": [
+    "צבא הבולגרי"
+   ],
+   "qid_auto": null,
+   "qid": "Q276261"
+  },
+  {
+   "id": "org:hellenic-army",
+   "he": "הצבא היווני",
+   "en": "Hellenic Army",
+   "desc": "army of Greece",
+   "kind": "army",
+   "country": "pl:greece",
+   "keys": [
+    "צבא היווני"
+   ],
+   "qid_auto": "Q1546449",
+   "qid": "Q1546449"
+  },
+  {
+   "id": "org:army-of-national-defence",
+   "he": "צבא ההגנה הלאומית",
+   "en": "Army of National Defence (Greece)",
+   "desc": "Venizelist army of the Salonica government, 1916–1917",
+   "kind": "army",
+   "parent": "org:provisional-government-of-national-defence",
+   "country": "pl:greece",
+   "keys": [
+    "צבא המהפכני"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:serbian-army",
+   "he": "הצבא הסרבי",
+   "en": "Royal Serbian Army",
+   "desc": "army of Serbia",
+   "kind": "army",
+   "country": "pl:serbia",
+   "keys": [
+    "צבא הסרבי"
+   ],
+   "qid_auto": "Q17513021",
+   "qid": "Q17513021"
+  },
+  {
+   "id": "org:romanian-army",
+   "he": "הצבא הרומני",
+   "en": "Romanian Army",
+   "desc": "army of Romania",
+   "kind": "army",
+   "country": "pl:romania",
+   "keys": [
+    "צבא הרומני"
+   ],
+   "qid_auto": "Q2558747",
+   "qid": "Q2558747"
+  },
+  {
+   "id": "org:imperial-japanese-army",
+   "he": "הצבא היפני",
+   "en": "Imperial Japanese Army",
+   "desc": "army of Japan",
+   "kind": "army",
+   "country": "pl:japan",
+   "keys": [
+    "צבא היפני"
+   ],
+   "qid_auto": "Q276535",
+   "qid": "Q276535"
+  },
+  {
+   "id": "org:royal-netherlands-army",
+   "he": "הצבא ההולנדי",
+   "en": "Royal Netherlands Army",
+   "desc": "army of the Netherlands",
+   "kind": "army",
+   "country": "pl:netherlands",
+   "keys": [
+    "צבא ההולנדי"
+   ],
+   "qid_auto": "Q1123768",
+   "qid": "Q1123768"
+  },
+  {
+   "id": "org:persian-army",
+   "he": "הצבא הפרסי",
+   "en": "Military of Qajar Persia",
+   "desc": "the Shah's army",
+   "kind": "army",
+   "country": "pl:persia",
+   "keys": [
+    "צבא הפרסי",
+    "צבא הפרסי של השאה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:persian-cossack-brigade",
+   "he": "הבריגדה הקוזאקית הפרסית",
+   "en": "Persian Cossack Brigade",
+   "desc": "Russian-officered cavalry of the Shah",
+   "kind": "military unit",
+   "parent": "org:persian-army",
+   "country": "pl:persia",
+   "keys": [
+    "קוזקים הפרסיים"
+   ],
+   "qid_auto": "Q1515896",
+   "qid": "Q1515896"
+  },
+  {
+   "id": "org:chinese-army",
+   "he": "הצבא הסיני",
+   "en": "New Army (China)",
+   "desc": "Chinese army (late Qing)",
+   "kind": "army",
+   "country": "pl:china",
+   "keys": [
+    "צבא הסיני"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:moroccan-army",
+   "he": "צבא הסולטאן המרוקאי",
+   "en": "Moroccan Army (Makhzen)",
+   "desc": "the Moroccan sultan's troops",
+   "kind": "army",
+   "parent": "org:makhzen",
+   "country": "pl:morocco",
+   "keys": [
+    "צבא הסולטן",
+    "צבא של הסולטאן",
+    "צבא של שירס"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:polish-legions",
+   "he": "הלגיונות הפולניים",
+   "en": "Polish Legions (World War I)",
+   "desc": "Polish units in Austro-Hungarian service / Polish army 1916",
+   "kind": "army",
+   "country": "pl:poland",
+   "keys": [
+    "צבא הפולני"
+   ],
+   "qid_auto": null,
+   "qid": "Q685455"
+  },
+  {
+   "id": "org:allied-army-of-the-orient",
+   "he": "צבא המזרח של בעלות הברית",
+   "en": "Allied Army of the Orient",
+   "en_alt": [
+    "Armée d'Orient"
+   ],
+   "desc": "Entente army at Salonica under Sarrail",
+   "kind": "army",
+   "country": "pl:france",
+   "keys": [
+    "צבא סראיל"
+   ],
+   "qid_auto": null,
+   "qid": "Q18148776"
+  },
+  {
+   "id": "org:dobruja-army",
+   "he": "צבא דוברוג'ה",
+   "en": "Dobruja Army",
+   "desc": "Central Powers army in Dobruja under Mackensen (1916)",
+   "kind": "army",
+   "keys": [
+    "צבא דוברוגה"
+   ],
+   "qid_auto": "Q9159990",
+   "qid": null
+  },
+  {
+   "id": "org:labinsky-cossack-regiment",
+   "he": "גדוד הקוזאקים של לאבה",
+   "en": "Labinsky Cossack Regiment",
+   "desc": "Kuban Cossack regiment",
+   "kind": "military unit",
+   "parent": "org:imperial-russian-army",
+   "country": "pl:russian-empire",
+   "keys": [
+    "צבא הקוזאקי של לאבה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:red-guards-russia",
+   "he": "המשמר האדום",
+   "en": "Red Guards (Russia)",
+   "desc": "Bolshevik armed workers' militia 1917",
+   "kind": "militia",
+   "country": "pl:russian-empire",
+   "keys": [
+    "משמר האדום"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:austrian-military-censorship",
+   "he": "הצנזורה הצבאית האוסטרית",
+   "en": "Austro-Hungarian military censorship",
+   "desc": "wartime censorship office",
+   "kind": "agency",
+   "parent": "org:austro-hungarian-army",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "צנזורה הצבאית האוסטרית"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:royal-navy",
+   "he": "הצי המלכותי הבריטי",
+   "en": "Royal Navy",
+   "desc": "British navy",
+   "kind": "navy",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "צי האנגלי",
+    "צי הבריטי"
+   ],
+   "qid_auto": "Q172771",
+   "qid": "Q172771"
+  },
+  {
+   "id": "org:regia-marina",
+   "he": "הצי האיטלקי",
+   "en": "Regia Marina",
+   "desc": "Italian navy",
+   "kind": "navy",
+   "country": "pl:italy",
+   "keys": [
+    "צי האיטלקי"
+   ],
+   "qid_auto": "Q855186",
+   "qid": "Q855186"
+  },
+  {
+   "id": "org:united-states-navy",
+   "he": "צי ארצות הברית",
+   "en": "United States Navy",
+   "desc": "US navy",
+   "kind": "navy",
+   "country": "pl:united-states",
+   "keys": [
+    "צי האמריקאי"
+   ],
+   "qid_auto": "Q11220",
+   "qid": "Q11220"
+  },
+  {
+   "id": "org:imperial-russian-navy",
+   "he": "הצי הקיסרי הרוסי",
+   "en": "Imperial Russian Navy",
+   "desc": "Russian navy",
+   "kind": "navy",
+   "country": "pl:russian-empire",
+   "keys": [
+    "צי הרוסי",
+    "צי הרוסי (הטייסת)"
+   ],
+   "qid_auto": "Q583941",
+   "qid": "Q583941"
+  },
+  {
+   "id": "org:baltic-fleet",
+   "he": "צי הים הבלטי",
+   "en": "Baltic Fleet",
+   "desc": "Russian Baltic fleet (Second Pacific Squadron, 1905)",
+   "kind": "fleet",
+   "parent": "org:imperial-russian-navy",
+   "country": "pl:russian-empire",
+   "keys": [
+    "צי הבלטי"
+   ],
+   "qid_auto": "Q805787",
+   "qid": "Q805787"
+  },
+  {
+   "id": "org:black-sea-fleet",
+   "he": "צי הים השחור",
+   "en": "Black Sea Fleet",
+   "desc": "Russian Black Sea fleet",
+   "kind": "fleet",
+   "parent": "org:imperial-russian-navy",
+   "country": "pl:russian-empire",
+   "keys": [
+    "צי של הים השחור"
+   ],
+   "qid_auto": "Q934022",
+   "qid": "Q934022"
+  },
+  {
+   "id": "org:imperial-german-navy",
+   "he": "הצי הגרמני",
+   "en": "Imperial German Navy",
+   "desc": "German navy",
+   "kind": "navy",
+   "country": "pl:germany",
+   "keys": [
+    "צי הגרמני"
+   ],
+   "qid_auto": "Q156649",
+   "qid": "Q156649"
+  },
+  {
+   "id": "org:ottoman-navy",
+   "he": "הצי העות'מאני",
+   "en": "Ottoman Navy",
+   "desc": "Ottoman navy",
+   "kind": "navy",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "צי הטורקי",
+    "צי העותמאני"
+   ],
+   "qid_auto": "Q1062125",
+   "qid": "Q1062125"
+  },
+  {
+   "id": "org:hellenic-navy",
+   "he": "הצי היווני",
+   "en": "Hellenic Navy",
+   "desc": "Greek navy",
+   "kind": "navy",
+   "country": "pl:greece",
+   "keys": [
+    "צי היווני"
+   ],
+   "qid_auto": "Q1129369",
+   "qid": "Q1129369"
+  },
+  {
+   "id": "org:imperial-japanese-navy",
+   "he": "הצי היפני",
+   "en": "Imperial Japanese Navy",
+   "desc": "Japanese navy",
+   "kind": "navy",
+   "country": "pl:japan",
+   "keys": [
+    "צי היפני"
+   ],
+   "qid_auto": "Q219712",
+   "qid": "Q219712"
+  },
+  {
+   "id": "org:french-navy",
+   "he": "הצי הצרפתי",
+   "en": "French Navy",
+   "desc": "French navy",
+   "kind": "navy",
+   "country": "pl:france",
+   "keys": [
+    "צי הצרפתי",
+    "צי הצפוני (ברסט)"
+   ],
+   "qid_auto": "Q217406",
+   "qid": "Q217406"
+  },
+  {
+   "id": "org:austro-hungarian-navy",
+   "he": "הצי האוסטרו-הונגרי",
+   "en": "Austro-Hungarian Navy",
+   "desc": "Austro-Hungarian navy",
+   "kind": "navy",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "צי האוסטרי"
+   ],
+   "qid_auto": "Q159211",
+   "qid": "Q159211"
+  },
+  {
+   "id": "org:international-squadron-1913",
+   "he": "הצי הבינלאומי",
+   "en": "International Squadron (1913)",
+   "desc": "great powers' naval force blockading Montenegro, 1913",
+   "kind": "fleet",
+   "keys": [
+    "צי הבינלאומי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:russian-cruiser-almaz",
+   "he": "הסיירת אלמאז",
+   "en": "Russian cruiser Almaz",
+   "desc": "Russian cruiser",
+   "kind": "warship",
+   "country": "pl:russian-empire",
+   "keys": [
+    "סיירת אלמז"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:french-cruiser-jeanne-darc",
+   "he": "הסיירת ז'אן ד'ארק",
+   "en": "French cruiser Jeanne d'Arc (1899)",
+   "desc": "French armoured cruiser",
+   "kind": "warship",
+   "country": "pl:france",
+   "keys": [
+    "סיירת זאן דארק"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:french-cruiser-galilee",
+   "he": "הסיירת גליליי",
+   "en": "French cruiser Galilée",
+   "desc": "French protected cruiser (Casablanca 1907)",
+   "kind": "warship",
+   "country": "pl:france",
+   "keys": [
+    "צי הצרפתי סיירת גלילאי",
+    "קרוזר גליליי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:french-cruiser-forbin",
+   "he": "הסיירת פורבן",
+   "en": "French cruiser Forbin",
+   "desc": "French cruiser (Casablanca 1907)",
+   "kind": "warship",
+   "country": "pl:france",
+   "keys": [
+    "צי הצרפתי סיירת פרבן"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:portuguese-cruiser-adamastor",
+   "he": "הסיירת אדמסטור",
+   "en": "Portuguese cruiser Adamastor",
+   "desc": "Portuguese cruiser",
+   "kind": "warship",
+   "country": "pl:portugal",
+   "keys": [
+    "ספינת המלחמה אדמאסטור"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:hms-diana-1895",
+   "he": "הסיירת דיאנה",
+   "en": "HMS Diana (1895)",
+   "desc": "British cruiser",
+   "kind": "warship",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "ספינת הקרב האנגלית דיאנה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:alliance-israelite-universelle",
+   "he": "כל ישראל חברים",
+   "en": "Alliance Israélite Universelle",
+   "desc": "Paris-based Jewish organization",
+   "kind": "Jewish organization",
+   "country": "pl:france",
+   "keys": [],
+   "qid_auto": "Q1316546",
+   "qid": "Q1316546"
+  },
+  {
+   "id": "org:alliance-israelite-universelle-german-branch",
+   "he": "הסניף הגרמני של כי\"ח",
+   "en": "Alliance Israélite Universelle, German branch",
+   "desc": "German branch of the AIU",
+   "kind": "Jewish organization",
+   "parent": "org:alliance-israelite-universelle",
+   "country": "pl:germany",
+   "keys": [
+    "סניף הגרמני של האליאנס"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:hilfsverein-der-deutschen-juden",
+   "he": "עזרה",
+   "en": "Hilfsverein der deutschen Juden",
+   "desc": "German Jewish aid society (Ezra)",
+   "kind": "Jewish organization",
+   "country": "pl:germany",
+   "keys": [
+    "עזרה (ברלין)"
+   ],
+   "qid_auto": "Q11322497",
+   "qid": "Q11322497"
+  },
+  {
+   "id": "org:world-zionist-organization",
+   "he": "ההסתדרות הציונית",
+   "en": "Zionist Organization",
+   "desc": "World Zionist Organization",
+   "kind": "Jewish organization",
+   "keys": [
+    "משרד הציוני המרכזי",
+    "תנועה הציונית"
+   ],
+   "qid_auto": "Q124545499",
+   "qid": null
+  },
+  {
+   "id": "grp:zionists",
+   "he": "ציונים",
+   "en": "Zionists",
+   "desc": "supporters of Zionism",
+   "kind": "political group",
+   "parent": "grp:jews",
+   "keys": [
+    "ציונים",
+    "ציוני קרלסבאד",
+    "ציונים הגליצאים",
+    "ציונים ההונגרים"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:jewish-national-fund",
+   "he": "הקרן הקיימת לישראל",
+   "en": "Jewish National Fund",
+   "desc": "Zionist land-purchase fund",
+   "kind": "Jewish organization",
+   "parent": "org:world-zionist-organization",
+   "keys": [
+    "קרן הלאום היהודית",
+    "קרן הלאומית"
+   ],
+   "qid_auto": "Q696658",
+   "qid": "Q696658"
+  },
+  {
+   "id": "org:wissotzky-fund",
+   "he": "קרן ויסוצקי",
+   "en": "Wissotzky Fund",
+   "desc": "fund established by Kalonymus Wissotzky (Technion)",
+   "kind": "fund",
+   "country": "pl:russian-empire",
+   "keys": [
+    "קרן ויסוצקי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:safa-berura",
+   "he": "שפה ברורה",
+   "en": "Safa Berura",
+   "desc": "Hebrew-language society founded in Jerusalem 1889",
+   "kind": "society",
+   "country": "pl:ottoman-palestine",
+   "keys": [
+    "שפה ברורה"
+   ],
+   "qid_auto": null,
+   "qid": "Q7065467"
+  },
+  {
+   "id": "org:kadima-salonica",
+   "he": "קדימה (סלוניקי)",
+   "en": "Kadima (Salonica)",
+   "desc": "Hebrew-language Zionist society in Salonica, 1916",
+   "kind": "society",
+   "country": "pl:greece",
+   "keys": [
+    "קדימה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:sinai-society",
+   "he": "סיני (אגודה)",
+   "en": "Sinai (society)",
+   "desc": "Jewish/Zionist society mentioned at Marienbad, 1910",
+   "kind": "society",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "סיני"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:adas-jeshurun-society",
+   "he": "עדת ישורון",
+   "en": "Adas Yeshurun (society)",
+   "desc": "Jewish society in Russian Poland, 1910",
+   "kind": "society",
+   "country": "pl:russian-empire",
+   "keys": [
+    "עדת ישורון"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:ezrat-cholim",
+   "he": "עזרת חולים",
+   "en": "Ezrat Cholim",
+   "desc": "Jewish sick-aid society (Odessa)",
+   "kind": "charity",
+   "country": "pl:russian-empire",
+   "keys": [
+    "עזרת חולים"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:independent-order-sons-of-benjamin",
+   "he": "מסדר בני בנימין",
+   "en": "Independent Order Sons of Benjamin",
+   "desc": "American Jewish fraternal order",
+   "kind": "fraternal order",
+   "country": "pl:united-states",
+   "keys": [
+    "מסדר בני בנימין"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:meclis-i-cismani",
+   "he": "המג'לס הג'יסמאני",
+   "en": "Meclis-i Cismani",
+   "desc": "lay council of the Ottoman Chief Rabbinate",
+   "kind": "Jewish communal body",
+   "parent": "org:hakham-bashi",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "מרכז הרבנות הגדולה (מגלס גישמאני)"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:hakham-bashi",
+   "he": "החכם באשי (הרבנות הראשית העות'מאנית)",
+   "en": "Hakham Bashi",
+   "desc": "Ottoman chief rabbinate",
+   "kind": "Jewish communal body",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "רבנות הראשית (החכם באשי)"
+   ],
+   "qid_auto": null,
+   "qid": "Q1568783"
+  },
+  {
+   "id": "org:chief-rabbinate-of-salonica",
+   "he": "הרבנות הראשית של סלוניקי",
+   "en": "Chief Rabbinate of Salonica",
+   "desc": "chief rabbinate of Salonica",
+   "kind": "Jewish communal body",
+   "country": "pl:greece",
+   "keys": [
+    "רבנות של סלוניקי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:odessa-rabbinate",
+   "he": "רבנות אודסה",
+   "en": "Rabbinate of Odessa",
+   "desc": "crown/communal rabbinate of Odessa",
+   "kind": "Jewish communal body",
+   "country": "pl:russian-empire",
+   "keys": [
+    "רבנות"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:jewish-community-of-thessaloniki",
+   "he": "הקהילה היהודית בסלוניקי",
+   "en": "Jewish community of Thessaloniki",
+   "desc": "Jewish community",
+   "kind": "Jewish community",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "קהילה היהודית בסלוניקי",
+    "קהילת סלוניקי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:jewish-community-of-odessa",
+   "he": "הקהילה היהודית באודסה",
+   "en": "Jewish community of Odessa",
+   "desc": "Jewish community",
+   "kind": "Jewish community",
+   "country": "pl:russian-empire",
+   "keys": [
+    "קהילה היהודית באודסה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:jewish-community-of-amsterdam",
+   "he": "הקהילה היהודית באמסטרדם",
+   "en": "Jewish community of Amsterdam",
+   "desc": "Jewish community",
+   "kind": "Jewish community",
+   "country": "pl:netherlands",
+   "keys": [
+    "קהילה היהודית באמסטרדם"
+   ],
+   "qid_auto": "Q6190025",
+   "qid": "Q6190025"
+  },
+  {
+   "id": "org:jewish-community-of-athens",
+   "he": "הקהילה היהודית באתונה",
+   "en": "Jewish community of Athens",
+   "desc": "Jewish community",
+   "kind": "Jewish community",
+   "country": "pl:greece",
+   "keys": [
+    "קהילה היהודית באתונה"
+   ],
+   "qid_auto": "Q113147368",
+   "qid": "Q113147368"
+  },
+  {
+   "id": "org:jewish-community-of-berlin",
+   "he": "הקהילה היהודית בברלין",
+   "en": "Jewish Community of Berlin",
+   "desc": "Jewish community",
+   "kind": "Jewish community",
+   "country": "pl:germany",
+   "keys": [
+    "קהילה היהודית בברלין"
+   ],
+   "qid_auto": null,
+   "qid": "Q1716815"
+  },
+  {
+   "id": "org:jewish-community-of-damascus",
+   "he": "הקהילה היהודית בדמשק",
+   "en": "Jewish community of Damascus",
+   "desc": "Jewish community",
+   "kind": "Jewish community",
+   "country": "pl:syria",
+   "keys": [
+    "קהילה היהודית בדמשק"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:jewish-community-of-warsaw",
+   "he": "הקהילה היהודית בוורשה",
+   "en": "Jewish community of Warsaw",
+   "desc": "Jewish community",
+   "kind": "Jewish community",
+   "country": "pl:poland",
+   "keys": [
+    "קהילה היהודית בווארשה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:jewish-community-of-vilna",
+   "he": "הקהילה היהודית בווילנה",
+   "en": "Jewish community of Vilna",
+   "desc": "Jewish community",
+   "kind": "Jewish community",
+   "country": "pl:lithuania",
+   "keys": [
+    "קהילה היהודית בווילנה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:jewish-community-of-johannesburg",
+   "he": "הקהילה היהודית ביוהנסבורג",
+   "en": "Jewish community of Johannesburg",
+   "desc": "Jewish community",
+   "kind": "Jewish community",
+   "keys": [
+    "קהילה היהודית ביוהנסבורג"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:jewish-community-of-lisbon",
+   "he": "הקהילה היהודית בליסבון",
+   "en": "Jewish community of Lisbon",
+   "desc": "Jewish community",
+   "kind": "Jewish community",
+   "country": "pl:portugal",
+   "keys": [
+    "קהילה היהודית בליסבון"
+   ],
+   "qid_auto": "Q136592809",
+   "qid": "Q136592809"
+  },
+  {
+   "id": "org:jewish-community-of-florence",
+   "he": "הקהילה היהודית בפירנצה",
+   "en": "Jewish community of Florence",
+   "desc": "Jewish community",
+   "kind": "Jewish community",
+   "country": "pl:italy",
+   "keys": [
+    "קהילה היהודית בפירנצה"
+   ],
+   "qid_auto": "Q2900173",
+   "qid": null
+  },
+  {
+   "id": "org:jewish-community-of-rome",
+   "he": "הקהילה היהודית ברומא",
+   "en": "Jewish community of Rome",
+   "desc": "Jewish community",
+   "kind": "Jewish community",
+   "country": "pl:italy",
+   "keys": [
+    "קהילה היהודית ברומא"
+   ],
+   "qid_auto": null,
+   "qid": "Q136563019"
+  },
+  {
+   "id": "org:jewish-community-of-london",
+   "he": "הקהילה היהודית בלונדון",
+   "en": "Jewish community of London",
+   "desc": "Jewish community",
+   "kind": "Jewish community",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "קהילה היהודית של לונדון"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:jewish-community-of-budapest",
+   "he": "קהילת בודפשט",
+   "en": "Jewish community of Budapest",
+   "desc": "Jewish community",
+   "kind": "Jewish community",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "קהילת בודפשט"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:jewish-community-of-bulawayo",
+   "he": "קהילת בולאוויו",
+   "en": "Jewish community of Bulawayo",
+   "desc": "Jewish community",
+   "kind": "Jewish community",
+   "keys": [
+    "קהילת בולוואיו"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:jewish-community-of-kingston",
+   "he": "קהילת קינגסטון",
+   "en": "Jewish community of Kingston",
+   "desc": "Jewish community",
+   "kind": "Jewish community",
+   "keys": [
+    "קהילת קינגסטון"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:jewish-community-of-morocco",
+   "he": "קהילת מרוקו",
+   "en": "Jewish community of Morocco",
+   "desc": "Jewish community",
+   "kind": "Jewish community",
+   "country": "pl:morocco",
+   "keys": [
+    "קהילת מרוקו"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:jewish-communities-of-rostov-and-nakhichevan",
+   "he": "קהילות רוסטוב ונחיצ'בן",
+   "en": "Jewish communities of Rostov and Nakhichevan",
+   "desc": "Jewish community",
+   "kind": "Jewish community",
+   "country": "pl:russian-empire",
+   "keys": [
+    "קהילות היהודיות ברוסטוב ובנחיצבן"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:ashkenazi-community-of-cairo",
+   "he": "הקהילה האשכנזית בקהיר",
+   "en": "Ashkenazi community of Cairo",
+   "desc": "Jewish community",
+   "kind": "Jewish community",
+   "parent": "org:jewish-community-of-cairo",
+   "country": "pl:egypt",
+   "keys": [
+    "קהילה האשכנזית בקהיר"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:sephardic-community-of-cairo",
+   "he": "הקהילה הספרדית בקהיר",
+   "en": "Sephardic community of Cairo",
+   "desc": "Jewish community",
+   "kind": "Jewish community",
+   "parent": "org:jewish-community-of-cairo",
+   "country": "pl:egypt",
+   "keys": [
+    "קהילה הספרדית בקהיר"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:sephardic-community-of-jerusalem",
+   "he": "העדה הספרדית בירושלים",
+   "en": "Sephardic community of Jerusalem",
+   "desc": "Jewish community",
+   "kind": "Jewish community",
+   "country": "pl:ottoman-palestine",
+   "keys": [
+    "קהילה הספרדית בירושלים"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:sephardic-community-of-jaffa",
+   "he": "העדה הספרדית ביפו",
+   "en": "Sephardic community of Jaffa",
+   "desc": "Jewish community",
+   "kind": "Jewish community",
+   "country": "pl:ottoman-palestine",
+   "keys": [
+    "קהילה הספרדית"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:congregation-bnai-jeshurun",
+   "he": "קהילת בני ישורון בניו יורק",
+   "en": "Congregation B'nai Jeshurun (Manhattan)",
+   "desc": "Jewish community",
+   "kind": "Jewish community",
+   "country": "pl:united-states",
+   "keys": [
+    "קהילת בני ישורון בניו יורק"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:kiev-spiritual-consistory",
+   "he": "הקונסיסטוריה של קייב",
+   "en": "Kiev Spiritual Consistory",
+   "desc": "Russian Orthodox diocesan consistory in Kiev",
+   "kind": "church body",
+   "country": "pl:russian-empire",
+   "keys": [
+    "קונסיסטוריה",
+    "קונסיסטוריה של קייב"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:talmud-torah-salonica",
+   "he": "תלמוד תורה הגדול בסלוניקי",
+   "en": "Talmud Torah of Salonica",
+   "desc": "Talmud Torah school in Salonica",
+   "kind": "school",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "תלמוד תורה בסלוניקי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:talmud-torah-hebron",
+   "he": "תלמוד תורה בחברון",
+   "en": "Talmud Torah (Hebron)",
+   "desc": "Talmud Torah school in Hebron",
+   "kind": "school",
+   "country": "pl:ottoman-palestine",
+   "keys": [
+    "תלמוד תורה בחברון"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:sephardic-talmud-torah-jerusalem",
+   "he": "תלמוד תורה הספרדי בירושלים",
+   "en": "Sephardic Talmud Torah (Jerusalem)",
+   "desc": "Sephardic Talmud Torah in Jerusalem",
+   "kind": "school",
+   "country": "pl:ottoman-palestine",
+   "keys": [
+    "תלמוד תורה ספרדי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:etz-chaim-yeshiva",
+   "he": "תלמוד תורה עץ חיים",
+   "en": "Etz Chaim Yeshiva (Jerusalem)",
+   "desc": "Ashkenazi Talmud Torah and yeshiva in Jerusalem",
+   "kind": "school",
+   "country": "pl:ottoman-palestine",
+   "keys": [
+    "תלמוד תורה עץ חיים"
+   ],
+   "qid_auto": null,
+   "qid": "Q5405171"
+  },
+  {
+   "id": "org:jewish-teachers-seminary-jerusalem",
+   "he": "בית המדרש למורים של עזרה בירושלים",
+   "en": "Hilfsverein Teachers' Seminary (Jerusalem)",
+   "desc": "Jewish teachers' seminary in Jerusalem",
+   "kind": "school",
+   "parent": "org:hilfsverein-der-deutschen-juden",
+   "country": "pl:ottoman-palestine",
+   "keys": [
+    "סמינר היהודי למורים בירושלים",
+    "סמינר המורים העברי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:levinsky-college-of-education",
+   "he": "סמינר לוינסקי",
+   "en": "Levinsky College of Education",
+   "desc": "Hebrew teachers' seminary founded in Jaffa, 1912",
+   "kind": "school",
+   "country": "pl:ottoman-palestine",
+   "keys": [
+    "סמינר למורים על שם לוינסקי"
+   ],
+   "qid_auto": "Q7216417",
+   "qid": "Q7216417"
+  },
+  {
+   "id": "org:jewish-theological-seminary-lemberg",
+   "he": "הסמינר התאולוגי היהודי בלמברג",
+   "en": "Jewish Theological Seminary (Lemberg)",
+   "desc": "proposed rabbinical seminary in Galicia",
+   "kind": "school",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "סמינר התאולוגי היהודי בלמברג"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:mikveh-israel",
+   "he": "מקווה ישראל",
+   "en": "Mikveh Israel",
+   "desc": "agricultural school near Jaffa (AIU)",
+   "kind": "school",
+   "parent": "org:alliance-israelite-universelle",
+   "country": "pl:ottoman-palestine",
+   "keys": [
+    "מקווה ישראל"
+   ],
+   "qid_auto": "Q181856",
+   "qid": "Q181856"
+  },
+  {
+   "id": "org:national-library-of-israel",
+   "he": "בית הספרים הלאומי",
+   "en": "National Library of Israel",
+   "desc": "Jewish National Library in Jerusalem (Midrash Abarbanel)",
+   "kind": "library",
+   "country": "pl:ottoman-palestine",
+   "keys": [
+    "ספרייה הלאומית היהודית בירושלים"
+   ],
+   "qid_auto": "Q188915",
+   "qid": "Q188915"
+  },
+  {
+   "id": "org:jewish-public-library-salonica",
+   "he": "הספרייה העממית היהודית בסלוניקי",
+   "en": "Jewish Public Library (Salonica)",
+   "desc": "Jewish public library in Salonica",
+   "kind": "library",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "ספרייה עממית יהודית בסלוניקי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:rothschild-family",
+   "he": "משפחת רוטשילד",
+   "en": "Rothschild family",
+   "desc": "Jewish banking dynasty",
+   "kind": "family",
+   "keys": [
+    "משפחת רוטשילד",
+    "משפחת רוטשילד בפריז"
+   ],
+   "qid_auto": "Q159386",
+   "qid": "Q159386"
+  },
+  {
+   "id": "org:jewish-independent-dowry-fund-odessa",
+   "he": "קופת נדוניות וקופת נכים",
+   "en": "Dowry and invalids fund (Odessa)",
+   "desc": "Jewish charitable funds in Odessa",
+   "kind": "charity",
+   "country": "pl:russian-empire",
+   "keys": [
+    "קופת נדוניות וקופת נכים"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:zambrow-savings-and-loan-association",
+   "he": "קופת החיסכון וההלוואה של זמברוב",
+   "en": "Zambrów Savings and Loan Association",
+   "desc": "credit cooperative in Zambrów",
+   "kind": "credit cooperative",
+   "country": "pl:poland",
+   "keys": [
+    "קופת החיסכון וההלוואה של זמברוב"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:praca-i-oszczednosc",
+   "he": "עבודה וחיסכון",
+   "en": "Praca i Oszczędność",
+   "desc": "loan and savings fund (Poland)",
+   "kind": "credit cooperative",
+   "country": "pl:poland",
+   "keys": [
+    "קופת חיסכון והלוואות עבודה וחיסכון"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:most-holy-synod",
+   "he": "הסינוד הקדוש",
+   "en": "Most Holy Synod",
+   "desc": "governing body of the Russian Orthodox Church",
+   "kind": "church body",
+   "country": "pl:russian-empire",
+   "keys": [
+    "סינוד",
+    "סינוד הקדוש"
+   ],
+   "qid_auto": "Q2492984",
+   "qid": "Q2492984"
+  },
+  {
+   "id": "org:holy-synod-of-the-church-of-greece",
+   "he": "הסינוד היווני",
+   "en": "Holy Synod of the Church of Greece",
+   "desc": "Greek Orthodox synod",
+   "kind": "church body",
+   "parent": "org:church-of-greece",
+   "country": "pl:greece",
+   "keys": [
+    "סינוד היווני"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:ecumenical-patriarchate-of-constantinople",
+   "he": "הפטריארכיה האקומנית",
+   "en": "Ecumenical Patriarchate of Constantinople",
+   "desc": "Greek Orthodox patriarchate",
+   "kind": "church body",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "פטריארכיה היוונית"
+   ],
+   "qid_auto": null,
+   "qid": "Q211004"
+  },
+  {
+   "id": "org:catholicos-of-all-armenians",
+   "he": "קתוליקוס כל הארמנים",
+   "en": "Catholicos of All Armenians",
+   "desc": "head of the Armenian Apostolic Church (Etchmiadzin)",
+   "kind": "church office",
+   "country": "pl:russian-empire",
+   "keys": [
+    "קתוליקוס של הארמנים"
+   ],
+   "qid_auto": "Q2320915",
+   "qid": "Q2320915"
+  },
+  {
+   "id": "org:society-of-jesus",
+   "he": "מסדר הישועים",
+   "en": "Society of Jesus",
+   "desc": "Jesuit order",
+   "kind": "religious order",
+   "keys": [
+    "מסדר הישועים"
+   ],
+   "qid_auto": "Q36380",
+   "qid": "Q36380"
+  },
+  {
+   "id": "org:sheikh-ul-islam",
+   "he": "שייח' אל-אסלאם",
+   "en": "Shaykh al-Islām (Ottoman Empire)",
+   "desc": "chief Islamic authority of the Ottoman Empire",
+   "kind": "religious office",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "שייח אל איסלאם"
+   ],
+   "qid_auto": null,
+   "qid": "Q1410729"
+  },
+  {
+   "id": "grp:ulama",
+   "he": "העולמא",
+   "en": "Ulama",
+   "desc": "Muslim religious scholars",
+   "kind": "religious group",
+   "keys": [
+    "עולמא"
+   ],
+   "qid_auto": "Q1762047",
+   "qid": "Q189459"
+  },
+  {
+   "id": "grp:fedais",
+   "he": "הפידאיים",
+   "en": "Fedai (Persian Constitutional Revolution)",
+   "desc": "revolutionary volunteer fighters in Persia",
+   "kind": "militant group",
+   "country": "pl:persia",
+   "keys": [
+    "פידאיים",
+    "פידאים"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "grp:onavan-tribe",
+   "he": "שבט אונאוון",
+   "en": "Onavan tribe",
+   "desc": "tribe mentioned 1910 (Persia?)",
+   "kind": "tribe",
+   "keys": [
+    "שבט אונאוון"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "pl:dome-of-the-rock",
+   "he": "כיפת הסלע",
+   "en": "Dome of the Rock",
+   "desc": "\"Mosque of Omar\" on the Temple Mount, Jerusalem",
+   "kind": "shrine",
+   "parent": "pl:jerusalem",
+   "country": "pl:ottoman-palestine",
+   "keys": [
+    "מסגד עומר"
+   ],
+   "qid_auto": "Q172077",
+   "qid": "Q172077"
+  },
+  {
+   "id": "ev:algeciras-conference",
+   "he": "ועידת אלחסיראס",
+   "en": "Algeciras Conference",
+   "desc": "international conference on Morocco, Jan–Apr 1906",
+   "kind": "event",
+   "country": "pl:spain",
+   "keys": [
+    "קונפרנס אלגזיראס"
+   ],
+   "qid_auto": "Q163573",
+   "qid": "Q163573"
+  },
+  {
+   "id": "ev:congress-of-berlin",
+   "he": "קונגרס ברלין",
+   "en": "Congress of Berlin",
+   "desc": "congress of the great powers, 1878",
+   "kind": "event",
+   "country": "pl:germany",
+   "keys": [
+    "קונגרס ברלין"
+   ],
+   "qid_auto": "Q151423",
+   "qid": "Q151423"
+  },
+  {
+   "id": "ev:sixth-zionist-congress",
+   "he": "הקונגרס הציוני השישי",
+   "en": "Sixth Zionist Congress",
+   "desc": "Basel, 1903",
+   "kind": "event",
+   "keys": [
+    "קונגרס הציוני השישי"
+   ],
+   "qid_auto": "Q16129975",
+   "qid": "Q16129975"
+  },
+  {
+   "id": "ev:tenth-zionist-congress",
+   "he": "הקונגרס הציוני העשירי",
+   "en": "Tenth Zionist Congress",
+   "desc": "Basel, August 1911",
+   "kind": "event",
+   "keys": [
+    "קונגרס הציוני",
+    "קונגרס הציוני העשירי"
+   ],
+   "qid_auto": "Q108324506",
+   "qid": "Q108324506"
+  },
+  {
+   "id": "ev:international-socialist-congress-stuttgart-1907",
+   "he": "הקונגרס הסוציאליסטי הבינלאומי בשטוטגרט",
+   "en": "International Socialist Congress, Stuttgart 1907",
+   "desc": "Second International congress, August 1907",
+   "kind": "event",
+   "country": "pl:germany",
+   "keys": [
+    "קונגרס הסוציאליסטי",
+    "קונגרס הסוציאליסטי הבינלאומי"
+   ],
+   "qid_auto": "Q1667647",
+   "qid": "Q1667647"
+  },
+  {
+   "id": "ev:cup-congress-1909",
+   "he": "קונגרס ועד האחדות והקדמה 1909",
+   "en": "Committee of Union and Progress congress (1909)",
+   "desc": "CUP congress in Salonica, 1909",
+   "kind": "event",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "קונגרס הטורקי הצעיר"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:cup-congress-1910",
+   "he": "קונגרס ועד האחדות והקדמה 1910",
+   "en": "Committee of Union and Progress congress (1910)",
+   "desc": "CUP congress in Salonica, autumn 1910",
+   "kind": "event",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "קונגרס הטורקים הצעירים"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:spd-party-congress-jena-1911",
+   "he": "ועידת המפלגה הסוציאל-דמוקרטית בייֶנה 1911",
+   "en": "SPD party congress, Jena 1911",
+   "desc": "Social Democratic Party of Germany congress, Sept. 1911",
+   "kind": "event",
+   "country": "pl:germany",
+   "keys": [
+    "קונגרס המפלגה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:international-press-congress-1911",
+   "he": "קונגרס העיתונות הבינלאומי",
+   "en": "International Press Congress (1911)",
+   "desc": "international press congress, 1911",
+   "kind": "event",
+   "keys": [
+    "קונגרס הבינלאומי של העיתונות"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:international-congress-munich-1912",
+   "he": "הקונגרס הבינלאומי ה-16 במינכן",
+   "en": "16th International Congress (Munich, 1912)",
+   "desc": "international congress held in Munich, Sept. 1912",
+   "kind": "event",
+   "country": "pl:germany",
+   "keys": [
+    "קונגרס הבינלאומי ה 16"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:emigration-congress-1911",
+   "he": "קונגרס ההגירה",
+   "en": "Emigration congress (1911)",
+   "desc": "congress on emigration, 1911",
+   "kind": "event",
+   "keys": [
+    "קונגרס ההגירה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:all-russian-congress-against-prostitution-1910",
+   "he": "הקונגרס הכל-רוסי הראשון למאבק בזנות",
+   "en": "First All-Russian Congress for the Struggle against Trafficking in Women (1910)",
+   "desc": "St Petersburg, April 1910",
+   "kind": "event",
+   "country": "pl:russian-empire",
+   "keys": [
+    "קונגרס הכלל רוסי הראשון למאבק בזנות"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:roentgen-congress-1905",
+   "he": "קונגרס הרנטגן",
+   "en": "Röntgen Congress (1905)",
+   "desc": "first German Röntgen congress, Berlin 1905",
+   "kind": "event",
+   "country": "pl:germany",
+   "keys": [
+    "קונגרס הרנטגן"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:congress-against-alcoholism-1912",
+   "he": "הקונגרס נגד השכרות",
+   "en": "Congress against alcoholism (1912)",
+   "desc": "congress against drunkenness, 1912",
+   "kind": "event",
+   "keys": [
+    "קונגרס נגד השכרות"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:international-miners-congress-1908",
+   "he": "קונגרס פועלי המכרות הבינלאומי",
+   "en": "International Miners' Congress (1908)",
+   "desc": "international miners' congress, 1908",
+   "kind": "event",
+   "keys": [
+    "קונגרס פועלי המכרות הבינלאומי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:congress-of-social-democratic-workers-associations-1905",
+   "he": "קונגרס אגודות הפועלים הסוציאל-דמוקרטיות",
+   "en": "Congress of social-democratic workers' associations (1905)",
+   "desc": "congress, 1905",
+   "kind": "event",
+   "keys": [
+    "קונגרס של אגודות הפועלים הסוציאל דמוקרטיות"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:deutscher-handelstag",
+   "he": "הקונגרס המסחרי הגרמני",
+   "en": "Deutscher Handelstag",
+   "desc": "German association of chambers of commerce",
+   "kind": "association",
+   "country": "pl:germany",
+   "keys": [
+    "קונגרס המסחרי הגרמני"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:krupp",
+   "he": "קרופ",
+   "en": "Krupp",
+   "desc": "German steel and arms manufacturer",
+   "kind": "company",
+   "country": "pl:germany",
+   "keys": [
+    "קרופ",
+    "מפעל הנשק של קרופ"
+   ],
+   "qid_auto": "Q159656",
+   "qid": "Q679201"
+  },
+  {
+   "id": "org:schneider-et-cie",
+   "he": "שניידר-קרזו",
+   "en": "Schneider et Cie",
+   "desc": "French arms manufacturer (Le Creusot)",
+   "kind": "company",
+   "country": "pl:france",
+   "keys": [
+    "שניידר קרזו"
+   ],
+   "qid_auto": "Q7431877",
+   "qid": "Q7431877"
+  },
+  {
+   "id": "org:standard-oil",
+   "he": "סטנדרד אויל",
+   "en": "Standard Oil",
+   "desc": "American oil company",
+   "kind": "company",
+   "country": "pl:united-states",
+   "keys": [
+    "סטנדרד אויל"
+   ],
+   "qid_auto": "Q375791",
+   "qid": "Q375791"
+  },
+  {
+   "id": "org:societe-generale",
+   "he": "סוסייטה ז'נרל",
+   "en": "Société Générale",
+   "desc": "French bank",
+   "kind": "bank",
+   "country": "pl:france",
+   "keys": [
+    "סושייטה זנרל"
+   ],
+   "qid_auto": "Q270363",
+   "qid": "Q270363"
+  },
+  {
+   "id": "org:norddeutscher-lloyd",
+   "he": "נורדדויטשר לויד",
+   "en": "Norddeutscher Lloyd",
+   "desc": "German shipping company",
+   "kind": "company",
+   "country": "pl:germany",
+   "keys": [
+    "נורדדויטשר לויד"
+   ],
+   "qid_auto": "Q652374",
+   "qid": "Q652374"
+  },
+  {
+   "id": "org:hamburg-america-line",
+   "he": "קו המבורג-אמריקה",
+   "en": "Hamburg America Line",
+   "en_alt": [
+    "HAPAG"
+   ],
+   "desc": "German shipping company (HAPAG)",
+   "kind": "company",
+   "country": "pl:germany",
+   "keys": [
+    "קו המבורג אמריקה"
+   ],
+   "qid_auto": "Q696056",
+   "qid": "Q696056"
+  },
+  {
+   "id": "org:assam-bengal-railway",
+   "he": "מסילת הרכבת אסאם–בנגל",
+   "en": "Assam Bengal Railway",
+   "desc": "railway company in British India",
+   "kind": "railway",
+   "keys": [
+    "מסילת הרכבת אסאם בנגל"
+   ],
+   "qid_auto": "Q4808373",
+   "qid": "Q4808373"
+  },
+  {
+   "id": "org:chinese-eastern-railway",
+   "he": "מסילת הרכבת המזרחית הסינית",
+   "en": "Chinese Eastern Railway",
+   "desc": "Russian-built railway in Manchuria",
+   "kind": "railway",
+   "country": "pl:china",
+   "keys": [
+    "רכבת המזרחית סינית",
+    "רכבת הסינית"
+   ],
+   "qid_auto": "Q39158",
+   "qid": "Q39158"
+  },
+  {
+   "id": "org:warsaw-vienna-railway",
+   "he": "מסילת הרכבת ורשה–וינה",
+   "en": "Warsaw–Vienna railway",
+   "desc": "railway in Russian Poland",
+   "kind": "railway",
+   "country": "pl:poland",
+   "keys": [
+    "רכבת וורשה וינה"
+   ],
+   "qid_auto": "Q1548361",
+   "qid": "Q1548361"
+  },
+  {
+   "id": "org:kovel-railway",
+   "he": "מסילת הרכבת של קובל",
+   "en": "Kovel railway",
+   "desc": "railway line via Kovel",
+   "kind": "railway",
+   "country": "pl:russian-empire",
+   "keys": [
+    "רכבת קוולר (קאוולער)"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:morozov-manufactory",
+   "he": "מפעל מורוזוב",
+   "en": "Nikolskaya Manufactory (Morozov)",
+   "desc": "Morozov textile mill, Orekhovo-Zuevo",
+   "kind": "company",
+   "country": "pl:russian-empire",
+   "keys": [
+    "מפעל מורוזוב"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:julia-weaving-mill",
+   "he": "מפעל האריגה \"יוליה\"",
+   "en": "Julia weaving mill",
+   "desc": "weaving factory (1913)",
+   "kind": "company",
+   "keys": [
+    "מפעל האריגה יוליה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:salonica-tobacco-factory",
+   "he": "מפעל הטבק בסלוניקי",
+   "en": "Tobacco factory (Salonica)",
+   "desc": "tobacco factory in Salonica, 1908 strikes",
+   "kind": "company",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "מפעל הטבק בסלוניקי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:phoenix-factory",
+   "he": "מפעל פניקס",
+   "en": "Phoenix factory",
+   "desc": "factory \"Phoenix\" (Russian Empire, 1909)",
+   "kind": "company",
+   "country": "pl:russian-empire",
+   "keys": [
+    "מפעל פניקס"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:stein-factory",
+   "he": "מפעל שטיין",
+   "en": "Stein factory",
+   "desc": "factory of Stein (1908)",
+   "kind": "company",
+   "keys": [
+    "מפעל שטיין ביפו"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:pasteur-institute",
+   "he": "מכון פסטר",
+   "en": "Pasteur Institute",
+   "desc": "Paris biomedical research institute",
+   "kind": "research institute",
+   "country": "pl:france",
+   "keys": [
+    "מכון פסטר"
+   ],
+   "qid_auto": "Q391083",
+   "qid": "Q391083"
+  },
+  {
+   "id": "org:royal-observatory-greenwich",
+   "he": "מצפה הכוכבים בגריניץ'",
+   "en": "Royal Observatory, Greenwich",
+   "desc": "astronomical observatory",
+   "kind": "observatory",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "מצפה הכוכבים בגריניץ"
+   ],
+   "qid_auto": "Q119347963",
+   "qid": null
+  },
+  {
+   "id": "org:new-york-public-library",
+   "he": "הספרייה הציבורית של ניו יורק",
+   "en": "New York Public Library",
+   "desc": "public library",
+   "kind": "library",
+   "country": "pl:united-states",
+   "keys": [
+    "ספרייה הציבורית של ניו יורק"
+   ],
+   "qid_auto": "Q219555",
+   "qid": "Q219555"
+  },
+  {
+   "id": "org:imperial-public-library",
+   "he": "הספרייה הציבורית הקיסרית",
+   "en": "Imperial Public Library",
+   "desc": "St Petersburg national library",
+   "kind": "library",
+   "country": "pl:russian-empire",
+   "keys": [
+    "ספרייה הקיסרית"
+   ],
+   "qid_auto": null,
+   "qid": "Q267566"
+  },
+  {
+   "id": "org:technische-hochschule-darmstadt",
+   "he": "הפוליטכניקום בדרמשטט",
+   "en": "Technische Hochschule Darmstadt",
+   "desc": "technical university",
+   "kind": "university",
+   "country": "pl:germany",
+   "keys": [
+    "פוליטכניקום בדרמשטאט"
+   ],
+   "qid_auto": null,
+   "qid": "Q310695"
+  },
+  {
+   "id": "org:kyiv-polytechnic-institute",
+   "he": "המכון הפוליטכני של קייב",
+   "en": "Kyiv Polytechnic Institute",
+   "desc": "technical university in Kiev",
+   "kind": "university",
+   "country": "pl:russian-empire",
+   "keys": [
+    "פוליטכניקום של קיוב"
+   ],
+   "qid_auto": "Q85449",
+   "qid": "Q85449"
+  },
+  {
+   "id": "org:riga-polytechnical-institute",
+   "he": "המכון הפוליטכני של ריגה",
+   "en": "Riga Polytechnical Institute",
+   "desc": "technical university in Riga",
+   "kind": "university",
+   "country": "pl:russian-empire",
+   "keys": [
+    "פוליטכניקום של ריגה"
+   ],
+   "qid_auto": "Q16351408",
+   "qid": "Q16351408"
+  },
+  {
+   "id": "org:university-of-paris",
+   "he": "אוניברסיטת פריז",
+   "en": "University of Paris",
+   "desc": "the Sorbonne (Faculty of Medicine)",
+   "kind": "university",
+   "country": "pl:france",
+   "keys": [
+    "פקולטה לרפואה באוניברסיטת פריז"
+   ],
+   "qid_auto": null,
+   "qid": "Q209842"
+  },
+  {
+   "id": "org:odessa-university",
+   "he": "אוניברסיטת אודסה",
+   "en": "Odessa University",
+   "desc": "Imperial Novorossiya University",
+   "kind": "university",
+   "country": "pl:russian-empire",
+   "keys": [
+    "פקולטה לרפואה של אוניברסיטת אודסה"
+   ],
+   "qid_auto": null,
+   "qid": "Q85300"
+  },
+  {
+   "id": "org:saint-petersburg-conservatory",
+   "he": "הקונסרבטוריון של פטרבורג",
+   "en": "Saint Petersburg Conservatory",
+   "desc": "music conservatory",
+   "kind": "conservatory",
+   "country": "pl:russian-empire",
+   "keys": [
+    "קונסרבטוריון של פטרבורג"
+   ],
+   "qid_auto": "Q178416",
+   "qid": "Q178416"
+  },
+  {
+   "id": "org:mariinsky-theatre",
+   "he": "תיאטרון מרינסקי",
+   "en": "Mariinsky Theatre",
+   "desc": "St Petersburg opera house",
+   "kind": "theatre",
+   "country": "pl:russian-empire",
+   "keys": [
+    "תיאטרון מרינסקי"
+   ],
+   "qid_auto": "Q48673896",
+   "qid": null
+  },
+  {
+   "id": "org:hermitage-theatre-warsaw",
+   "he": "תיאטרון ארמיטאז'",
+   "en": "Ermitazh theatre",
+   "desc": "theatre \"Ermitazh\" (1910)",
+   "kind": "theatre",
+   "keys": [
+    "תיאטרון ארמיטאז"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:lyra-theatre",
+   "he": "תיאטרון לירה",
+   "en": "Lyra theatre",
+   "desc": "theatre \"Lyra\" (1910)",
+   "kind": "theatre",
+   "keys": [
+    "תיאטרון לירה"
+   ],
+   "qid_auto": "Q54909593",
+   "qid": null
+  },
+  {
+   "id": "org:novy-theatre",
+   "he": "תיאטרון נובי",
+   "en": "Novy Theatre",
+   "desc": "theatre \"Novy\" (1911)",
+   "kind": "theatre",
+   "keys": [
+    "תיאטרון נובי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:elysium-theatre",
+   "he": "תיאטרון עליזיום",
+   "en": "Elysium theatre",
+   "desc": "theatre \"Elysium\" (1910)",
+   "kind": "theatre",
+   "keys": [
+    "תיאטרון עליזיום"
+   ],
+   "qid_auto": "Q44874660",
+   "qid": null
+  },
+  {
+   "id": "org:ciniselli-circus",
+   "he": "קרקס צ'יניזלי",
+   "en": "Ciniselli Circus",
+   "desc": "St Petersburg circus",
+   "kind": "circus",
+   "country": "pl:russian-empire",
+   "keys": [
+    "קרקס ציניזלי"
+   ],
+   "qid_auto": null,
+   "qid": "Q268839"
+  },
+  {
+   "id": "org:hotel-metropole",
+   "he": "מלון מטרופול",
+   "en": "Hotel Metropole",
+   "desc": "hotel (1908)",
+   "kind": "hotel",
+   "keys": [
+    "מלון מטרופול"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:hotel-national",
+   "he": "מלון נציונל",
+   "en": "Hotel National",
+   "desc": "hotel (1911)",
+   "kind": "hotel",
+   "keys": [
+    "מלון נציונל"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:alis-pam-palace-hotel",
+   "he": "מלון אליס פאם פאלאס",
+   "en": "Alis Pam Palace hotel",
+   "desc": "hotel in Constantinople (1908; name uncertain)",
+   "kind": "hotel",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "מלון אליס פאם פאלאס"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:eldorado-restaurant",
+   "he": "מסעדת אלדורדו",
+   "en": "Eldorado restaurant",
+   "desc": "restaurant in Palestine (1913)",
+   "kind": "restaurant",
+   "country": "pl:ottoman-palestine",
+   "keys": [
+    "מסעדת אלדורדו"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:order-of-saint-alexander-nevsky",
+   "he": "מסדר אלכסנדר נבסקי",
+   "en": "Order of Saint Alexander Nevsky",
+   "desc": "Russian imperial order of chivalry",
+   "kind": "order of merit",
+   "country": "pl:russian-empire",
+   "keys": [
+    "מסדר אלכסנדר נבסקי"
+   ],
+   "qid_auto": "Q10514065",
+   "qid": "Q10514065"
+  },
+  {
+   "id": "org:international-red-cross-and-red-crescent-movement",
+   "he": "הצלב האדום",
+   "en": "Red Cross",
+   "desc": "Red Cross (incl. Russian Red Cross Society)",
+   "kind": "humanitarian organization",
+   "keys": [
+    "צלב האדום"
+   ],
+   "qid_auto": "Q7178",
+   "qid": "Q7178"
+  },
+  {
+   "id": "org:russian-literary-fund",
+   "he": "הקרן הספרותית",
+   "en": "Literary Fund (Russia)",
+   "desc": "Society for Aid to Needy Writers and Scholars",
+   "kind": "fund",
+   "country": "pl:russian-empire",
+   "keys": [
+    "קרן הספרותית"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:qing-dynasty",
+   "he": "שושלת צ'ינג",
+   "en": "Qing dynasty",
+   "desc": "Manchu ruling dynasty of China",
+   "kind": "dynasty",
+   "country": "pl:china",
+   "keys": [
+    "שושלת המנצורית"
+   ],
+   "qid_auto": null,
+   "qid": "Q8733"
+  },
+  {
+   "id": "org:house-of-romanov",
+   "he": "בית רומנוב",
+   "en": "House of Romanov",
+   "desc": "Russian imperial dynasty",
+   "kind": "dynasty",
+   "country": "pl:russian-empire",
+   "keys": [
+    "שושלת רומנוב"
+   ],
+   "qid_auto": "Q112707",
+   "qid": "Q112707"
+  },
+  {
+   "id": "org:young-egypt-movement",
+   "he": "תנועת מצרים הצעירה",
+   "en": "Young Egypt movement (1910)",
+   "desc": "Egyptian nationalist movement (Watani circles)",
+   "kind": "political movement",
+   "country": "pl:egypt",
+   "keys": [
+    "תנועה המצרית הצעירה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "pl:france",
+   "he": "צרפת",
+   "en": "France",
+   "desc": "French Third Republic",
+   "kind": "country",
+   "keys": [
+    "רפובליקה הצרפתית"
+   ],
+   "qid_auto": "Q142",
+   "qid": "Q142"
+  }
+ ],
+ "contextual": [
+  {
+   "key": "ממשלה",
+   "articles": {
+    "hyt19110712-01.2.14": "org:government-of-france"
+   }
+  },
+  {
+   "key": "קבינט השרים",
+   "articles": {
+    "hyt19100810-01.2.8": "org:government-of-persia",
+    "hyt19110728-01.2.1": "org:council-of-ministers-of-the-russian-empire",
+    "hyt19110925-01.2.4": "org:government-of-france",
+    "unzerleben19111022-01.2.2": "org:government-of-the-ottoman-empire"
+   }
+  },
+  {
+   "key": "קבינט של נאפיער",
+   "articles": {
+    "unzerleben19130702-01.2.2": null
+   }
+  },
+  {
+   "key": "פרלמנט",
+   "articles": {
+    "dfr19050528-01.2.4": "org:parliament-of-the-united-kingdom",
+    "dfr19050607-01.2.15": "org:french-parliament",
+    "dfr19050615-01.2.3": "org:french-parliament",
+    "dfr19050705-01.2.16": null,
+    "dfr19050922-01.2.6": "org:reichstag-german-empire",
+    "dfr19060213-01.2.12": "org:parliament-of-the-united-kingdom",
+    "dfr19061101-01.2.16": null,
+    "dfr19061219-01.2.7": "org:french-parliament",
+    "dfr19071021-01.2.1": "org:reichstag-german-empire",
+    "unzerleben19090415-01.2.2": "org:ottoman-parliament",
+    "unzerleben19090418-01.2.3": "org:ottoman-parliament",
+    "unzerleben19090505-01.2.7": "org:ottoman-parliament",
+    "unzerleben19090513-01.2.4": "org:ottoman-parliament",
+    "unzerleben19090523-01.2.4": "org:ottoman-parliament",
+    "unzerleben19090610-01.2.5": "org:ottoman-parliament",
+    "unzerleben19090711-01.2.5": "org:ottoman-parliament",
+    "hyt19100224-01.2.13": "org:parliament-of-the-united-kingdom",
+    "hyt19100810-01.2.8": "org:national-consultative-assembly",
+    "unzerleben19110615-01.2.15": "org:ottoman-parliament",
+    "hyt19110707-01.2.13": "org:french-parliament",
+    "hyt19110712-01.2.14": "org:french-parliament",
+    "hyt19110802-01.2.3": "org:parliament-of-the-united-kingdom",
+    "hyt19110808-01.2.1": "org:parliament-of-the-united-kingdom",
+    "hyt19110901-01.2.21": null,
+    "hyt19111102-01.2.17": "org:imperial-council-austria",
+    "hyt19120328-01.2.4": "org:french-parliament",
+    "hyt19120509-01.2.19": null,
+    "hyt19120519-01.2.14": "org:reichstag-german-empire"
+   }
+  },
+  {
+   "key": "סנאט",
+   "articles": {
+    "dfr19050709-01.2.10": "org:french-senate",
+    "dfr19050716-01.2.15": "org:french-senate",
+    "dfr19050716-01.2.9": "org:french-senate",
+    "dfr19060315-01.2.2": "org:french-senate",
+    "dfr19060408-01.2.3": null,
+    "dfr19070823-01.2.1": "org:united-states-senate",
+    "unzerleben19080727-01.2.3": "org:senate-of-the-ottoman-empire",
+    "unzerleben19080824-01.2.3": "org:senate-of-the-ottoman-empire",
+    "unzerleben19090425-01.2.2": "org:senate-of-the-ottoman-empire",
+    "unzerleben19090425-01.2.5": "org:senate-of-the-ottoman-empire",
+    "unzerleben19090505-01.2.7": "org:senate-of-the-ottoman-empire",
+    "unzerleben19090513-01.2.4": "org:senate-of-the-ottoman-empire",
+    "unzerleben19090606-01.2.3": "org:governing-senate",
+    "unzerleben19090711-01.2.5": "org:senate-of-the-ottoman-empire",
+    "hyt19100224-01.2.13": "org:governing-senate",
+    "unzerleben19100506-01.2.5": "org:governing-senate",
+    "hyt19101208-01.2.16": "org:governing-senate",
+    "hyt19110330-01.2.18": "org:governing-senate",
+    "hyt19110416-01.2.11": "org:governing-senate",
+    "hyt19110504-01.2.12": "org:governing-senate",
+    "hyt19110508-01.2.13": "org:governing-senate",
+    "hyt19110516-01.2.25": "org:governing-senate",
+    "hyt19110612-01.2.15": "org:governing-senate",
+    "hyt19110727-01.2.14": "org:governing-senate",
+    "hyt19111026-01.2.5": "org:governing-senate",
+    "hyt19111102-01.2.17": "org:governing-senate",
+    "hyt19111112-01.2.13": "org:governing-senate",
+    "hyt19120111-01.2.19": "org:french-senate",
+    "hyt19120212-01.2.18": "org:governing-senate",
+    "hyt19120628-01.2.25": "org:governing-senate",
+    "hyt19120728-01.2.11": "org:governing-senate",
+    "unzerleben19130323-01.2.13": "org:governing-senate",
+    "unzerleben19130416-01.2.3": "org:governing-senate",
+    "unzerleben19130513-01.2.3": "org:governing-senate",
+    "unzerleben19130526-01.2.3": "org:governing-senate",
+    "unzerleben19130528-01.2.2": "org:governing-senate",
+    "unzerleben19130706-01.2.10": "org:governing-senate",
+    "unzerleben19150512-01.2.9": "org:governing-senate"
+   }
+  },
+  {
+   "key": "משרד החוץ",
+   "articles": {
+    "dfr19050423-01.2.13": "org:ministry-of-foreign-affairs-france",
+    "hyt19110502-01.2.15": "org:ministry-of-foreign-affairs-russia",
+    "hyt19110709-01.2.13": "org:foreign-office",
+    "unzerleben19130323-01.2.13": "org:ministry-of-foreign-affairs-russia"
+   }
+  },
+  {
+   "key": "משרד הפנים",
+   "articles": {
+    "dfr19050416-01.2.14": "org:ministry-of-internal-affairs-russian-empire",
+    "dfr19060403-01.2.11": "org:ministry-of-internal-affairs-russian-empire",
+    "dfr19061129-01.2.18": "org:ministry-of-internal-affairs-russian-empire",
+    "dfr19070719-01.2.10": "org:ministry-of-internal-affairs-russian-empire",
+    "dfr19070809-01.2.14": "org:ministry-of-internal-affairs-russian-empire",
+    "unzerleben19100405-01.2.3": "org:ministry-of-internal-affairs-russian-empire",
+    "unzerleben19100427-01.2.3": "org:ministry-of-internal-affairs-russian-empire",
+    "unzerleben19100715-01.2.9": "org:ministry-of-internal-affairs-russian-empire",
+    "hyt19110330-01.2.18": "org:ministry-of-internal-affairs-russian-empire",
+    "hyt19110504-01.2.12": "org:ministry-of-internal-affairs-russian-empire",
+    "hyt19110522-01.2.1": "org:ministry-of-the-interior-france",
+    "hyt19110719-01.2.4": "org:ministry-of-internal-affairs-russian-empire",
+    "hyt19110802-01.2.14": "org:ministry-of-internal-affairs-russian-empire",
+    "hyt19110908-01.2.17": "org:ministry-of-internal-affairs-russian-empire",
+    "hyt19110910-01.2.11": "org:ministry-of-internal-affairs-russian-empire",
+    "hyt19111003-01.2.13": "org:ministry-of-internal-affairs-russian-empire",
+    "hyt19120502-01.2.3": "org:ministry-of-internal-affairs-russian-empire",
+    "hyt19120628-01.2.25": "org:ministry-of-internal-affairs-russian-empire",
+    "hyt19120825-01.2.4": "org:ministry-of-internal-affairs-russian-empire",
+    "hyt19120916-01.2.14": "org:ministry-of-internal-affairs-russian-empire",
+    "unzerleben19130323-01.2.13": "org:ministry-of-internal-affairs-russian-empire",
+    "unzerleben19150130-01.2.3": "org:ministry-of-internal-affairs-russian-empire"
+   }
+  },
+  {
+   "key": "משרד הצי",
+   "articles": {
+    "hyt19121024-01.2.19": null
+   }
+  },
+  {
+   "key": "נהלת אספקת המים",
+   "articles": {
+    "hyt19110723-01.2.4": null
+   }
+  },
+  {
+   "key": "נהלת הוולוסט נחסלנייה",
+   "articles": {
+    "unzerleben19100621-01.2.3": null
+   }
+  },
+  {
+   "key": "נהלת קורפו",
+   "articles": {
+    "hyt19110731-01.2.17": null
+   }
+  },
+  {
+   "key": "נהגה צבאית",
+   "articles": {
+    "unzerleben19100621-01.2.3": "org:imperial-russian-army"
+   }
+  },
+  {
+   "key": "משטרה",
+   "articles": {
+    "dfr19050508-01.2.12": "org:odessa-police",
+    "dfr19050607-01.2.15": "org:police-of-the-russian-empire",
+    "dfr19051114-01.2.1": "org:police-of-the-russian-empire",
+    "dfr19070710-01.2.16": "org:police-of-the-russian-empire",
+    "unzerleben19080527-01.2.11": null,
+    "hyt19100304-01.2.2": "org:odessa-police",
+    "unzerleben19100821-01.2.3": "org:police-of-the-russian-empire",
+    "hyt19110423-01.2.4": "org:police-of-the-russian-empire",
+    "hyt19110822-01.2.13": null,
+    "hyt19110823-01.2.5": "org:police-of-the-russian-empire",
+    "hyt19110829-01.2.5": "org:police-of-the-russian-empire"
+   }
+  },
+  {
+   "key": "משטרה החשאית",
+   "articles": {
+    "dfr19050808-01.2.16": null,
+    "dfr19050816-01.2.10": null,
+    "hyt19110516-01.2.1": "org:okhrana",
+    "unzerleben19130410-01.2.2": "org:okhrana"
+   }
+  },
+  {
+   "key": "מפלגה הדמוקרטית",
+   "articles": {
+    "dfr19060917-01.2.7": "org:democratic-party-united-states",
+    "unzerleben19080712-01.2.15": "org:democrat-party-persia",
+    "unzerleben19090419-01.2.2": "org:ottoman-democratic-party"
+   }
+  },
+  {
+   "key": "מפלגה הליברלית",
+   "articles": {
+    "dfr19050528-01.2.4": "org:liberal-party-uk",
+    "dfr19060223-01.2.9": null
+   }
+  },
+  {
+   "key": "מפלגה הסוציאל דמוקרטית",
+   "articles": {
+    "dfr19051214-01.2.2": "org:social-democratic-party-of-germany",
+    "dfr19070120-01.2.21": "org:russian-social-democratic-labour-party",
+    "dfr19071007-01.2.20": "org:french-section-of-the-workers-international"
+   }
+  },
+  {
+   "key": "מפלגה הסוציאליסטית",
+   "articles": {
+    "dfr19071022-01.2.2": "org:french-section-of-the-workers-international",
+    "hyt19110906-01.2.8": "org:social-democratic-party-of-germany"
+   }
+  },
+  {
+   "key": "מפלגה השמרנית",
+   "articles": {
+    "dfr19050528-01.2.4": "org:conservative-party-uk",
+    "hyt19111112-01.2.13": "org:german-conservative-party"
+   }
+  },
+  {
+   "key": "סוציאל דמוקרטים",
+   "articles": {
+    "dfr19060223-01.2.9": "org:social-democratic-party-of-germany",
+    "dfr19070418-01.2.6": "org:russian-social-democratic-labour-party",
+    "dfr19071023-01.2.21": "org:russian-social-democratic-labour-party",
+    "unzerleben19081025-01.2.18": "org:russian-social-democratic-labour-party",
+    "hyt19110405-01.2.7": "org:russian-social-democratic-labour-party",
+    "hyt19110813-01.2.14": null,
+    "hyt19110825-01.2.13": "org:social-democratic-party-of-germany",
+    "hyt19111030-01.2.11": "org:social-democratic-party-of-germany",
+    "hyt19111124-01.2.14": "org:social-democratic-party-of-germany",
+    "unzerleben19130513-01.2.3": "org:russian-social-democratic-labour-party"
+   }
+  },
+  {
+   "key": "סוציאליסטים",
+   "articles": {
+    "dfr19050521-01.2.7": "org:french-section-of-the-workers-international",
+    "dfr19060315-01.2.2": "org:french-section-of-the-workers-international",
+    "dfr19061129-01.2.18": null,
+    "hyt19110412-01.2.20": null,
+    "unzerleben19110613-01.2.3": null
+   }
+  },
+  {
+   "key": "מפלגת הסוציאל דמוקרטים",
+   "articles": {
+    "dfr19070811-01.2.17": null
+   }
+  },
+  {
+   "key": "קבוצה הסוציאליסטית בפרלמנט",
+   "articles": {
+    "hyt19120311-01.2.15": null
+   }
+  },
+  {
+   "key": "מפלגה השמרנית דמוקרטית",
+   "articles": {
+    "unzerleben19141209-01.2.20": null
+   }
+  },
+  {
+   "key": "סוכנות ראמר",
+   "articles": {
+    "unzerleben19130417-01.2.6": null
+   }
+  },
+  {
+   "key": "עיתון וולקן",
+   "articles": {
+    "unzerleben19090520-01.2.3": null
+   }
+  },
+  {
+   "key": "עיתון מאנין",
+   "articles": {
+    "hyt19111105-01.2.14": null
+   }
+  },
+  {
+   "key": "עיתון האמת",
+   "articles": {
+    "unzerleben19090610-01.2.5": null
+   }
+  },
+  {
+   "key": "עיתון מגדלור",
+   "articles": {
+    "unzerleben19090610-01.2.5": null
+   }
+  },
+  {
+   "key": "צבא הסולטאן",
+   "articles": {
+    "dfr19050412-01.2.11": null,
+    "hyt19110406-01.2.8": "org:moroccan-army"
+   }
+  },
+  {
+   "key": "צבא סלוניקי",
+   "articles": {
+    "unzerleben19090503-01.2.14": "org:action-army",
+    "unzerleben19161103-01.2.7": "org:allied-army-of-the-orient"
+   }
+  },
+  {
+   "key": "קונסיסטוריה היהודית",
+   "articles": {
+    "dfr19071106-01.2.17": null
+   }
+  },
+  {
+   "key": "רכבת המערבית",
+   "articles": {
+    "hyt19100304-01.2.5": null
+   }
+  },
+  {
+   "key": "פקולטה לתיאולוגיה",
+   "articles": {
+    "unzerleben19101129-01.2.10": null
+   }
+  },
+  {
+   "key": "סניטרדה לאדוקסיון",
+   "articles": {
+    "hyt19100912-01.2.12": null
+   }
+  }
+ ],
+ "drop": [
+  {
+   "key": "ממשלות האנגלית והצרפתית",
+   "why": "composite reference to two governments"
+  },
+  {
+   "key": "ממשל המקומי",
+   "why": "generic local administration"
+  },
+  {
+   "key": "ממשל המקומי בניקולאייב",
+   "why": "generic local administration"
+  },
+  {
+   "key": "ממשל העירוני",
+   "why": "generic municipal administration"
+  },
+  {
+   "key": "קונסולטים",
+   "why": "generic plural \"consulates\""
+  },
+  {
+   "key": "קונסולים האירופיים",
+   "why": "generic plural \"European consuls\""
+  },
+  {
+   "key": "קונסולים האירופיים בפאס",
+   "why": "generic plural \"European consuls in Fez\""
+  },
+  {
+   "key": "קורפוס הדיפלומטי",
+   "why": "generic \"diplomatic corps\""
+  },
+  {
+   "key": "משלחת יפו",
+   "why": "ad-hoc delegation from Jaffa, not a named body"
+  },
+  {
+   "key": "מפלגה הצבאית",
+   "why": "generic \"military party\" faction, not a named organization"
+  },
+  {
+   "key": "מפלגת המלחמה בבולגריה",
+   "why": "generic \"war party\" faction, not a named organization"
+  },
+  {
+   "key": "מפלגה היוונית",
+   "why": "generic \"Greek party\" faction"
+  },
+  {
+   "key": "עיתונות הצרפתית",
+   "why": "generic \"the French press\""
+  },
+  {
+   "key": "צבא הגרמני בולגרי",
+   "why": "composite reference to two armies"
+  },
+  {
+   "key": "צבא הרוסי צרפתי",
+   "why": "composite reference to two armies"
+  },
+  {
+   "key": "צבא הצרפתי והספרדי",
+   "why": "composite reference to two armies"
+  },
+  {
+   "key": "צי הבריטי והצרפתי",
+   "why": "composite reference to two navies"
+  },
+  {
+   "key": "קהילות היהודיות",
+   "why": "generic plural \"Jewish communities\""
+  },
+  {
+   "key": "קהילות יהודיות",
+   "why": "generic plural \"Jewish communities\""
+  },
+  {
+   "key": "תלמוד תורה",
+   "why": "generic \"Talmud Torah\" without identified institution"
+  },
+  {
+   "key": "מנזר",
+   "why": "generic \"monastery\""
+  },
+  {
+   "key": "שריעה",
+   "why": "Islamic law, not an organization"
+  },
+  {
+   "key": "סינדיקט הבינלאומי",
+   "why": "vague \"international syndicate\" (trafficking ring), not a named organization"
+  },
+  {
+   "key": "סובייט המקומי",
+   "why": "generic \"local soviet\""
+  }
+ ]
+}

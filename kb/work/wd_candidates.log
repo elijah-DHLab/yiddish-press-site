@@ -1,0 +1,135 @@
+kb/work/ent_grp_1.json: 293 of 426 to look up
+kb/work/ent_pl_1.json: 553 of 581 to look up
+kb/work/ent_pl_2.json: 543 of 606 to look up
+kb/work/ent_org_1.json: 488 of 491 to look up
+kb/work/ent_org_2.json: 491 of 491 to look up
+kb/work/ent_ppl_1.json: 455 of 630 to look up
+kb/work/ent_ppl_2.json: 374 of 665 to look up
+kb/work/ent_ppl_3.json: 457 of 617 to look up
+    search[en] 40/3680
+    search[en] 80/3680
+    search[en] 120/3680
+    search[en] 160/3680
+    search[en] 200/3680
+    search[en] 240/3680
+    search[en] 280/3680
+    search[en] 320/3680
+    search[en] 360/3680
+    search[en] 400/3680
+    search[en] 440/3680
+    search[en] 480/3680
+    search[en] 520/3680
+    search[en] 560/3680
+    search[en] 600/3680
+    search[en] 640/3680
+    search[en] 680/3680
+    search[en] 720/3680
+    search[en] 760/3680
+    search[en] 800/3680
+    search[en] 840/3680
+    search[en] 880/3680
+    search[en] 920/3680
+    search[en] 960/3680
+    search[en] 1000/3680
+    search[en] 1040/3680
+    search[en] 1080/3680
+    search[en] 1120/3680
+    search[en] 1160/3680
+    search[en] 1200/3680
+    search[en] 1240/3680
+    search[en] 1280/3680
+    search[en] 1320/3680
+    search[en] 1360/3680
+    search[en] 1400/3680
+    search[en] 1440/3680
+    search[en] 1480/3680
+    search[en] 1520/3680
+    search[en] 1560/3680
+    search[en] 1600/3680
+    search[en] 1640/3680
+    search[en] 1680/3680
+    search[en] 1720/3680
+    search[en] 1760/3680
+    search[en] 1800/3680
+    search[en] 1840/3680
+    search[en] 1880/3680
+    search[en] 1920/3680
+    search[en] 1960/3680
+    search[en] 2000/3680
+    search[en] 2040/3680
+    search[en] 2080/3680
+    search[en] 2120/3680
+    search[en] 2160/3680
+    search[en] 2200/3680
+    search[en] 2240/3680
+    search[en] 2280/3680
+    search[en] 2320/3680
+    search[en] 2360/3680
+    search[en] 2400/3680
+    search[en] 2440/3680
+    search[en] 2480/3680
+    search[en] 2520/3680
+    search[en] 2560/3680
+    search[en] 2600/3680
+    search[en] 2640/3680
+    search[en] 2680/3680
+    search[en] 2720/3680
+    search[en] 2760/3680
+    search[en] 2800/3680
+    search[en] 2840/3680
+    search[en] 2880/3680
+    search[en] 2920/3680
+    search[en] 2960/3680
+    search[en] 3000/3680
+    search[en] 3040/3680
+    search[en] 3080/3680
+    search[en] 3120/3680
+    search[en] 3160/3680
+    search[en] 3200/3680
+    search[en] 3240/3680
+    search[en] 3280/3680
+    search[en] 3320/3680
+    search[en] 3360/3680
+    search[en] 3400/3680
+    search[en] 3440/3680
+    search[en] 3480/3680
+    search[en] 3520/3680
+    search[en] 3560/3680
+    search[en] 3600/3680
+    search[en] 3640/3680
+    search[en] 3680/3680
+hebrew fallback for 1049
+    search[he] 40/1029
+    search[he] 80/1029
+    search[he] 120/1029
+    search[he] 160/1029
+    search[he] 200/1029
+    search[he] 240/1029
+    search[he] 280/1029
+    search[he] 320/1029
+    search[he] 360/1029
+    search[he] 400/1029
+    search[he] 440/1029
+    search[he] 480/1029
+    search[he] 520/1029
+    search[he] 560/1029
+    search[he] 600/1029
+    search[he] 640/1029
+    search[he] 680/1029
+    search[he] 720/1029
+    search[he] 760/1029
+    search[he] 800/1029
+    search[he] 840/1029
+    search[he] 880/1029
+    search[he] 920/1029
+    search[he] 960/1029
+    search[he] 1000/1029
+    search[he] 1029/1029
+kb/work/ent_grp_1.json: 293 looked up, 230 auto-matched -> kb/work/ent_grp_1.cand.json
+kb/work/ent_pl_1.json: 553 looked up, 443 auto-matched -> kb/work/ent_pl_1.cand.json
+kb/work/ent_pl_2.json: 543 looked up, 409 auto-matched -> kb/work/ent_pl_2.cand.json
+kb/work/ent_org_1.json: 488 looked up, 202 auto-matched -> kb/work/ent_org_1.cand.json
+kb/work/ent_org_2.json: 491 looked up, 214 auto-matched -> kb/work/ent_org_2.cand.json
+kb/work/ent_ppl_1.json: 455 looked up, 221 auto-matched -> kb/work/ent_ppl_1.cand.json
+kb/work/ent_ppl_2.json: 374 looked up, 220 auto-matched -> kb/work/ent_ppl_2.cand.json
+kb/work/ent_ppl_3.json: 457 looked up, 205 auto-matched -> kb/work/ent_ppl_3.cand.json

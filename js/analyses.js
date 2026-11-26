@@ -1,9 +1,10 @@
 'use strict';
 /* ====== תמונה היסטורית רחבה: 15 שאלות על הדאטה ====== */
-const TH_COL = { morocco: '#c0562c', balkan: '#7b4ea3', ottoman: '#2a7f62', antijew: '#a83a4f', ww1: '#5b6770', russia: '#2f6db5', diplomacy: '#d29a1f', eastjews: '#16899e', zion: '#6aa84f', culture: '#8e6c4a', economy: '#b3a037', disaster: '#c2679a', religion: '#3d4f8f', other: '#aaaaaa' };
+const TH_PAL = ['#c0562c', '#7b4ea3', '#2a7f62', '#a83a4f', '#5b6770', '#2f6db5', '#d29a1f', '#16899e', '#6aa84f', '#8e6c4a', '#b3a037', '#c2679a', '#3d4f8f', '#e07b39', '#4f8a8b', '#9c6644', '#7d8f3a', '#b5838d', '#355070', '#6d597a'];
+const thCol = k => k === 'other' ? '#aaaaaa' : TH_PAL[Math.max(0, H.themeKeys.indexOf(k)) % TH_PAL.length];
 const CEN_COL = ['#183445', '#3b7ea1', '#9fc3d6', '#c9c9c9'];
 const GEN_COL = ['#25485c', '#c0562c', '#6aa84f', '#7b4ea3', '#d29a1f', '#aaaaaa'];
-const SEARCH_PLACES = ['מרוקו', 'פאס', 'מראכש', 'דמשק', 'סלוניקי'];
+const SEARCH_PLACES = ['pl:morocco', 'pl:fez', 'pl:marrakesh', 'pl:damascus', 'pl:thessaloniki'];
 const pSeries = () => H.paperKeys.map(p => ({ key: p, label: H.pname(p), color: H.pcol(p) }));
 const ofP = p => H.A.filter(a => a.p === p);
 const yearOf = a => a.d.slice(0, 4);
@@ -28,16 +29,16 @@ reg('כמה נכתב, ומתי?', 'מספר הכתבות בדגימה לפי ח�
 
 /* 2 */
 reg('מרוקו, דמשק, סלוניקי: מתי כל מקום עלה?', 'כמה כתבות בכל רבעון מזכירות כל אחד משלושת המקומות (לפי שדה "מקומות"), בכל העיתונים יחד. לחיצה על נקודה פותחת את הכתבות.', host => {
-  const keys = ['מרוקו', 'דמשק', 'סלוניקי'].filter(k => H.entity('pl', k)), col = { 'מרוקו': '#d35400', 'דמשק': '#6c3483', 'סלוניקי': '#117a65' };
+  const keys = ['pl:morocco', 'pl:damascus', 'pl:thessaloniki'].filter(k => H.entity('pl', k)), col = { 'pl:morocco': '#d35400', 'pl:damascus': '#6c3483', 'pl:thessaloniki': '#117a65' };
   const buckets = allBuckets('quarter'), idx = new Map(buckets.map((k, i) => [k, i]));
   const cell = keys.map(() => buckets.map(() => []));
   keys.forEach((k, ki) => { for (const a of entArts('pl', k)) { const i = idx.get(bucketKey(a.d, 'quarter')); if (i != null) cell[ki][i].push(a); } });
-  const series = keys.map((k, ki) => ({ key: k, label: k, color: col[k], vals: cell[ki].map(l => l.length) }));
+  const series = keys.map((k, ki) => ({ key: k, label: H.label(k), color: col[k], vals: cell[ki].map(l => l.length) }));
   const lg = h('div', { class: 'legend' }, series.map(s => h('span', {}, h('i', { class: 'dot', style: { background: s.color } }), s.label)));
   const ch = h('div'); host.append(lg, ch);
   H.lineChart(ch, { buckets, gran: 'quarter', height: 210, series, events: true, aria: 'מקומות לאורך זמן', onClick: (s, i) => H.openList({ title: `${s.label} · ${bucketLabel(buckets[i])}`, arts: cell[keys.indexOf(s.key)][i], filter: { ents: [{ type: 'pl', key: s.key }], ...rangeFilter(buckets[i]) } }) });
   const pk = series.map(s => { const m = Math.max(...s.vals); return `${s.label}: שיא ב${bucketLabel(buckets[s.vals.indexOf(m)])} (${m})`; });
-  return { read: pk.join(' · '), table: { head: ['רבעון', ...keys], rows: buckets.map((k, i) => [k, ...keys.map((_, ki) => cell[ki][i].length)]) } };
+  return { read: pk.join(' · '), table: { head: ['רבעון', ...keys.map(H.label)], rows: buckets.map((k, i) => [k, ...keys.map((_, ki) => cell[ki][i].length)]) } };
 });
 
 /* 3 */
@@ -62,7 +63,7 @@ reg('אילו סוגות עיתונאיות?', 'חדשות, דעה, התכתבו
 });
 
 /* 5 */
-reg('על מה מדברים? נושאי-על לפי עיתון', 'הנושא הראשי של כל כתבה (קיבוץ אוטומטי לפי מילות מפתח) כאחוז מכתבות העיתון. הצבע כהה = חלק גדול יותר. לחיצה על תא פותחת את הכתבות.', host => {
+reg('על מה מדברים? נושאי-על לפי עיתון', 'הנושא הראשי של כל כתבה (ענף השורש של אוצר המילים שאליו שייכים רוב נושאיה) כאחוז מכתבות העיתון. הצבע כהה = חלק גדול יותר. לחיצה על תא פותחת את הכתבות.', host => {
   const themes = H.themeKeys.filter(k => H.A.some(a => a.pt === k)).sort((a, b) => H.A.filter(x => x.pt === b).length - H.A.filter(x => x.pt === a).length);
   const rowL = themes.map(k => ({ label: H.themeName[k], k })), colL = H.paperKeys.map(p => ({ label: H.pname(p), p }));
   H.heat(host, rowL, colL, (r, c) => { const arts = H.A.filter(a => a.p === colL[c].p && a.pt === rowL[r].k); return { v: arts.length / (ofP(colL[c].p).length || 1), arts }; },
@@ -75,24 +76,24 @@ reg('על מה מדברים? נושאי-על לפי עיתון', 'הנושא ה�
 let themeMode = 'pct';
 reg('איך השתנו הנושאים לאורך השנים?', 'הרכב נושאי-העל הראשיים בכל שנה, באחוזים או במספרים.', (host, again) => {
   const themes = H.themeKeys.filter(k => H.A.some(a => a.pt === k));
-  const series = themes.map(k => ({ key: k, label: H.themeName[k], color: TH_COL[k] }));
+  const series = themes.map(k => ({ key: k, label: H.themeName[k], color: thCol(k) }));
   const buckets = H.years.filter(y => H.A.some(a => yearOf(a) === y));
   const bar = h('div', { class: 'seg', style: { maxWidth: '240px', marginBottom: '8px' } }, [['pct', 'באחוזים'], ['abs', 'במספרים']].map(([k, l]) => h('button', { class: themeMode === k ? 'on' : '', onclick: () => { themeMode = k; again(); } }, l)));
   const ch = h('div'); host.append(bar, ch);
   H.timeBars(ch, { buckets, series, gran: 'year', yMode: themeMode, height: 230, aria: 'נושאים לפי שנה', cell: (bi, si) => H.A.filter(a => yearOf(a) === buckets[bi] && a.pt === themes[si]),
     onClick: (arts, y, s) => H.openList({ title: `${y} · ${s.label}`, arts, filter: { from: y + '-01-01', to: y + '-12-31', pt: s.key } }) });
   host.append(h('div', { class: 'legend' }, series.map(s => h('span', {}, h('i', { class: 'dot', style: { background: s.color } }), s.label))));
-  const ww = H.A.filter(a => a.pt === 'ww1'), first = ww.length ? ww[0].d : null;
+  const wwk = H.themeKeys.find(k => /world-war/.test(k)), ww = H.A.filter(a => a.pt === wwk), first = ww.length ? ww[0].d : null;
   return { read: first ? `הכתבות הראשונות שנושאן הראשי הוא מלחמת העולם הראשונה: ${fmtDate(first)}. ${nf(ww.length)} כתבות בסך הכול.` : '', table: { head: ['שנה', ...series.map(s => s.label)], rows: buckets.map(y => [y, ...themes.map(k => H.A.filter(a => yearOf(a) === y && a.pt === k).length)]) } };
 }, { wide: true });
 
 /* 7 */
 const STOP = new Set('של על את בין עם מול לפי אל כל אחר אחרים אחרת ועוד בעקבות בנוגע לגבי תחת מתוך אחד אחת שני שתי חדשות שונות שונים כללי כללית כלליות ידיעות ידיעה אחרות או גם לא זה זו הוא היא מן אך כי אם עד אצל ללא בשל ליד נגד העולם הראשונה שאלת יחסי מדיניות'.split(' ').map(norm));
-reg('אילו מילים חוזרות בנושאי הכתבות?', 'תדירות מילים בשדה "נושאים" (כמה כתבות מכילות את המילה), בפילוח לפי עיתון. לחיצה על מילה מחפשת אותה בנושאים; לחיצה על קטע פותחת את הכתבות.', host => {
+reg('אילו מילים חוזרות בנושאי הכתבות?', 'תדירות מילים בניסוח החופשי של שדה "נושאים" בגיליון (כמה כתבות מכילות את המילה), בפילוח לפי עיתון. לחיצה על מילה מחפשת אותה בנושאים; לחיצה על קטע פותחת את הכתבות.', host => {
   const raw = new Map(); // מילה → {arts:Set, surf:Counter}
   const tokOf = s => s.split(/[\s,;:.\-־"״()?!]+/).map(w => w.replace(/^['׳]+|['׳]+$/g, '')).filter(Boolean);
   const vocab = new Map();
-  for (const a of H.A) for (const [t] of a.top) for (const w of tokOf(t)) { const k = norm(w); if (k.length < 3 || STOP.has(k)) continue; let e = vocab.get(k); if (!e) vocab.set(k, e = { arts: new Set(), surf: {} }); e.arts.add(a); e.surf[w] = (e.surf[w] || 0) + 1; }
+  for (const a of H.A) for (const t of a.tr) for (const w of tokOf(t)) { const k = norm(w); if (k.length < 3 || STOP.has(k)) continue; let e = vocab.get(k); if (!e) vocab.set(k, e = { arts: new Set(), surf: {} }); e.arts.add(a); e.surf[w] = (e.surf[w] || 0) + 1; }
   // איחוד תחיליות פשוטות (ה/ב/ל/ו) כשהצורה החשופה שכיחה
   for (const [k, e] of [...vocab]) { if (k.length > 4 && 'הבלו'.includes(k[0])) { const b = vocab.get(k.slice(1)); if (b && b.arts.size >= 3) { for (const a of e.arts) b.arts.add(a); vocab.delete(k); } } }
   const rows = [...vocab.entries()].map(([k, e]) => ({ k, label: Object.entries(e.surf).sort((a, b) => b[1] - a[1])[0][0], arts: [...e.arts] })).sort((a, b) => b.arts.length - a.arts.length).slice(0, 34)
@@ -104,7 +105,7 @@ reg('אילו מילים חוזרות בנושאי הכתבות?', 'תדירות
 
 /* 8 */
 let placesAll = false;
-reg('אילו מקומות נכנסים לעולם של כל עיתון?', 'המקומות המוזכרים ביותר בכל עיתון, כאחוז מכתבותיו. כברירת מחדל ללא מקומות האיסוף עצמם (מרוקו, פאס, מראכש, דמשק, סלוניקי).', (host, again) => {
+reg('אילו מקומות נכנסים לעולם של כל עיתון?', 'המקומות המוזכרים ביותר בכל עיתון (אזכור ישיר), כאחוז מכתבותיו. כברירת מחדל ללא מקומות האיסוף עצמם (מרוקו, פאס, מראכש, דמשק, סלוניקי).', (host, again) => {
   const cb = h('label', { class: 'fopt', style: { marginBottom: '8px' } }, h('input', { type: 'checkbox', checked: placesAll, onchange: e => { placesAll = e.target.checked; again(); } }), 'כולל מקומות האיסוף');
   const grid = h('div', { style: { display: 'grid', gridTemplateColumns: 'repeat(auto-fit,minmax(260px,1fr))', gap: '16px' } });
   host.append(cb, grid);
@@ -128,7 +129,7 @@ reg('אישים: מי מופיע, ומתי?', '14 האישים המוזכרים 
   const rows = top.map(e => ({ label: e.h, arts: e.arts, key: e.key }));
   H.dotTimeline(host, rows, { onDot: (arts, r) => H.openList({ title: `${r.label} · ${fmtMonth(arts[0].d.slice(0, 7))} · ${H.pname(arts[0].p)}`, arts }), onRow: r => H.openList({ title: r.label, arts: r.arts, filter: { ents: [{ type: 'ppl', key: r.key }] } }) });
   host.append(h('div', { class: 'legend' }, pSeries().map(s => h('span', {}, h('i', { class: 'dot', style: { background: s.color } }), s.label))));
-  return { read: `${top[0].h} (${top[0].count} כתבות), ${top[1].h} (${top[1].count}), ${top[2].h} (${top[2].count}). שימו לב: תארים כמו "הסולטאן" או "הקיסר" אינם מאוחדים עם שמות פרטיים.`, table: { head: ['אדם', 'כתבות', 'ראשונה', 'אחרונה'], rows: top.map(e => [e.h, e.count, e.first, e.last]) } };
+  return { read: `${top[0].h} (${top[0].count} כתבות), ${top[1].h} (${top[1].count}), ${top[2].h} (${top[2].count}). תארים כמו "הסולטאן" או "הקיסר" שויכו לאדם לפי תאריך הכתבה והקשרה.`, table: { head: ['אדם', 'כתבות', 'ראשונה', 'אחרונה'], rows: top.map(e => [e.h, e.count, e.first, e.last]) } };
 });
 
 /* 10, 11 */
@@ -143,7 +144,7 @@ function entBars(type, n, read) {
   };
 }
 reg('אילו מוסדות וארגונים עולים?', 'הארגונים והמוסדות המוזכרים ביותר, בפילוח לפי עיתון.', entBars('org', 18, t => `בראש: ${t.slice(0, 4).map(e => e.h).join(', ')}. מוסדות פרלמנטריים ושלטוניים מככבים, וארגונים יהודיים נמצאים מאחוריהם.`));
-reg('מי נמצא בכתבות? קבוצות אוכלוסייה', 'קבוצות האוכלוסייה המוזכרות בכתבות, בפילוח לפי עיתון.', entBars('grp', 18, t => { const j = H.entity('grp', 'יהודים'); return `בראש: ${t.slice(0, 4).map(e => e.h).join(', ')}.` + (j ? ` "יהודים" מופיעים ב־${pct(j.count, H.A.length)}% מהכתבות.` : ''); }));
+reg('מי נמצא בכתבות? קבוצות אוכלוסייה', 'קבוצות האוכלוסייה המוזכרות בכתבות, בפילוח לפי עיתון.', entBars('grp', 18, t => { const j = H.entity('grp', 'grp:jews'); return `בראש: ${t.slice(0, 4).map(e => e.h).join(', ')}.` + (j ? ` "יהודים" מופיעים ב־${pct(j.count, H.A.length)}% מהכתבות.` : ''); }));
 
 /* 12 */
 let netMin = 8;
@@ -169,17 +170,17 @@ reg('רשת מקומות: אילו מקומות נזכרים יחד?', 'כל ע�
 }, { wide: true });
 
 /* 13 */
-let peakSel = 'מרוקו';
+let peakSel = 'pl:morocco';
 reg('פסגות ואירועי רקע', 'כתבות לפי חודש שבהן מוזכר המקום שנבחר, ולצידן אירועים היסטוריים ידועים (כתום; ידע כללי ולא מן הגיליון). האם הפסגות מתיישבות עם האירועים?', (host, again) => {
-  const opts = ['מרוקו', 'דמשק', 'סלוניקי', 'טורקיה', 'רוסיה', 'גרמניה', 'צרפת', 'ירושלים'].filter(k => H.entity('pl', k));
-  const sel = h('select', { 'aria-label': 'מקום', onchange: e => { peakSel = e.target.value; again(); }, style: { padding: '6px 10px', border: '1px solid var(--line)', borderRadius: '8px', marginBottom: '8px' } }, opts.map(o => h('option', { value: o }, o)));
+  const opts = ['pl:morocco', 'pl:damascus', 'pl:thessaloniki', 'pl:ottoman-empire', 'pl:russian-empire', 'pl:germany', 'pl:france', 'pl:jerusalem'].filter(k => H.entity('pl', k));
+  const sel = h('select', { 'aria-label': 'מקום', onchange: e => { peakSel = e.target.value; again(); }, style: { padding: '6px 10px', border: '1px solid var(--line)', borderRadius: '8px', marginBottom: '8px' } }, opts.map(o => h('option', { value: o }, H.label(o))));
   sel.value = peakSel; const ch = h('div'); host.append(sel, ch);
   const buckets = allBuckets('month'), idx = new Map(buckets.map((k, i) => [k, i])), series = pSeries(), cell = buckets.map(() => ({}));
   for (const a of entArts('pl', peakSel)) { const i = idx.get(a.d.slice(0, 7)); (cell[i][a.p] = cell[i][a.p] || []).push(a); }
   H.timeBars(ch, { buckets, series, gran: 'month', events: true, height: 190, cell: (bi, si) => cell[bi][series[si].key] || [], aria: 'פסגות',
-    onClick: (arts, k, s) => H.openList({ title: `${peakSel} · ${s.label} · ${bucketLabel(k)}`, arts, filter: { papers: [s.key], ents: [{ type: 'pl', key: peakSel }], ...rangeFilter(k) } }) });
+    onClick: (arts, k, s) => H.openList({ title: `${H.label(peakSel)} · ${s.label} · ${bucketLabel(k)}`, arts, filter: { papers: [s.key], ents: [{ type: 'pl', key: peakSel }], ...rangeFilter(k) } }) });
   const tot = buckets.map((k, i) => [k, Object.values(cell[i]).reduce((s, l) => s + l.length, 0)]).sort((a, b) => b[1] - a[1]).slice(0, 3);
-  return { read: `שלושת החודשים העמוסים ביותר ל"${peakSel}": ${tot.map(([k, n]) => `${bucketLabel(k)} (${n})`).join(', ')}.`, table: { head: ['חודש', ...series.map(s => s.label)], rows: buckets.map((k, i) => [k, ...series.map(s => (cell[i][s.key] || []).length)]) } };
+  return { read: `שלושת החודשים העמוסים ביותר ל"${H.label(peakSel)}": ${tot.map(([k, n]) => `${bucketLabel(k)} (${n})`).join(', ')}.`, table: { head: ['חודש', ...series.map(s => s.label)], rows: buckets.map((k, i) => [k, ...series.map(s => (cell[i][s.key] || []).length)]) } };
 }, { wide: true });
 
 /* 14 */

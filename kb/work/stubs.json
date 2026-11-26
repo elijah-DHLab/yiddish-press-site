@@ -1,0 +1,15 @@
+{
+ "pl:belarus": {"he": "בלארוס", "en": "Belarus", "kind": "region", "parent": "pl:russian-empire"},
+ "pl:libya": {"he": "לוב", "en": "Italian Libya", "en_alt": ["Libya"], "kind": "colony", "parent": "pl:italy"},
+ "pl:iraq": {"he": "עיראק (מסופוטמיה)", "en": "Mesopotamia", "en_alt": ["Iraq"], "kind": "region", "parent": "pl:ottoman-empire"},
+ "pl:dutch-east-indies": {"he": "איי הודו המזרחית ההולנדית", "en": "Dutch East Indies", "kind": "colony", "parent": "pl:netherlands"},
+ "pl:latvia": {"he": "לטביה (קורלנד וליבוניה)", "en": "Latvia", "kind": "region", "parent": "pl:russian-empire"},
+ "pl:estonia": {"he": "אסטוניה", "en": "Estonia", "kind": "region", "parent": "pl:russian-empire"},
+ "pl:brazil": {"he": "ברזיל", "en": "Brazil", "kind": "country"},
+ "pl:peru": {"he": "פרו", "en": "Peru", "kind": "country"},
+ "pl:siam": {"he": "סיאם", "en": "Thailand", "en_alt": ["Siam"], "kind": "country"},
+ "pl:monaco": {"he": "מונקו", "en": "Monaco", "kind": "country"},
+ "pl:uruguay": {"he": "אורוגוואי", "en": "Uruguay", "kind": "country"},
+ "pl:eritrea": {"he": "אריתריאה", "en": "Italian Eritrea", "kind": "colony", "parent": "pl:italy"},
+ "pl:panama": {"he": "פנמה", "en": "Panama", "kind": "country"}
+}

@@ -1,0 +1,4637 @@
+{
+ "ev:first-moroccan-crisis": [
+  {
+   "qid": "Q167455",
+   "en": "First Moroccan Crisis",
+   "he": "המשבר המרוקאי הראשון",
+   "desc": "international crisis over the status of Morocco",
+   "types": [
+    "international crisis"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1905,
+   "end": 1906,
+   "sitelinks": 38,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:kaiser-visit-tangier": [
+  {
+   "qid": "Q167455",
+   "en": "First Moroccan Crisis",
+   "he": "המשבר המרוקאי הראשון",
+   "desc": "international crisis over the status of Morocco",
+   "types": [
+    "international crisis"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1905,
+   "end": 1906,
+   "sitelinks": 38,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:delcasse-resignation": [
+  {
+   "qid": "Q503827",
+   "en": "Théophile Delcassé",
+   "he": "תאופיל דלקאסה",
+   "desc": "French statesman (1852-1923)",
+   "types": [
+    "human"
+   ],
+   "born": 1852,
+   "died": 1923,
+   "start": null,
+   "end": null,
+   "sitelinks": 27,
+   "name_match": true,
+   "type_ok": false
+  }
+ ],
+ "ev:algeciras-conference": [
+  {
+   "qid": "Q163573",
+   "en": "Algeciras Conference",
+   "he": "ועידת אלחסירס",
+   "desc": "international conference to find a solution to the First Moroccan Crisis",
+   "types": [
+    "summit"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1906,
+   "end": 1906,
+   "sitelinks": 35,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q108375649",
+   "en": "Act of Algeciras",
+   "he": "",
+   "desc": "act resulting through the Algeciras Conference that led to France controlling Morocco",
+   "types": [
+    "treaty"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 1,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:mauchamp-murder": [
+  {
+   "qid": "Q3588652",
+   "en": "Émile Mauchamp",
+   "he": "",
+   "desc": "French doctor (1870-1907)",
+   "types": [
+    "human"
+   ],
+   "born": 1870,
+   "died": 1907,
+   "start": null,
+   "end": null,
+   "sitelinks": 5,
+   "name_match": true,
+   "type_ok": false
+  },
+  {
+   "qid": "Q136816798",
+   "en": "Émile Mauchamp",
+   "he": "",
+   "desc": "Moroccan physician",
+   "types": [
+    "human"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": true,
+   "type_ok": false
+  }
+ ],
+ "ev:occupation-of-oujda": [],
+ "ev:maclean-kidnapping": [
+  {
+   "qid": "Q1225338",
+   "en": "Harry MacLean",
+   "he": "",
+   "desc": "German painter (1908-1994)",
+   "types": [
+    "human"
+   ],
+   "born": 1908,
+   "died": 1994,
+   "start": null,
+   "end": null,
+   "sitelinks": 2,
+   "name_match": true,
+   "type_ok": false
+  },
+  {
+   "qid": "Q17318739",
+   "en": "Harry Maclean",
+   "he": "",
+   "desc": "Speedway rider",
+   "types": [
+    "human"
+   ],
+   "born": 1951,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 2,
+   "name_match": true,
+   "type_ok": false
+  },
+  {
+   "qid": "Q5671233",
+   "en": "Harry N. MacLean",
+   "he": "",
+   "desc": "American lawyer and writer",
+   "types": [
+    "human"
+   ],
+   "born": 1943,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 4,
+   "name_match": true,
+   "type_ok": false
+  },
+  {
+   "qid": "Q76329848",
+   "en": "Harry Bear Maclean",
+   "he": "",
+   "desc": "(born 2016)",
+   "types": [
+    "human"
+   ],
+   "born": 2016,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": true,
+   "type_ok": false
+  },
+  {
+   "qid": "Q17314235",
+   "en": "Harry Maclean",
+   "he": "",
+   "desc": "Wikimedia disambiguation page",
+   "types": [
+    "Wikimedia human name disambiguation page"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 1,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q401625",
+   "en": "Mulai Ahmed er Raisuni",
+   "he": "מולאי אחמד אל-ראיסוני",
+   "desc": "Moroccan rebel (1871-1925)",
+   "types": [
+    "human"
+   ],
+   "born": 1871,
+   "died": 1925,
+   "start": null,
+   "end": null,
+   "sitelinks": 15,
+   "name_match": true,
+   "type_ok": false
+  }
+ ],
+ "ev:casablanca-riots-1907": [],
+ "ev:bombardment-of-casablanca": [],
+ "ev:casablanca-mellah-pogrom-1907": [],
+ "ev:chaouia-campaign": [
+  {
+   "qid": "Q86676273",
+   "en": "Chaouia campaign",
+   "he": "",
+   "desc": "1907–1909 military campaign",
+   "types": [
+    "military campaign"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1907,
+   "end": 1909,
+   "sitelinks": 3,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q139891820",
+   "en": "Chaouia campaign",
+   "he": "",
+   "desc": "1814 military campaign",
+   "types": [
+    "military campaign"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1814,
+   "end": null,
+   "sitelinks": 1,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q2935421",
+   "en": "French conquest of Morocco",
+   "he": "הכיבוש הצרפתי את מרוקו",
+   "desc": "Franco-Moroccan conflict",
+   "types": [
+    "war"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1907,
+   "end": 1937,
+   "sitelinks": 18,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:hafidiya": [
+  {
+   "qid": "Q97358280",
+   "en": "Hafidiya",
+   "he": "",
+   "desc": "coup in pre-colonial Morocco, 1907–1908",
+   "types": [
+    "civil war",
+    "coup d'état"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1907,
+   "end": 1908,
+   "sitelinks": 4,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:franco-german-accord-1909": [],
+ "ev:melilla-war-1909": [
+  {
+   "qid": "Q2032554",
+   "en": "Second Melillan campaign",
+   "he": "",
+   "desc": "military conflict at the city of Melilla in 1909",
+   "types": [
+    "war"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1909,
+   "end": 1909,
+   "sitelinks": 12,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:tragic-week": [
+  {
+   "qid": "Q1142553",
+   "en": "Tragic Week",
+   "he": "",
+   "desc": "social revolt",
+   "types": [
+    "social movement",
+    "general strike",
+    "historical event"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1909,
+   "end": 1909,
+   "sitelinks": 24,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q2632665",
+   "en": "Tragic Week",
+   "he": "",
+   "desc": "1919 series of unrests in Argentina",
+   "types": [
+    "revolt"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1919,
+   "end": 1919,
+   "sitelinks": 15,
+   "name_match": false,
+   "type_ok": true
+  }
+ ],
+ "ev:siege-of-fez-1911": [],
+ "ev:fez-expedition-1911": [],
+ "ev:spanish-landing-larache": [
+  {
+   "qid": "Q606775",
+   "en": "Larache",
+   "he": "לאראש",
+   "desc": "town in Morocco",
+   "types": [
+    "city",
+    "urban commune of Morocco"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 44,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q1759567",
+   "en": "Larache Province",
+   "he": "מחוז לאראש",
+   "desc": "province in Tanger-Tétouan, Moroco",
+   "types": [
+    "province of Morocco"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 19,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q33689300",
+   "en": "Larache",
+   "he": "",
+   "desc": "",
+   "types": [
+    "second-level administrative division"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 1,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q28119997",
+   "en": "Ensenada de Vilaboa",
+   "he": "",
+   "desc": "beach in Spain",
+   "types": [
+    "black sand beach",
+    "urban beach"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q5970034",
+   "en": "Larachelus",
+   "he": "",
+   "desc": "genus of reptiles",
+   "types": [
+    "fossil taxon"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 4,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q129933378",
+   "en": "Larachelus morla",
+   "he": "",
+   "desc": "species",
+   "types": [
+    "taxon"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": false,
+   "type_ok": true
+  }
+ ],
+ "ev:agadir-crisis": [
+  {
+   "qid": "Q164771",
+   "en": "Agadir Crisis",
+   "he": "המשבר המרוקאי השני",
+   "desc": "international crisis of deployment of French troops into Morocco",
+   "types": [
+    "international crisis"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1911,
+   "end": null,
+   "sitelinks": 44,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:kert-campaign": [
+  {
+   "qid": "Q20102483",
+   "en": "Kert campaign",
+   "he": "",
+   "desc": "1911–1912 military campaign",
+   "types": [
+    "military campaign"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1911,
+   "end": 1912,
+   "sitelinks": 5,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:morocco-congo-treaty": [
+  {
+   "qid": "Q884132",
+   "en": "Morocco–Congo Treaty",
+   "he": "",
+   "desc": "1911 treaty between France and Germany",
+   "types": [
+    "treaty"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1911,
+   "end": null,
+   "sitelinks": 13,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q104711416",
+   "en": "Morocco–Congo Treaty 1911",
+   "he": "",
+   "desc": "subject category of the 20th Century Press Archives",
+   "types": [
+    "PM20 subject category"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": false,
+   "type_ok": true
+  }
+ ],
+ "ev:treaty-of-fez": [
+  {
+   "qid": "Q931982",
+   "en": "Treaty of Fes",
+   "he": "הסכם פס",
+   "desc": "colonial treaty signed March 30, 1912 that made Morocco a French protectorate",
+   "types": [
+    "treaty",
+    "bilateral treaty"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1912,
+   "end": null,
+   "sitelinks": 34,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q142077885",
+   "en": "Treaty of Fes",
+   "he": "",
+   "desc": "Diplomatic document  Treaty of Fes",
+   "types": [],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:fez-riots-1912": [
+  {
+   "qid": "Q149459",
+   "en": "Triteleia",
+   "he": "",
+   "desc": "genus of plants",
+   "types": [
+    "taxon"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 18,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q15361261",
+   "en": "Triteleia",
+   "he": "",
+   "desc": "genus of scelioninae",
+   "types": [
+    "taxon"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 6,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q7844269",
+   "en": "Triteleia hyacinthina",
+   "he": "",
+   "desc": "species of plant",
+   "types": [
+    "taxon"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 9,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q1499293",
+   "en": "Triteleia ixioides",
+   "he": "",
+   "desc": "species of plant",
+   "types": [
+    "taxon"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 9,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q15506446",
+   "en": "Triteleia bridgesii",
+   "he": "",
+   "desc": "species of plant",
+   "types": [
+    "taxon"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 5,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q2883820",
+   "en": "Triteleiopsis",
+   "he": "",
+   "desc": "genus of plants",
+   "types": [
+    "taxon"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 8,
+   "name_match": false,
+   "type_ok": true
+  }
+ ],
+ "ev:abdication-abd-al-hafid": [
+  {
+   "qid": "Q276936",
+   "en": "Abd al-Hafid of Morocco",
+   "he": "עבד אל-חפיז ממרוקו",
+   "desc": "Sultan of Morocco (1875-1937)",
+   "types": [
+    "human"
+   ],
+   "born": 1875,
+   "died": 1937,
+   "start": null,
+   "end": null,
+   "sitelinks": 30,
+   "name_match": true,
+   "type_ok": false
+  }
+ ],
+ "ev:battle-of-sidi-bou-othman": [
+  {
+   "qid": "Q4872375",
+   "en": "Battle of Sidi Bou Othman",
+   "he": "",
+   "desc": "1912 battle",
+   "types": [
+    "battle"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1912,
+   "end": null,
+   "sitelinks": 6,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:franco-spanish-treaty-1912": [
+  {
+   "qid": "Q15294337",
+   "en": "Treaty Between France and Spain Regarding Morocco",
+   "he": "הסכם בין צרפת לספרד לגבי מרוקו",
+   "desc": "1912 treaty",
+   "types": [
+    "treaty"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 4,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q55919248",
+   "en": "",
+   "he": "",
+   "desc": "",
+   "types": [],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": false,
+   "type_ok": true
+  }
+ ],
+ "ev:entente-cordiale": [
+  {
+   "qid": "Q464399",
+   "en": "Entente Cordiale",
+   "he": "ההסכמה הלבבית",
+   "desc": "series of agreements between the United Kingdom and France about colonies in Africa, Siam (Thailand), Newfoundland, and New Hebrides (Vanuatu)",
+   "types": [
+    "treaty"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1904,
+   "end": null,
+   "sitelinks": 51,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q3055010",
+   "en": "Entente cordiale",
+   "he": "",
+   "desc": "1939 film by Marcel L'Herbier",
+   "types": [
+    "film"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 6,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q17002877",
+   "en": "Entente Cordiale",
+   "he": "",
+   "desc": "comic opera by Ethel Smyth",
+   "types": [
+    "dramatico-musical work"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 4,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q116586201",
+   "en": "Cordial Agreement",
+   "he": "",
+   "desc": "1912 film by Max Linder",
+   "types": [
+    "film"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 2,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q65512410",
+   "en": "Entente cordiale",
+   "he": "",
+   "desc": "print in the National Gallery of Art (NGA 50877)",
+   "types": [
+    "print"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q2922463",
+   "en": "Entente Cordiale Scholarships",
+   "he": "מלגות ההסכמה הלבבית",
+   "desc": "Franco-British scholarship scheme",
+   "types": [
+    "scholarship"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 2,
+   "name_match": false,
+   "type_ok": true
+  }
+ ],
+ "ev:franco-italian-agreement-1902": [],
+ "ev:young-turk-revolution": [
+  {
+   "qid": "Q4298662",
+   "en": "Young Turk Revolution of 1908",
+   "he": "מהפכת הטורקים הצעירים",
+   "desc": "1908 restoration of constitutional rule in the Ottoman Empire",
+   "types": [
+    "revolution"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1908,
+   "end": null,
+   "sitelinks": 47,
+   "name_match": false,
+   "type_ok": true
+  }
+ ],
+ "ev:ottoman-election-1908": [],
+ "ev:31-march-incident": [
+  {
+   "qid": "Q2073490",
+   "en": "31 March Incident",
+   "he": "אירוע ה-31 במרץ",
+   "desc": "1909 rebellion of conservative reactionaries in Constantinople",
+   "types": [
+    "rebellion"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1909,
+   "end": 1909,
+   "sitelinks": 18,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q6670743",
+   "en": "Action Army",
+   "he": "",
+   "desc": "group within the Ottoman Army which suppressed the 1909 countercoup",
+   "types": [
+    "locality"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 7,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:deposition-abdul-hamid": [
+  {
+   "qid": "Q134817",
+   "en": "Abdul Hamid II",
+   "he": "עבדול חמיד השני",
+   "desc": "34th Sultan of the Ottoman Empire (1876–1909)",
+   "types": [
+    "human"
+   ],
+   "born": 1842,
+   "died": 1918,
+   "start": null,
+   "end": null,
+   "sitelinks": 104,
+   "name_match": true,
+   "type_ok": false
+  },
+  {
+   "qid": "Q1573366",
+   "en": "Abdul Hamid II",
+   "he": "",
+   "desc": "Pakistani field hockey player (born 1942)",
+   "types": [
+    "human"
+   ],
+   "born": 1942,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 6,
+   "name_match": true,
+   "type_ok": false
+  },
+  {
+   "qid": "Q111978995",
+   "en": "Haydarpaşa Breakwater",
+   "he": "",
+   "desc": "breakwater in Haydarpaşa, İstanbul",
+   "types": [
+    "obelisk",
+    "breakwater",
+    "monument"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1902,
+   "end": null,
+   "sitelinks": 4,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q115998946",
+   "en": "Abdul-Hamid II., Sultan of Turkey",
+   "he": "",
+   "desc": "entry in Men of the Time, eleventh edition",
+   "types": [
+    "biographical article"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 1,
+   "name_match": false,
+   "type_ok": true
+  }
+ ],
+ "ev:adana-massacre": [
+  {
+   "qid": "Q2087792",
+   "en": "Adana massacre",
+   "he": "טבח אדנה",
+   "desc": "massacre of Armenian Christians by Ottoman Muslims",
+   "types": [
+    "massacre"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1909,
+   "end": null,
+   "sitelinks": 35,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:hauran-druze-rebellion": [
+  {
+   "qid": "Q5682791",
+   "en": "Hauran Druze Rebellion",
+   "he": "המרד הדרוזי בחורן",
+   "desc": "unsuccessful violent Druze uprising against the Ottomans in Syria in 1909",
+   "types": [
+    "rebellion"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1909,
+   "end": 1910,
+   "sitelinks": 6,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:albanian-revolt-1910": [
+  {
+   "qid": "Q4709163",
+   "en": "Albanian revolt of 1910",
+   "he": "המרד האלבני (1910)",
+   "desc": "First of a series of major uprisings",
+   "types": [
+    "revolt"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1910,
+   "end": 1910,
+   "sitelinks": 12,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:albanian-revolt-1911": [
+  {
+   "qid": "Q4709161",
+   "en": "Malissori uprising",
+   "he": "",
+   "desc": "Albanian revolt in the Ottoman Empire",
+   "types": [
+    "revolt"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1911,
+   "end": 1911,
+   "sitelinks": 9,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:albanian-revolt-1912": [
+  {
+   "qid": "Q1280245",
+   "en": "Albanian revolt of 1912",
+   "he": "המרד האלבני (1912)",
+   "desc": "final Albanian revolt in the Ottoman Empire",
+   "types": [
+    "rebellion"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1912,
+   "end": 1912,
+   "sitelinks": 16,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:albanian-independence": [
+  {
+   "qid": "Q281097",
+   "en": "Albanian Declaration of Independence",
+   "he": "הכרזת העצמאות של אלבניה",
+   "desc": "declaration of independence",
+   "types": [
+    "statute",
+    "declaration of independence",
+    "historical event"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 24,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:yemen-revolt-1911": [
+  {
+   "qid": "Q7837030",
+   "en": "Treaty of Daan",
+   "he": "הסכם דעאן",
+   "desc": "1911 treaty between the Ottoman Empire and Zaydi Yemen",
+   "types": [
+    "treaty"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1911,
+   "end": null,
+   "sitelinks": 4,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:raid-on-sublime-porte": [
+  {
+   "qid": "Q4559693",
+   "en": "1913 Ottoman coup d'état",
+   "he": "ההפיכה באימפריה העות'מאנית ב-1913",
+   "desc": "coup d'état in the Ottoman Empire",
+   "types": [
+    "coup d'état"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1913,
+   "end": null,
+   "sitelinks": 17,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:bulgarian-independence": [
+  {
+   "qid": "Q1628090",
+   "en": "Bulgarian Declaration of Independence",
+   "he": "הכרזת העצמאות של בולגריה",
+   "desc": "Declaration of Independence of a Country",
+   "types": [
+    "declaration of independence"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1908,
+   "end": null,
+   "sitelinks": 18,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:bosnian-crisis": [
+  {
+   "qid": "Q167246",
+   "en": "Bosnian Crisis",
+   "he": "משבר בוסניה",
+   "desc": "1909 international relations crisis after Austria-Hungary annexed Bosnia and Herzegovina",
+   "types": [
+    "crisis"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1908,
+   "end": 1909,
+   "sitelinks": 42,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:ottoman-boycott-austria-1908": [],
+ "ev:cretan-union-1908": [
+  {
+   "qid": "Q72785",
+   "en": "Cretan State",
+   "he": "מדינת כרתים",
+   "desc": "state on Crete between 1898-1913",
+   "types": [
+    "historical country"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1898,
+   "end": 1913,
+   "sitelinks": 39,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q12716250",
+   "en": "Crete at the Olympics",
+   "he": "",
+   "desc": "",
+   "types": [
+    "Olympic delegation"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 3,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q150718",
+   "en": "Crete at the 1906 Intercalated Games",
+   "he": "",
+   "desc": "",
+   "types": [
+    "Olympic delegation"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1906,
+   "end": null,
+   "sitelinks": 4,
+   "name_match": false,
+   "type_ok": true
+  }
+ ],
+ "ev:goudi-coup": [
+  {
+   "qid": "Q760023",
+   "en": "Goudi coup",
+   "he": "",
+   "desc": "coup d'état",
+   "types": [
+    "coup d'état"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1909,
+   "end": null,
+   "sitelinks": 16,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:balkan-league": [
+  {
+   "qid": "Q239225",
+   "en": "Balkan League",
+   "he": "הליגה הבלקנית",
+   "desc": "1912 military alliance",
+   "types": [
+    "military alliance"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1912,
+   "end": null,
+   "sitelinks": 57,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q4851083",
+   "en": "Balkan League",
+   "he": "",
+   "desc": "Balkan ice hockey league between 1994-1997",
+   "types": [
+    "ice hockey league"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1994,
+   "end": 1997,
+   "sitelinks": 3,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q27794988",
+   "en": "Balkan League",
+   "he": "",
+   "desc": "Wikimedia disambiguation page",
+   "types": [
+    "Wikimedia disambiguation page"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 1,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:first-balkan-war": [
+  {
+   "qid": "Q177918",
+   "en": "First Balkan War",
+   "he": "מלחמת הבלקן הראשונה",
+   "desc": "war involving the Balkan League and the Ottoman Empire",
+   "types": [
+    "war"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1912,
+   "end": 1913,
+   "sitelinks": 78,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:capture-of-thessaloniki-1912": [
+  {
+   "qid": "Q765175",
+   "en": "Battle of Yenidje",
+   "he": "",
+   "desc": "1912 battle",
+   "types": [
+    "battle"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1912,
+   "end": null,
+   "sitelinks": 13,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q84026604",
+   "en": "Liberation of Thessaloniki",
+   "he": "",
+   "desc": "1912 event, entry of Greek army",
+   "types": [
+    "liberation"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1912,
+   "end": 1912,
+   "sitelinks": 2,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:siege-of-scutari": [],
+ "ev:siege-of-adrianople": [],
+ "ev:london-conference-1912": [
+  {
+   "qid": "Q59491",
+   "en": "London Conference of 1912–1913",
+   "he": "",
+   "desc": "International summit on the First Balkan War",
+   "types": [
+    "summit",
+    "peace conference"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1912,
+   "end": 1913,
+   "sitelinks": 14,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:second-balkan-war": [
+  {
+   "qid": "Q184183",
+   "en": "Second Balkan War",
+   "he": "מלחמת הבלקן השנייה",
+   "desc": "continuation of the First Balkan War in which Bulgaria fought Serbia, Greece, Romania and the Ottoman Empire",
+   "types": [
+    "war"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1913,
+   "end": 1913,
+   "sitelinks": 70,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:treaty-of-bucharest-1913": [],
+ "ev:assassination-george-i": [
+  {
+   "qid": "Q124079910",
+   "en": "Assassination of George I of Greece",
+   "he": "",
+   "desc": "1913 murder of King of Greece",
+   "types": [
+    "regicide"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1913,
+   "end": null,
+   "sitelinks": 4,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q17142",
+   "en": "George I of Greece",
+   "he": "גאורגיוס הראשון, מלך היוונים",
+   "desc": "King of Greece (r. 1863–1913)",
+   "types": [
+    "human"
+   ],
+   "born": 1845,
+   "died": 1913,
+   "start": null,
+   "end": null,
+   "sitelinks": 66,
+   "name_match": true,
+   "type_ok": false
+  }
+ ],
+ "ev:italo-turkish-war": [
+  {
+   "qid": "Q203824",
+   "en": "Italo-Turkish War",
+   "he": "המלחמה האיטלקית-עות'מאנית",
+   "desc": "1911–12 war between the Ottoman Empire and the Kingdom of Italy",
+   "types": [
+    "war"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1911,
+   "end": 1912,
+   "sitelinks": 62,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:battle-of-tripoli-1911": [],
+ "ev:battle-of-shar-al-shatt": [],
+ "ev:annexation-of-libya": [
+  {
+   "qid": "Q284568",
+   "en": "Italian Libya",
+   "he": "לוב האיטלקית",
+   "desc": "1934–1943 Italian possession in North Africa",
+   "types": [
+    "colony"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1934,
+   "end": 1943,
+   "sitelinks": 41,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q12188743",
+   "en": "Fourth Shore",
+   "he": "",
+   "desc": "Southern border of Mussolini's Greater Italy",
+   "types": [],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 3,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q6092815",
+   "en": "Italian Libya Railways",
+   "he": "",
+   "desc": "railways in Italian Libya between the world wars",
+   "types": [],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 4,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q15024303",
+   "en": "Italian Libyan Colonial Division",
+   "he": "",
+   "desc": "formation of colonial troops raised by the Italians in Libya",
+   "types": [
+    "military division"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 4,
+   "name_match": false,
+   "type_ok": true
+  }
+ ],
+ "ev:battle-of-beirut-1912": [],
+ "ev:dardanelles-1912": [],
+ "ev:dodecanese-occupation": [],
+ "ev:treaty-of-ouchy": [],
+ "ev:russo-japanese-war": [
+  {
+   "qid": "Q159950",
+   "en": "Russo-Japanese War",
+   "he": "מלחמת רוסיה-יפן",
+   "desc": "conflict between the Russian and Japanese empires from 1904 to 1905",
+   "types": [
+    "war",
+    "attempt"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1904,
+   "end": 1905,
+   "sitelinks": 93,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q104032291",
+   "en": "Russo-Japanese War",
+   "he": "",
+   "desc": "print by Artist Unknown 1972.051",
+   "types": [
+    "print"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q104032290",
+   "en": "Russo-Japanese War",
+   "he": "",
+   "desc": "print by Artist Unknown 1972.050",
+   "types": [
+    "print"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q104032289",
+   "en": "Russo-Japanese War",
+   "he": "",
+   "desc": "print by Artist Unknown 1972.049",
+   "types": [
+    "print"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q4286790",
+   "en": "Russo-Japanese War Medal",
+   "he": "מדליית מלחמת רוסיה–יפן",
+   "desc": "Decoration of the Russian Empire",
+   "types": [
+    "medal",
+    "award"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1906,
+   "end": null,
+   "sitelinks": 4,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q120116080",
+   "en": "Russo-Japanese War: Disabled War Veterans and Nurses Line the Streets in London to Watch and Cheer the King and Queen",
+   "he": "",
+   "desc": "1904; Arthur Kemp Tebby (1866–1957); 1904; Wellcome Collection",
+   "types": [
+    "work of art"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1904,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": false,
+   "type_ok": true
+  }
+ ],
+ "ev:siege-of-port-arthur": [
+  {
+   "qid": "Q210800",
+   "en": "Siege of Port Arthur",
+   "he": "המצור על פורט ארתור",
+   "desc": "1905 battle of the Russo-Japanese war",
+   "types": [
+    "siege"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1904,
+   "end": 1905,
+   "sitelinks": 27,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:battle-of-mukden": [
+  {
+   "qid": "Q384091",
+   "en": "Battle of Mukden",
+   "he": "קרב מוקדן",
+   "desc": "1905 battle",
+   "types": [
+    "battle"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1905,
+   "end": 1905,
+   "sitelinks": 29,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:battle-of-tsushima": [
+  {
+   "qid": "Q208127",
+   "en": "Battle of Tsushima",
+   "he": "קרב צושימה",
+   "desc": "major naval battle between Russia and Japan during the Russo-Japanese War",
+   "types": [
+    "naval warfare"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1905,
+   "end": 1905,
+   "sitelinks": 53,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q97999945",
+   "en": "Battle of Tsushima (1274)",
+   "he": "",
+   "desc": "1274 Yuan victory over the Kamakura Shogunate",
+   "types": [
+    "battle"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1274,
+   "end": 1274,
+   "sitelinks": 8,
+   "name_match": false,
+   "type_ok": true
+  }
+ ],
+ "ev:treaty-of-portsmouth": [
+  {
+   "qid": "Q548067",
+   "en": "Treaty of Portsmouth",
+   "he": "הסכם פורטסמות'",
+   "desc": "1905 peace treaty that ended the Russo-Japanese War",
+   "types": [
+    "peace treaty",
+    "bilateral treaty"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1905,
+   "end": null,
+   "sitelinks": 53,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q2051041",
+   "en": "Treaty of Portsmouth",
+   "he": "",
+   "desc": "1713 treaty",
+   "types": [
+    "peace treaty"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1713,
+   "end": null,
+   "sitelinks": 4,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:russian-revolution-1905": [
+  {
+   "qid": "Q184928",
+   "en": "Russian Revolution of 1905",
+   "he": "מהפכת 1905",
+   "desc": "wave of mass political and social unrest that spread through vast areas of the Russian Empire",
+   "types": [
+    "revolution"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1905,
+   "end": 1907,
+   "sitelinks": 72,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q12357694",
+   "en": "Russian Revolution of 1905 in Estonia",
+   "he": "",
+   "desc": "",
+   "types": [],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 1,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q4156943",
+   "en": "Russian Revolution of 1905 in Nizhny Novgorod",
+   "he": "",
+   "desc": "",
+   "types": [
+    "rebellion"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1905,
+   "end": null,
+   "sitelinks": 3,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q132681429",
+   "en": "Russian Revolution of 1905 in Donbass",
+   "he": "",
+   "desc": "",
+   "types": [
+    "regional history"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 1,
+   "name_match": false,
+   "type_ok": true
+  }
+ ],
+ "ev:bloody-sunday-1905": [
+  {
+   "qid": "Q185642",
+   "en": "Bloody Sunday",
+   "he": "יום ראשון העקוב מדם",
+   "desc": "massacre in Russia in January 1905",
+   "types": [
+    "strike",
+    "mass shooting"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1905,
+   "end": null,
+   "sitelinks": 56,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q190819",
+   "en": "Bloody Sunday",
+   "he": "יום ראשון העקוב מדם",
+   "desc": "shooting of 26 civilians by British soldiers in Derry, Northern Ireland in 1972 during the Troubles",
+   "types": [
+    "massacre"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1972,
+   "end": null,
+   "sitelinks": 52,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q1540695",
+   "en": "January Events",
+   "he": "מאורעות ינואר",
+   "desc": "1991 protest in Lithuania",
+   "types": [
+    "protest"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1991,
+   "end": 1991,
+   "sitelinks": 35,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q886799",
+   "en": "Bloody Sunday",
+   "he": "יום ראשון העקוב מדם (1920)",
+   "desc": "British attack at Croke Park, Dublin, during the Irish War of Independence",
+   "types": [
+    "massacre"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1920,
+   "end": null,
+   "sitelinks": 23,
+   "name_match": false,
+   "type_ok": true
+  }
+ ],
+ "ev:potemkin-mutiny": [
+  {
+   "qid": "Q4126381",
+   "en": "Potemkin Mutiny",
+   "he": "המרד על אוניית הקרב פוטיומקין",
+   "desc": "1905 mutiny on a Russian battleship",
+   "types": [
+    "mutiny"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1905,
+   "end": null,
+   "sitelinks": 7,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:october-manifesto": [
+  {
+   "qid": "Q109878",
+   "en": "October Manifesto",
+   "he": "מנשר אוקטובר",
+   "desc": "revolutionary document of the Russian Revolution of 1905",
+   "types": [
+    "manifesto of Russian emperors"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1905,
+   "end": null,
+   "sitelinks": 37,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q110654903",
+   "en": "October Manifesto",
+   "he": "",
+   "desc": "",
+   "types": [
+    "version, edition or translation"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:odessa-pogrom-1905": [],
+ "ev:sevastopol-uprising-1905": [],
+ "ev:moscow-uprising-1905": [
+  {
+   "qid": "Q4156944",
+   "en": "Moscow Uprising of 1905",
+   "he": "",
+   "desc": "Uprising during the 1905 Russian Revolution",
+   "types": [
+    "rebellion"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1905,
+   "end": 1906,
+   "sitelinks": 12,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q25393982",
+   "en": "December uprising in Motovilikha",
+   "he": "",
+   "desc": "",
+   "types": [
+    "rebellion"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 2,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q111221923",
+   "en": "",
+   "he": "",
+   "desc": "",
+   "types": [],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": false,
+   "type_ok": true
+  }
+ ],
+ "ev:russian-election-1906": [
+  {
+   "qid": "Q2472389",
+   "en": "1906 Russian legislative election",
+   "he": "הדומה של האימפריה הרוסית",
+   "desc": "",
+   "types": [
+    "legislative election"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1906,
+   "end": null,
+   "sitelinks": 10,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:first-duma": [],
+ "ev:vyborg-manifesto": [
+  {
+   "qid": "Q1984156",
+   "en": "Vyborg Manifesto",
+   "he": "",
+   "desc": "1906 Russian proclamation",
+   "types": [
+    "manifesto"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 12,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:bialystok-pogrom": [
+  {
+   "qid": "Q4082818",
+   "en": "Białystok pogrom",
+   "he": "פוגרום ביאליסטוק",
+   "desc": "1906 pogrom in Białystok, Russian Empire (today Poland)",
+   "types": [
+    "pogrom"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1906,
+   "end": 1906,
+   "sitelinks": 7,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:siedlce-pogrom": [
+  {
+   "qid": "Q7509607",
+   "en": "Siedlce pogrom",
+   "he": "",
+   "desc": "",
+   "types": [
+    "pogrom"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1906,
+   "end": 1906,
+   "sitelinks": 3,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:russian-election-1907-jan": [
+  {
+   "qid": "Q4128661",
+   "en": "January 1907 Russian legislative election",
+   "he": "",
+   "desc": "",
+   "types": [
+    "legislative election"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1907,
+   "end": null,
+   "sitelinks": 6,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:second-duma": [
+  {
+   "qid": "Q4146580",
+   "en": "2nd State Duma of the Russian Federation",
+   "he": "הדומה השנייה",
+   "desc": "convocation of the lower house of Russian parliament",
+   "types": [
+    "legislative term"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1995,
+   "end": 1999,
+   "sitelinks": 4,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q4146578",
+   "en": "Second State Duma of the Russian Empire",
+   "he": "הדומה של האימפריה הרוסית (כינוס 1907)",
+   "desc": "legislative body in the Russian empire (1907)",
+   "types": [
+    "legislative term"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 8,
+   "name_match": false,
+   "type_ok": true
+  }
+ ],
+ "ev:june-coup-1907": [
+  {
+   "qid": "Q4462585",
+   "en": "Coup of June 1907",
+   "he": "מהפכת יוני 1907",
+   "desc": "counter revolutionary move to curtail the elections for the Duma",
+   "types": [
+    "coup d'état"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1907,
+   "end": null,
+   "sitelinks": 14,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:russian-election-1907-sep": [],
+ "ev:russian-election-1912": [
+  {
+   "qid": "Q4128592",
+   "en": "1912 Russian legislative election",
+   "he": "",
+   "desc": "Election of the fourth State Duma of the Russian Empire",
+   "types": [
+    "legislative election"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1912,
+   "end": null,
+   "sitelinks": 5,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:stolypin-assassination": [
+  {
+   "qid": "Q4468601",
+   "en": "Assassination of Pyotr Stolypin",
+   "he": "רצח סטוליפין",
+   "desc": "murderous attack commited in Kyiv in 1911",
+   "types": [
+    "attempted murder",
+    "assassination"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1911,
+   "end": null,
+   "sitelinks": 7,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q138487",
+   "en": "Pyotr Stolypin",
+   "he": "פיוטר סטוליפין",
+   "desc": "Russian politician (1862–1911)",
+   "types": [
+    "human"
+   ],
+   "born": 1862,
+   "died": 1911,
+   "start": null,
+   "end": null,
+   "sitelinks": 68,
+   "name_match": true,
+   "type_ok": false
+  },
+  {
+   "qid": "Q4287194",
+   "en": "Stolypin Medal",
+   "he": "מדליית פיוטר סטוליפין",
+   "desc": "Russian medal in two classes named after prime minister Pyotr Stolypin, established in 2008 and awarded since 2009 for solving strategic problems in the socio-economic sphere",
+   "types": [
+    "medal",
+    "award with classes",
+    "Russian Federation's Government Award"
+   ],
+   "born": null,
+   "died": null,
+   "start": 2008,
+   "end": null,
+   "sitelinks": 5,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q139555266",
+   "en": "Pyotr Stolypin",
+   "he": "",
+   "desc": "ship",
+   "types": [
+    "ship",
+    "LNG carrier"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q63965772",
+   "en": "Stolypin Medal, 2nd class",
+   "he": "מדליית סטוליפין, דרגה 2",
+   "desc": "lowest class of the Russian award (2009–)",
+   "types": [
+    "class of award"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 2,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q63965771",
+   "en": "Stolypin Medal, 1st class",
+   "he": "מדליית סטוליפין, דרגה 1",
+   "desc": "highest class of the Russian award (2009–)",
+   "types": [
+    "class of award"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 1,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q25063151",
+   "en": "Pyotr Stolypin's Cabinet",
+   "he": "",
+   "desc": "",
+   "types": [
+    "cabinet"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 4,
+   "name_match": false,
+   "type_ok": true
+  }
+ ],
+ "ev:beilis-affair": [
+  {
+   "qid": "Q6795210",
+   "en": "Beilis Affair",
+   "he": "משפט בייליס",
+   "desc": "antisemitic murder trial of Menahem Mendel Beilis",
+   "types": [
+    "criminal case"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1913,
+   "end": 1913,
+   "sitelinks": 13,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q4382260",
+   "en": "Beilis Affair",
+   "he": "",
+   "desc": "1917 film by Nikolay Breshko-Breshkowskiy",
+   "types": [
+    "film"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 3,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q814751",
+   "en": "Menahem Mendel Beilis",
+   "he": "מנחם מנדל בייליס",
+   "desc": "Russian Jew accused of murder (1874–1934)",
+   "types": [
+    "human"
+   ],
+   "born": 1874,
+   "died": 1934,
+   "start": null,
+   "end": null,
+   "sitelinks": 14,
+   "name_match": true,
+   "type_ok": false
+  },
+  {
+   "qid": "Q3626824",
+   "en": "Andrei Yushchinsky",
+   "he": "",
+   "desc": "Murdered Ukrainian child (1898–1911)",
+   "types": [
+    "human"
+   ],
+   "born": 1898,
+   "died": 1911,
+   "start": null,
+   "end": null,
+   "sitelinks": 4,
+   "name_match": true,
+   "type_ok": false
+  }
+ ],
+ "ev:lena-massacre": [
+  {
+   "qid": "Q578858",
+   "en": "Lena massacre",
+   "he": "",
+   "desc": "shooting of striking miners in northeast Siberia on 17 April 1912",
+   "types": [
+    "strike",
+    "mass shooting"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1912,
+   "end": null,
+   "sitelinks": 14,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:february-revolution": [
+  {
+   "qid": "Q622774",
+   "en": "French Revolution of 1848",
+   "he": "מהפכות 1848 בצרפת",
+   "desc": "one of a wave of revolutions in 1848 in Europe",
+   "types": [
+    "revolution"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1848,
+   "end": 1848,
+   "sitelinks": 56,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q101534",
+   "en": "February Revolution",
+   "he": "מהפכת פברואר",
+   "desc": "first of two revolutions in Russia in 1917",
+   "types": [
+    "revolution"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1917,
+   "end": 1917,
+   "sitelinks": 88,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q1274389",
+   "en": "People Power Revolution",
+   "he": "מהפכת כוח העם",
+   "desc": "series of popular demonstrations in the Philippines in 1986 that overthrew Ferdinand Marcos",
+   "types": [
+    "Bourgeois revolution",
+    "United States involvement in regime change",
+    "nonviolent revolution"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1986,
+   "end": 1986,
+   "sitelinks": 38,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q25340151",
+   "en": "February Revolution",
+   "he": "",
+   "desc": "1936 coup d'état that brought to power colonel Rafael Franco",
+   "types": [
+    "coup d'état"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1936,
+   "end": null,
+   "sitelinks": 7,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q4921497",
+   "en": "Black Power Revolution",
+   "he": "",
+   "desc": "1970 Trinidad and Tobago uprising",
+   "types": [
+    "protest",
+    "strike",
+    "mutiny"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1968,
+   "end": 1970,
+   "sitelinks": 3,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q30890609",
+   "en": "February Revolution street fighting in Petrograd (1917)",
+   "he": "",
+   "desc": "",
+   "types": [
+    "combat"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 2,
+   "name_match": false,
+   "type_ok": true
+  }
+ ],
+ "ev:october-revolution": [
+  {
+   "qid": "Q4333027",
+   "en": "Oktyabrskaya Revolutsia",
+   "he": "",
+   "desc": "1951 Sverdlov-class cruiser",
+   "types": [
+    "light cruiser"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1954,
+   "end": null,
+   "sitelinks": 5,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q42976",
+   "en": "October Revolution",
+   "he": "מהפכת אוקטובר",
+   "desc": "second of two 1917 revolutions in Russia",
+   "types": [
+    "revolution"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1917,
+   "end": 1917,
+   "sitelinks": 119,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q19021",
+   "en": "Vienna Uprising",
+   "he": "מרד וינה",
+   "desc": "last uprising in the Austrian Revolution of 1848",
+   "types": [
+    "insurgency"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1848,
+   "end": null,
+   "sitelinks": 16,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q4333164",
+   "en": "Novobavarskyi District",
+   "he": "",
+   "desc": "district of Kharkiv, Ukraine",
+   "types": [
+    "raion of city in Ukraine"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1924,
+   "end": null,
+   "sitelinks": 7,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q217372",
+   "en": "October Revolution Island",
+   "he": "",
+   "desc": "island in Severnaya Zemlya, Russia",
+   "types": [
+    "island"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 47,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q4158109",
+   "en": "October Revolution Day",
+   "he": "יום מהפכת אוקטובר",
+   "desc": "public holiday in the Soviet Union",
+   "types": [
+    "awareness day",
+    "public holiday"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1927,
+   "end": 1990,
+   "sitelinks": 10,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q119615049",
+   "en": "",
+   "he": "",
+   "desc": "",
+   "types": [],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": false,
+   "type_ok": true
+  }
+ ],
+ "ev:kishinev-pogrom": [
+  {
+   "qid": "Q1814439",
+   "en": "Kishinev pogrom",
+   "he": "פרעות קישינב",
+   "desc": "anti-Jewish riot in Kishinev, Russian Empire from April 6-9, 1903",
+   "types": [
+    "pogrom"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1903,
+   "end": 1903,
+   "sitelinks": 28,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:damascus-affair": [
+  {
+   "qid": "Q1158270",
+   "en": "Damascus affair",
+   "he": "עלילת דמשק",
+   "desc": "1840 blood libel",
+   "types": [
+    "blood libel",
+    "criminal case"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1840,
+   "end": null,
+   "sitelinks": 15,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:hilsner-affair": [
+  {
+   "qid": "Q691887",
+   "en": "Hilsner Affair",
+   "he": "פרשת הילזנר",
+   "desc": "criminal case",
+   "types": [
+    "criminal case"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 10,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:persian-constitutional-revolution": [
+  {
+   "qid": "Q1368440",
+   "en": "Persian Constitutional Revolution",
+   "he": "המהפכה החוקתית של 1909",
+   "desc": "a movement for the Constitution of Iran monarchy in 1905 to 1911",
+   "types": [
+    "revolution"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1905,
+   "end": 1911,
+   "sitelinks": 39,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q4818171",
+   "en": "Persian Constitutional Revolution",
+   "he": "המהפכה החוקתית באיראן",
+   "desc": "a Revolution during the Constitutionalization attempts in Iran in 1906",
+   "types": [
+    "revolution"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1905,
+   "end": 1911,
+   "sitelinks": 5,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:siege-of-tabriz": [
+  {
+   "qid": "Q17081667",
+   "en": "Siege of Tabriz",
+   "he": "המצור על תבריז",
+   "desc": "1501 initiation of capital of Safavid Iran",
+   "types": [
+    "siege"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1501,
+   "end": null,
+   "sitelinks": 6,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q119167698",
+   "en": "Siege of Tabriz",
+   "he": "",
+   "desc": "1725 siege",
+   "types": [
+    "siege"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1725,
+   "end": 1725,
+   "sitelinks": 3,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q118744253",
+   "en": "Siege of Tabriz",
+   "he": "",
+   "desc": "1585-1586 siege during the Ottoman–Safavid War",
+   "types": [
+    "siege"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1585,
+   "end": 1586,
+   "sitelinks": 3,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q136332983",
+   "en": "Siege of Tabriz",
+   "he": "",
+   "desc": "1225 siege",
+   "types": [
+    "siege"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1225,
+   "end": null,
+   "sitelinks": 1,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q114771150",
+   "en": "Siege of Tabriz",
+   "he": "",
+   "desc": "Wikimedia disambiguation page",
+   "types": [
+    "Wikimedia disambiguation page"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 3,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:triumph-of-tehran": [
+  {
+   "qid": "Q3943931",
+   "en": "Triumph of Tehran",
+   "he": "",
+   "desc": "1909 entry of pro-constitution forces into Tehran",
+   "types": [
+    "triumphal entry"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1909,
+   "end": null,
+   "sitelinks": 9,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:anglo-russian-convention": [
+  {
+   "qid": "Q1129893",
+   "en": "Anglo-Russian Entente",
+   "he": "ההסכם האנגלו-רוסי",
+   "desc": "treaty between the British and Russian Empires, signed on 1907 in St. Petersburg, ending their rivalry in Central Asia to unite against Germany, in which southern Persia, Tibet, and Afghanistan were acknowledged as British sphere of influence",
+   "types": [
+    "entente"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1907,
+   "end": null,
+   "sitelinks": 27,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q25532235",
+   "en": "Anglo-Russian Convention (1872—1873)",
+   "he": "",
+   "desc": "",
+   "types": [
+    "interstate agreement"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 2,
+   "name_match": false,
+   "type_ok": true
+  }
+ ],
+ "ev:potsdam-agreement-1911": [
+  {
+   "qid": "Q4374955",
+   "en": "Potsdam agreement (1911)",
+   "he": "",
+   "desc": "",
+   "types": [
+    "contract"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1911,
+   "end": null,
+   "sitelinks": 5,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:russian-ultimatum-persia-1911": [
+  {
+   "qid": "Q940323",
+   "en": "William Morgan Shuster",
+   "he": "מורגן שוסטר",
+   "desc": "American publisher (1877-1960)",
+   "types": [
+    "human"
+   ],
+   "born": 1877,
+   "died": 1960,
+   "start": null,
+   "end": null,
+   "sitelinks": 13,
+   "name_match": true,
+   "type_ok": false
+  }
+ ],
+ "ev:xinhai-revolution": [
+  {
+   "qid": "Q190517",
+   "en": "Xinhai Revolution",
+   "he": "מהפכת שינהאי",
+   "desc": "revolution in China that overthrew the Qing dynasty and established the Republic of China",
+   "types": [
+    "revolution"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1911,
+   "end": 1912,
+   "sitelinks": 71,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q206182",
+   "en": "1911",
+   "he": "",
+   "desc": "2011 film directed by Jackie Chan and Zhang Li",
+   "types": [
+    "film"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 28,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q125926862",
+   "en": "1911 Revolution Martyr Cemetery, Qiaokou",
+   "he": "",
+   "desc": "",
+   "types": [
+    "war cemetery"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 2,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q8044582",
+   "en": "Xinhai Revolution in Xinjiang",
+   "he": "",
+   "desc": "",
+   "types": [
+    "revolution"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1911,
+   "end": 1912,
+   "sitelinks": 3,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q32171643",
+   "en": "Memorial Museum of 1911 Revolution",
+   "he": "",
+   "desc": "history museum in Huangpu District, Guangzhou City",
+   "types": [
+    "museum"
+   ],
+   "born": null,
+   "died": null,
+   "start": 2011,
+   "end": null,
+   "sitelinks": 4,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q120850620",
+   "en": "",
+   "he": "",
+   "desc": "",
+   "types": [],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": false,
+   "type_ok": true
+  }
+ ],
+ "ev:manchurian-plague": [
+  {
+   "qid": "Q91900320",
+   "en": "Manchurian plague",
+   "he": "",
+   "desc": "pneumonic plague outbreak in 1910–1911",
+   "types": [
+    "plague epidemic"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1910,
+   "end": 1911,
+   "sitelinks": 16,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q140827390",
+   "en": "",
+   "he": "",
+   "desc": "",
+   "types": [],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": false,
+   "type_ok": true
+  }
+ ],
+ "ev:japan-korea-annexation": [
+  {
+   "qid": "Q495558",
+   "en": "Japan–Korea Treaty of 1910",
+   "he": "הסכם יפן–קוריאה (1910)",
+   "desc": "1910 formal annexation of the Korean Empire by the Empire of Japan",
+   "types": [
+    "unequal treaties",
+    "bilateral treaty"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1910,
+   "end": null,
+   "sitelinks": 37,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q503585",
+   "en": "Korea under Japanese rule",
+   "he": "הכיבוש היפני בקוריאה",
+   "desc": "Japanese colonial period in Chōsen (Korea), 1910–1945",
+   "types": [
+    "colony",
+    "political territorial entity",
+    "former administrative territorial entity"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1910,
+   "end": 1945,
+   "sitelinks": 54,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:anglo-japanese-alliance-1905": [
+  {
+   "qid": "Q541195",
+   "en": "Anglo-Japanese Alliance",
+   "he": "הברית האנגלו-יפנית",
+   "desc": "20 year alliance between imperial Japan and Great Britain in the early 20th century",
+   "types": [
+    "treaty",
+    "military alliance"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1902,
+   "end": 1923,
+   "sitelinks": 28,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:mexican-revolution": [
+  {
+   "qid": "Q214426",
+   "en": "Mexican Revolution",
+   "he": "המהפכה המקסיקנית",
+   "desc": "nationwide armed struggle in Mexico (1910–1920)",
+   "types": [
+    "revolution",
+    "civil war"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1910,
+   "end": 1920,
+   "sitelinks": 69,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q17076822",
+   "en": "Mexican Revolution in popular culture",
+   "he": "",
+   "desc": "",
+   "types": [
+    "aspect of history",
+    "cultural depiction"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 2,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q139968542",
+   "en": "",
+   "he": "",
+   "desc": "",
+   "types": [],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q125603013",
+   "en": "",
+   "he": "",
+   "desc": "",
+   "types": [],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q120129249",
+   "en": "",
+   "he": "",
+   "desc": "",
+   "types": [],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q59442111",
+   "en": "",
+   "he": "",
+   "desc": "",
+   "types": [],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": false,
+   "type_ok": true
+  }
+ ],
+ "ev:treaty-of-bjorko": [
+  {
+   "qid": "Q2721131",
+   "en": "Treaty of Björkö",
+   "he": "",
+   "desc": "1905 treaty",
+   "types": [
+    "treaty"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1905,
+   "end": null,
+   "sitelinks": 16,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:russian-loan-1906": [],
+ "ev:hague-conference-1907": [
+  {
+   "qid": "Q1566316",
+   "en": "Hague Conventions of 1899 and 1907",
+   "he": "אמנות האג",
+   "desc": "series of international treaties",
+   "types": [
+    "treaty"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 40,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q123010375",
+   "en": "1907 Hague Peace Conference",
+   "he": "",
+   "desc": "",
+   "types": [
+    "peace conference"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1907,
+   "end": 1907,
+   "sitelinks": 1,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:swinemunde-meeting-1907": [],
+ "ev:assassination-franz-ferdinand": [
+  {
+   "qid": "Q192050",
+   "en": "assassination of Archduke Franz Ferdinand",
+   "he": "רצח פרנץ פרדיננד",
+   "desc": "1914 murder in Sarajevo, Austria-Hungary",
+   "types": [
+    "bomb attack",
+    "murder",
+    "casus belli",
+    "political murder"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1914,
+   "end": null,
+   "sitelinks": 66,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:july-crisis": [
+  {
+   "qid": "Q917435",
+   "en": "July Crisis",
+   "he": "משבר יולי",
+   "desc": "1914 events leading to World War I",
+   "types": [
+    "international crisis"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1914,
+   "end": null,
+   "sitelinks": 42,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q110943970",
+   "en": "July Crisis: The World's Descent Into War, Summer 1914",
+   "he": "",
+   "desc": "",
+   "types": [
+    "literary work"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q110944417",
+   "en": "July Crisis: The World's Descent Into War, Summer 1914 [Review]",
+   "he": "",
+   "desc": "",
+   "types": [
+    "magazine article"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q110944554",
+   "en": "",
+   "he": "",
+   "desc": "",
+   "types": [],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q110943996",
+   "en": "",
+   "he": "",
+   "desc": "",
+   "types": [],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q110943992",
+   "en": "",
+   "he": "",
+   "desc": "",
+   "types": [],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": false,
+   "type_ok": true
+  }
+ ],
+ "ev:world-war-i": [
+  {
+   "qid": "Q361",
+   "en": "World War I",
+   "he": "מלחמת העולם הראשונה",
+   "desc": "1914–1918 global conflict",
+   "types": [
+    "historical period",
+    "world war"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1914,
+   "end": 1918,
+   "sitelinks": 267,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q362",
+   "en": "World War II",
+   "he": "מלחמת העולם השנייה",
+   "desc": "1939–1945 global conflict",
+   "types": [
+    "historical period",
+    "world war"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1939,
+   "end": 1945,
+   "sitelinks": 292,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q3823675",
+   "en": "World War I",
+   "he": "",
+   "desc": "2005 video game",
+   "types": [
+    "video game"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 1,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q140236315",
+   "en": "World War I",
+   "he": "",
+   "desc": "book chapter in The Elgar Companion to John Maynard Keynes (2019)",
+   "types": [
+    "chapter"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q626006",
+   "en": "World War II in Yugoslavia",
+   "he": "מלחמת העולם השנייה ביוגוסלביה",
+   "desc": "part of the European theater of World War II",
+   "types": [
+    "theater of war",
+    "country in World War II"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1941,
+   "end": 1945,
+   "sitelinks": 38,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q54893520",
+   "en": "World War II: Panzer Claws",
+   "he": "",
+   "desc": "2002 video game",
+   "types": [
+    "video game"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 1,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q15814343",
+   "en": "First World War Studies",
+   "he": "",
+   "desc": "academic journal",
+   "types": [
+    "scientific journal"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q26263477",
+   "en": "The Mercantile Marine Memorial",
+   "he": "",
+   "desc": "Tower Hamlets, Greater London, EC3N",
+   "types": [
+    "war memorial"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1928,
+   "end": null,
+   "sitelinks": 1,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q111654903",
+   "en": "World War I veteran",
+   "he": "",
+   "desc": "veteran of the First World War",
+   "types": [],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q56642112",
+   "en": "First World War fallen 1915-1918 (Lambrate citizens)",
+   "he": "",
+   "desc": "monument with commemorative plaques in Milan",
+   "types": [
+    "commemorative plaque"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 1,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q98990020",
+   "en": "First World War Memorial",
+   "he": "",
+   "desc": "war memorial in Matakana, New Zealand",
+   "types": [
+    "war memorial"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1920,
+   "end": null,
+   "sitelinks": 1,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q150867",
+   "en": "The Great War",
+   "he": "המלחמה הגדולה",
+   "desc": "1959 film by Mario Monicelli",
+   "types": [
+    "film"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 35,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q1479636",
+   "en": "Federal War",
+   "he": "",
+   "desc": "1859–1863 civil war in Venezuela",
+   "types": [
+    "civil war",
+    "Venezuelan civil war"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1859,
+   "end": 1863,
+   "sitelinks": 13,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q981121",
+   "en": "Great Warford",
+   "he": "",
+   "desc": "village and civil parish in Cheshire East, United Kingdom",
+   "types": [
+    "village",
+    "civil parish"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 16,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q2905292",
+   "en": "Great Warley",
+   "he": "",
+   "desc": "village in Essex, England, UK",
+   "types": [
+    "village",
+    "civil parish"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 7,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q7737978",
+   "en": "The Great War",
+   "he": "",
+   "desc": "2007 film by Brian McKenna",
+   "types": [
+    "film"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 2,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:ottoman-entry-wwi": [
+  {
+   "qid": "Q1328496",
+   "en": "Ottoman entry into World War I",
+   "he": "",
+   "desc": "entrance of the Ottoman Empire into the First World War",
+   "types": [
+    "aspect of history",
+    "occurrence"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1914,
+   "end": null,
+   "sitelinks": 8,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q25040984",
+   "en": "Black Sea Raid",
+   "he": "",
+   "desc": "1914 Ottoman naval sortie against Russian ports in WW1",
+   "types": [
+    "offensive"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1914,
+   "end": null,
+   "sitelinks": 12,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q29958848",
+   "en": "Black Sea Raid",
+   "he": "",
+   "desc": "1996 film directed by Jenő Hódi",
+   "types": [
+    "film"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 2,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:battle-of-lodz-1914": [],
+ "ev:battle-of-sarikamish": [
+  {
+   "qid": "Q250652",
+   "en": "Battle of Sarikamish",
+   "he": "קרב סריקמיש",
+   "desc": "1914 battle between the Russian and Ottoman empires during World War I",
+   "types": [
+    "battle"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1914,
+   "end": 1915,
+   "sitelinks": 37,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q4820069",
+   "en": "Battle of Sarikamish",
+   "he": "",
+   "desc": "1920 battle during the Turkish-Armenian war",
+   "types": [
+    "battle"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1920,
+   "end": null,
+   "sitelinks": 8,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:raid-on-suez-canal": [
+  {
+   "qid": "Q2382729",
+   "en": "Raid on the Suez Canal",
+   "he": "המערכה על תעלת סואץ במלחמת העולם הראשונה",
+   "desc": "1915 military operation of WWI",
+   "types": [
+    "military raid"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1915,
+   "end": 1915,
+   "sitelinks": 15,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:gallipoli-campaign": [
+  {
+   "qid": "Q164983",
+   "en": "Gallipoli Campaign",
+   "he": "מערכת גליפולי",
+   "desc": "1915–1916 military campaign during World War I",
+   "types": [
+    "military campaign",
+    "offensive"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1915,
+   "end": 1916,
+   "sitelinks": 76,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q3332266",
+   "en": "Dardanelles campaign medal",
+   "he": "מדליית מערכת גליפולי",
+   "desc": "",
+   "types": [
+    "campaign medal"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1926,
+   "end": null,
+   "sitelinks": 7,
+   "name_match": false,
+   "type_ok": true
+  }
+ ],
+ "ev:bulgaria-enters-wwi": [
+  {
+   "qid": "Q2587247",
+   "en": "Bulgaria during World War I",
+   "he": "בולגריה במלחמת העולם הראשונה",
+   "desc": "involvement of Bulgaria in the First World War",
+   "types": [
+    "country in World War I"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 19,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q1349640",
+   "en": "Bulgaria during World War II",
+   "he": "בולגריה במלחמת העולם השנייה",
+   "desc": "involvement of Bulgaria in World War II",
+   "types": [
+    "aspect of history",
+    "country in World War II"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 20,
+   "name_match": false,
+   "type_ok": true
+  }
+ ],
+ "ev:macedonian-front": [
+  {
+   "qid": "Q1262377",
+   "en": "Macedonian Front",
+   "he": "החזית המקדונית במלחמת העולם הראשונה",
+   "desc": "part of the Balkans Theatre of WWI",
+   "types": [
+    "war front"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1915,
+   "end": 1918,
+   "sitelinks": 35,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:national-schism": [
+  {
+   "qid": "Q1346487",
+   "en": "National Schism",
+   "he": "",
+   "desc": "political crisis in the Kingdom of Greece during WWI",
+   "types": [
+    "political schism"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1910,
+   "end": 1922,
+   "sitelinks": 19,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:romania-enters-wwi": [
+  {
+   "qid": "Q553157",
+   "en": "Romania in World War I",
+   "he": "רומניה במלחמת העולם הראשונה",
+   "desc": "involvement of Romania in World War I",
+   "types": [
+    "country in World War I"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1916,
+   "end": 1917,
+   "sitelinks": 23,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q1357609",
+   "en": "Romania in World War II",
+   "he": "רומניה במלחמת העולם השנייה",
+   "desc": "involvement of Romania in World War II",
+   "types": [
+    "country in World War II"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 26,
+   "name_match": false,
+   "type_ok": true
+  }
+ ],
+ "ev:unrestricted-submarine-warfare-1917": [
+  {
+   "qid": "Q1119089",
+   "en": "unrestricted submarine warfare",
+   "he": "לוחמת צוללות בלתי מוגבלת",
+   "desc": "Military Doctrine",
+   "types": [],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 22,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:us-entry-wwi": [
+  {
+   "qid": "Q4745451",
+   "en": "American entry into World War I",
+   "he": "",
+   "desc": "entry of the United States into World War I",
+   "types": [
+    "aspect of history"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1917,
+   "end": null,
+   "sitelinks": 11,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q56048110",
+   "en": "",
+   "he": "",
+   "desc": "",
+   "types": [],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": false,
+   "type_ok": true
+  }
+ ],
+ "ev:jaffa-deportation-1917": [
+  {
+   "qid": "Q7695557",
+   "en": "1917 Jaffa deportation",
+   "he": "גירוש תל אביב",
+   "desc": "deportation of Jews by Ottoman authorities",
+   "types": [
+    "deportation of Jews"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1917,
+   "end": null,
+   "sitelinks": 5,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:jewish-legion": [
+  {
+   "qid": "Q198954",
+   "en": "Jewish Legion",
+   "he": "הגדודים העבריים",
+   "desc": "Jewish volunteer force in World War I",
+   "types": [
+    "voluntary association",
+    "military legion"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1914,
+   "end": 1930,
+   "sitelinks": 24,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q113641596",
+   "en": "Jewish Legion Convoy to Jerusalem",
+   "he": "שיירה של ''הבריגדה היהודית'' בדרך לירושלים",
+   "desc": "newsreel",
+   "types": [
+    "short film"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q96253221",
+   "en": "Jewish Legion (Anders Army)",
+   "he": "",
+   "desc": "proposed Polish military unit in WWII",
+   "types": [],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 3,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q68807020",
+   "en": "Jewish Legion in World War I Memorial",
+   "he": "חניון הגדודים העבריים",
+   "desc": "",
+   "types": [
+    "memorial"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 2,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q343385",
+   "en": "Jewish Legion",
+   "he": "",
+   "desc": "Wikimedia disambiguation page",
+   "types": [
+    "Wikimedia disambiguation page"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 5,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:balfour-declaration": [
+  {
+   "qid": "Q187152",
+   "en": "Balfour Declaration",
+   "he": "הצהרת בלפור",
+   "desc": "public statement written by Arthur Balfour issued by the British government in 1917 in support of a \"national home for the Jewish people\" in Palestine then an Ottoman region",
+   "types": [
+    "document",
+    "public statement"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1917,
+   "end": null,
+   "sitelinks": 86,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q195559",
+   "en": "Balfour Declaration of 1926",
+   "he": "הצהרת בלפור",
+   "desc": "1926 document",
+   "types": [
+    "document"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1926,
+   "end": null,
+   "sitelinks": 25,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q12481157",
+   "en": "Deklarasi Balfour",
+   "he": "",
+   "desc": "Wikimedia disambiguation page",
+   "types": [
+    "Wikimedia disambiguation page"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 2,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:tenth-zionist-congress": [],
+ "ev:galveston-movement": [
+  {
+   "qid": "Q5519425",
+   "en": "Galveston Movement",
+   "he": "תוכנית גלווסטון",
+   "desc": "U.S. Jewish immigration aid program",
+   "types": [],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 2,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:aliens-act-1905": [
+  {
+   "qid": "Q4726525",
+   "en": "Aliens Act 1905",
+   "he": "חוק הזרים",
+   "desc": "United Kingdom legislation",
+   "types": [
+    "Public General Act of the Parliament of the United Kingdom"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 4,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:war-of-the-languages": [
+  {
+   "qid": "Q2891554",
+   "en": "War of the Languages",
+   "he": "מלחמת השפות",
+   "desc": "debate in Ottoman Palestine over the language of instruction in the country's new Jewish schools",
+   "types": [],
+   "born": null,
+   "died": null,
+   "start": 1913,
+   "end": null,
+   "sitelinks": 10,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q111279544",
+   "en": "Language Wars: The Role of Media and Culture in Global Terror and Political Violence",
+   "he": "",
+   "desc": "",
+   "types": [
+    "literary work"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q130537769",
+   "en": "Mugdho Mancha",
+   "he": "",
+   "desc": "event venue in Bangladesh",
+   "types": [
+    "event venue"
+   ],
+   "born": null,
+   "died": null,
+   "start": 2015,
+   "end": null,
+   "sitelinks": 3,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q136212187",
+   "en": "",
+   "he": "",
+   "desc": "book 2005",
+   "types": [
+    "version, edition or translation"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q139993083",
+   "en": "",
+   "he": "",
+   "desc": "",
+   "types": [],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q59320751",
+   "en": "",
+   "he": "",
+   "desc": "",
+   "types": [],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q47316673",
+   "en": "",
+   "he": "",
+   "desc": "",
+   "types": [],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": false,
+   "type_ok": true
+  }
+ ],
+ "ev:french-separation-law-1905": [
+  {
+   "qid": "Q1518944",
+   "en": "1905 French law on the Separation of the Churches and the State",
+   "he": "",
+   "desc": "Legal basis of state secularism in France",
+   "types": [
+    "statute"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1905,
+   "end": null,
+   "sitelinks": 18,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:norway-sweden-dissolution": [
+  {
+   "qid": "Q2264910",
+   "en": "Dissolution of the union between Norway and Sweden",
+   "he": "",
+   "desc": "the dissolution of the United Kingdoms of Sweden and Norway",
+   "types": [
+    "dissolution of an administrative territorial entity"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1905,
+   "end": null,
+   "sitelinks": 17,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:hungarian-crisis-1905": [],
+ "ev:cisleithanian-election-1907": [
+  {
+   "qid": "Q1259539",
+   "en": "1907 Cisleithanian legislative election",
+   "he": "",
+   "desc": "Austro-Hungarian election in Austria",
+   "types": [
+    "election to the Cislaithanian Parliament"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1907,
+   "end": null,
+   "sitelinks": 8,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q22936068",
+   "en": "1907 Cisleithanian legislative election in the Kingdom of Dalmatia",
+   "he": "",
+   "desc": "elections in Croatia",
+   "types": [
+    "public election"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1907,
+   "end": null,
+   "sitelinks": 1,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q22936079",
+   "en": "1907 Cisleithanian legislative election in the Margraviate of Istria",
+   "he": "",
+   "desc": "elections in Croatia",
+   "types": [
+    "legislative election"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1907,
+   "end": null,
+   "sitelinks": 1,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q116483216",
+   "en": "1907 Cisleithanian legislative election in the Czech lands",
+   "he": "",
+   "desc": "",
+   "types": [
+    "public election"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1907,
+   "end": null,
+   "sitelinks": 1,
+   "name_match": false,
+   "type_ok": true
+  }
+ ],
+ "ev:german-election-1907": [
+  {
+   "qid": "Q317035",
+   "en": "1907 German federal election",
+   "he": "",
+   "desc": "historical event",
+   "types": [
+    "Reichstag election in the German Empire"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1907,
+   "end": null,
+   "sitelinks": 13,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:german-election-1912": [
+  {
+   "qid": "Q462740",
+   "en": "1912 German federal election",
+   "he": "",
+   "desc": "Germany's federal elections in 1912",
+   "types": [
+    "Reichstag election in the German Empire"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1912,
+   "end": null,
+   "sitelinks": 15,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:peoples-budget": [
+  {
+   "qid": "Q3374979",
+   "en": "People's Budget",
+   "he": "תקציב העם",
+   "desc": "1910 British legislation",
+   "types": [],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 5,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:lisbon-regicide": [
+  {
+   "qid": "Q2665185",
+   "en": "Lisbon Regicide",
+   "he": "רצח מלך פורטוגל ויורשו ב-1908",
+   "desc": "February 1908 murder of the king and crown prince of Portugal",
+   "types": [
+    "regicide"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1908,
+   "end": null,
+   "sitelinks": 14,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:portuguese-revolution-1910": [
+  {
+   "qid": "Q638903",
+   "en": "5 October 1910 revolution",
+   "he": "מהפכת אוקטובר בפורטוגל",
+   "desc": "October 1910 coup d'état in Portugal; monarchy overthrown, republic established",
+   "types": [
+    "coup d'état"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1910,
+   "end": 1910,
+   "sitelinks": 39,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:french-railway-strike-1910": [],
+ "ev:british-railway-strike-1911": [
+  {
+   "qid": "Q16998516",
+   "en": "National Railway Strike of 1911",
+   "he": "",
+   "desc": "first national strike of railway workers in Britain",
+   "types": [
+    "strike"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1911,
+   "end": null,
+   "sitelinks": 2,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q88998701",
+   "en": "Great Unrest",
+   "he": "",
+   "desc": "period of labour-related unrest 1911–1914 in the United Kingdom",
+   "types": [],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 1,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:belfast-strike-1907": [
+  {
+   "qid": "Q4558653",
+   "en": "1907 Belfast Dock strike",
+   "he": "",
+   "desc": "",
+   "types": [
+    "strike"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1907,
+   "end": null,
+   "sitelinks": 2,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:stuttgart-congress-1907": [
+  {
+   "qid": "Q1667647",
+   "en": "International Socialist Congress, Stuttgart 1907",
+   "he": "",
+   "desc": "7th Congress of the Socialist International",
+   "types": [
+    "congress"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1907,
+   "end": null,
+   "sitelinks": 4,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:marconi-scandal": [
+  {
+   "qid": "Q1894011",
+   "en": "Marconi scandal",
+   "he": "",
+   "desc": "British political scandal (1912–1913)",
+   "types": [
+    "affair"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 5,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:courrieres-mine-disaster": [
+  {
+   "qid": "Q1550228",
+   "en": "Courrières mine disaster",
+   "he": "אסון מכרה קורייר",
+   "desc": "mining accident",
+   "types": [
+    "mining accident"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1906,
+   "end": null,
+   "sitelinks": 18,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:messina-earthquake": [
+  {
+   "qid": "Q1348910",
+   "en": "1908 Messina earthquake",
+   "he": "רעידת האדמה במסינה (1908)",
+   "desc": "December 1908 earthquake in Messina, Italy",
+   "types": [
+    "earthquake",
+    "natural disaster",
+    "disaster"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1908,
+   "end": null,
+   "sitelinks": 36,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:sinking-of-titanic": [
+  {
+   "qid": "Q2577588",
+   "en": "sinking of the RMS Titanic",
+   "he": "",
+   "desc": "maritime disaster in the North Atlantic Ocean on the night of 14–15 April 1912",
+   "types": [
+    "shipwrecking",
+    "Wikinews article"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1912,
+   "end": 1912,
+   "sitelinks": 39,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q20506080",
+   "en": "Sinking of the Titanic",
+   "he": "",
+   "desc": "painting by Unidentified",
+   "types": [
+    "painting"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q78729075",
+   "en": "Sinking of the Titanic",
+   "he": "",
+   "desc": "painting by Max Beckmann",
+   "types": [
+    "painting"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1912,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q98446451",
+   "en": "Sinking of the Titanic",
+   "he": "",
+   "desc": "Wikimedia disambiguation page",
+   "types": [
+    "Wikimedia disambiguation page"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 1,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q25173",
+   "en": "Titanic",
+   "he": "טיטניק",
+   "desc": "British transatlantic passenger liner, launched and foundered in 1912",
+   "types": [
+    "shipwreck",
+    "four funnel liner"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1909,
+   "end": 1912,
+   "sitelinks": 160,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q6147471",
+   "en": "Titanic",
+   "he": "",
+   "desc": "1988 video game",
+   "types": [
+    "video game"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 2,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q44578",
+   "en": "",
+   "he": "טיטניק",
+   "desc": "1997 film directed by James Cameron",
+   "types": [
+    "film"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 138,
+   "name_match": false,
+   "type_ok": true
+  },
+  {
+   "qid": "Q124981245",
+   "en": "Titanic",
+   "he": "",
+   "desc": "vocal track by Stefan Rüdén; 1978 studio recording",
+   "types": [
+    "music track with vocals"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q1416989",
+   "en": "Titanic",
+   "he": "טיטאניק",
+   "desc": "musical by Maury Yeston and book by Peter Stone in 1997",
+   "types": [
+    "dramatico-musical work"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 8,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q21027972",
+   "en": "RMS Titanic maiden voyage",
+   "he": "",
+   "desc": "1912 first and last voyage of the RMS Titanic",
+   "types": [
+    "maiden voyage"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1912,
+   "end": 1912,
+   "sitelinks": 0,
+   "name_match": false,
+   "type_ok": true
+  }
+ ],
+ "ev:paris-madrid-air-race": [
+  {
+   "qid": "Q3001411",
+   "en": "1911 Paris to Madrid air race",
+   "he": "",
+   "desc": "international flying competition",
+   "types": [
+    "sports competition"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1911,
+   "end": null,
+   "sitelinks": 7,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:halleys-comet-1910": [
+  {
+   "qid": "Q3126158",
+   "en": "Halley's Comet",
+   "he": "",
+   "desc": "1986 video game",
+   "types": [
+    "video game"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 4,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q23054",
+   "en": "Halley's Comet",
+   "he": "שביט היילי",
+   "desc": "short-period comet visible from Earth every 75–76 years",
+   "types": [
+    "near-Earth object",
+    "Halley-type comet",
+    "periodic comet"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 103,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q105593285",
+   "en": "Halley",
+   "he": "",
+   "desc": "video game series",
+   "types": [
+    "video game series"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q124655788",
+   "en": "Halley's Comet",
+   "he": "Halley's Comet",
+   "desc": "song by Billie Eilish",
+   "types": [
+    "audio track"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 1,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q138304023",
+   "en": "Halley's Comet",
+   "he": "",
+   "desc": "pub in Stantonbury, Milton Keynes, Buckinghamshire, England, UK",
+   "types": [
+    "pub"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 1,
+   "name_match": true,
+   "type_ok": true
+  },
+  {
+   "qid": "Q106774968",
+   "en": "Comet Halley",
+   "he": "",
+   "desc": "2020 film directed by Milena Fadeeva",
+   "types": [
+    "film"
+   ],
+   "born": null,
+   "died": null,
+   "start": null,
+   "end": null,
+   "sitelinks": 0,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:sixth-cholera-pandemic": [
+  {
+   "qid": "Q7533201",
+   "en": "sixth cholera pandemic",
+   "he": "מגפת הכולרה השישית",
+   "desc": "historically sixth cholera pandemic",
+   "types": [
+    "pandemic",
+    "cholera outbreak"
+   ],
+   "born": null,
+   "died": null,
+   "start": 1899,
+   "end": 1923,
+   "sitelinks": 22,
+   "name_match": true,
+   "type_ok": true
+  }
+ ],
+ "ev:brussels-exposition-1910": []
+}

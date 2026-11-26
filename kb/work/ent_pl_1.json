@@ -1,0 +1,7741 @@
+{
+ "entities": [
+  {
+   "id": "pl:asilah",
+   "he": "אסילה",
+   "en": "Asilah",
+   "desc": "coastal town in northern Morocco",
+   "kind": "city",
+   "parent": "pl:morocco",
+   "keys": [
+    "אַרציִלא",
+    "אסילה",
+    "ארזילה"
+   ],
+   "qid_auto": "Q730328",
+   "qid": "Q730328"
+  },
+  {
+   "id": "pl:turku",
+   "he": "טורקו",
+   "en": "Turku",
+   "desc": "city in Finland (Swedish: Åbo)",
+   "kind": "city",
+   "parent": "pl:finland",
+   "keys": [
+    "אבו"
+   ],
+   "qid_auto": "Q38511",
+   "qid": "Q38511"
+  },
+  {
+   "id": "pl:abu-shusha",
+   "he": "אבו שושה",
+   "en": "Abu Shusha",
+   "desc": "Arab village near Gezer, Ottoman Palestine",
+   "kind": "village",
+   "parent": "pl:ottoman-palestine",
+   "keys": [
+    "אבו שושה"
+   ],
+   "qid_auto": null,
+   "qid": "Q4670360"
+  },
+  {
+   "id": "pl:ethiopia",
+   "he": "אתיופיה",
+   "en": "Ethiopian Empire",
+   "desc": "Abyssinia, empire in East Africa",
+   "kind": "country",
+   "parent": "pl:africa",
+   "keys": [
+    "אביסיניה",
+    "אבסיניה"
+   ],
+   "qid_auto": "Q207521",
+   "qid": "Q207521"
+  },
+  {
+   "id": "pl:abram-greater-manchester",
+   "he": "אברם",
+   "en": "Abram, Greater Manchester",
+   "desc": "mining village in Lancashire, England (Maypole Colliery disaster 1908)",
+   "kind": "village",
+   "parent": "pl:united-kingdom",
+   "keys": [
+    "אברהם (מכרות אברם)"
+   ],
+   "qid_auto": null,
+   "qid": "Q4669333"
+  },
+  {
+   "id": "pl:agadir",
+   "he": "אגאדיר",
+   "en": "Agadir",
+   "desc": "port city in southern Morocco (Agadir crisis 1911)",
+   "kind": "city",
+   "parent": "pl:morocco",
+   "keys": [
+    "אגאדיר",
+    "אגדיר"
+   ],
+   "qid_auto": "Q170525",
+   "qid": "Q170525"
+  },
+  {
+   "id": "pl:lake-prespa",
+   "he": "אגם פרספה",
+   "en": "Lake Prespa",
+   "desc": "lake on the Macedonian front",
+   "kind": "lake",
+   "parent": "pl:macedonia",
+   "keys": [
+    "אגם פרספה"
+   ],
+   "qid_auto": "Q204392",
+   "qid": "Q204392"
+  },
+  {
+   "id": "pl:masurian-lake-district",
+   "he": "אגמי מזוריה",
+   "en": "Masurian Lake District",
+   "desc": "lake district in East Prussia (WWI battles)",
+   "kind": "region",
+   "parent": "pl:east-prussia",
+   "keys": [
+    "אגמי מזוריה"
+   ],
+   "qid_auto": "Q858874",
+   "qid": "Q858874"
+  },
+  {
+   "id": "pl:addis-ababa",
+   "he": "אדיס אבבה",
+   "en": "Addis Ababa",
+   "desc": "capital of Ethiopia",
+   "kind": "city",
+   "parent": "pl:ethiopia",
+   "keys": [
+    "אדיס אבבה"
+   ],
+   "qid_auto": "Q3624",
+   "qid": "Q3624"
+  },
+  {
+   "id": "pl:adana",
+   "he": "אדנה",
+   "en": "Adana",
+   "desc": "city in Cilicia, Ottoman Empire (1909 massacre)",
+   "kind": "city",
+   "parent": "pl:ottoman-empire",
+   "keys": [
+    "אדנה"
+   ],
+   "qid_auto": null,
+   "qid": "Q38545"
+  },
+  {
+   "id": "pl:edirne",
+   "he": "אדירנה (אדריאנופול)",
+   "en": "Edirne",
+   "desc": "Adrianople, city in Eastern Thrace",
+   "kind": "city",
+   "parent": "pl:thrace",
+   "keys": [
+    "אדריאנופול"
+   ],
+   "qid_auto": "Q43387",
+   "qid": "Q43387"
+  },
+  {
+   "id": "pl:daraa",
+   "he": "דרעא",
+   "en": "Daraa",
+   "desc": "town in the Hauran, Syria (biblical Edrei)",
+   "kind": "city",
+   "parent": "pl:syria",
+   "keys": [
+    "אדרעי (דרעא)"
+   ],
+   "qid_auto": "Q238217",
+   "qid": "Q238217"
+  },
+  {
+   "id": "pl:oujda",
+   "he": "אוג'דה",
+   "en": "Oujda",
+   "desc": "city in eastern Morocco near the Algerian border",
+   "kind": "city",
+   "parent": "pl:morocco",
+   "keys": [
+    "אוגדה",
+    "אודגדה",
+    "אוזדה"
+   ],
+   "qid_auto": "Q193802",
+   "qid": "Q193802"
+  },
+  {
+   "id": "pl:ungheni",
+   "he": "אונגני",
+   "en": "Ungheni",
+   "desc": "town in Bessarabia",
+   "kind": "city",
+   "parent": "pl:bessarabia",
+   "keys": [
+    "אוגנגען (גוברניה בסרביה)"
+   ],
+   "qid_auto": null,
+   "qid": "Q858713"
+  },
+  {
+   "id": "pl:uganda",
+   "he": "אוגנדה",
+   "en": "Uganda",
+   "desc": "British protectorate in East Africa",
+   "kind": "country",
+   "parent": "pl:africa",
+   "keys": [
+    "אוגנדה"
+   ],
+   "qid_auto": "Q1036",
+   "qid": "Q1097943"
+  },
+  {
+   "id": "pl:odesa",
+   "he": "אודסה",
+   "en": "Odesa",
+   "desc": "port city on the Black Sea, Russian Empire",
+   "kind": "city",
+   "parent": "pl:ukraine",
+   "keys": [
+    "אודסה"
+   ],
+   "qid_auto": "Q1874",
+   "qid": "Q1874"
+  },
+  {
+   "id": "pl:privoz",
+   "he": "פריבוז (אודרפורט)",
+   "en": "Přívoz",
+   "desc": "Oderfurt, town near Ostrava, Moravia",
+   "kind": "city",
+   "parent": "pl:austria-hungary",
+   "keys": [
+    "אודר פורט"
+   ],
+   "qid_auto": "Q1001632",
+   "qid": "Q1001632"
+  },
+  {
+   "id": "pl:ohrid",
+   "he": "אוהריד",
+   "en": "Ohrid",
+   "desc": "town in Macedonia",
+   "kind": "city",
+   "parent": "pl:macedonia",
+   "keys": [
+    "אוהריד",
+    "ארמניה בכפר אוכריד"
+   ],
+   "qid_auto": null,
+   "qid": "Q1223508"
+  },
+  {
+   "id": "pl:havana",
+   "he": "הוואנה",
+   "en": "Havana",
+   "desc": "capital of Cuba",
+   "kind": "city",
+   "parent": "pl:cuba",
+   "keys": [
+    "אוואנה"
+   ],
+   "qid_auto": "Q1563",
+   "qid": "Q1563"
+  },
+  {
+   "id": "pl:ouazzane",
+   "he": "ואזאן",
+   "en": "Ouazzane",
+   "desc": "town in northern Morocco",
+   "kind": "city",
+   "parent": "pl:morocco",
+   "keys": [
+    "אוזאן"
+   ],
+   "qid_auto": "Q602426",
+   "qid": "Q602426"
+  },
+  {
+   "id": "pl:oyster-bay-new-york",
+   "he": "אויסטר ביי",
+   "en": "Oyster Bay, New York",
+   "desc": "town in New York, home of Theodore Roosevelt",
+   "kind": "city",
+   "parent": "pl:united-states",
+   "keys": [
+    "אויסטר ביי"
+   ],
+   "qid_auto": null,
+   "qid": "Q129361"
+  },
+  {
+   "id": "pl:tombs-of-the-sanhedrin",
+   "he": "קברי הסנהדרין",
+   "en": "Tombs of the Sanhedrin",
+   "desc": "rock-cut tombs in northern Jerusalem",
+   "kind": "site",
+   "parent": "pl:jerusalem",
+   "keys": [
+    "אולם הסנהדרין"
+   ],
+   "qid_auto": "Q3531182",
+   "qid": "Q3531182"
+  },
+  {
+   "id": "pl:uman",
+   "he": "אומן",
+   "en": "Uman",
+   "desc": "town in Kiev Governorate",
+   "kind": "city",
+   "parent": "pl:ukraine",
+   "keys": [
+    "אומאן"
+   ],
+   "qid_auto": "Q842",
+   "qid": "Q208499"
+  },
+  {
+   "id": "pl:unter-den-linden",
+   "he": "אונטר דן לינדן",
+   "en": "Unter den Linden",
+   "desc": "boulevard in Berlin",
+   "kind": "street",
+   "parent": "pl:berlin",
+   "keys": [
+    "אונטר דן לינדן"
+   ],
+   "qid_auto": "Q160899",
+   "qid": "Q160899"
+  },
+  {
+   "id": "pl:ontario",
+   "he": "אונטריו",
+   "en": "Ontario",
+   "desc": "province of Canada",
+   "kind": "region",
+   "parent": "pl:canada",
+   "keys": [
+    "אונטריו"
+   ],
+   "qid_auto": "Q1904",
+   "qid": "Q1904"
+  },
+  {
+   "id": "pl:ostend",
+   "he": "אוסטנדה",
+   "en": "Ostend",
+   "desc": "port city in Belgium",
+   "kind": "city",
+   "parent": "pl:belgium",
+   "keys": [
+    "אוסטנדה"
+   ],
+   "qid_auto": "Q12996",
+   "qid": "Q12996"
+  },
+  {
+   "id": "pl:austria-hungary",
+   "he": "אוסטריה-הונגריה",
+   "en": "Austria-Hungary",
+   "desc": "Habsburg dual monarchy 1867–1918",
+   "kind": "country",
+   "keys": [
+    "אוסטרו הונגריה",
+    "אוסטריה",
+    "אוסטריה הונגריה"
+   ],
+   "qid_auto": "Q28513",
+   "qid": "Q28513"
+  },
+  {
+   "id": "pl:australia",
+   "he": "אוסטרליה",
+   "en": "Australia",
+   "desc": "continent and Commonwealth of Australia",
+   "kind": "country",
+   "keys": [
+    "אוסטרליה"
+   ],
+   "qid_auto": null,
+   "qid": "Q408"
+  },
+  {
+   "id": "pl:ufa",
+   "he": "אופה",
+   "en": "Ufa",
+   "desc": "city in the Urals, Russian Empire",
+   "kind": "city",
+   "parent": "pl:russian-empire",
+   "keys": [
+    "אופה",
+    "יאפא"
+   ],
+   "qid_auto": null,
+   "qid": "Q911"
+  },
+  {
+   "id": "pl:ochakiv",
+   "he": "אוצ'קוב",
+   "en": "Ochakiv",
+   "desc": "port town on the Black Sea, Kherson Governorate",
+   "kind": "city",
+   "parent": "pl:ukraine",
+   "keys": [
+    "אוצקוב"
+   ],
+   "qid_auto": "Q850072",
+   "qid": "Q850072"
+  },
+  {
+   "id": "pl:atlantic-ocean",
+   "he": "האוקיינוס האטלנטי",
+   "en": "Atlantic Ocean",
+   "desc": "ocean",
+   "kind": "ocean",
+   "keys": [
+    "אוקיינוס האטלנטי"
+   ],
+   "qid_auto": "Q97",
+   "qid": "Q97"
+  },
+  {
+   "id": "pl:pacific-ocean",
+   "he": "האוקיינוס השקט",
+   "en": "Pacific Ocean",
+   "desc": "ocean",
+   "kind": "ocean",
+   "keys": [
+    "אוקיינוס השקט"
+   ],
+   "qid_auto": "Q98",
+   "qid": "Q98"
+  },
+  {
+   "id": "pl:ukraine",
+   "he": "אוקראינה",
+   "en": "Ukraine",
+   "desc": "Ukraine (Little Russia), region of the Russian Empire",
+   "kind": "region",
+   "parent": "pl:russian-empire",
+   "keys": [
+    "אוקראינה"
+   ],
+   "qid_auto": "Q212",
+   "qid": "Q212"
+  },
+  {
+   "id": "pl:oral-kazakhstan",
+   "he": "אורלסק",
+   "en": "Oral, Kazakhstan",
+   "desc": "Uralsk, city in Uralsk Oblast, Russian Empire",
+   "kind": "city",
+   "parent": "pl:russian-empire",
+   "keys": [
+    "אוראלסק",
+    "אורלסק"
+   ],
+   "qid_auto": null,
+   "qid": "Q487439"
+  },
+  {
+   "id": "pl:ulaanbaatar",
+   "he": "אולן בטור (אורגה)",
+   "en": "Ulaanbaatar",
+   "desc": "Urga, capital of Mongolia",
+   "kind": "city",
+   "parent": "pl:mongolia",
+   "keys": [
+    "אורגה"
+   ],
+   "qid_auto": "Q23430",
+   "qid": "Q23430"
+  },
+  {
+   "id": "pl:urmia",
+   "he": "אורמיה",
+   "en": "Urmia",
+   "desc": "city in Persian Azerbaijan",
+   "kind": "city",
+   "parent": "pl:persia",
+   "keys": [
+    "אורמיה",
+    "ארומיה"
+   ],
+   "qid_auto": "Q179665",
+   "qid": "Q179665"
+  },
+  {
+   "id": "pl:orenburg",
+   "he": "אורנבורג",
+   "en": "Orenburg",
+   "desc": "city in the southern Urals, Russian Empire",
+   "kind": "city",
+   "parent": "pl:russian-empire",
+   "keys": [
+    "אורנבורג"
+   ],
+   "qid_auto": "Q5337",
+   "qid": "Q5337"
+  },
+  {
+   "id": "pl:donbas",
+   "he": "דונבאס",
+   "en": "Donbas",
+   "desc": "Donets coal basin",
+   "kind": "region",
+   "parent": "pl:ukraine",
+   "keys": [
+    "אזור הדונבס"
+   ],
+   "qid_auto": "Q605714",
+   "qid": "Q605714"
+  },
+  {
+   "id": "pl:lebanon",
+   "he": "לבנון",
+   "en": "Lebanon",
+   "desc": "Mount Lebanon (Ottoman mutasarrifate) / Lebanon region",
+   "kind": "region",
+   "parent": "pl:ottoman-empire",
+   "keys": [
+    "אזור הלבנון",
+    "לבנון"
+   ],
+   "qid_auto": "Q822",
+   "qid": "Q822"
+  },
+  {
+   "id": "pl:rif",
+   "he": "הריף",
+   "en": "Rif",
+   "desc": "mountainous region of northern Morocco",
+   "kind": "region",
+   "parent": "pl:morocco",
+   "keys": [
+    "אזור הריף"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "pl:yakutsk-oblast",
+   "he": "מחוז יקוטסק",
+   "en": "Yakutsk Oblast",
+   "desc": "province in eastern Siberia, Russian Empire",
+   "kind": "region",
+   "parent": "pl:siberia",
+   "keys": [
+    "אזור יקוטסק"
+   ],
+   "qid_auto": "Q498207",
+   "qid": "Q498207"
+  },
+  {
+   "id": "pl:lena-goldfields",
+   "he": "מכרות הזהב של הלנה",
+   "en": "Lena goldfields",
+   "desc": "gold-mining district on the Lena river, Siberia (Lena massacre 1912)",
+   "kind": "region",
+   "parent": "pl:siberia",
+   "keys": [
+    "אזור מכרות הזהב של לנה",
+    "לנה",
+    "לנה (אזור מכרות הזהב)"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "pl:riga",
+   "he": "ריגה",
+   "en": "Riga",
+   "desc": "port city in Livonia, Russian Empire",
+   "kind": "city",
+   "parent": "pl:russian-empire",
+   "keys": [
+    "אזור ריגה"
+   ],
+   "qid_auto": "Q1773",
+   "qid": "Q1773"
+  },
+  {
+   "id": "pl:chaouia",
+   "he": "שאוויה",
+   "en": "Chaouia",
+   "desc": "plain region around Casablanca, Morocco",
+   "kind": "region",
+   "parent": "pl:morocco",
+   "keys": [
+    "אזור שאויה"
+   ],
+   "qid_auto": "Q2956471",
+   "qid": "Q2956471"
+  },
+  {
+   "id": "pl:tetouan",
+   "he": "תטואן",
+   "en": "Tetouan",
+   "desc": "city in northern Morocco",
+   "kind": "city",
+   "parent": "pl:morocco",
+   "keys": [
+    "אזור תטואן",
+    "טטואן"
+   ],
+   "qid_auto": "Q185157",
+   "qid": "Q185157"
+  },
+  {
+   "id": "pl:izmir",
+   "he": "איזמיר",
+   "en": "İzmir",
+   "desc": "Smyrna, port city in western Anatolia",
+   "kind": "city",
+   "parent": "pl:anatolia",
+   "keys": [
+    "אזמיר",
+    "איזמיר"
+   ],
+   "qid_auto": null,
+   "qid": "Q35997"
+  },
+  {
+   "id": "pl:azerbaijan-iran",
+   "he": "אזרבייג'ן הפרסית",
+   "en": "Azerbaijan (Iran)",
+   "desc": "Iranian Azerbaijan, province of Persia",
+   "kind": "region",
+   "parent": "pl:persia",
+   "keys": [
+    "אזרבייגן"
+   ],
+   "qid_auto": "Q274536",
+   "qid": "Q274536"
+  },
+  {
+   "id": "pl:tel-aviv",
+   "he": "תל אביב",
+   "en": "Tel Aviv",
+   "desc": "Tel Aviv (founded 1909 as Ahuzat Bayit) near Jaffa",
+   "kind": "city",
+   "parent": "pl:ottoman-palestine",
+   "keys": [
+    "אחוזת בית"
+   ],
+   "qid_auto": "Q33935",
+   "qid": "Q33935"
+  },
+  {
+   "id": "pl:ikaria",
+   "he": "איקריה",
+   "en": "Ikaria",
+   "desc": "Aegean island",
+   "kind": "island",
+   "parent": "pl:aegean-islands",
+   "keys": [
+    "אי איקריה"
+   ],
+   "qid_auto": "Q209576",
+   "qid": "Q209576"
+  },
+  {
+   "id": "pl:aydin",
+   "he": "איידין",
+   "en": "Aydın",
+   "desc": "city in western Anatolia",
+   "kind": "city",
+   "parent": "pl:anatolia",
+   "keys": [
+    "אידין"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "pl:haiti",
+   "he": "האיטי",
+   "en": "Haiti",
+   "desc": "Caribbean republic",
+   "kind": "country",
+   "keys": [
+    "איטי"
+   ],
+   "qid_auto": "Q790",
+   "qid": "Q790"
+  },
+  {
+   "id": "pl:italy",
+   "he": "איטליה",
+   "en": "Italy",
+   "desc": "Kingdom of Italy",
+   "kind": "country",
+   "keys": [
+    "איטליה"
+   ],
+   "qid_auto": "Q38",
+   "qid": "Q172579"
+  },
+  {
+   "id": "pl:azores",
+   "he": "האיים האזוריים",
+   "en": "Azores",
+   "desc": "Portuguese Atlantic archipelago",
+   "kind": "archipelago",
+   "parent": "pl:portugal",
+   "keys": [
+    "איי האזורים",
+    "איים האזוריים"
+   ],
+   "qid_auto": "Q25263",
+   "qid": "Q25263"
+  },
+  {
+   "id": "pl:aegean-islands",
+   "he": "איי הים האגאי",
+   "en": "Aegean Islands",
+   "desc": "islands of the Aegean Sea (the Archipelago)",
+   "kind": "archipelago",
+   "parent": "pl:aegean-sea",
+   "keys": [
+    "איי הארכיפלג",
+    "איים האגאיים",
+    "ארכיפלג"
+   ],
+   "qid_auto": "Q878481",
+   "qid": "Q878481"
+  },
+  {
+   "id": "pl:philippines",
+   "he": "הפיליפינים",
+   "en": "Philippines",
+   "desc": "archipelago in Southeast Asia (US colony)",
+   "kind": "country",
+   "keys": [
+    "איי הפיליפינים",
+    "איים הפיליפיניים"
+   ],
+   "qid_auto": "Q928",
+   "qid": "Q928"
+  },
+  {
+   "id": "pl:west-indies",
+   "he": "איי הודו המערבית",
+   "en": "West Indies",
+   "desc": "Caribbean islands",
+   "kind": "archipelago",
+   "keys": [
+    "איים המערב הודיים"
+   ],
+   "qid_auto": "Q669037",
+   "qid": "Q669037"
+  },
+  {
+   "id": "pl:cyclades",
+   "he": "האיים הקיקלדיים",
+   "en": "Cyclades",
+   "desc": "Greek island group",
+   "kind": "archipelago",
+   "parent": "pl:greece",
+   "keys": [
+    "איים הקיקלאדים"
+   ],
+   "qid_auto": "Q171132",
+   "qid": "Q171132"
+  },
+  {
+   "id": "pl:hainan",
+   "he": "היינאן",
+   "en": "Hainan",
+   "desc": "island province of China",
+   "kind": "island",
+   "parent": "pl:china",
+   "keys": [
+    "אינאן"
+   ],
+   "qid_auto": "Q42200",
+   "qid": "Q42200"
+  },
+  {
+   "id": "pl:french-indochina",
+   "he": "הודו-סין הצרפתית",
+   "en": "French Indochina",
+   "desc": "French colony in Southeast Asia",
+   "kind": "country",
+   "keys": [
+    "אינדו סין"
+   ],
+   "qid_auto": "Q185682",
+   "qid": "Q185682"
+  },
+  {
+   "id": "pl:indiana",
+   "he": "אינדיאנה",
+   "en": "Indiana",
+   "desc": "US state",
+   "kind": "region",
+   "parent": "pl:united-states",
+   "keys": [
+    "אינדיאנה"
+   ],
+   "qid_auto": "Q1415",
+   "qid": "Q1415"
+  },
+  {
+   "id": "pl:indianapolis",
+   "he": "אינדיאנפוליס",
+   "en": "Indianapolis",
+   "desc": "capital of Indiana, US",
+   "kind": "city",
+   "parent": "pl:indiana",
+   "keys": [
+    "אינדיאנפוליס"
+   ],
+   "qid_auto": "Q6346",
+   "qid": "Q6346"
+  },
+  {
+   "id": "pl:east-end-of-london",
+   "he": "איסט אנד",
+   "en": "East End of London",
+   "desc": "immigrant quarter of London",
+   "kind": "quarter",
+   "parent": "pl:london",
+   "keys": [
+    "איסט אנד"
+   ],
+   "qid_auto": "Q739700",
+   "qid": "Q739700"
+  },
+  {
+   "id": "pl:stip",
+   "he": "שטיפ",
+   "en": "Štip",
+   "desc": "town in Macedonia (Istip)",
+   "kind": "city",
+   "parent": "pl:macedonia",
+   "keys": [
+    "איסטיפ",
+    "אישטיפ"
+   ],
+   "qid_auto": "Q147243",
+   "qid": "Q147243"
+  },
+  {
+   "id": "pl:istanbul",
+   "he": "איסטנבול (קושטא)",
+   "en": "Istanbul",
+   "desc": "Constantinople, Ottoman capital",
+   "kind": "city",
+   "parent": "pl:ottoman-empire",
+   "keys": [
+    "איסטנבול",
+    "איסטנבול (סטמבול)",
+    "אסטנבול"
+   ],
+   "qid_auto": "Q406",
+   "qid": "Q406"
+  },
+  {
+   "id": "pl:issy-les-moulineaux",
+   "he": "איסי-לה-מולינו",
+   "en": "Issy-les-Moulineaux",
+   "desc": "suburb of Paris (airfield)",
+   "kind": "city",
+   "parent": "pl:france",
+   "keys": [
+    "איסי לה מולינו"
+   ],
+   "qid_auto": null,
+   "qid": "Q135265"
+  },
+  {
+   "id": "pl:iceland",
+   "he": "איסלנד",
+   "en": "Iceland",
+   "desc": "island in the North Atlantic (Danish dependency)",
+   "kind": "country",
+   "parent": "pl:denmark",
+   "keys": [
+    "איסלנד"
+   ],
+   "qid_auto": "Q189",
+   "qid": "Q189"
+  },
+  {
+   "id": "pl:skopje",
+   "he": "סקופיה",
+   "en": "Skopje",
+   "desc": "Üsküb, city in Kosovo vilayet / Macedonia",
+   "kind": "city",
+   "parent": "pl:macedonia",
+   "keys": [
+    "איסקוּב (סקופיה)"
+   ],
+   "qid_auto": "Q384",
+   "qid": "Q384"
+  },
+  {
+   "id": "pl:peja",
+   "he": "פץ' (איפק)",
+   "en": "Peja",
+   "desc": "Peć (İpek), town in Kosovo",
+   "kind": "city",
+   "parent": "pl:kosovo",
+   "keys": [
+    "איפק",
+    "יפק"
+   ],
+   "qid_auto": "Q112657",
+   "qid": "Q112657"
+  },
+  {
+   "id": "pl:iquitos",
+   "he": "איקיטוס",
+   "en": "Iquitos",
+   "desc": "city in the Peruvian Amazon",
+   "kind": "city",
+   "parent": "pl:peru",
+   "keys": [
+    "איקיטוס"
+   ],
+   "qid_auto": "Q193289",
+   "qid": "Q193289"
+  },
+  {
+   "id": "pl:europe",
+   "he": "אירופה",
+   "en": "Europe",
+   "desc": "continent",
+   "kind": "continent",
+   "keys": [
+    "אירופה"
+   ],
+   "qid_auto": "Q46",
+   "qid": "Q46"
+  },
+  {
+   "id": "pl:ireland",
+   "he": "אירלנד",
+   "en": "Ireland",
+   "desc": "island, part of the United Kingdom",
+   "kind": "region",
+   "parent": "pl:united-kingdom",
+   "keys": [
+    "אירלנד"
+   ],
+   "qid_auto": null,
+   "qid": "Q22890"
+  },
+  {
+   "id": "pl:irkutsk",
+   "he": "אירקוטסק",
+   "en": "Irkutsk",
+   "desc": "city in eastern Siberia",
+   "kind": "city",
+   "parent": "pl:siberia",
+   "keys": [
+    "אירקוטסק"
+   ],
+   "qid_auto": "Q6576",
+   "qid": "Q6576"
+  },
+  {
+   "id": "pl:bad-ischl",
+   "he": "באד אישל",
+   "en": "Bad Ischl",
+   "desc": "spa town in Upper Austria (imperial summer residence)",
+   "kind": "city",
+   "parent": "pl:austria-hungary",
+   "keys": [
+    "אישל",
+    "בד אישל"
+   ],
+   "qid_auto": "Q21879540",
+   "qid": "Q21879540"
+  },
+  {
+   "id": "pl:ksar-el-kebir",
+   "he": "קסאר אל-כביר",
+   "en": "Ksar el-Kebir",
+   "desc": "Alcazarquivir, town in northern Morocco",
+   "kind": "city",
+   "parent": "pl:morocco",
+   "keys": [
+    "אל קסר",
+    "אל קצר",
+    "אל קצר אל כביר",
+    "אלקאזר",
+    "אלקסר"
+   ],
+   "qid_auto": "Q52603",
+   "qid": "Q52603"
+  },
+  {
+   "id": "pl:alabama",
+   "he": "אלבמה",
+   "en": "Alabama",
+   "desc": "US state",
+   "kind": "region",
+   "parent": "pl:united-states",
+   "keys": [
+    "אלבמה"
+   ],
+   "qid_auto": "Q173",
+   "qid": "Q173"
+  },
+  {
+   "id": "pl:albania",
+   "he": "אלבניה",
+   "en": "Albania",
+   "desc": "Albania (Ottoman Albanian lands, independent 1912)",
+   "kind": "country",
+   "keys": [
+    "אלבניה"
+   ],
+   "qid_auto": "Q222",
+   "qid": "Q222"
+  },
+  {
+   "id": "pl:northern-albania",
+   "he": "צפון אלבניה",
+   "en": "Northern Albania",
+   "desc": "northern Albanian highlands",
+   "kind": "region",
+   "parent": "pl:albania",
+   "keys": [
+    "אלבניה הצפונית"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "pl:elberfeld",
+   "he": "אלברפלד",
+   "en": "Elberfeld",
+   "desc": "industrial town in Rhine Province (now Wuppertal)",
+   "kind": "city",
+   "parent": "pl:germany",
+   "keys": [
+    "אלברפלד"
+   ],
+   "qid_auto": null,
+   "qid": "Q702259"
+  },
+  {
+   "id": "pl:algeciras",
+   "he": "אלחסיראס",
+   "en": "Algeciras",
+   "desc": "port town in southern Spain (Algeciras Conference 1906)",
+   "kind": "city",
+   "parent": "pl:spain",
+   "keys": [
+    "אלגזיראס",
+    "אלגזירס",
+    "אלגסיראס",
+    "אלגסירס",
+    "אלזסיראס",
+    "אלחסיראס",
+    "אלחסירס"
+   ],
+   "qid_auto": "Q484552",
+   "qid": "Q484552"
+  },
+  {
+   "id": "pl:algiers",
+   "he": "אלג'יר",
+   "en": "Algiers",
+   "desc": "capital of French Algeria",
+   "kind": "city",
+   "parent": "pl:algeria",
+   "keys": [
+    "אלגיר"
+   ],
+   "qid_auto": "Q3561",
+   "qid": "Q3561"
+  },
+  {
+   "id": "pl:algeria",
+   "he": "אלג'יריה",
+   "en": "Algeria",
+   "desc": "French Algeria",
+   "kind": "country",
+   "keys": [
+    "אלגיריה"
+   ],
+   "qid_auto": "Q262",
+   "qid": "Q262"
+  },
+  {
+   "id": "pl:algarve",
+   "he": "אלגרבה",
+   "en": "Algarve",
+   "desc": "southern region of Portugal",
+   "kind": "region",
+   "parent": "pl:portugal",
+   "keys": [
+    "אלגרווה"
+   ],
+   "qid_auto": "Q26831",
+   "qid": "Q26831"
+  },
+  {
+   "id": "pl:halle-saale",
+   "he": "האלה",
+   "en": "Halle (Saale)",
+   "desc": "city in Prussian Saxony",
+   "kind": "city",
+   "parent": "pl:germany",
+   "keys": [
+    "אלה"
+   ],
+   "qid_auto": "Q2814",
+   "qid": "Q2814"
+  },
+  {
+   "id": "pl:elora-mexico",
+   "he": "אלורה (מקסיקו)",
+   "en": "Elora, Mexico",
+   "desc": "unidentified locality in Mexico (1911)",
+   "kind": "locality",
+   "parent": "pl:mexico",
+   "keys": [
+    "אלורה, מקסיקו"
+   ],
+   "qid": null
+  },
+  {
+   "id": "pl:alsace",
+   "he": "אלזס",
+   "en": "Alsace",
+   "desc": "region of Alsace-Lorraine",
+   "kind": "region",
+   "parent": "pl:alsace-lorraine",
+   "keys": [
+    "אלזס"
+   ],
+   "qid_auto": "Q1142",
+   "qid": "Q1142"
+  },
+  {
+   "id": "pl:alsace-lorraine",
+   "he": "אלזס-לורן",
+   "en": "Alsace-Lorraine",
+   "desc": "German imperial territory 1871–1918",
+   "kind": "region",
+   "parent": "pl:germany",
+   "keys": [
+    "אלזס לוריין",
+    "אלזס לורין",
+    "אלזס לורן"
+   ],
+   "qid_auto": "Q155144",
+   "qid": "Q155144"
+  },
+  {
+   "id": "pl:lorraine",
+   "he": "לורן",
+   "en": "Lorraine",
+   "desc": "region (German Lorraine)",
+   "kind": "region",
+   "parent": "pl:alsace-lorraine",
+   "keys": [
+    "לוריין"
+   ],
+   "qid_auto": "Q1137",
+   "qid": "Q1137"
+  },
+  {
+   "id": "pl:alytus",
+   "he": "אליטוס (אוליטה)",
+   "en": "Alytus",
+   "desc": "Olita, town in Vilna Governorate",
+   "kind": "city",
+   "parent": "pl:lithuania",
+   "keys": [
+    "אליטה"
+   ],
+   "qid_auto": "Q450625",
+   "qid": "Q450625"
+  },
+  {
+   "id": "pl:ganja-azerbaijan",
+   "he": "גנג'ה (יליזבטפול)",
+   "en": "Ganja, Azerbaijan",
+   "desc": "Elisabethpol, city in the Caucasus",
+   "kind": "city",
+   "parent": "pl:caucasus",
+   "keys": [
+    "אליסבטפול",
+    "יליזבטפול"
+   ],
+   "qid_auto": null,
+   "qid": "Q131290"
+  },
+  {
+   "id": "pl:aleksandrow-kujawski",
+   "he": "אלכסנדרוב קויאבסקי",
+   "en": "Aleksandrów Kujawski",
+   "desc": "Russian–Prussian border station in Congress Poland",
+   "kind": "city",
+   "parent": "pl:poland",
+   "keys": [
+    "אלכסנדרוב",
+    "אלכסנדרובו"
+   ],
+   "qid_auto": null,
+   "qid": "Q325124"
+  },
+  {
+   "id": "pl:zaporizhzhia",
+   "he": "זפוריז'יה (אלכסנדרובסק)",
+   "en": "Zaporizhzhia",
+   "desc": "Aleksandrovsk, city in Yekaterinoslav Governorate",
+   "kind": "city",
+   "parent": "pl:ukraine",
+   "keys": [
+    "אלכסנדרובסק"
+   ],
+   "qid_auto": "Q157835",
+   "qid": "Q157835"
+  },
+  {
+   "id": "pl:iskenderun",
+   "he": "איסקנדרון (אלכסנדרטה)",
+   "en": "İskenderun",
+   "desc": "Alexandretta, port in northern Syria",
+   "kind": "city",
+   "parent": "pl:syria",
+   "keys": [
+    "אלכסנדרטה"
+   ],
+   "qid_auto": "Q174341",
+   "qid": "Q174341"
+  },
+  {
+   "id": "pl:alexandria",
+   "he": "אלכסנדריה",
+   "en": "Alexandria",
+   "desc": "port city in Egypt",
+   "kind": "city",
+   "parent": "pl:egypt",
+   "keys": [
+    "אלכסנדריה"
+   ],
+   "qid_auto": null,
+   "qid": "Q87"
+  },
+  {
+   "id": "pl:olsztyn",
+   "he": "אולשטין (אלנשטיין)",
+   "en": "Olsztyn",
+   "desc": "Allenstein, town in East Prussia",
+   "kind": "city",
+   "parent": "pl:east-prussia",
+   "keys": [
+    "אלנשטיין"
+   ],
+   "qid_auto": "Q82765",
+   "qid": "Q82765"
+  },
+  {
+   "id": "pl:alps",
+   "he": "האלפים",
+   "en": "Alps",
+   "desc": "mountain range",
+   "kind": "mountains",
+   "parent": "pl:europe",
+   "keys": [
+    "אלפים"
+   ],
+   "qid_auto": "Q1286",
+   "qid": "Q1286"
+  },
+  {
+   "id": "pl:eleftheroupoli",
+   "he": "אלפתרופולי",
+   "en": "Eleftheroupoli",
+   "desc": "town near Kavala, Macedonia",
+   "kind": "city",
+   "parent": "pl:macedonia",
+   "keys": [
+    "אלפתריה"
+   ],
+   "qid_auto": "Q2418571",
+   "qid": "Q2418571"
+  },
+  {
+   "id": "pl:hamburg",
+   "he": "המבורג",
+   "en": "Hamburg",
+   "desc": "port city, Germany",
+   "kind": "city",
+   "parent": "pl:germany",
+   "keys": [
+    "אמבורג",
+    "מבורג"
+   ],
+   "qid_auto": null,
+   "qid": "Q1055"
+  },
+  {
+   "id": "pl:xiamen",
+   "he": "שיאמן (אמוי)",
+   "en": "Xiamen",
+   "desc": "Amoy, port city in Fujian, China",
+   "kind": "city",
+   "parent": "pl:china",
+   "keys": [
+    "אמוי"
+   ],
+   "qid_auto": "Q68744",
+   "qid": "Q68744"
+  },
+  {
+   "id": "pl:bad-ems",
+   "he": "באד אמס",
+   "en": "Bad Ems",
+   "desc": "spa town in Hesse-Nassau",
+   "kind": "city",
+   "parent": "pl:germany",
+   "keys": [
+    "אמס"
+   ],
+   "qid_auto": "Q490670",
+   "qid": "Q490670"
+  },
+  {
+   "id": "pl:amsterdam",
+   "he": "אמסטרדם",
+   "en": "Amsterdam",
+   "desc": "capital of the Netherlands",
+   "kind": "city",
+   "parent": "pl:netherlands",
+   "keys": [
+    "אמסטרדם"
+   ],
+   "qid_auto": "Q727",
+   "qid": "Q727"
+  },
+  {
+   "id": "pl:united-states",
+   "he": "ארצות הברית",
+   "en": "United States",
+   "desc": "United States of America",
+   "kind": "country",
+   "keys": [
+    "אמריקה",
+    "ארצות הברית"
+   ],
+   "qid_auto": "Q30",
+   "qid": "Q30"
+  },
+  {
+   "id": "pl:angola",
+   "he": "אנגולה",
+   "en": "Angola",
+   "desc": "Portuguese colony in Africa",
+   "kind": "country",
+   "parent": "pl:africa",
+   "keys": [
+    "אנגולה"
+   ],
+   "qid_auto": "Q916",
+   "qid": "Q2826232"
+  },
+  {
+   "id": "pl:united-kingdom",
+   "he": "בריטניה",
+   "en": "United Kingdom",
+   "desc": "United Kingdom of Great Britain and Ireland (England)",
+   "kind": "country",
+   "keys": [
+    "אנגליה",
+    "בריטניה",
+    "בריטניה (אנגליה)"
+   ],
+   "qid_auto": "Q145",
+   "qid": "Q174193"
+  },
+  {
+   "id": "pl:hanover",
+   "he": "הנובר",
+   "en": "Hanover",
+   "desc": "city in Prussia",
+   "kind": "city",
+   "parent": "pl:germany",
+   "keys": [
+    "אנובר"
+   ],
+   "qid_auto": "Q1715",
+   "qid": "Q1715"
+  },
+  {
+   "id": "pl:bandar-anzali",
+   "he": "בנדר אנזלי",
+   "en": "Bandar-e Anzali",
+   "desc": "Enzeli, Caspian port of Persia",
+   "kind": "city",
+   "parent": "pl:persia",
+   "keys": [
+    "אנזלי"
+   ],
+   "qid_auto": "Q210885",
+   "qid": "Q210885"
+  },
+  {
+   "id": "pl:pomorie",
+   "he": "פומוריה (אנחיאלוס)",
+   "en": "Pomorie",
+   "desc": "Anchialos, Black Sea town in Bulgaria",
+   "kind": "city",
+   "parent": "pl:bulgaria",
+   "keys": [
+    "אנחיאלוס"
+   ],
+   "qid_auto": null,
+   "qid": "Q407372"
+  },
+  {
+   "id": "pl:antwerp",
+   "he": "אנטוורפן",
+   "en": "Antwerp",
+   "desc": "port city in Belgium",
+   "kind": "city",
+   "parent": "pl:belgium",
+   "keys": [
+    "אנטוורפן"
+   ],
+   "qid_auto": null,
+   "qid": "Q12892"
+  },
+  {
+   "id": "pl:anatolia",
+   "he": "אנטוליה",
+   "en": "Anatolia",
+   "desc": "Asia Minor; Asiatic Turkey",
+   "kind": "region",
+   "parent": "pl:ottoman-empire",
+   "keys": [
+    "אנטוליה",
+    "אסיה הקטנה",
+    "טורקיה האסייתית"
+   ],
+   "qid_auto": "Q51614",
+   "qid": "Q51614"
+  },
+  {
+   "id": "pl:anti-lebanon-mountains",
+   "he": "הרי אנטי-לבנון",
+   "en": "Anti-Lebanon Mountains",
+   "desc": "mountain range between Syria and Lebanon",
+   "kind": "mountains",
+   "parent": "pl:syria",
+   "keys": [
+    "אנטי לבנון"
+   ],
+   "qid_auto": "Q243276",
+   "qid": "Q243276"
+  },
+  {
+   "id": "pl:bar-montenegro",
+   "he": "בר (אנטיווארי)",
+   "en": "Bar, Montenegro",
+   "desc": "Antivari, Montenegrin port",
+   "kind": "city",
+   "parent": "pl:montenegro",
+   "keys": [
+    "אנטיוארי"
+   ],
+   "qid_auto": null,
+   "qid": "Q115276"
+  },
+  {
+   "id": "pl:antakya",
+   "he": "אנטיוכיה",
+   "en": "Antakya",
+   "desc": "Antioch, city in northern Syria",
+   "kind": "city",
+   "parent": "pl:syria",
+   "keys": [
+    "אנטיוכיה"
+   ],
+   "qid_auto": "Q80561",
+   "qid": "Q80561"
+  },
+  {
+   "id": "pl:hankou",
+   "he": "האנקאו",
+   "en": "Hankou",
+   "desc": "city on the Yangtze, part of Wuhan, China",
+   "kind": "city",
+   "parent": "pl:china",
+   "keys": [
+    "אנקאו"
+   ],
+   "qid_auto": "Q1208250",
+   "qid": "Q1208250"
+  },
+  {
+   "id": "pl:assam",
+   "he": "אסאם",
+   "en": "Assam",
+   "desc": "province of British India",
+   "kind": "region",
+   "parent": "pl:india",
+   "keys": [
+    "אסאם",
+    "אסאם העליונה"
+   ],
+   "qid_auto": "Q1164",
+   "qid": "Q1164"
+  },
+  {
+   "id": "pl:governorate-of-estonia",
+   "he": "פלך אסטלנד",
+   "en": "Governorate of Estonia",
+   "desc": "Estland Governorate, Russian Empire",
+   "kind": "region",
+   "parent": "pl:russian-empire",
+   "keys": [
+    "אסטלנד"
+   ],
+   "qid_auto": "Q720496",
+   "qid": "Q720496"
+  },
+  {
+   "id": "pl:gorgan",
+   "he": "גורגאן (אסטראבאד)",
+   "en": "Gorgan",
+   "desc": "Astarabad, city in northern Persia",
+   "kind": "city",
+   "parent": "pl:persia",
+   "keys": [
+    "אסטראבאד"
+   ],
+   "qid_auto": "Q188155",
+   "qid": "Q188155"
+  },
+  {
+   "id": "pl:astara",
+   "he": "אסטרה",
+   "en": "Astara",
+   "desc": "border town on the Caspian (Russia/Persia)",
+   "kind": "city",
+   "parent": "pl:persia",
+   "keys": [
+    "אסטרה"
+   ],
+   "qid_auto": null,
+   "qid": "Q645855"
+  },
+  {
+   "id": "pl:astrakhan",
+   "he": "אסטרחן",
+   "en": "Astrakhan",
+   "desc": "city on the lower Volga",
+   "kind": "city",
+   "parent": "pl:russian-empire",
+   "keys": [
+    "אסטרחאן",
+    "אסטרחן"
+   ],
+   "qid_auto": "Q3927",
+   "qid": "Q3927"
+  },
+  {
+   "id": "pl:asia",
+   "he": "אסיה",
+   "en": "Asia",
+   "desc": "continent",
+   "kind": "continent",
+   "keys": [
+    "אסיה"
+   ],
+   "qid_auto": "Q48",
+   "qid": "Q48"
+  },
+  {
+   "id": "pl:asir",
+   "he": "עסיר",
+   "en": "Asir",
+   "desc": "region in southwestern Arabia",
+   "kind": "region",
+   "parent": "pl:arabian-peninsula",
+   "keys": [
+    "אסיר"
+   ],
+   "qid_auto": "Q779855",
+   "qid": "Q779855"
+  },
+  {
+   "id": "pl:essen",
+   "he": "אסן",
+   "en": "Essen",
+   "desc": "industrial city in the Ruhr",
+   "kind": "city",
+   "parent": "pl:germany",
+   "keys": [
+    "אסן"
+   ],
+   "qid_auto": "Q2066",
+   "qid": "Q2066"
+  },
+  {
+   "id": "pl:isfahan",
+   "he": "אספהאן",
+   "en": "Isfahan",
+   "desc": "city in central Persia",
+   "kind": "city",
+   "parent": "pl:persia",
+   "keys": [
+    "אספהאן"
+   ],
+   "qid_auto": "Q42053",
+   "qid": "Q42053"
+  },
+  {
+   "id": "pl:afghanistan",
+   "he": "אפגניסטן",
+   "en": "Afghanistan",
+   "desc": "Emirate of Afghanistan",
+   "kind": "country",
+   "keys": [
+    "אפגניסטן"
+   ],
+   "qid_auto": "Q889",
+   "qid": "Q889"
+  },
+  {
+   "id": "pl:apulia",
+   "he": "אפוליה",
+   "en": "Apulia",
+   "desc": "region of southern Italy",
+   "kind": "region",
+   "parent": "pl:italy",
+   "keys": [
+    "אפוליה"
+   ],
+   "qid_auto": "Q1447",
+   "qid": "Q1447"
+  },
+  {
+   "id": "pl:epur-albania",
+   "he": "אפור (אלבניה)",
+   "en": "Epur (Albania)",
+   "desc": "unidentified locality in southern Albania (1916)",
+   "kind": "locality",
+   "parent": "pl:albania",
+   "keys": [
+    "אפור (אלבניה)"
+   ],
+   "qid": null
+  },
+  {
+   "id": "pl:epirus",
+   "he": "אפירוס",
+   "en": "Epirus",
+   "desc": "region in northwestern Greece / southern Albania",
+   "kind": "region",
+   "parent": "pl:greece",
+   "keys": [
+    "אפירוס"
+   ],
+   "qid_auto": null,
+   "qid": "Q565751"
+  },
+  {
+   "id": "pl:africa",
+   "he": "אפריקה",
+   "en": "Africa",
+   "desc": "continent",
+   "kind": "continent",
+   "keys": [
+    "אפריקה"
+   ],
+   "qid_auto": "Q15",
+   "qid": "Q15"
+  },
+  {
+   "id": "pl:german-south-west-africa",
+   "he": "דרום-מערב אפריקה הגרמנית",
+   "en": "German South West Africa",
+   "desc": "German colony (Herero wars)",
+   "kind": "country",
+   "parent": "pl:africa",
+   "keys": [
+    "אפריקה הגרמנית",
+    "אפריקה הדרום מערבית",
+    "דרום מערב אפריקה"
+   ],
+   "qid_auto": null,
+   "qid": "Q153665"
+  },
+  {
+   "id": "pl:ekenas",
+   "he": "אקנס",
+   "en": "Ekenäs",
+   "desc": "town in southern Finland",
+   "kind": "city",
+   "parent": "pl:finland",
+   "keys": [
+    "אקנס"
+   ],
+   "qid_auto": "Q1004838",
+   "qid": "Q1004838"
+  },
+  {
+   "id": "pl:bilhorod-dnistrovskyi",
+   "he": "בילהורוד-דניסטרובסקי (אקרמן)",
+   "en": "Bilhorod-Dnistrovskyi",
+   "desc": "Akkerman, town in Bessarabia",
+   "kind": "city",
+   "parent": "pl:bessarabia",
+   "keys": [
+    "אקרמן"
+   ],
+   "qid_auto": "Q672990",
+   "qid": "Q672990"
+  },
+  {
+   "id": "pl:harbin",
+   "he": "חרבין",
+   "en": "Harbin",
+   "desc": "city in Manchuria",
+   "kind": "city",
+   "parent": "pl:manchuria",
+   "keys": [
+    "ארבין",
+    "חארבין",
+    "חרבין"
+   ],
+   "qid_auto": "Q42956",
+   "qid": "Q42956"
+  },
+  {
+   "id": "pl:argentina",
+   "he": "ארגנטינה",
+   "en": "Argentina",
+   "desc": "republic in South America",
+   "kind": "country",
+   "keys": [
+    "ארגנטינה"
+   ],
+   "qid_auto": "Q414",
+   "qid": "Q414"
+  },
+  {
+   "id": "pl:ardabil",
+   "he": "ארדביל",
+   "en": "Ardabil",
+   "desc": "city in Persian Azerbaijan",
+   "kind": "city",
+   "parent": "pl:persia",
+   "keys": [
+    "ארדביל"
+   ],
+   "qid_auto": "Q180103",
+   "qid": "Q180103"
+  },
+  {
+   "id": "pl:ardanuc",
+   "he": "ארדנוץ'",
+   "en": "Ardanuç",
+   "desc": "town near the Russo-Turkish border (1914 fighting)",
+   "kind": "city",
+   "parent": "pl:ottoman-empire",
+   "keys": [
+    "ארדנוץ"
+   ],
+   "qid_auto": "Q638539",
+   "qid": "Q638539"
+  },
+  {
+   "id": "pl:erzincan",
+   "he": "ארזינג'אן",
+   "en": "Erzincan",
+   "desc": "city in eastern Anatolia",
+   "kind": "city",
+   "parent": "pl:anatolia",
+   "keys": [
+    "ארזינגאן"
+   ],
+   "qid_auto": "Q136217",
+   "qid": "Q136217"
+  },
+  {
+   "id": "pl:erzurum",
+   "he": "ארזורום",
+   "en": "Erzurum",
+   "desc": "city in eastern Anatolia",
+   "kind": "city",
+   "parent": "pl:anatolia",
+   "keys": [
+    "ארזרום"
+   ],
+   "qid_auto": "Q122803",
+   "qid": "Q122803"
+  },
+  {
+   "id": "pl:arkhangelsk",
+   "he": "ארכנגלסק",
+   "en": "Arkhangelsk",
+   "desc": "port on the White Sea",
+   "kind": "city",
+   "parent": "pl:russian-empire",
+   "keys": [
+    "ארכנגלסק"
+   ],
+   "qid_auto": "Q1851",
+   "qid": "Q1851"
+  },
+  {
+   "id": "pl:aram",
+   "he": "ארם",
+   "en": "Aram",
+   "desc": "ancient Aramean land (Syria) in historical fiction",
+   "kind": "region",
+   "parent": "pl:syria",
+   "keys": [],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "pl:winter-palace",
+   "he": "ארמון החורף",
+   "en": "Winter Palace",
+   "desc": "imperial palace in St Petersburg",
+   "kind": "palace",
+   "parent": "pl:saint-petersburg",
+   "keys": [
+    "ארמון החורף"
+   ],
+   "qid_auto": "Q182147",
+   "qid": "Q182147"
+  },
+  {
+   "id": "pl:yildiz-palace",
+   "he": "ארמון ילדיז",
+   "en": "Yıldız Palace",
+   "desc": "Ottoman sultan's palace in Constantinople",
+   "kind": "palace",
+   "parent": "pl:istanbul",
+   "keys": [
+    "ארמון ילדיז",
+    "ארמניה בכפר ילדיז",
+    "ילדיז"
+   ],
+   "qid_auto": "Q911734",
+   "qid": "Q911734"
+  },
+  {
+   "id": "pl:armenia",
+   "he": "ארמניה",
+   "en": "Armenia",
+   "desc": "Armenian lands (Ottoman and Russian Armenia)",
+   "kind": "region",
+   "keys": [
+    "ארמניה",
+    "ארמניה הגדולה"
+   ],
+   "qid_auto": "Q399",
+   "qid": "Q399"
+  },
+  {
+   "id": "pl:diyarbakir",
+   "he": "דיארבקיר",
+   "en": "Diyarbakır",
+   "desc": "city in southeastern Anatolia",
+   "kind": "city",
+   "parent": "pl:anatolia",
+   "keys": [
+    "ארמניה בכפר דיארבקיר/אורפה"
+   ],
+   "qid_auto": "Q83387",
+   "qid": "Q83387"
+  },
+  {
+   "id": "pl:macedonia",
+   "he": "מקדוניה",
+   "en": "Macedonia",
+   "desc": "Ottoman Macedonia region",
+   "kind": "region",
+   "keys": [
+    "ארמניה בכפר מקדיניה"
+   ],
+   "qid_auto": "Q221",
+   "qid": "Q103251"
+  },
+  {
+   "id": "pl:erfurt",
+   "he": "ארפורט",
+   "en": "Erfurt",
+   "desc": "city in Prussian Saxony / Thuringia",
+   "kind": "city",
+   "parent": "pl:germany",
+   "keys": [
+    "ארפורט"
+   ],
+   "qid_auto": "Q1729",
+   "qid": "Q1729"
+  },
+  {
+   "id": "pl:ottoman-palestine",
+   "he": "ארץ ישראל",
+   "en": "Ottoman Palestine",
+   "desc": "Land of Israel / Palestine under Ottoman rule",
+   "kind": "region",
+   "parent": "pl:ottoman-empire",
+   "keys": [
+    "ארץ ישראל"
+   ],
+   "qid_auto": null,
+   "qid": "Q23792"
+  },
+  {
+   "id": "pl:orient",
+   "he": "ארצות המזרח",
+   "en": "Orient",
+   "desc": "the East (Eastern lands)",
+   "kind": "region",
+   "keys": [
+    "ארצות המזרח"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "pl:greece",
+   "he": "יוון",
+   "en": "Greece",
+   "desc": "Kingdom of Greece",
+   "kind": "country",
+   "keys": [
+    "ארצות יוון",
+    "יוון"
+   ],
+   "qid_auto": null,
+   "qid": "Q41"
+  },
+  {
+   "id": "pl:arab-world",
+   "he": "ארצות ערב",
+   "en": "Arab world",
+   "desc": "Arab lands",
+   "kind": "region",
+   "keys": [
+    "ארצות ערב"
+   ],
+   "qid_auto": "Q143487",
+   "qid": "Q143487"
+  },
+  {
+   "id": "pl:ashgabat",
+   "he": "אשגבאט",
+   "en": "Ashgabat",
+   "desc": "Askhabad, city in Transcaspia",
+   "kind": "city",
+   "parent": "pl:russian-empire",
+   "keys": [
+    "אשחבאד",
+    "אשקבאד"
+   ],
+   "qid_auto": "Q23438",
+   "qid": "Q23438"
+  },
+  {
+   "id": "pl:athens",
+   "he": "אתונה",
+   "en": "Athens",
+   "desc": "capital of Greece",
+   "kind": "city",
+   "parent": "pl:greece",
+   "keys": [
+    "אתונה"
+   ],
+   "qid_auto": "Q1524",
+   "qid": "Q1524"
+  },
+  {
+   "id": "pl:baden",
+   "he": "באדן",
+   "en": "Grand Duchy of Baden",
+   "desc": "German state",
+   "kind": "region",
+   "parent": "pl:germany",
+   "keys": [
+    "באדן",
+    "בדן"
+   ],
+   "qid_auto": "Q186320",
+   "qid": "Q186320"
+  },
+  {
+   "id": "pl:basel",
+   "he": "באזל",
+   "en": "Basel",
+   "desc": "city in Switzerland (Zionist Congresses)",
+   "kind": "city",
+   "parent": "pl:switzerland",
+   "keys": [
+    "באזל",
+    "בזל"
+   ],
+   "qid_auto": "Q78",
+   "qid": "Q78"
+  },
+  {
+   "id": "pl:bonyhad",
+   "he": "בוניהאד",
+   "en": "Bonyhád",
+   "desc": "town in Hungary",
+   "kind": "city",
+   "parent": "pl:hungary",
+   "keys": [
+    "באניהאד"
+   ],
+   "qid_auto": "Q834567",
+   "qid": "Q834567"
+  },
+  {
+   "id": "pl:basming",
+   "he": "באסמינג'",
+   "en": "Basming (unidentified)",
+   "desc": "unidentified locality in the Ottoman Empire (1909)",
+   "kind": "locality",
+   "parent": "pl:ottoman-empire",
+   "keys": [
+    "באסמינג"
+   ],
+   "qid": null
+  },
+  {
+   "id": "pl:baku",
+   "he": "באקו",
+   "en": "Baku",
+   "desc": "city on the Caspian, Caucasus",
+   "kind": "city",
+   "parent": "pl:caucasus",
+   "keys": [
+    "באקו",
+    "בקו"
+   ],
+   "qid_auto": "Q9248",
+   "qid": "Q9248"
+  },
+  {
+   "id": "pl:bochum",
+   "he": "בוכום",
+   "en": "Bochum",
+   "desc": "city in the Ruhr",
+   "kind": "city",
+   "parent": "pl:germany",
+   "keys": [
+    "באקום"
+   ],
+   "qid_auto": "Q2103",
+   "qid": "Q2103"
+  },
+  {
+   "id": "pl:beersheba",
+   "he": "באר שבע",
+   "en": "Beersheba",
+   "desc": "town in southern Ottoman Palestine",
+   "kind": "city",
+   "parent": "pl:ottoman-palestine",
+   "keys": [
+    "באר שבע"
+   ],
+   "qid_auto": "Q41843",
+   "qid": "Q41843"
+  },
+  {
+   "id": "pl:barakli",
+   "he": "בארקלי",
+   "en": "Barakli",
+   "desc": "village on the Struma front, Macedonia",
+   "kind": "village",
+   "parent": "pl:macedonia",
+   "keys": [
+    "בארקלי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "pl:baskale",
+   "he": "באשקלה",
+   "en": "Başkale",
+   "desc": "town near Van, eastern Anatolia",
+   "kind": "city",
+   "parent": "pl:anatolia",
+   "keys": [
+    "באשקאלה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "pl:baghdad",
+   "he": "בגדאד",
+   "en": "Baghdad",
+   "desc": "city in Mesopotamia",
+   "kind": "city",
+   "parent": "pl:iraq",
+   "keys": [
+    "בגדאד"
+   ],
+   "qid_auto": "Q1530",
+   "qid": "Q1530"
+  },
+  {
+   "id": "pl:baden-baden",
+   "he": "באדן-באדן",
+   "en": "Baden-Baden",
+   "desc": "spa town in Baden",
+   "kind": "city",
+   "parent": "pl:baden",
+   "keys": [
+    "בדן בדן"
+   ],
+   "qid_auto": "Q4100",
+   "qid": "Q4100"
+  },
+  {
+   "id": "pl:bou-al-douad",
+   "he": "בו על דואד",
+   "en": "Bou al-Douad (unidentified)",
+   "desc": "Jewish community in the Chaouia region, Morocco (1910)",
+   "kind": "locality",
+   "parent": "pl:chaouia",
+   "keys": [
+    "בו על דואד"
+   ],
+   "qid": null
+  },
+  {
+   "id": "pl:buenos-aires",
+   "he": "בואנוס איירס",
+   "en": "Buenos Aires",
+   "desc": "capital of Argentina",
+   "kind": "city",
+   "parent": "pl:argentina",
+   "keys": [
+    "בואנוס איירס"
+   ],
+   "qid_auto": "Q1486",
+   "qid": "Q1486"
+  },
+  {
+   "id": "pl:budimirci",
+   "he": "בודימירצי",
+   "en": "Budimirci",
+   "desc": "village on the Macedonian front (1916)",
+   "kind": "village",
+   "parent": "pl:macedonia",
+   "keys": [
+    "בוד מירקא"
+   ],
+   "qid_auto": "Q2921481",
+   "qid": "Q2921481"
+  },
+  {
+   "id": "pl:budapest",
+   "he": "בודפשט",
+   "en": "Budapest",
+   "desc": "capital of Hungary",
+   "kind": "city",
+   "parent": "pl:hungary",
+   "keys": [
+    "בודפשט"
+   ],
+   "qid_auto": "Q1781",
+   "qid": "Q1781"
+  },
+  {
+   "id": "pl:bohemia",
+   "he": "בוהמיה",
+   "en": "Bohemia",
+   "desc": "crown land of Austria",
+   "kind": "region",
+   "parent": "pl:austria-hungary",
+   "keys": [
+    "בוהמיה"
+   ],
+   "qid_auto": null,
+   "qid": "Q42585"
+  },
+  {
+   "id": "pl:upper-bavaria",
+   "he": "בוואריה העילית",
+   "en": "Upper Bavaria",
+   "desc": "district of Bavaria",
+   "kind": "region",
+   "parent": "pl:bavaria",
+   "keys": [
+    "בוואריה העליונה"
+   ],
+   "qid_auto": "Q10562",
+   "qid": "Q10562"
+  },
+  {
+   "id": "pl:bavaria",
+   "he": "בוואריה",
+   "en": "Bavaria",
+   "desc": "Kingdom of Bavaria",
+   "kind": "region",
+   "parent": "pl:germany",
+   "keys": [
+    "בווריה"
+   ],
+   "qid_auto": "Q980",
+   "qid": "Q154195"
+  },
+  {
+   "id": "pl:bukhara",
+   "he": "בוכרה",
+   "en": "Bukhara",
+   "desc": "city / Emirate of Bukhara in Central Asia",
+   "kind": "city",
+   "parent": "pl:turkestan",
+   "keys": [
+    "בוכרה"
+   ],
+   "qid_auto": null,
+   "qid": "Q5764"
+  },
+  {
+   "id": "pl:bolayir",
+   "he": "בולאיר",
+   "en": "Bolayır",
+   "desc": "town on the Gallipoli peninsula (1913 battle)",
+   "kind": "city",
+   "parent": "pl:thrace",
+   "keys": [
+    "בולאיר"
+   ],
+   "qid_auto": "Q2987585",
+   "qid": "Q2987585"
+  },
+  {
+   "id": "pl:bulgaria",
+   "he": "בולגריה",
+   "en": "Bulgaria",
+   "desc": "Principality / Tsardom of Bulgaria",
+   "kind": "country",
+   "keys": [
+    "בולגריה"
+   ],
+   "qid_auto": "Q219",
+   "qid": "Q219"
+  },
+  {
+   "id": "pl:bulawayo",
+   "he": "בולוואיו",
+   "en": "Bulawayo",
+   "desc": "city in Rhodesia",
+   "kind": "city",
+   "parent": "pl:africa",
+   "keys": [
+    "בולוואיו"
+   ],
+   "qid_auto": "Q193250",
+   "qid": "Q193250"
+  },
+  {
+   "id": "pl:baltimore",
+   "he": "בולטימור",
+   "en": "Baltimore",
+   "desc": "city in Maryland, US",
+   "kind": "city",
+   "parent": "pl:united-states",
+   "keys": [
+    "בולטימור"
+   ],
+   "qid_auto": "Q5092",
+   "qid": "Q5092"
+  },
+  {
+   "id": "pl:mumbai",
+   "he": "מומבאי (בומביי)",
+   "en": "Mumbai",
+   "desc": "Bombay, city in British India",
+   "kind": "city",
+   "parent": "pl:india",
+   "keys": [
+    "בומבאי",
+    "בומביי"
+   ],
+   "qid_auto": "Q1156",
+   "qid": "Q1156"
+  },
+  {
+   "id": "pl:bumliana",
+   "he": "בומליאנה",
+   "en": "Bumliana (unidentified)",
+   "desc": "unidentified locality (1911)",
+   "kind": "locality",
+   "keys": [
+    "בומליאנה"
+   ],
+   "qid": null
+  },
+  {
+   "id": "pl:boston",
+   "he": "בוסטון",
+   "en": "Boston",
+   "desc": "city in Massachusetts, US",
+   "kind": "city",
+   "parent": "pl:united-states",
+   "keys": [
+    "בוסטון"
+   ],
+   "qid_auto": "Q100",
+   "qid": "Q100"
+  },
+  {
+   "id": "pl:bosnia-and-herzegovina",
+   "he": "בוסניה והרצגובינה",
+   "en": "Bosnia and Herzegovina",
+   "desc": "Bosnia, annexed by Austria-Hungary 1908",
+   "kind": "region",
+   "parent": "pl:austria-hungary",
+   "keys": [
+    "בוסניה"
+   ],
+   "qid_auto": "Q225",
+   "qid": "Q225"
+  },
+  {
+   "id": "pl:bosphorus",
+   "he": "הבוספורוס",
+   "en": "Bosphorus",
+   "desc": "strait at Constantinople",
+   "kind": "strait",
+   "parent": "pl:ottoman-empire",
+   "keys": [
+    "בוספורוס"
+   ],
+   "qid_auto": "Q35958",
+   "qid": "Q35958"
+  },
+  {
+   "id": "pl:bukovina",
+   "he": "בוקובינה",
+   "en": "Bukovina",
+   "desc": "Austrian crown land",
+   "kind": "region",
+   "parent": "pl:austria-hungary",
+   "keys": [
+    "בוקובינה"
+   ],
+   "qid_auto": null,
+   "qid": "Q105206"
+  },
+  {
+   "id": "pl:bucharest",
+   "he": "בוקרשט",
+   "en": "Bucharest",
+   "desc": "capital of Romania",
+   "kind": "city",
+   "parent": "pl:romania",
+   "keys": [
+    "בוקרשט"
+   ],
+   "qid_auto": "Q19660",
+   "qid": "Q19660"
+  },
+  {
+   "id": "pl:burgas",
+   "he": "בורגס",
+   "en": "Burgas",
+   "desc": "Black Sea port in Bulgaria",
+   "kind": "city",
+   "parent": "pl:bulgaria",
+   "keys": [
+    "בורגס"
+   ],
+   "qid_auto": null,
+   "qid": "Q6509"
+  },
+  {
+   "id": "pl:bordeaux",
+   "he": "בורדו",
+   "en": "Bordeaux",
+   "desc": "city in France",
+   "kind": "city",
+   "parent": "pl:france",
+   "keys": [
+    "בורדו"
+   ],
+   "qid_auto": "Q1479",
+   "qid": "Q1479"
+  },
+  {
+   "id": "pl:barysaw",
+   "he": "בוריסוב",
+   "en": "Barysaw",
+   "desc": "Borisov, town in Minsk Governorate",
+   "kind": "city",
+   "parent": "pl:russian-empire",
+   "keys": [
+    "בוריסוב"
+   ],
+   "qid_auto": "Q19313",
+   "qid": "Q19313"
+  },
+  {
+   "id": "pl:baranavichy",
+   "he": "ברנוביץ'",
+   "en": "Baranavichy",
+   "desc": "Baranovichi, railway town in Minsk Governorate",
+   "kind": "city",
+   "parent": "pl:russian-empire",
+   "keys": [
+    "בורנוביץ",
+    "חרנוביץ"
+   ],
+   "qid_auto": "Q237655",
+   "qid": "Q237655"
+  },
+  {
+   "id": "pl:bursa",
+   "he": "בורסה",
+   "en": "Bursa",
+   "desc": "city in northwestern Anatolia",
+   "kind": "city",
+   "parent": "pl:anatolia",
+   "keys": [
+    "בורסה"
+   ],
+   "qid_auto": "Q40738",
+   "qid": "Q40738"
+  },
+  {
+   "id": "pl:bushehr",
+   "he": "בושהר",
+   "en": "Bushehr",
+   "desc": "Persian Gulf port of Persia",
+   "kind": "city",
+   "parent": "pl:persia",
+   "keys": [
+    "בושהר"
+   ],
+   "qid_auto": null,
+   "qid": "Q158928"
+  },
+  {
+   "id": "pl:barajas",
+   "he": "באראחס",
+   "en": "Barajas",
+   "desc": "town near Madrid (airfield)",
+   "kind": "city",
+   "parent": "pl:spain",
+   "keys": [
+    "בזארנס"
+   ],
+   "qid_auto": null,
+   "qid": "Q807230"
+  },
+  {
+   "id": "pl:jakarta",
+   "he": "ג'קרטה (בטביה)",
+   "en": "Jakarta",
+   "desc": "Batavia, capital of the Dutch East Indies",
+   "kind": "city",
+   "parent": "pl:dutch-east-indies",
+   "keys": [
+    "בטביה"
+   ],
+   "qid_auto": "Q3630",
+   "qid": "Q3630"
+  },
+  {
+   "id": "pl:batumi",
+   "he": "בטומי",
+   "en": "Batumi",
+   "desc": "Black Sea port in the Caucasus",
+   "kind": "city",
+   "parent": "pl:caucasus",
+   "keys": [
+    "בטום"
+   ],
+   "qid_auto": "Q25475",
+   "qid": "Q25475"
+  },
+  {
+   "id": "pl:biala-podlaska",
+   "he": "ביאלה פודלאסקה",
+   "en": "Biała Podlaska",
+   "desc": "town in Siedlce Governorate",
+   "kind": "city",
+   "parent": "pl:poland",
+   "keys": [
+    "ביאלה"
+   ],
+   "qid_auto": null,
+   "qid": "Q209932"
+  },
+  {
+   "id": "pl:bialystok",
+   "he": "ביאליסטוק",
+   "en": "Białystok",
+   "desc": "city in Grodno Governorate",
+   "kind": "city",
+   "parent": "pl:poland",
+   "keys": [
+    "ביאליסטוק"
+   ],
+   "qid_auto": "Q761",
+   "qid": "Q761"
+  },
+  {
+   "id": "pl:biarritz",
+   "he": "ביאריץ",
+   "en": "Biarritz",
+   "desc": "resort town in southwestern France",
+   "kind": "city",
+   "parent": "pl:france",
+   "keys": [
+    "ביארץ"
+   ],
+   "qid_auto": "Q132790",
+   "qid": "Q132790"
+  },
+  {
+   "id": "pl:bizriel",
+   "he": "ביזריאל",
+   "en": "Bizriel (unidentified)",
+   "desc": "unidentified locality (1911, Morocco/Arabia news)",
+   "kind": "locality",
+   "keys": [
+    "ביזריאל"
+   ],
+   "qid": null
+  },
+  {
+   "id": "pl:bitola",
+   "he": "ביטולה (מונסטיר)",
+   "en": "Bitola",
+   "desc": "Monastir, city in Macedonia",
+   "kind": "city",
+   "parent": "pl:macedonia",
+   "keys": [
+    "ביטולה (מנסטיר)"
+   ],
+   "qid_auto": "Q157246",
+   "qid": "Q157246"
+  },
+  {
+   "id": "pl:bitlis",
+   "he": "ביטליס",
+   "en": "Bitlis",
+   "desc": "city in eastern Anatolia",
+   "kind": "city",
+   "parent": "pl:anatolia",
+   "keys": [
+    "ביטליס"
+   ],
+   "qid_auto": "Q83531",
+   "qid": "Q83531"
+  },
+  {
+   "id": "pl:beijing",
+   "he": "בייג'ינג (פקין)",
+   "en": "Beijing",
+   "desc": "Peking, capital of China",
+   "kind": "city",
+   "parent": "pl:china",
+   "keys": [
+    "בייגינג"
+   ],
+   "qid_auto": "Q956",
+   "qid": "Q956"
+  },
+  {
+   "id": "pl:beylerbeyi",
+   "he": "בילרביי",
+   "en": "Beylerbeyi",
+   "desc": "quarter/palace on the Asian shore of Constantinople",
+   "kind": "quarter",
+   "parent": "pl:istanbul",
+   "keys": [
+    "בייגלר בי",
+    "בילרבי"
+   ],
+   "qid_auto": "Q853184",
+   "qid": "Q853184"
+  },
+  {
+   "id": "pl:beirut",
+   "he": "ביירות",
+   "en": "Beirut",
+   "desc": "port city in Ottoman Syria",
+   "kind": "city",
+   "parent": "pl:lebanon",
+   "keys": [
+    "ביירות",
+    "בירות"
+   ],
+   "qid_auto": "Q3820",
+   "qid": "Q3820"
+  },
+  {
+   "id": "pl:biel-bienne",
+   "he": "ביל",
+   "en": "Biel/Bienne",
+   "desc": "town in Switzerland",
+   "kind": "city",
+   "parent": "pl:switzerland",
+   "keys": [
+    "ביל"
+   ],
+   "qid_auto": "Q1034",
+   "qid": "Q1034"
+  },
+  {
+   "id": "pl:bilbao",
+   "he": "בילבאו",
+   "en": "Bilbao",
+   "desc": "city in the Basque Country, Spain",
+   "kind": "city",
+   "parent": "pl:spain",
+   "keys": [
+    "בילבאו",
+    "ביסקאיה (בילבאו)"
+   ],
+   "qid_auto": "Q8692",
+   "qid": "Q8692"
+  },
+  {
+   "id": "pl:bielsko-biala",
+   "he": "בילסקו",
+   "en": "Bielsko-Biała",
+   "desc": "Bielitz, town in Austrian Silesia",
+   "kind": "city",
+   "parent": "pl:austria-hungary",
+   "keys": [
+    "בילסקו",
+    "בילסקו (שלזיה האוסטרית)"
+   ],
+   "qid_auto": "Q106583",
+   "qid": "Q106583"
+  },
+  {
+   "id": "pl:beth-zur",
+   "he": "בית צור",
+   "en": "Beth Zur",
+   "desc": "ancient town in Judea (historical fiction)",
+   "kind": "ancient city",
+   "parent": "pl:judea",
+   "keys": [
+    "בית צור"
+   ],
+   "qid_auto": null,
+   "qid": "Q4897432"
+  },
+  {
+   "id": "pl:bled-hmar",
+   "he": "בלאד חמיאר",
+   "en": "Bled Hmar (unidentified)",
+   "desc": "unidentified place of study of Abd al-Hafid, Morocco",
+   "kind": "locality",
+   "parent": "pl:morocco",
+   "keys": [
+    "בלאד חמיאר"
+   ],
+   "qid": null
+  },
+  {
+   "id": "pl:blagoveshchensk",
+   "he": "בלגובשצ'נסק",
+   "en": "Blagoveshchensk",
+   "desc": "city on the Amur, Russian Far East",
+   "kind": "city",
+   "parent": "pl:siberia",
+   "keys": [
+    "בלגובשצנסק",
+    "בלגוושצנסק"
+   ],
+   "qid_auto": null,
+   "qid": "Q6934"
+  },
+  {
+   "id": "pl:belgium",
+   "he": "בלגיה",
+   "en": "Belgium",
+   "desc": "Kingdom of Belgium",
+   "kind": "country",
+   "keys": [
+    "בלגיה"
+   ],
+   "qid_auto": "Q31",
+   "qid": "Q31"
+  },
+  {
+   "id": "pl:belgrade",
+   "he": "בלגרד",
+   "en": "Belgrade",
+   "desc": "capital of Serbia",
+   "kind": "city",
+   "parent": "pl:serbia",
+   "keys": [
+    "בלגרד"
+   ],
+   "qid_auto": "Q3711",
+   "qid": "Q3711"
+  },
+  {
+   "id": "pl:bled-el-makhzen",
+   "he": "בלד אל-מח'זן",
+   "en": "Bled el-Makhzen",
+   "desc": "lands under the Moroccan government's control",
+   "kind": "region",
+   "parent": "pl:morocco",
+   "keys": [
+    "בלד אל מחזן"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "pl:bled-es-siba",
+   "he": "בלד א-סיבה",
+   "en": "Bled es-Siba",
+   "desc": "tribal lands outside government control, Morocco",
+   "kind": "region",
+   "parent": "pl:morocco",
+   "keys": [
+    "בלד אס סיבה"
+   ],
+   "qid_auto": "Q3482915",
+   "qid": "Q3482915"
+  },
+  {
+   "id": "pl:balta",
+   "he": "בלטה",
+   "en": "Balta",
+   "desc": "town in Podolia Governorate",
+   "kind": "city",
+   "parent": "pl:ukraine",
+   "keys": [
+    "בלטה"
+   ],
+   "qid_auto": null,
+   "qid": "Q805554"
+  },
+  {
+   "id": "pl:blida",
+   "he": "בלידה",
+   "en": "Blida",
+   "desc": "town in Algeria",
+   "kind": "city",
+   "parent": "pl:algeria",
+   "keys": [
+    "בליד��"
+   ],
+   "qid_auto": "Q216990",
+   "qid": "Q216990"
+  },
+  {
+   "id": "pl:belfast",
+   "he": "בלפסט",
+   "en": "Belfast",
+   "desc": "city in Ireland",
+   "kind": "city",
+   "parent": "pl:ireland",
+   "keys": [
+    "בלפאסט",
+    "בלפסט"
+   ],
+   "qid_auto": "Q10686",
+   "qid": "Q10686"
+  },
+  {
+   "id": "pl:balkans",
+   "he": "הבלקן",
+   "en": "Balkans",
+   "desc": "Balkan peninsula",
+   "kind": "region",
+   "parent": "pl:europe",
+   "keys": [
+    "בלקן",
+    "חצי האי הבלקני"
+   ],
+   "qid_auto": "Q23522",
+   "qid": "Q23522"
+  },
+  {
+   "id": "pl:benghazi",
+   "he": "בנגזי",
+   "en": "Benghazi",
+   "desc": "city in Cyrenaica",
+   "kind": "city",
+   "parent": "pl:libya",
+   "keys": [
+    "בנגאזי",
+    "בנגזי"
+   ],
+   "qid_auto": "Q40816",
+   "qid": "Q40816"
+  },
+  {
+   "id": "pl:bangkok",
+   "he": "בנגקוק",
+   "en": "Bangkok",
+   "desc": "capital of Siam",
+   "kind": "city",
+   "parent": "pl:siam",
+   "keys": [
+    "בנגקוק"
+   ],
+   "qid_auto": "Q1861",
+   "qid": "Q1861"
+  },
+  {
+   "id": "pl:bedzin",
+   "he": "בנדין",
+   "en": "Będzin",
+   "desc": "town in Piotrków Governorate",
+   "kind": "city",
+   "parent": "pl:poland",
+   "keys": [
+    "בנדין"
+   ],
+   "qid_auto": "Q461513",
+   "qid": "Q461513"
+  },
+  {
+   "id": "pl:bandar-e-gaz",
+   "he": "בנדר גז",
+   "en": "Bandar-e Gaz",
+   "desc": "Caspian port in Persia",
+   "kind": "city",
+   "parent": "pl:persia",
+   "keys": [
+    "בנדר גז"
+   ],
+   "qid_auto": "Q2161178",
+   "qid": "Q2161178"
+  },
+  {
+   "id": "pl:bessarabia",
+   "he": "בסרביה",
+   "en": "Bessarabia",
+   "desc": "governorate of the Russian Empire",
+   "kind": "region",
+   "parent": "pl:russian-empire",
+   "keys": [
+    "בסרביה"
+   ],
+   "qid_auto": "Q174994",
+   "qid": "Q174994"
+  },
+  {
+   "id": "pl:betshanovke",
+   "he": "בצ'נובקה",
+   "en": "Betshanovke (fictional)",
+   "desc": "fictional shtetl in a satirical feuilleton",
+   "kind": "fictional town",
+   "keys": [
+    "בצנובקה"
+   ],
+   "qid": null
+  },
+  {
+   "id": "pl:basra",
+   "he": "בצרה",
+   "en": "Basra",
+   "desc": "port city in Mesopotamia",
+   "kind": "city",
+   "parent": "pl:iraq",
+   "keys": [
+    "בצרה"
+   ],
+   "qid_auto": "Q48195",
+   "qid": "Q48195"
+  },
+  {
+   "id": "pl:braunschweig",
+   "he": "בראונשווייג",
+   "en": "Braunschweig",
+   "desc": "city / Duchy of Brunswick",
+   "kind": "city",
+   "parent": "pl:germany",
+   "keys": [
+    "בראונשווייג",
+    "ברונשוויג"
+   ],
+   "qid_auto": "Q2773",
+   "qid": "Q2773"
+  },
+  {
+   "id": "pl:branalnitsa",
+   "he": "בראנאלניצה",
+   "en": "Branalnitsa (unidentified)",
+   "desc": "unidentified locality in Macedonia (1913)",
+   "kind": "locality",
+   "parent": "pl:macedonia",
+   "keys": [
+    "בראנאלניצה"
+   ],
+   "qid": null
+  },
+  {
+   "id": "pl:bergen",
+   "he": "ברגן",
+   "en": "Bergen",
+   "desc": "city in Norway",
+   "kind": "city",
+   "parent": "pl:norway",
+   "keys": [
+    "ברגן"
+   ],
+   "qid_auto": "Q26793",
+   "qid": "Q26793"
+  },
+  {
+   "id": "pl:berdychiv",
+   "he": "ברדיצ'ב",
+   "en": "Berdychiv",
+   "desc": "town in Kiev Governorate",
+   "kind": "city",
+   "parent": "pl:ukraine",
+   "keys": [
+    "ברדיצב",
+    "בריטשוב"
+   ],
+   "qid_auto": "Q158799",
+   "qid": "Q158799"
+  },
+  {
+   "id": "pl:brody",
+   "he": "ברודי",
+   "en": "Brody",
+   "desc": "town in eastern Galicia",
+   "kind": "city",
+   "parent": "pl:galicia-eastern-europe",
+   "keys": [
+    "ברודי"
+   ],
+   "qid_auto": null,
+   "qid": "Q465104"
+  },
+  {
+   "id": "pl:bydgoszcz",
+   "he": "בידגושץ' (ברומברג)",
+   "en": "Bydgoszcz",
+   "desc": "Bromberg, town in Prussian Posen",
+   "kind": "city",
+   "parent": "pl:germany",
+   "keys": [
+    "ברומברג"
+   ],
+   "qid_auto": "Q41252",
+   "qid": "Q41252"
+  },
+  {
+   "id": "pl:brooklyn",
+   "he": "ברוקלין",
+   "en": "Brooklyn",
+   "desc": "borough of New York City",
+   "kind": "quarter",
+   "parent": "pl:new-york-city",
+   "keys": [
+    "ברוקלין"
+   ],
+   "qid_auto": "Q18419",
+   "qid": "Q18419"
+  },
+  {
+   "id": "pl:bryansk",
+   "he": "בריאנסק",
+   "en": "Bryansk",
+   "desc": "city in Oryol Governorate",
+   "kind": "city",
+   "parent": "pl:russian-empire",
+   "keys": [
+    "בריאנסק"
+   ],
+   "qid_auto": "Q2801",
+   "qid": "Q2801"
+  },
+  {
+   "id": "pl:brizan",
+   "he": "בריזאן",
+   "en": "Brizan (unidentified)",
+   "desc": "unidentified locality on the Macedonian front (1916)",
+   "kind": "locality",
+   "parent": "pl:macedonia",
+   "keys": [
+    "בריזאן"
+   ],
+   "qid": null
+  },
+  {
+   "id": "pl:british-columbia",
+   "he": "קולומביה הבריטית",
+   "en": "British Columbia",
+   "desc": "province of Canada",
+   "kind": "region",
+   "parent": "pl:canada",
+   "keys": [
+    "בריטיש קולומביה"
+   ],
+   "qid_auto": "Q1973",
+   "qid": "Q1973"
+  },
+  {
+   "id": "pl:brindisi",
+   "he": "ברינדיזי",
+   "en": "Brindisi",
+   "desc": "port city in Apulia",
+   "kind": "city",
+   "parent": "pl:apulia",
+   "keys": [
+    "בריינדיזי",
+    "ברינדיזי"
+   ],
+   "qid_auto": "Q13496",
+   "qid": "Q13496"
+  },
+  {
+   "id": "pl:brussels",
+   "he": "בריסל",
+   "en": "Brussels",
+   "desc": "capital of Belgium",
+   "kind": "city",
+   "parent": "pl:belgium",
+   "keys": [
+    "בריסל"
+   ],
+   "qid_auto": "Q239",
+   "qid": "Q239"
+  },
+  {
+   "id": "pl:brest-belarus",
+   "he": "בריסק (ברסט-ליטובסק)",
+   "en": "Brest, Belarus",
+   "desc": "Brest-Litovsk, fortress city in Grodno Governorate",
+   "kind": "city",
+   "parent": "pl:russian-empire",
+   "keys": [
+    "בריסק",
+    "ברסט ליטובסק"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "pl:brest-france",
+   "he": "ברסט (צרפת)",
+   "en": "Brest, France",
+   "desc": "naval port in Brittany",
+   "kind": "city",
+   "parent": "pl:france",
+   "keys": [],
+   "qid_auto": "Q3152003",
+   "qid": null
+  },
+  {
+   "id": "pl:berlin",
+   "he": "ברלין",
+   "en": "Berlin",
+   "desc": "capital of Germany",
+   "kind": "city",
+   "parent": "pl:germany",
+   "keys": [
+    "ברלין"
+   ],
+   "qid_auto": "Q64",
+   "qid": "Q64"
+  },
+  {
+   "id": "pl:bremen",
+   "he": "ברמן",
+   "en": "Bremen",
+   "desc": "city-state in Germany",
+   "kind": "city",
+   "parent": "pl:germany",
+   "keys": [
+    "ברמן"
+   ],
+   "qid_auto": null,
+   "qid": "Q24879"
+  },
+  {
+   "id": "pl:bern",
+   "he": "ברן",
+   "en": "Bern",
+   "desc": "capital of Switzerland",
+   "kind": "city",
+   "parent": "pl:switzerland",
+   "keys": [
+    "ברן"
+   ],
+   "qid_auto": null,
+   "qid": "Q70"
+  },
+  {
+   "id": "pl:brno",
+   "he": "ברנו",
+   "en": "Brno",
+   "desc": "Brünn, capital of Moravia",
+   "kind": "city",
+   "parent": "pl:austria-hungary",
+   "keys": [
+    "ברנו"
+   ],
+   "qid_auto": "Q14960",
+   "qid": "Q14960"
+  },
+  {
+   "id": "pl:bransk",
+   "he": "ברנסק",
+   "en": "Brańsk",
+   "desc": "town in Grodno Governorate",
+   "kind": "city",
+   "parent": "pl:poland",
+   "keys": [
+    "ברנסק"
+   ],
+   "qid_auto": null,
+   "qid": "Q607410"
+  },
+  {
+   "id": "pl:braila",
+   "he": "בראילה",
+   "en": "Brăila",
+   "desc": "Danube port in Romania",
+   "kind": "city",
+   "parent": "pl:romania",
+   "keys": [
+    "ברעילה"
+   ],
+   "qid_auto": "Q188478",
+   "qid": "Q188478"
+  },
+  {
+   "id": "pl:barcelona",
+   "he": "ברצלונה",
+   "en": "Barcelona",
+   "desc": "city in Catalonia, Spain",
+   "kind": "city",
+   "parent": "pl:spain",
+   "keys": [
+    "ברצלונה"
+   ],
+   "qid_auto": "Q1492",
+   "qid": "Q1492"
+  },
+  {
+   "id": "pl:berat",
+   "he": "ברט",
+   "en": "Berat",
+   "desc": "town in southern Albania",
+   "kind": "city",
+   "parent": "pl:albania",
+   "keys": [
+    "ברת"
+   ],
+   "qid_auto": "Q170244",
+   "qid": "Q170244"
+  },
+  {
+   "id": "pl:besiktas",
+   "he": "בשיקטאש",
+   "en": "Beşiktaş",
+   "desc": "quarter of Constantinople",
+   "kind": "quarter",
+   "parent": "pl:istanbul",
+   "keys": [
+    "בשיקטאש"
+   ],
+   "qid_auto": "Q459495",
+   "qid": "Q459495"
+  },
+  {
+   "id": "pl:java",
+   "he": "ג'אווה",
+   "en": "Java",
+   "desc": "island in the Dutch East Indies",
+   "kind": "island",
+   "parent": "pl:dutch-east-indies",
+   "keys": [
+    "גאווה",
+    "יאווה"
+   ],
+   "qid_auto": "Q3757",
+   "qid": "Q3757"
+  },
+  {
+   "id": "pl:georgia-country",
+   "he": "גאורגיה (גרוזיה)",
+   "en": "Georgia (country)",
+   "desc": "Georgia (Gruzia), Caucasus",
+   "kind": "region",
+   "parent": "pl:caucasus",
+   "keys": [
+    "גאורגיה",
+    "גרוזיה"
+   ],
+   "qid_auto": "Q230",
+   "qid": "Q230"
+  },
+  {
+   "id": "pl:georgia-us-state",
+   "he": "ג'ורג'יה (ארצות הברית)",
+   "en": "Georgia (U.S. state)",
+   "desc": "US state",
+   "kind": "region",
+   "parent": "pl:united-states",
+   "keys": [
+    "גורגיה"
+   ],
+   "qid_auto": null,
+   "qid": "Q1428"
+  },
+  {
+   "id": "pl:gavarams",
+   "he": "גבארמס",
+   "en": "Gavarams (unidentified)",
+   "desc": "unidentified locality (1911)",
+   "kind": "locality",
+   "keys": [
+    "גבארמס"
+   ],
+   "qid": null
+  },
+  {
+   "id": "pl:hill-1050",
+   "he": "גבעה 1050",
+   "en": "Hill 1050",
+   "desc": "height on the Macedonian front near Bitola (1916)",
+   "kind": "hill",
+   "parent": "pl:macedonia",
+   "keys": [
+    "גבעה 1050"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "pl:jeddah",
+   "he": "ג'דה",
+   "en": "Jeddah",
+   "desc": "Red Sea port in the Hejaz",
+   "kind": "city",
+   "parent": "pl:hejaz",
+   "keys": [
+    "גדה"
+   ],
+   "qid_auto": "Q374365",
+   "qid": "Q374365"
+  },
+  {
+   "id": "pl:vistula-land",
+   "he": "ארץ הוויסלה",
+   "en": "Vistula Land",
+   "desc": "the Polish (Vistula) governorates of the Russian Empire",
+   "kind": "region",
+   "parent": "pl:poland",
+   "keys": [
+    "גובירניות הוויסלה"
+   ],
+   "qid_auto": "Q2068091",
+   "qid": "Q2068091"
+  },
+  {
+   "id": "pl:volhynia",
+   "he": "וולין",
+   "en": "Volhynia",
+   "desc": "Volhynian Governorate, Russian Empire",
+   "kind": "region",
+   "parent": "pl:ukraine",
+   "keys": [
+    "גובמרניית וולין",
+    "גפרניה וולין",
+    "וולהיניה",
+    "וולין"
+   ],
+   "qid_auto": "Q7530",
+   "qid": "Q1333965"
+  },
+  {
+   "id": "pl:tambov-governorate",
+   "he": "פלך טמבוב",
+   "en": "Tambov Governorate",
+   "desc": "governorate of the Russian Empire",
+   "kind": "region",
+   "parent": "pl:russian-empire",
+   "keys": [
+    "גובמרניית טמבוב"
+   ],
+   "qid_auto": "Q1540306",
+   "qid": "Q1540306"
+  },
+  {
+   "id": "pl:kholm-governorate",
+   "he": "פלך חלם",
+   "en": "Kholm Governorate",
+   "desc": "Chełm governorate created 1912 from Lublin and Siedlce",
+   "kind": "region",
+   "parent": "pl:poland",
+   "keys": [
+    "גוברניית חולם",
+    "חולם",
+    "חלם"
+   ],
+   "qid_auto": "Q2371767",
+   "qid": "Q2371767"
+  },
+  {
+   "id": "pl:tomsk-governorate",
+   "he": "פלך טומסק",
+   "en": "Tomsk Governorate",
+   "desc": "governorate in Siberia",
+   "kind": "region",
+   "parent": "pl:siberia",
+   "keys": [
+    "גוברניית טומסק"
+   ],
+   "qid_auto": "Q1378406",
+   "qid": "Q1378406"
+  },
+  {
+   "id": "pl:tiflis-governorate",
+   "he": "פלך טיפליס",
+   "en": "Tiflis Governorate",
+   "desc": "governorate in the Caucasus",
+   "kind": "region",
+   "parent": "pl:caucasus",
+   "keys": [
+    "גוברניית טיפליס"
+   ],
+   "qid_auto": "Q1773517",
+   "qid": "Q1773517"
+  },
+  {
+   "id": "pl:lublin-governorate",
+   "he": "פלך לובלין",
+   "en": "Lublin Governorate",
+   "desc": "governorate of Congress Poland",
+   "kind": "region",
+   "parent": "pl:poland",
+   "keys": [
+    "גוברניית לובלין"
+   ],
+   "qid_auto": "Q2620729",
+   "qid": "Q2620729"
+  },
+  {
+   "id": "pl:governorate-of-livonia",
+   "he": "פלך ליפלנד",
+   "en": "Governorate of Livonia",
+   "desc": "Baltic governorate of the Russian Empire",
+   "kind": "region",
+   "parent": "pl:russian-empire",
+   "keys": [
+    "גוברניית ליפלנד"
+   ],
+   "qid_auto": null,
+   "qid": "Q1419584"
+  },
+  {
+   "id": "pl:siedlce-governorate",
+   "he": "פלך שדלצה",
+   "en": "Siedlce Governorate",
+   "desc": "governorate of Congress Poland",
+   "kind": "region",
+   "parent": "pl:poland",
+   "keys": [
+    "גוברניית סיידלצה"
+   ],
+   "qid_auto": "Q2473698",
+   "qid": "Q2473698"
+  },
+  {
+   "id": "pl:gusev",
+   "he": "גומבינן",
+   "en": "Gusev",
+   "desc": "Gumbinnen, town in East Prussia (1914 battle)",
+   "kind": "city",
+   "parent": "pl:east-prussia",
+   "keys": [
+    "גומבינן"
+   ],
+   "qid_auto": null,
+   "qid": "Q5663"
+  },
+  {
+   "id": "pl:gomel",
+   "he": "הומל",
+   "en": "Gomel",
+   "desc": "town in Mogilev Governorate",
+   "kind": "city",
+   "parent": "pl:russian-empire",
+   "keys": [
+    "גומל",
+    "ומל"
+   ],
+   "qid_auto": "Q2678",
+   "qid": "Q2678"
+  },
+  {
+   "id": "pl:gongzhuling",
+   "he": "גונג'ולין",
+   "en": "Gongzhuling",
+   "desc": "town in Manchuria (Russo-Japanese War)",
+   "kind": "city",
+   "parent": "pl:manchuria",
+   "keys": [
+    "גונגולין"
+   ],
+   "qid_auto": "Q1207108",
+   "qid": "Q1207108"
+  },
+  {
+   "id": "pl:gusinje",
+   "he": "גוסיניה",
+   "en": "Gusinje",
+   "desc": "town in the Albanian–Montenegrin highlands",
+   "kind": "city",
+   "parent": "pl:montenegro",
+   "keys": [
+    "גוסינייה"
+   ],
+   "qid_auto": "Q1555366",
+   "qid": "Q1555366"
+  },
+  {
+   "id": "pl:guria",
+   "he": "גוריה",
+   "en": "Guria",
+   "desc": "region in western Georgia",
+   "kind": "region",
+   "parent": "pl:georgia-country",
+   "keys": [
+    "גוריה"
+   ],
+   "qid_auto": "Q19038",
+   "qid": "Q19038"
+  },
+  {
+   "id": "pl:gorizia",
+   "he": "גוריציה",
+   "en": "Gorizia",
+   "desc": "Görz, town on the Isonzo front",
+   "kind": "city",
+   "parent": "pl:austria-hungary",
+   "keys": [
+    "גוריציה"
+   ],
+   "qid_auto": "Q6596",
+   "qid": "Q6596"
+  },
+  {
+   "id": "pl:gezer",
+   "he": "גזר",
+   "en": "Gezer",
+   "desc": "ancient site in Ottoman Palestine",
+   "kind": "site",
+   "parent": "pl:ottoman-palestine",
+   "keys": [
+    "גזר"
+   ],
+   "qid_auto": "Q1466687",
+   "qid": "Q1466687"
+  },
+  {
+   "id": "pl:djibouti",
+   "he": "ג'יבוטי",
+   "en": "Djibouti",
+   "desc": "port of French Somaliland",
+   "kind": "city",
+   "parent": "pl:africa",
+   "keys": [
+    "גיבוטי"
+   ],
+   "qid_auto": null,
+   "qid": "Q3604"
+  },
+  {
+   "id": "pl:gibraltar",
+   "he": "גיברלטר",
+   "en": "Gibraltar",
+   "desc": "British territory in southern Spain",
+   "kind": "city",
+   "parent": "pl:united-kingdom",
+   "keys": [
+    "גיברלטר"
+   ],
+   "qid_auto": "Q1410",
+   "qid": "Q1410"
+  },
+  {
+   "id": "pl:komotini",
+   "he": "קומוטיני (גימולג'ינה)",
+   "en": "Komotini",
+   "desc": "Gümülcine, town in Western Thrace",
+   "kind": "city",
+   "parent": "pl:thrace",
+   "keys": [
+    "גימולגינה"
+   ],
+   "qid_auto": "Q208403",
+   "qid": "Q208403"
+  },
+  {
+   "id": "pl:galata",
+   "he": "גלאטה",
+   "en": "Galata",
+   "desc": "quarter of Constantinople",
+   "kind": "quarter",
+   "parent": "pl:istanbul",
+   "keys": [
+    "גלאטה",
+    "גלטה"
+   ],
+   "qid_auto": null,
+   "qid": "Q501817"
+  },
+  {
+   "id": "pl:galati",
+   "he": "גלאץ",
+   "en": "Galați",
+   "desc": "Danube port in Romania",
+   "kind": "city",
+   "parent": "pl:romania",
+   "keys": [
+    "גלאץ"
+   ],
+   "qid_auto": "Q170996",
+   "qid": "Q170996"
+  },
+  {
+   "id": "pl:galveston",
+   "he": "גלווסטון",
+   "en": "Galveston, Texas",
+   "desc": "port city in Texas (Jewish immigration)",
+   "kind": "city",
+   "parent": "pl:united-states",
+   "keys": [
+    "גלווסטון",
+    "גלוסטון"
+   ],
+   "qid_auto": "Q135744",
+   "qid": "Q135744"
+  },
+  {
+   "id": "pl:hlukhiv",
+   "he": "גלוכוב",
+   "en": "Hlukhiv",
+   "desc": "town in Chernigov Governorate",
+   "kind": "city",
+   "parent": "pl:ukraine",
+   "keys": [
+    "גלוכוב"
+   ],
+   "qid_auto": "Q864827",
+   "qid": "Q864827"
+  },
+  {
+   "id": "pl:glasgow",
+   "he": "גלזגו",
+   "en": "Glasgow",
+   "desc": "city in Scotland",
+   "kind": "city",
+   "parent": "pl:united-kingdom",
+   "keys": [
+    "גלזגו"
+   ],
+   "qid_auto": "Q4093",
+   "qid": "Q4093"
+  },
+  {
+   "id": "pl:galilee",
+   "he": "הגליל",
+   "en": "Galilee",
+   "desc": "region of northern Palestine",
+   "kind": "region",
+   "parent": "pl:ottoman-palestine",
+   "keys": [
+    "גליל"
+   ],
+   "qid_auto": "Q83241",
+   "qid": "Q83241"
+  },
+  {
+   "id": "pl:gallipoli",
+   "he": "גליפולי",
+   "en": "Gallipoli",
+   "desc": "town / peninsula on the Dardanelles",
+   "kind": "city",
+   "parent": "pl:thrace",
+   "keys": [
+    "גליפולי"
+   ],
+   "qid_auto": null,
+   "qid": "Q216907"
+  },
+  {
+   "id": "pl:galicia-eastern-europe",
+   "he": "גליציה",
+   "en": "Galicia (Eastern Europe)",
+   "desc": "Austrian crown land",
+   "kind": "region",
+   "parent": "pl:austria-hungary",
+   "keys": [
+    "גליציה"
+   ],
+   "qid_auto": null,
+   "qid": "Q180086"
+  },
+  {
+   "id": "pl:western-galicia",
+   "he": "גליציה המערבית",
+   "en": "Western Galicia",
+   "desc": "western part of Galicia",
+   "kind": "region",
+   "parent": "pl:galicia-eastern-europe",
+   "keys": [
+    "גליציה המערבית"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "pl:jamaica",
+   "he": "ג'מייקה",
+   "en": "Jamaica",
+   "desc": "British colony in the Caribbean",
+   "kind": "island",
+   "parent": "pl:west-indies",
+   "keys": [
+    "גמייקה"
+   ],
+   "qid_auto": "Q766",
+   "qid": "Q2526023"
+  },
+  {
+   "id": "pl:gamla",
+   "he": "גמלא",
+   "en": "Gamla",
+   "desc": "ancient Jewish town in the Golan (historical fiction)",
+   "kind": "ancient city",
+   "parent": "pl:syria",
+   "keys": [
+    "גמלא"
+   ],
+   "qid_auto": "Q1493165",
+   "qid": "Q1493165"
+  },
+  {
+   "id": "pl:atabak-park",
+   "he": "גן אטאבק",
+   "en": "Atabak Park",
+   "desc": "park/palace in Tehran (1910 fighting)",
+   "kind": "park",
+   "parent": "pl:tehran",
+   "keys": [
+    "גן אטאבאק"
+   ],
+   "qid_auto": "Q16047692",
+   "qid": "Q16047692"
+  },
+  {
+   "id": "pl:genoa",
+   "he": "גנואה",
+   "en": "Genoa",
+   "desc": "port city in Italy",
+   "kind": "city",
+   "parent": "pl:italy",
+   "keys": [
+    "גנואה"
+   ],
+   "qid_auto": "Q1449",
+   "qid": "Q1449"
+  },
+  {
+   "id": "pl:vilna-governorate",
+   "he": "פלך וילנה",
+   "en": "Vilna Governorate",
+   "desc": "governorate of the Russian Empire",
+   "kind": "region",
+   "parent": "pl:lithuania",
+   "keys": [
+    "גפרניית וילנה"
+   ],
+   "qid_auto": "Q279583",
+   "qid": "Q279583"
+  },
+  {
+   "id": "pl:graz",
+   "he": "גראץ",
+   "en": "Graz",
+   "desc": "capital of Styria",
+   "kind": "city",
+   "parent": "pl:austria-hungary",
+   "keys": [
+    "גראץ"
+   ],
+   "qid_auto": "Q13298",
+   "qid": "Q13298"
+  },
+  {
+   "id": "pl:grodno",
+   "he": "גרודנו",
+   "en": "Grodno",
+   "desc": "city in the Grodno Governorate",
+   "kind": "city",
+   "parent": "pl:russian-empire",
+   "keys": [
+    "גרודנו"
+   ],
+   "qid_auto": "Q181376",
+   "qid": "Q181376"
+  },
+  {
+   "id": "pl:grozny",
+   "he": "גרוזני",
+   "en": "Grozny",
+   "desc": "town in Terek Oblast (oil)",
+   "kind": "city",
+   "parent": "pl:caucasus",
+   "keys": [
+    "גרוזני"
+   ],
+   "qid_auto": "Q5196",
+   "qid": "Q5196"
+  },
+  {
+   "id": "pl:oradea",
+   "he": "אורדיה (גרוסוורדיין)",
+   "en": "Oradea",
+   "desc": "Grosswardein / Nagyvárad, Hungary",
+   "kind": "city",
+   "parent": "pl:hungary",
+   "keys": [
+    "גרוסוורדיין"
+   ],
+   "qid_auto": "Q93358",
+   "qid": "Q93358"
+  },
+  {
+   "id": "pl:greenwich",
+   "he": "גריניץ'",
+   "en": "Greenwich",
+   "desc": "district of London",
+   "kind": "quarter",
+   "parent": "pl:london",
+   "keys": [
+    "גריניץ"
+   ],
+   "qid_auto": null,
+   "qid": "Q179385"
+  },
+  {
+   "id": "pl:germany",
+   "he": "גרמניה",
+   "en": "Germany",
+   "desc": "German Empire",
+   "kind": "country",
+   "keys": [
+    "גרמניה"
+   ],
+   "qid_auto": "Q183",
+   "qid": "Q1206012"
+  },
+  {
+   "id": "pl:dahomey",
+   "he": "דהומיי",
+   "en": "Dahomey",
+   "desc": "French colony in West Africa",
+   "kind": "country",
+   "parent": "pl:africa",
+   "keys": [
+    "דאהומי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "pl:dhaka",
+   "he": "דאקה",
+   "en": "Dhaka",
+   "desc": "city in Bengal, British India",
+   "kind": "city",
+   "parent": "pl:india",
+   "keys": [
+    "דאקה"
+   ],
+   "qid_auto": "Q1354",
+   "qid": "Q1354"
+  },
+  {
+   "id": "pl:casablanca",
+   "he": "קזבלנקה",
+   "en": "Casablanca",
+   "desc": "port city in Morocco (Dar el-Beida)",
+   "kind": "city",
+   "parent": "pl:morocco",
+   "keys": [
+    "דאר אל בידא"
+   ],
+   "qid_auto": "Q7903",
+   "qid": "Q7903"
+  },
+  {
+   "id": "pl:dublin",
+   "he": "דבלין",
+   "en": "Dublin",
+   "desc": "capital of Ireland",
+   "kind": "city",
+   "parent": "pl:ireland",
+   "keys": [
+    "דבלין"
+   ],
+   "qid_auto": "Q1761",
+   "qid": "Q1761"
+  },
+  {
+   "id": "pl:alexandroupolis",
+   "he": "אלכסנדרופוליס (דדה אגאץ')",
+   "en": "Alexandroupolis",
+   "desc": "Dedeağaç, port in Western Thrace",
+   "kind": "city",
+   "parent": "pl:thrace",
+   "keys": [
+    "דדה אגאץ",
+    "ים האדום (רדגאטש)"
+   ],
+   "qid_auto": "Q190847",
+   "qid": "Q190847"
+  },
+  {
+   "id": "pl:dharamshala",
+   "he": "דרמסאלה",
+   "en": "Dharamshala",
+   "desc": "town in British India (1905 earthquake)",
+   "kind": "city",
+   "parent": "pl:india",
+   "keys": [
+    "דהרמסאלה"
+   ],
+   "qid_auto": "Q186182",
+   "qid": "Q186182"
+  },
+  {
+   "id": "pl:dubasari",
+   "he": "דובסרי",
+   "en": "Dubăsari",
+   "desc": "Dubossary, town in Kherson Governorate (1903 blood libel)",
+   "kind": "city",
+   "parent": "pl:ukraine",
+   "keys": [
+    "דובוסרי"
+   ],
+   "qid_auto": "Q688654",
+   "qid": "Q688654"
+  },
+  {
+   "id": "pl:dover",
+   "he": "דובר",
+   "en": "Dover",
+   "desc": "port town in England",
+   "kind": "city",
+   "parent": "pl:united-kingdom",
+   "keys": [
+    "דובר"
+   ],
+   "qid_auto": null,
+   "qid": "Q179224"
+  },
+  {
+   "id": "pl:dobro-pole",
+   "he": "דוברו פולה",
+   "en": "Dobro Pole",
+   "desc": "mountain on the Macedonian front",
+   "kind": "mountain",
+   "parent": "pl:macedonia",
+   "keys": [
+    "דוברה פולייה"
+   ],
+   "qid_auto": "Q20935903",
+   "qid": "Q20935903"
+  },
+  {
+   "id": "pl:dobruja",
+   "he": "דוברוג'ה",
+   "en": "Dobruja",
+   "desc": "region between the Danube and the Black Sea",
+   "kind": "region",
+   "parent": "pl:romania",
+   "keys": [
+    "דוברוגה"
+   ],
+   "qid_auto": "Q182660",
+   "qid": "Q182660"
+  },
+  {
+   "id": "pl:daugavpils",
+   "he": "דווינסק",
+   "en": "Daugavpils",
+   "desc": "Dvinsk, city in Vitebsk Governorate",
+   "kind": "city",
+   "parent": "pl:russian-empire",
+   "keys": [
+    "דווינסק"
+   ],
+   "qid_auto": "Q80021",
+   "qid": "Q80021"
+  },
+  {
+   "id": "pl:dum-dum",
+   "he": "דום דום",
+   "en": "Dum Dum",
+   "desc": "town near Calcutta, India",
+   "kind": "city",
+   "parent": "pl:india",
+   "keys": [
+    "דום דום"
+   ],
+   "qid_auto": "Q649955",
+   "qid": "Q649955"
+  },
+  {
+   "id": "pl:durres",
+   "he": "דורס (דוראצו)",
+   "en": "Durrës",
+   "desc": "Durazzo, Albanian port",
+   "kind": "city",
+   "parent": "pl:albania",
+   "keys": [
+    "דוראצו",
+    "דורצו"
+   ],
+   "qid_auto": "Q83285",
+   "qid": "Q83285"
+  },
+  {
+   "id": "pl:detroit",
+   "he": "דטרויט",
+   "en": "Detroit",
+   "desc": "city in Michigan, US",
+   "kind": "city",
+   "parent": "pl:united-states",
+   "keys": [
+    "דטרויט"
+   ],
+   "qid_auto": "Q12439",
+   "qid": "Q12439"
+  },
+  {
+   "id": "pl:gjakova",
+   "he": "ג'אקובה",
+   "en": "Gjakova",
+   "desc": "Djakova, town in Kosovo",
+   "kind": "city",
+   "parent": "pl:kosovo",
+   "keys": [
+    "דיאקובה"
+   ],
+   "qid_auto": "Q474651",
+   "qid": "Q474651"
+  },
+  {
+   "id": "pl:debar",
+   "he": "דבאר (דיברה)",
+   "en": "Debar",
+   "desc": "Dibra, town in western Macedonia",
+   "kind": "city",
+   "parent": "pl:macedonia",
+   "keys": [
+    "דיברה"
+   ],
+   "qid_auto": "Q689820",
+   "qid": "Q689820"
+  },
+  {
+   "id": "pl:deal-kent",
+   "he": "דיל",
+   "en": "Deal, Kent",
+   "desc": "seaside town in Kent, England (Jewish Lads' Brigade camp)",
+   "kind": "city",
+   "parent": "pl:united-kingdom",
+   "keys": [
+    "דיל"
+   ],
+   "qid_auto": "Q1011096",
+   "qid": "Q1011096"
+  },
+  {
+   "id": "pl:dusseldorf",
+   "he": "דיסלדורף",
+   "en": "Düsseldorf",
+   "desc": "city in Rhine Province",
+   "kind": "city",
+   "parent": "pl:germany",
+   "keys": [
+    "דיסלדורף"
+   ],
+   "qid_auto": "Q1718",
+   "qid": "Q1718"
+  },
+  {
+   "id": "pl:delhi",
+   "he": "דלהי",
+   "en": "Delhi",
+   "desc": "city in British India",
+   "kind": "city",
+   "parent": "pl:india",
+   "keys": [
+    "דלהי"
+   ],
+   "qid_auto": "Q1353",
+   "qid": "Q1353"
+  },
+  {
+   "id": "pl:sidirokastro",
+   "he": "סידירוקסטרו (דמיר חיסאר)",
+   "en": "Sidirokastro",
+   "desc": "Demir Hisar, town in Macedonia",
+   "kind": "city",
+   "parent": "pl:macedonia",
+   "keys": [
+    "דמיר חיסאר"
+   ],
+   "qid_auto": "Q1018794",
+   "qid": "Q1018794"
+  },
+  {
+   "id": "pl:demir-kapija",
+   "he": "דמיר קאפיה",
+   "en": "Demir Kapija",
+   "desc": "gorge and village on the Vardar",
+   "kind": "village",
+   "parent": "pl:macedonia",
+   "keys": [
+    "דמיר קאפו"
+   ],
+   "qid_auto": "Q1014699",
+   "qid": "Q1014699"
+  },
+  {
+   "id": "pl:damanhur",
+   "he": "דמנהור",
+   "en": "Damanhur",
+   "desc": "town in the Nile Delta, Egypt",
+   "kind": "city",
+   "parent": "pl:egypt",
+   "keys": [
+    "דמנהור"
+   ],
+   "qid_auto": "Q328153",
+   "qid": "Q328153"
+  },
+  {
+   "id": "pl:damascus",
+   "he": "דמשק",
+   "en": "Damascus",
+   "desc": "city in Ottoman Syria",
+   "kind": "city",
+   "parent": "pl:syria",
+   "keys": [
+    "דמשק"
+   ],
+   "qid_auto": "Q3766",
+   "qid": "Q3766"
+  },
+  {
+   "id": "pl:denver",
+   "he": "דנוור",
+   "en": "Denver",
+   "desc": "city in Colorado, US",
+   "kind": "city",
+   "parent": "pl:united-states",
+   "keys": [
+    "דנבר"
+   ],
+   "qid_auto": "Q16554",
+   "qid": "Q16554"
+  },
+  {
+   "id": "pl:danube",
+   "he": "הדנובה",
+   "en": "Danube",
+   "desc": "river",
+   "kind": "river",
+   "parent": "pl:europe",
+   "keys": [
+    "דנובה"
+   ],
+   "qid_auto": "Q1653",
+   "qid": "Q1653"
+  },
+  {
+   "id": "pl:dnieper",
+   "he": "הדנייפר",
+   "en": "Dnieper",
+   "desc": "river",
+   "kind": "river",
+   "parent": "pl:russian-empire",
+   "keys": [
+    "דנייפר"
+   ],
+   "qid_auto": "Q40855",
+   "qid": "Q40855"
+  },
+  {
+   "id": "pl:denmark",
+   "he": "דנמרק",
+   "en": "Denmark",
+   "desc": "Kingdom of Denmark",
+   "kind": "country",
+   "keys": [
+    "דנמרק"
+   ],
+   "qid_auto": "Q35",
+   "qid": "Q35"
+  },
+  {
+   "id": "pl:gdansk",
+   "he": "גדנסק (דנציג)",
+   "en": "Gdańsk",
+   "desc": "Danzig, port in West Prussia",
+   "kind": "city",
+   "parent": "pl:germany",
+   "keys": [
+    "דנציג"
+   ],
+   "qid_auto": "Q1792",
+   "qid": "Q1792"
+  },
+  {
+   "id": "pl:desouk",
+   "he": "דסוק",
+   "en": "Desouk",
+   "desc": "town in the Nile Delta, Egypt",
+   "kind": "city",
+   "parent": "pl:egypt",
+   "keys": [
+    "דסוק"
+   ],
+   "qid_auto": "Q395863",
+   "qid": "Q395863"
+  },
+  {
+   "id": "pl:drama-greece",
+   "he": "דראמה",
+   "en": "Drama, Greece",
+   "desc": "town in eastern Macedonia",
+   "kind": "city",
+   "parent": "pl:macedonia",
+   "keys": [
+    "דראמה"
+   ],
+   "qid_auto": "Q212841",
+   "qid": "Q212841"
+  },
+  {
+   "id": "pl:darjeeling",
+   "he": "דרג'ילינג",
+   "en": "Darjeeling",
+   "desc": "hill town in Bengal, India",
+   "kind": "city",
+   "parent": "pl:india",
+   "keys": [
+    "דרגילינג"
+   ],
+   "qid_auto": null,
+   "qid": "Q169997"
+  },
+  {
+   "id": "pl:dardanelles",
+   "he": "הדרדנלים",
+   "en": "Dardanelles",
+   "desc": "strait between the Aegean and the Sea of Marmara",
+   "kind": "strait",
+   "parent": "pl:ottoman-empire",
+   "keys": [
+    "דרדנלים"
+   ],
+   "qid_auto": "Q6514",
+   "qid": "Q6514"
+  },
+  {
+   "id": "pl:drohobych",
+   "he": "דרוהוביץ'",
+   "en": "Drohobych",
+   "desc": "oil town in eastern Galicia",
+   "kind": "city",
+   "parent": "pl:galicia-eastern-europe",
+   "keys": [
+    "דרהביץ",
+    "דרוהוביץ"
+   ],
+   "qid_auto": "Q158821",
+   "qid": "Q158821"
+  },
+  {
+   "id": "pl:southern-italy",
+   "he": "דרום איטליה",
+   "en": "Southern Italy",
+   "desc": "southern regions of Italy",
+   "kind": "region",
+   "parent": "pl:italy",
+   "keys": [
+    "דרום איטליה"
+   ],
+   "qid_auto": "Q207989",
+   "qid": "Q207989"
+  },
+  {
+   "id": "pl:southern-europe",
+   "he": "דרום אירופה",
+   "en": "Southern Europe",
+   "desc": "region",
+   "kind": "region",
+   "parent": "pl:europe",
+   "keys": [
+    "דרום אירופה"
+   ],
+   "qid_auto": "Q27449",
+   "qid": "Q27449"
+  },
+  {
+   "id": "pl:southern-albania",
+   "he": "דרום אלבניה",
+   "en": "Southern Albania",
+   "desc": "southern Albania / Northern Epirus",
+   "kind": "region",
+   "parent": "pl:albania",
+   "keys": [
+    "דרום אלבניה"
+   ],
+   "qid_auto": "Q13046908",
+   "qid": "Q13046908"
+  },
+  {
+   "id": "pl:south-america",
+   "he": "דרום אמריקה",
+   "en": "South America",
+   "desc": "continent",
+   "kind": "continent",
+   "keys": [
+    "דרום אמריקה"
+   ],
+   "qid_auto": "Q18",
+   "qid": "Q18"
+  },
+  {
+   "id": "pl:south-africa",
+   "he": "דרום אפריקה",
+   "en": "South Africa",
+   "desc": "South Africa (Union from 1910)",
+   "kind": "country",
+   "parent": "pl:africa",
+   "keys": [
+    "דרום אפריקה"
+   ],
+   "qid_auto": "Q258",
+   "qid": "Q193619"
+  },
+  {
+   "id": "pl:southern-bulgaria",
+   "he": "דרום בולגריה",
+   "en": "Southern Bulgaria",
+   "desc": "southern Bulgaria (Eastern Rumelia)",
+   "kind": "region",
+   "parent": "pl:bulgaria",
+   "keys": [
+    "דרום בולגריה"
+   ],
+   "qid_auto": "Q3447801",
+   "qid": "Q3447801"
+  },
+  {
+   "id": "pl:southern-morocco",
+   "he": "דרום מרוקו",
+   "en": "Southern Morocco",
+   "desc": "southern Morocco (Sous, Marrakesh region)",
+   "kind": "region",
+   "parent": "pl:morocco",
+   "keys": [
+    "דרום מרוקו"
+   ],
+   "qid_auto": "Q135671726",
+   "qid": "Q135671726"
+  },
+  {
+   "id": "pl:southern-spain",
+   "he": "דרום ספרד",
+   "en": "Southern Spain",
+   "desc": "Andalusia and southern Spain",
+   "kind": "region",
+   "parent": "pl:spain",
+   "keys": [
+    "דרום ספרד"
+   ],
+   "qid_auto": "Q24702543",
+   "qid": "Q24702543"
+  },
+  {
+   "id": "pl:southern-persia",
+   "he": "דרום פרס",
+   "en": "Southern Persia",
+   "desc": "southern Persia (British sphere)",
+   "kind": "region",
+   "parent": "pl:persia",
+   "keys": [
+    "דרום פרס"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "pl:chile",
+   "he": "צ'ילה",
+   "en": "Chile",
+   "desc": "republic in South America",
+   "kind": "country",
+   "parent": "pl:south-america",
+   "keys": [
+    "דרום צילה"
+   ],
+   "qid_auto": "Q298",
+   "qid": "Q298"
+  },
+  {
+   "id": "pl:southern-russia",
+   "he": "דרום רוסיה",
+   "en": "Southern Russia",
+   "desc": "southern provinces of the Russian Empire",
+   "kind": "region",
+   "parent": "pl:russian-empire",
+   "keys": [
+    "דרום רוסיה"
+   ],
+   "qid_auto": "Q14324291",
+   "qid": "Q14324291"
+  },
+  {
+   "id": "pl:dresden",
+   "he": "דרזדן",
+   "en": "Dresden",
+   "desc": "capital of Saxony",
+   "kind": "city",
+   "parent": "pl:germany",
+   "keys": [
+    "דרזדן"
+   ],
+   "qid_auto": "Q1731",
+   "qid": "Q1731"
+  },
+  {
+   "id": "pl:darmstadt",
+   "he": "דרמשטאט",
+   "en": "Darmstadt",
+   "desc": "capital of Hesse",
+   "kind": "city",
+   "parent": "pl:germany",
+   "keys": [
+    "דרמשטאט"
+   ],
+   "qid_auto": "Q2973",
+   "qid": "Q2973"
+  },
+  {
+   "id": "pl:derna",
+   "he": "דרנה",
+   "en": "Derna",
+   "desc": "port in Cyrenaica",
+   "kind": "city",
+   "parent": "pl:libya",
+   "keys": [
+    "דרנה"
+   ],
+   "qid_auto": null,
+   "qid": "Q211866"
+  },
+  {
+   "id": "pl:darnytsia",
+   "he": "דרניצה",
+   "en": "Darnytsia",
+   "desc": "suburb of Kiev",
+   "kind": "quarter",
+   "parent": "pl:kyiv",
+   "keys": [
+    "דרניצה"
+   ],
+   "qid_auto": null,
+   "qid": "Q18327331"
+  },
+  {
+   "id": "pl:tartu",
+   "he": "טרטו (דרפט)",
+   "en": "Tartu",
+   "desc": "Dorpat / Yuryev, university town in Livonia",
+   "kind": "city",
+   "parent": "pl:russian-empire",
+   "keys": [
+    "דרפט (יורייב)"
+   ],
+   "qid_auto": "Q13972",
+   "qid": "Q13972"
+  },
+  {
+   "id": "pl:ozyorsk",
+   "he": "דרקהמן",
+   "en": "Ozyorsk, Kaliningrad Oblast",
+   "desc": "Darkehmen, town in East Prussia",
+   "kind": "city",
+   "parent": "pl:east-prussia",
+   "keys": [
+    "דרקהמן"
+   ],
+   "qid_auto": null,
+   "qid": "Q175795"
+  },
+  {
+   "id": "pl:the-hague",
+   "he": "האג",
+   "en": "The Hague",
+   "desc": "seat of Dutch government (Hague conferences)",
+   "kind": "city",
+   "parent": "pl:netherlands",
+   "keys": [
+    "האג"
+   ],
+   "qid_auto": "Q36600",
+   "qid": "Q36600"
+  },
+  {
+   "id": "pl:hesse",
+   "he": "הסה",
+   "en": "Hesse",
+   "desc": "German state",
+   "kind": "region",
+   "parent": "pl:germany",
+   "keys": [
+    "הסה"
+   ],
+   "qid_auto": "Q1199",
+   "qid": "Q20135"
+  },
+  {
+   "id": "pl:vitebsk",
+   "he": "ויטבסק",
+   "en": "Vitebsk",
+   "desc": "city in Vitebsk Governorate",
+   "kind": "city",
+   "parent": "pl:russian-empire",
+   "keys": [
+    "וִיטֶבְּסְק",
+    "וויטבסק",
+    "ויטבסק"
+   ],
+   "qid_auto": "Q102217",
+   "qid": "Q102217"
+  },
+  {
+   "id": "pl:nes-ziona",
+   "he": "נס ציונה (ואדי חנין)",
+   "en": "Nes Ziona",
+   "desc": "Jewish colony at Wadi Hanin, Ottoman Palestine",
+   "kind": "city",
+   "parent": "pl:ottoman-palestine",
+   "keys": [
+    "ואדי חנין"
+   ],
+   "qid_auto": "Q168162",
+   "qid": "Q168162"
+  },
+  {
+   "id": "pl:vlore",
+   "he": "ולורה (ולונה)",
+   "en": "Vlorë",
+   "desc": "Valona, Albanian port",
+   "kind": "city",
+   "parent": "pl:albania",
+   "keys": [
+    "ואלונה",
+    "ולונה",
+    "ולורה"
+   ],
+   "qid_auto": "Q159610",
+   "qid": "Q159610"
+  },
+  {
+   "id": "pl:van-turkey",
+   "he": "ואן",
+   "en": "Van, Turkey",
+   "desc": "city in eastern Anatolia",
+   "kind": "city",
+   "parent": "pl:anatolia",
+   "keys": [
+    "ואן",
+    "וואן"
+   ],
+   "qid_auto": "Q83061",
+   "qid": "Q83061"
+  },
+  {
+   "id": "pl:varna",
+   "he": "ורנה",
+   "en": "Varna",
+   "desc": "Black Sea port in Bulgaria",
+   "kind": "city",
+   "parent": "pl:bulgaria",
+   "keys": [
+    "וארנה",
+    "ורנה"
+   ],
+   "qid_auto": null,
+   "qid": "Q6506"
+  },
+  {
+   "id": "pl:warsaw",
+   "he": "ורשה",
+   "en": "Warsaw",
+   "desc": "capital of Congress Poland",
+   "kind": "city",
+   "parent": "pl:poland",
+   "keys": [
+    "וארשה",
+    "ווארשה",
+    "וורשה",
+    "ורשה"
+   ],
+   "qid_auto": "Q270",
+   "qid": "Q270"
+  },
+  {
+   "id": "pl:india",
+   "he": "הודו",
+   "en": "India",
+   "desc": "British India",
+   "kind": "country",
+   "keys": [
+    "ודו"
+   ],
+   "qid_auto": "Q668",
+   "qid": "Q668"
+  },
+  {
+   "id": "pl:oran",
+   "he": "אוראן",
+   "en": "Oran",
+   "desc": "port city in Algeria",
+   "kind": "city",
+   "parent": "pl:algeria",
+   "keys": [
+    "והראן"
+   ],
+   "qid_auto": "Q131818",
+   "qid": "Q131818"
+  },
+  {
+   "id": "pl:hawaii",
+   "he": "הוואי",
+   "en": "Hawaii",
+   "desc": "US territory in the Pacific",
+   "kind": "island",
+   "parent": "pl:united-states",
+   "keys": [
+    "וואי"
+   ],
+   "qid_auto": "Q782",
+   "qid": "Q782"
+  },
+  {
+   "id": "pl:wallachia",
+   "he": "ולאכיה",
+   "en": "Wallachia",
+   "desc": "region of Romania",
+   "kind": "region",
+   "parent": "pl:romania",
+   "keys": [
+    "וואלאכיה"
+   ],
+   "qid_auto": "Q171393",
+   "qid": "Q171393"
+  },
+  {
+   "id": "pl:vilnius",
+   "he": "וילנה",
+   "en": "Vilnius",
+   "desc": "Vilna, city in Lithuania",
+   "kind": "city",
+   "parent": "pl:lithuania",
+   "keys": [
+    "ווילנה",
+    "וילנא",
+    "וילנה"
+   ],
+   "qid_auto": "Q216",
+   "qid": "Q216"
+  },
+  {
+   "id": "pl:volga",
+   "he": "וולגה",
+   "en": "Volga",
+   "desc": "river",
+   "kind": "river",
+   "parent": "pl:russian-empire",
+   "keys": [
+    "וולגה"
+   ],
+   "qid_auto": "Q626",
+   "qid": "Q626"
+  },
+  {
+   "id": "pl:veldil",
+   "he": "וולדיל",
+   "en": "Veldil (unidentified)",
+   "desc": "unidentified locality in Ukraine (18th-c. blood libel story)",
+   "kind": "locality",
+   "parent": "pl:ukraine",
+   "keys": [
+    "וולדיל"
+   ],
+   "qid": null
+  },
+  {
+   "id": "pl:vologda",
+   "he": "וולוגדה",
+   "en": "Vologda",
+   "desc": "city in northern Russia",
+   "kind": "city",
+   "parent": "pl:russian-empire",
+   "keys": [
+    "וולוגדה",
+    "ולוגדה"
+   ],
+   "qid_auto": "Q1957",
+   "qid": "Q1957"
+  },
+  {
+   "id": "pl:volochysk",
+   "he": "וולוצ'יסק",
+   "en": "Volochysk",
+   "desc": "Russian–Austrian border town in Volhynia",
+   "kind": "city",
+   "parent": "pl:volhynia",
+   "keys": [
+    "וולוציסק"
+   ],
+   "qid_auto": "Q219762",
+   "qid": "Q219762"
+  },
+  {
+   "id": "pl:verona",
+   "he": "ורונה",
+   "en": "Verona",
+   "desc": "city in Italy",
+   "kind": "city",
+   "parent": "pl:italy",
+   "keys": [
+    "וורונה"
+   ],
+   "qid_auto": "Q2028",
+   "qid": "Q2028"
+  },
+  {
+   "id": "pl:voronezh",
+   "he": "וורונז'",
+   "en": "Voronezh",
+   "desc": "city in central Russia",
+   "kind": "city",
+   "parent": "pl:russian-empire",
+   "keys": [
+    "וורונז",
+    "וורוניז"
+   ],
+   "qid_auto": "Q3426",
+   "qid": "Q3426"
+  },
+  {
+   "id": "pl:washington-d-c",
+   "he": "וושינגטון",
+   "en": "Washington, D.C.",
+   "desc": "capital of the United States",
+   "kind": "city",
+   "parent": "pl:united-states",
+   "keys": [
+    "וושינגטון"
+   ],
+   "qid_auto": "Q61",
+   "qid": "Q61"
+  },
+  {
+   "id": "pl:vatican-city",
+   "he": "הוותיקן",
+   "en": "Vatican City",
+   "desc": "Papal See in Rome",
+   "kind": "city",
+   "parent": "pl:rome",
+   "keys": [
+    "וותיקן"
+   ],
+   "qid_auto": "Q237",
+   "qid": "Q237"
+  },
+  {
+   "id": "pl:vyazma",
+   "he": "ויאזמה",
+   "en": "Vyazma",
+   "desc": "town in Smolensk Governorate",
+   "kind": "city",
+   "parent": "pl:russian-empire",
+   "keys": [
+    "ויאזמה"
+   ],
+   "qid_auto": null,
+   "qid": "Q102307"
+  },
+  {
+   "id": "pl:vyborg",
+   "he": "ויבורג",
+   "en": "Vyborg",
+   "desc": "town in the Grand Duchy of Finland",
+   "kind": "city",
+   "parent": "pl:finland",
+   "keys": [
+    "ויבורג"
+   ],
+   "qid_auto": "Q14657",
+   "qid": "Q14657"
+  },
+  {
+   "id": "pl:vidla",
+   "he": "וידלה",
+   "en": "Vidla (unidentified)",
+   "desc": "unidentified locality in Albania (1910 revolt)",
+   "kind": "locality",
+   "parent": "pl:albania",
+   "keys": [
+    "וידלה"
+   ],
+   "qid": null
+  },
+  {
+   "id": "pl:vitoria-gasteiz",
+   "he": "ויטוריה",
+   "en": "Vitoria-Gasteiz",
+   "desc": "city in the Basque Country, Spain",
+   "kind": "city",
+   "parent": "pl:spain",
+   "keys": [
+    "ויטוריה"
+   ],
+   "qid_auto": "Q14318",
+   "qid": "Q14318"
+  },
+  {
+   "id": "pl:van-vilayet",
+   "he": "וילאייט ואן",
+   "en": "Van vilayet",
+   "desc": "Ottoman province",
+   "kind": "region",
+   "parent": "pl:anatolia",
+   "keys": [
+    "וילאייט ואן"
+   ],
+   "qid_auto": "Q3975923",
+   "qid": "Q3975923"
+  },
+  {
+   "id": "pl:scutari-vilayet",
+   "he": "וילאייט סקוטרי",
+   "en": "Scutari vilayet",
+   "desc": "Ottoman province in northern Albania",
+   "kind": "region",
+   "parent": "pl:albania",
+   "keys": [
+    "וילאייט סקוטארי"
+   ],
+   "qid_auto": "Q653394",
+   "qid": "Q653394"
+  },
+  {
+   "id": "pl:villa-allatini",
+   "he": "וילה אלטיני",
+   "en": "Villa Allatini",
+   "desc": "villa in Salonica where Abdul Hamid II was held 1909–1912",
+   "kind": "building",
+   "parent": "pl:thessaloniki",
+   "keys": [
+    "וילה אלטיני"
+   ],
+   "qid_auto": null,
+   "qid": "Q20083845"
+  },
+  {
+   "id": "pl:wilhelmshohe",
+   "he": "וילהלמסהֶהֶה",
+   "en": "Wilhelmshöhe",
+   "desc": "palace near Kassel, imperial residence",
+   "kind": "palace",
+   "parent": "pl:germany",
+   "keys": [
+    "וילהלמסהההה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "pl:villefranche-sur-mer",
+   "he": "וילפרנש",
+   "en": "Villefranche-sur-Mer",
+   "desc": "port on the French Riviera",
+   "kind": "city",
+   "parent": "pl:france",
+   "keys": [
+    "וילפרנש"
+   ],
+   "qid_auto": "Q207080",
+   "qid": "Q207080"
+  },
+  {
+   "id": "pl:uiju",
+   "he": "אוויג'ו",
+   "en": "Uiju",
+   "desc": "town in northern Korea",
+   "kind": "city",
+   "parent": "pl:korea",
+   "keys": [
+    "וינדשו (קוריאה)"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "pl:vienna",
+   "he": "וינה",
+   "en": "Vienna",
+   "desc": "capital of Austria-Hungary",
+   "kind": "city",
+   "parent": "pl:austria-hungary",
+   "keys": [
+    "וינה"
+   ],
+   "qid_auto": "Q1741",
+   "qid": "Q1741"
+  },
+  {
+   "id": "pl:venice",
+   "he": "ונציה",
+   "en": "Venice",
+   "desc": "city in Italy",
+   "kind": "city",
+   "parent": "pl:italy",
+   "keys": [
+    "וינה/ונציה",
+    "ונציה"
+   ],
+   "qid_auto": "Q641",
+   "qid": "Q641"
+  },
+  {
+   "id": "pl:vinohrady",
+   "he": "וינוהרדי",
+   "en": "Vinohrady",
+   "desc": "Königliche Weinberge, district of Prague",
+   "kind": "quarter",
+   "parent": "pl:prague",
+   "keys": [
+    "וינוהרady"
+   ],
+   "qid_auto": "Q662985",
+   "qid": "Q662985"
+  },
+  {
+   "id": "pl:vinnytsia",
+   "he": "ויניצה",
+   "en": "Vinnytsia",
+   "desc": "town in Podolia Governorate",
+   "kind": "city",
+   "parent": "pl:ukraine",
+   "keys": [
+    "וינניצה"
+   ],
+   "qid_auto": "Q157144",
+   "qid": "Q157144"
+  },
+  {
+   "id": "pl:wiener-neustadt",
+   "he": "וינר נוישטאט",
+   "en": "Wiener Neustadt",
+   "desc": "town in Lower Austria",
+   "kind": "city",
+   "parent": "pl:austria-hungary",
+   "keys": [
+    "וינר נוישטאט"
+   ],
+   "qid_auto": "Q131612",
+   "qid": "Q131612"
+  },
+  {
+   "id": "pl:wiesbaden",
+   "he": "ויסבאדן",
+   "en": "Wiesbaden",
+   "desc": "spa city in Hesse-Nassau",
+   "kind": "city",
+   "parent": "pl:germany",
+   "keys": [
+    "ויסבאדן"
+   ],
+   "qid_auto": "Q1721",
+   "qid": "Q1721"
+  },
+  {
+   "id": "pl:vistula",
+   "he": "הוויסלה",
+   "en": "Vistula",
+   "desc": "river",
+   "kind": "river",
+   "parent": "pl:poland",
+   "keys": [
+    "ויסלה"
+   ],
+   "qid_auto": "Q548",
+   "qid": "Q548"
+  },
+  {
+   "id": "pl:wurttemberg",
+   "he": "וירטמברג",
+   "en": "Kingdom of Württemberg",
+   "desc": "German state",
+   "kind": "region",
+   "parent": "pl:germany",
+   "keys": [
+    "וירטמברג"
+   ],
+   "qid_auto": "Q159631",
+   "qid": "Q159631"
+  },
+  {
+   "id": "pl:visegrad-bosnia",
+   "he": "וישגרד",
+   "en": "Višegrad",
+   "desc": "town in eastern Bosnia",
+   "kind": "city",
+   "parent": "pl:bosnia-and-herzegovina",
+   "keys": [
+    "וישגרד"
+   ],
+   "qid_auto": "Q239266",
+   "qid": "Q239266"
+  },
+  {
+   "id": "pl:vichy",
+   "he": "וישי",
+   "en": "Vichy",
+   "desc": "spa town in France",
+   "kind": "city",
+   "parent": "pl:france",
+   "keys": [
+    "וישי"
+   ],
+   "qid_auto": "Q93351",
+   "qid": "Q93351"
+  },
+  {
+   "id": "pl:vladivostok",
+   "he": "ולדיווסטוק",
+   "en": "Vladivostok",
+   "desc": "Pacific port of Russia",
+   "kind": "city",
+   "parent": "pl:russian-empire",
+   "keys": [
+    "ולדיווסטוק"
+   ],
+   "qid_auto": "Q959",
+   "qid": "Q959"
+  },
+  {
+   "id": "pl:volodymyr",
+   "he": "ולדימיר-וולינסקי",
+   "en": "Volodymyr",
+   "desc": "Vladimir-Volynsky, town in Volhynia",
+   "kind": "city",
+   "parent": "pl:volhynia",
+   "keys": [
+    "ולדימיר וולינסק"
+   ],
+   "qid_auto": "Q33544",
+   "qid": "Q33544"
+  },
+  {
+   "id": "pl:vladikavkaz",
+   "he": "ולדיקבקז",
+   "en": "Vladikavkaz",
+   "desc": "city in the North Caucasus",
+   "kind": "city",
+   "parent": "pl:caucasus",
+   "keys": [
+    "ולדיקבקז"
+   ],
+   "qid_auto": "Q5239",
+   "qid": "Q5239"
+  },
+  {
+   "id": "pl:netherlands",
+   "he": "הולנד",
+   "en": "Netherlands",
+   "desc": "Kingdom of the Netherlands",
+   "kind": "country",
+   "keys": [
+    "ולנד"
+   ],
+   "qid_auto": "Q55",
+   "qid": "Q55"
+  },
+  {
+   "id": "pl:hong-kong",
+   "he": "הונג קונג",
+   "en": "Hong Kong",
+   "desc": "British colony in southern China",
+   "kind": "city",
+   "parent": "pl:china",
+   "keys": [
+    "ונג קונג"
+   ],
+   "qid_auto": "Q8646",
+   "qid": "Q1054923"
+  },
+  {
+   "id": "pl:hungary",
+   "he": "הונגריה",
+   "en": "Kingdom of Hungary",
+   "desc": "Hungarian half of Austria-Hungary",
+   "kind": "country",
+   "parent": "pl:austria-hungary",
+   "keys": [
+    "ונגריה"
+   ],
+   "qid_auto": null,
+   "qid": "Q171150"
+  },
+  {
+   "id": "pl:honolulu",
+   "he": "הונולולו",
+   "en": "Honolulu",
+   "desc": "city in Hawaii",
+   "kind": "city",
+   "parent": "pl:hawaii",
+   "keys": [
+    "ונולולו"
+   ],
+   "qid_auto": "Q18094",
+   "qid": "Q18094"
+  },
+  {
+   "id": "pl:venezuela",
+   "he": "ונצואלה",
+   "en": "Venezuela",
+   "desc": "republic in South America",
+   "kind": "country",
+   "parent": "pl:south-america",
+   "keys": [
+    "ונצואלה"
+   ],
+   "qid_auto": "Q717",
+   "qid": "Q717"
+  },
+  {
+   "id": "pl:westphalia",
+   "he": "וסטפאליה",
+   "en": "Westphalia",
+   "desc": "Prussian province",
+   "kind": "region",
+   "parent": "pl:germany",
+   "keys": [
+    "וסטפאליה"
+   ],
+   "qid_auto": null,
+   "qid": "Q8614"
+  },
+  {
+   "id": "pl:verdun",
+   "he": "ורדן",
+   "en": "Verdun",
+   "desc": "fortress town in France (1916 battle)",
+   "kind": "city",
+   "parent": "pl:france",
+   "keys": [
+    "ורדן"
+   ],
+   "qid_auto": null,
+   "qid": "Q154748"
+  },
+  {
+   "id": "pl:worms",
+   "he": "וורמס",
+   "en": "Worms",
+   "desc": "city in Hesse",
+   "kind": "city",
+   "parent": "pl:germany",
+   "keys": [
+    "ורמס"
+   ],
+   "qid_auto": null,
+   "qid": "Q3852"
+  },
+  {
+   "id": "pl:versailles",
+   "he": "ורסאי",
+   "en": "Versailles",
+   "desc": "town near Paris",
+   "kind": "city",
+   "parent": "pl:france",
+   "keys": [
+    "ורסאי"
+   ],
+   "qid_auto": null,
+   "qid": "Q621"
+  },
+  {
+   "id": "pl:zagreb",
+   "he": "זאגרב",
+   "en": "Zagreb",
+   "desc": "capital of Croatia-Slavonia",
+   "kind": "city",
+   "parent": "pl:austria-hungary",
+   "keys": [
+    "זאגרב"
+   ],
+   "qid_auto": "Q1435",
+   "qid": "Q1435"
+  },
+  {
+   "id": "pl:zakynthos",
+   "he": "זקינתוס",
+   "en": "Zakynthos",
+   "desc": "Zante, Ionian island",
+   "kind": "island",
+   "parent": "pl:greece",
+   "keys": [
+    "זאנטה"
+   ],
+   "qid_auto": null,
+   "qid": "Q144880"
+  },
+  {
+   "id": "pl:zagorowice",
+   "he": "זגורוביצה",
+   "en": "Zagorowice (unidentified)",
+   "desc": "unidentified village in Galicia (1912)",
+   "kind": "village",
+   "parent": "pl:galicia-eastern-europe",
+   "keys": [
+    "זגורוביצה"
+   ],
+   "qid": null
+  },
+  {
+   "id": "pl:zgierz",
+   "he": "זגייז'",
+   "en": "Zgierz",
+   "desc": "town near Łódź",
+   "kind": "city",
+   "parent": "pl:poland",
+   "keys": [
+    "זגייז",
+    "זגרוש"
+   ],
+   "qid_auto": "Q104407",
+   "qid": "Q104407"
+  },
+  {
+   "id": "pl:zliten",
+   "he": "זליטן",
+   "en": "Zliten",
+   "desc": "town in Tripolitania",
+   "kind": "city",
+   "parent": "pl:libya",
+   "keys": [
+    "זוּוילה"
+   ],
+   "qid_auto": "Q207259",
+   "qid": "Q207259"
+  },
+  {
+   "id": "pl:izra",
+   "he": "אזרע (זורא)",
+   "en": "Izra'",
+   "desc": "village in the Hauran, Syria",
+   "kind": "village",
+   "parent": "pl:hauran",
+   "keys": [
+    "זורא"
+   ],
+   "qid_auto": null,
+   "qid": "Q1676159"
+  },
+  {
+   "id": "pl:zhytomyr",
+   "he": "ז'יטומיר",
+   "en": "Zhytomyr",
+   "desc": "capital of Volhynia Governorate",
+   "kind": "city",
+   "parent": "pl:volhynia",
+   "keys": [
+    "זיטומיר"
+   ],
+   "qid_auto": "Q156713",
+   "qid": "Q156713"
+  },
+  {
+   "id": "pl:zeitun",
+   "he": "זייתון",
+   "en": "Zeitun",
+   "desc": "Armenian town in Cilicia (now Süleymanlı)",
+   "kind": "city",
+   "parent": "pl:anatolia",
+   "keys": [
+    "זייתון"
+   ],
+   "qid_auto": null,
+   "qid": "Q2664842"
+  },
+  {
+   "id": "pl:zealand",
+   "he": "זילנד",
+   "en": "Zealand",
+   "desc": "Danish island (or Dutch Zeeland)",
+   "kind": "region",
+   "parent": "pl:denmark",
+   "keys": [
+    "זילנד"
+   ],
+   "qid_auto": null,
+   "qid": "Q25535"
+  },
+  {
+   "id": "pl:zikhron-yaakov",
+   "he": "זכרון יעקב",
+   "en": "Zikhron Ya'akov",
+   "desc": "Jewish colony in Ottoman Palestine",
+   "kind": "city",
+   "parent": "pl:ottoman-palestine",
+   "keys": [
+    "זכרון יעקב"
+   ],
+   "qid_auto": null,
+   "qid": "Q198399"
+  },
+  {
+   "id": "pl:zolochiv",
+   "he": "זלוצ'וב",
+   "en": "Zolochiv",
+   "desc": "Złoczów, town in eastern Galicia",
+   "kind": "city",
+   "parent": "pl:galicia-eastern-europe",
+   "keys": [
+    "זלוצוב"
+   ],
+   "qid_auto": "Q623594",
+   "qid": "Q623594"
+  },
+  {
+   "id": "pl:zolotonosha",
+   "he": "זולוטונושה",
+   "en": "Zolotonosha",
+   "desc": "town in Poltava Governorate",
+   "kind": "city",
+   "parent": "pl:ukraine",
+   "keys": [
+    "זלטונושה"
+   ],
+   "qid_auto": "Q219769",
+   "qid": "Q219769"
+  },
+  {
+   "id": "pl:zelechow",
+   "he": "ז'לחוב",
+   "en": "Żelechów",
+   "desc": "town in Siedlce Governorate",
+   "kind": "city",
+   "parent": "pl:poland",
+   "keys": [
+    "זלכוב"
+   ],
+   "qid_auto": null,
+   "qid": "Q393091"
+  },
+  {
+   "id": "pl:zambrow",
+   "he": "זמברוב",
+   "en": "Zambrów",
+   "desc": "town in Łomża Governorate",
+   "kind": "city",
+   "parent": "pl:poland",
+   "keys": [
+    "זמברוב"
+   ],
+   "qid_auto": null,
+   "qid": "Q145719"
+  },
+  {
+   "id": "pl:semmering",
+   "he": "זמרינג",
+   "en": "Semmering",
+   "desc": "Alpine pass and resort in Austria",
+   "kind": "mountain pass",
+   "parent": "pl:austria-hungary",
+   "keys": [
+    "זמרינג"
+   ],
+   "qid_auto": null,
+   "qid": "Q63600"
+  },
+  {
+   "id": "pl:zanzibar",
+   "he": "זנזיבר",
+   "en": "Zanzibar",
+   "desc": "island sultanate in East Africa",
+   "kind": "island",
+   "parent": "pl:africa",
+   "keys": [
+    "זנזיבר"
+   ],
+   "qid_auto": null,
+   "qid": "Q1774"
+  },
+  {
+   "id": "pl:giurgiu",
+   "he": "ג'ורג'ו",
+   "en": "Giurgiu",
+   "desc": "Danube port in Romania",
+   "kind": "city",
+   "parent": "pl:romania",
+   "keys": [
+    "זשורזובו"
+   ],
+   "qid_auto": "Q202351",
+   "qid": "Q202351"
+  },
+  {
+   "id": "pl:hauran",
+   "he": "חורן",
+   "en": "Hauran",
+   "desc": "region in southern Syria",
+   "kind": "region",
+   "parent": "pl:syria",
+   "keys": [
+    "חאוראן",
+    "חורן"
+   ],
+   "qid_auto": "Q1589883",
+   "qid": "Q1589883"
+  },
+  {
+   "id": "pl:chania",
+   "he": "חאניה",
+   "en": "Chania",
+   "desc": "Canea, capital of Crete",
+   "kind": "city",
+   "parent": "pl:crete",
+   "keys": [
+    "חאניה"
+   ],
+   "qid_auto": "Q182299",
+   "qid": "Q182299"
+  },
+  {
+   "id": "pl:kharkiv",
+   "he": "חרקוב",
+   "en": "Kharkiv",
+   "desc": "city in Kharkov Governorate",
+   "kind": "city",
+   "parent": "pl:ukraine",
+   "keys": [
+    "חארקוב",
+    "חרקוב"
+   ],
+   "qid_auto": null,
+   "qid": "Q42308"
+  },
+  {
+   "id": "pl:khabarovsk",
+   "he": "חברובסק",
+   "en": "Khabarovsk",
+   "desc": "city in the Russian Far East",
+   "kind": "city",
+   "parent": "pl:siberia",
+   "keys": [
+    "חבארובסק",
+    "חברובסק"
+   ],
+   "qid_auto": null,
+   "qid": "Q4454"
+  },
+  {
+   "id": "pl:hebron",
+   "he": "חברון",
+   "en": "Hebron",
+   "desc": "city in Ottoman Palestine",
+   "kind": "city",
+   "parent": "pl:ottoman-palestine",
+   "keys": [
+    "חברון"
+   ],
+   "qid_auto": null,
+   "qid": "Q168225"
+  },
+  {
+   "id": "pl:hadimkoy",
+   "he": "האדימקוי",
+   "en": "Hadımköy",
+   "desc": "village west of Constantinople (Çatalca lines)",
+   "kind": "village",
+   "parent": "pl:thrace",
+   "keys": [
+    "חדמקיוי"
+   ],
+   "qid_auto": "Q6675155",
+   "qid": "Q6675155"
+  },
+  {
+   "id": "pl:hadera",
+   "he": "חדרה",
+   "en": "Hadera",
+   "desc": "Jewish colony in Ottoman Palestine",
+   "kind": "city",
+   "parent": "pl:ottoman-palestine",
+   "keys": [
+    "חדרה"
+   ],
+   "qid_auto": "Q471886",
+   "qid": "Q471886"
+  },
+  {
+   "id": "pl:al-hudaydah",
+   "he": "חודיידה",
+   "en": "Al Hudaydah",
+   "desc": "Red Sea port in Yemen",
+   "kind": "city",
+   "parent": "pl:yemen",
+   "keys": [
+    "חודיידה"
+   ],
+   "qid_auto": null,
+   "qid": "Q270041"
+  },
+  {
+   "id": "pl:homs",
+   "he": "חומס",
+   "en": "Homs",
+   "desc": "city in Syria",
+   "kind": "city",
+   "parent": "pl:syria",
+   "keys": [
+    "חומס"
+   ],
+   "qid_auto": "Q131301",
+   "qid": "Q131301"
+  },
+  {
+   "id": "pl:norway",
+   "he": "נורווגיה",
+   "en": "Norway",
+   "desc": "Kingdom of Norway",
+   "kind": "country",
+   "keys": [
+    "חוף נורווגיה"
+   ],
+   "qid_auto": "Q20",
+   "qid": "Q20"
+  },
+  {
+   "id": "pl:morocco",
+   "he": "מרוקו",
+   "en": "Morocco",
+   "desc": "Sultanate of Morocco",
+   "kind": "country",
+   "keys": [
+    "חופי מרוקו"
+   ],
+   "qid_auto": "Q1028",
+   "qid": "Q1028"
+  },
+  {
+   "id": "pl:hejaz",
+   "he": "חג'אז",
+   "en": "Hejaz",
+   "desc": "region in western Arabia",
+   "kind": "region",
+   "parent": "pl:arabian-peninsula",
+   "keys": [
+    "חיגאז",
+    "חיגאז / ערב"
+   ],
+   "qid_auto": "Q169977",
+   "qid": "Q169977"
+  },
+  {
+   "id": "pl:chios",
+   "he": "כיוס",
+   "en": "Chios",
+   "desc": "Aegean island",
+   "kind": "island",
+   "parent": "pl:aegean-islands",
+   "keys": [
+    "חיוס",
+    "כיוס"
+   ],
+   "qid_auto": null,
+   "qid": "Q160483"
+  },
+  {
+   "id": "pl:haifa",
+   "he": "חיפה",
+   "en": "Haifa",
+   "desc": "port city in Ottoman Palestine",
+   "kind": "city",
+   "parent": "pl:ottoman-palestine",
+   "keys": [
+    "חיפה"
+   ],
+   "qid_auto": "Q41621",
+   "qid": "Q41621"
+  },
+  {
+   "id": "pl:aleppo",
+   "he": "חלב",
+   "en": "Aleppo",
+   "desc": "city in northern Syria",
+   "kind": "city",
+   "parent": "pl:syria",
+   "keys": [
+    "חלב"
+   ],
+   "qid_auto": null,
+   "qid": "Q41183"
+  },
+  {
+   "id": "pl:chalcis",
+   "he": "כלקיס",
+   "en": "Chalcis",
+   "desc": "town on Euboea, Greece",
+   "kind": "city",
+   "parent": "pl:greece",
+   "keys": [
+    "חלקיס"
+   ],
+   "qid_auto": "Q200133",
+   "qid": "Q200133"
+  },
+  {
+   "id": "pl:hamadan",
+   "he": "חמדאן",
+   "en": "Hamadan",
+   "desc": "city in western Persia",
+   "kind": "city",
+   "parent": "pl:persia",
+   "keys": [
+    "חמדאן"
+   ],
+   "qid_auto": "Q28587",
+   "qid": "Q28587"
+  },
+  {
+   "id": "pl:khamovniki",
+   "he": "חמובניקי",
+   "en": "Khamovniki",
+   "desc": "district of Moscow",
+   "kind": "quarter",
+   "parent": "pl:moscow",
+   "keys": [
+    "חמלניצקי"
+   ],
+   "qid_auto": null,
+   "qid": "Q862100"
+  },
+  {
+   "id": "pl:al-hasa",
+   "he": "אל-חסא",
+   "en": "Al-Hasa",
+   "desc": "region in eastern Arabia",
+   "kind": "region",
+   "parent": "pl:arabian-peninsula",
+   "keys": [
+    "חסה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "pl:liaodong-peninsula",
+   "he": "חצי האי ליאודונג",
+   "en": "Liaodong Peninsula",
+   "desc": "peninsula in southern Manchuria",
+   "kind": "peninsula",
+   "parent": "pl:manchuria",
+   "keys": [
+    "חצי האי ליאודונג"
+   ],
+   "qid_auto": "Q326917",
+   "qid": "Q326917"
+  },
+  {
+   "id": "pl:sinai-peninsula",
+   "he": "חצי האי סיני",
+   "en": "Sinai Peninsula",
+   "desc": "peninsula between Egypt and Palestine",
+   "kind": "peninsula",
+   "parent": "pl:egypt",
+   "keys": [
+    "חצי האי סיני"
+   ],
+   "qid_auto": "Q36755",
+   "qid": "Q36755"
+  },
+  {
+   "id": "pl:arabian-peninsula",
+   "he": "חצי האי ערב",
+   "en": "Arabian Peninsula",
+   "desc": "peninsula",
+   "kind": "peninsula",
+   "parent": "pl:asia",
+   "keys": [
+    "חצי האי ערב"
+   ],
+   "qid_auto": "Q31945",
+   "qid": "Q31945"
+  },
+  {
+   "id": "pl:kassandra",
+   "he": "חצי האי קסנדרה",
+   "en": "Kassandra",
+   "desc": "peninsula of Chalkidiki",
+   "kind": "peninsula",
+   "parent": "pl:macedonia",
+   "keys": [
+    "חצי האי קסנדרה"
+   ],
+   "qid_auto": "Q81045",
+   "qid": null
+  },
+  {
+   "id": "pl:kharlivka",
+   "he": "חרליבקה",
+   "en": "Kharlivka (unidentified)",
+   "desc": "unidentified village in Ukraine (18th-c. blood libel story)",
+   "kind": "village",
+   "parent": "pl:ukraine",
+   "keys": [
+    "חרליבקה"
+   ],
+   "qid": null
+  },
+  {
+   "id": "pl:kherson",
+   "he": "חרסון",
+   "en": "Kherson",
+   "desc": "city in Kherson Governorate",
+   "kind": "city",
+   "parent": "pl:ukraine",
+   "keys": [
+    "חרסון"
+   ],
+   "qid_auto": null,
+   "qid": "Q156732"
+  },
+  {
+   "id": "pl:taourirt",
+   "he": "תאוריירת",
+   "en": "Taourirt",
+   "desc": "town in eastern Morocco",
+   "kind": "city",
+   "parent": "pl:morocco",
+   "keys": [
+    "טאוריירט"
+   ],
+   "qid_auto": null,
+   "qid": "Q2329701"
+  },
+  {
+   "id": "pl:tafilalt",
+   "he": "תאפילאלת",
+   "en": "Tafilalt",
+   "desc": "oasis region in southeastern Morocco",
+   "kind": "region",
+   "parent": "pl:morocco",
+   "keys": [
+    "טאפילאלט"
+   ],
+   "qid_auto": null,
+   "qid": "Q1017333"
+  },
+  {
+   "id": "pl:tarla-morocco",
+   "he": "טארלא",
+   "en": "Tarla (unidentified)",
+   "desc": "Jewish community in the Chaouia, Morocco (1910)",
+   "kind": "locality",
+   "parent": "pl:chaouia",
+   "keys": [
+    "טארלא"
+   ],
+   "qid": null
+  },
+  {
+   "id": "pl:tarnow",
+   "he": "טרנוב",
+   "en": "Tarnów",
+   "desc": "town in western Galicia",
+   "kind": "city",
+   "parent": "pl:galicia-eastern-europe",
+   "keys": [
+    "טארנא",
+    "טרנוב"
+   ],
+   "qid_auto": "Q106281",
+   "qid": "Q106281"
+  },
+  {
+   "id": "pl:tarert-morocco",
+   "he": "טארערט",
+   "en": "Tarert (unidentified)",
+   "desc": "unidentified locality near Casablanca (1907)",
+   "kind": "locality",
+   "parent": "pl:chaouia",
+   "keys": [
+    "טארערט"
+   ],
+   "qid": null
+  },
+  {
+   "id": "pl:tver",
+   "he": "טבר",
+   "en": "Tver",
+   "desc": "city in central Russia",
+   "kind": "city",
+   "parent": "pl:russian-empire",
+   "keys": [
+    "טבר",
+    "טוור"
+   ],
+   "qid_auto": "Q2288",
+   "qid": "Q2288"
+  },
+  {
+   "id": "pl:tiberias",
+   "he": "טבריה",
+   "en": "Tiberias",
+   "desc": "city in Ottoman Palestine",
+   "kind": "city",
+   "parent": "pl:galilee",
+   "keys": [
+    "טבריה"
+   ],
+   "qid_auto": "Q151920",
+   "qid": "Q151920"
+  },
+  {
+   "id": "pl:tabriz",
+   "he": "תבריז",
+   "en": "Tabriz",
+   "desc": "city in Persian Azerbaijan",
+   "kind": "city",
+   "parent": "pl:azerbaijan-iran",
+   "keys": [
+    "טבריז"
+   ],
+   "qid_auto": "Q80053",
+   "qid": "Q80053"
+  },
+  {
+   "id": "pl:taganrog",
+   "he": "טגנרוג",
+   "en": "Taganrog",
+   "desc": "port on the Sea of Azov",
+   "kind": "city",
+   "parent": "pl:russian-empire",
+   "keys": [
+    "טגנרוג"
+   ],
+   "qid_auto": "Q170513",
+   "qid": "Q170513"
+  },
+  {
+   "id": "pl:tahiti",
+   "he": "טהיטי",
+   "en": "Tahiti",
+   "desc": "French Polynesian island",
+   "kind": "island",
+   "parent": "pl:france",
+   "keys": [
+    "טהיטי"
+   ],
+   "qid_auto": "Q42000",
+   "qid": "Q42000"
+  },
+  {
+   "id": "pl:tehran",
+   "he": "טהרן",
+   "en": "Tehran",
+   "desc": "capital of Persia",
+   "kind": "city",
+   "parent": "pl:persia",
+   "keys": [
+    "טהראן",
+    "טהרן"
+   ],
+   "qid_auto": "Q3616",
+   "qid": "Q3616"
+  },
+  {
+   "id": "pl:tuapse",
+   "he": "טואפסה",
+   "en": "Tuapse",
+   "desc": "Black Sea town in the Caucasus",
+   "kind": "city",
+   "parent": "pl:caucasus",
+   "keys": [
+    "טואפסה"
+   ],
+   "qid_auto": "Q196702",
+   "qid": "Q196702"
+  },
+  {
+   "id": "pl:tobruk",
+   "he": "טוברוק",
+   "en": "Tobruk",
+   "desc": "port in Cyrenaica",
+   "kind": "city",
+   "parent": "pl:libya",
+   "keys": [
+    "טוברוק"
+   ],
+   "qid_auto": "Q182092",
+   "qid": "Q182092"
+  },
+  {
+   "id": "pl:togo",
+   "he": "טוגו",
+   "en": "Togoland",
+   "desc": "German colony in West Africa",
+   "kind": "country",
+   "parent": "pl:africa",
+   "keys": [
+    "טוגו"
+   ],
+   "qid_auto": null,
+   "qid": "Q161062"
+  },
+  {
+   "id": "pl:tuzi",
+   "he": "טוזי",
+   "en": "Tuzi",
+   "desc": "town near Lake Scutari (Albanian revolt 1911)",
+   "kind": "city",
+   "parent": "pl:montenegro",
+   "keys": [
+    "טוזי"
+   ],
+   "qid_auto": "Q991302",
+   "qid": "Q991302"
+  },
+  {
+   "id": "pl:tutrakan",
+   "he": "טוטרקאן",
+   "en": "Tutrakan",
+   "desc": "Danube town in Dobruja (1916 battle)",
+   "kind": "city",
+   "parent": "pl:dobruja",
+   "keys": [
+    "טוטרקאן"
+   ],
+   "qid_auto": null,
+   "qid": "Q404939"
+  },
+  {
+   "id": "pl:tula",
+   "he": "טולה",
+   "en": "Tula",
+   "desc": "city in central Russia",
+   "kind": "city",
+   "parent": "pl:russian-empire",
+   "keys": [
+    "טולה"
+   ],
+   "qid_auto": null,
+   "qid": "Q2770"
+  },
+  {
+   "id": "pl:toulouse",
+   "he": "טולוז",
+   "en": "Toulouse",
+   "desc": "city in southern France",
+   "kind": "city",
+   "parent": "pl:france",
+   "keys": [
+    "טולוז"
+   ],
+   "qid_auto": "Q7880",
+   "qid": "Q7880"
+  },
+  {
+   "id": "pl:toulon",
+   "he": "טולון",
+   "en": "Toulon",
+   "desc": "naval port in southern France",
+   "kind": "city",
+   "parent": "pl:france",
+   "keys": [
+    "טולון"
+   ],
+   "qid_auto": "Q44160",
+   "qid": "Q44160"
+  },
+  {
+   "id": "pl:tomsk",
+   "he": "טומסק",
+   "en": "Tomsk",
+   "desc": "city in Siberia",
+   "kind": "city",
+   "parent": "pl:tomsk-governorate",
+   "keys": [
+    "טומסק"
+   ],
+   "qid_auto": "Q976",
+   "qid": "Q976"
+  },
+  {
+   "id": "pl:tomaszow-mazowiecki",
+   "he": "טומשוב",
+   "en": "Tomaszów Mazowiecki",
+   "desc": "town in Piotrków Governorate",
+   "kind": "city",
+   "parent": "pl:poland",
+   "keys": [
+    "טומשוב"
+   ],
+   "qid_auto": "Q157994",
+   "qid": "Q157994"
+  },
+  {
+   "id": "pl:tunis",
+   "he": "תוניס",
+   "en": "Tunis",
+   "desc": "capital of Tunisia",
+   "kind": "city",
+   "parent": "pl:tunisia",
+   "keys": [
+    "טוניס"
+   ],
+   "qid_auto": "Q3572",
+   "qid": "Q3572"
+  },
+  {
+   "id": "pl:tonkin",
+   "he": "טונקין",
+   "en": "Tonkin",
+   "desc": "northern region of French Indochina",
+   "kind": "region",
+   "parent": "pl:french-indochina",
+   "keys": [
+    "טונקין"
+   ],
+   "qid_auto": "Q1858",
+   "qid": "Q622778"
+  },
+  {
+   "id": "pl:topolitsa",
+   "he": "טופוליצה",
+   "en": "Topolitsa (unidentified)",
+   "desc": "unidentified locality (1911)",
+   "kind": "locality",
+   "keys": [
+    "טופוליצה"
+   ],
+   "qid": null
+  },
+  {
+   "id": "pl:tukums",
+   "he": "טוקום",
+   "en": "Tukums",
+   "desc": "town in Courland",
+   "kind": "city",
+   "parent": "pl:russian-empire",
+   "keys": [
+    "טוקום"
+   ],
+   "qid_auto": "Q636935",
+   "qid": "Q636935"
+  },
+  {
+   "id": "pl:tokyo",
+   "he": "טוקיו",
+   "en": "Tokyo",
+   "desc": "capital of Japan",
+   "kind": "city",
+   "parent": "pl:japan",
+   "keys": [
+    "טוקיו"
+   ],
+   "qid_auto": "Q1490",
+   "qid": "Q1490"
+  },
+  {
+   "id": "pl:torun",
+   "he": "טורון",
+   "en": "Toruń",
+   "desc": "Thorn, town in West Prussia",
+   "kind": "city",
+   "parent": "pl:germany",
+   "keys": [
+    "טורון"
+   ],
+   "qid_auto": "Q47554",
+   "qid": "Q47554"
+  },
+  {
+   "id": "pl:toronto",
+   "he": "טורונטו",
+   "en": "Toronto",
+   "desc": "city in Ontario, Canada",
+   "kind": "city",
+   "parent": "pl:ontario",
+   "keys": [
+    "טורונטו"
+   ],
+   "qid_auto": "Q172",
+   "qid": "Q172"
+  },
+  {
+   "id": "pl:turin",
+   "he": "טורינו",
+   "en": "Turin",
+   "desc": "city in Piedmont, Italy",
+   "kind": "city",
+   "parent": "pl:italy",
+   "keys": [
+    "טורין",
+    "טורינו"
+   ],
+   "qid_auto": "Q495",
+   "qid": "Q495"
+  },
+  {
+   "id": "pl:thuringia",
+   "he": "טורינגיה",
+   "en": "Thuringia",
+   "desc": "region of central Germany",
+   "kind": "region",
+   "parent": "pl:germany",
+   "keys": [
+    "טורינגיה"
+   ],
+   "qid_auto": "Q1205",
+   "qid": "Q1205"
+  },
+  {
+   "id": "pl:drobeta-turnu-severin",
+   "he": "טורנו סברין",
+   "en": "Drobeta-Turnu Severin",
+   "desc": "Danube town in Romania",
+   "kind": "city",
+   "parent": "pl:romania",
+   "keys": [
+    "טורנו סברין"
+   ],
+   "qid_auto": "Q193890",
+   "qid": "Q193890"
+  },
+  {
+   "id": "pl:ottoman-empire",
+   "he": "האימפריה העות'מאנית",
+   "en": "Ottoman Empire",
+   "desc": "Ottoman Empire (Turkey)",
+   "kind": "country",
+   "keys": [
+    "טורקיה"
+   ],
+   "qid_auto": "Q12560",
+   "qid": "Q12560"
+  },
+  {
+   "id": "pl:rumelia",
+   "he": "רומליה",
+   "en": "Rumelia",
+   "desc": "European Turkey",
+   "kind": "region",
+   "parent": "pl:ottoman-empire",
+   "keys": [
+    "טורקיה האירופית"
+   ],
+   "qid_auto": "Q184002",
+   "qid": "Q184002"
+  },
+  {
+   "id": "pl:turkestan",
+   "he": "טורקסטן",
+   "en": "Russian Turkestan",
+   "desc": "Central Asian region of the Russian Empire",
+   "kind": "region",
+   "parent": "pl:russian-empire",
+   "keys": [
+    "טורקסטן"
+   ],
+   "qid_auto": "Q1501849",
+   "qid": "Q1501849"
+  },
+  {
+   "id": "pl:tushin-morocco",
+   "he": "טושין",
+   "en": "Tushin (unidentified)",
+   "desc": "unidentified locality, Morocco news (1911)",
+   "kind": "locality",
+   "parent": "pl:morocco",
+   "keys": [
+    "טושין"
+   ],
+   "qid": null
+  },
+  {
+   "id": "pl:tasmania",
+   "he": "טסמניה",
+   "en": "Tasmania",
+   "desc": "Australian state",
+   "kind": "island",
+   "parent": "pl:australia",
+   "keys": [
+    "טזמניה"
+   ],
+   "qid_auto": "Q34366",
+   "qid": "Q34366"
+  },
+  {
+   "id": "pl:tetovo",
+   "he": "טטובו",
+   "en": "Tetovo",
+   "desc": "town in western Macedonia",
+   "kind": "city",
+   "parent": "pl:macedonia",
+   "keys": [
+    "טטובו"
+   ],
+   "qid_auto": "Q157024",
+   "qid": "Q157024"
+  },
+  {
+   "id": "pl:tibet",
+   "he": "טיבט",
+   "en": "Tibet",
+   "desc": "region in Central Asia",
+   "kind": "region",
+   "parent": "pl:china",
+   "keys": [
+    "טיבט"
+   ],
+   "qid_auto": "Q17252",
+   "qid": "Q17252"
+  },
+  {
+   "id": "pl:tianjin",
+   "he": "טיינג'ין",
+   "en": "Tianjin",
+   "desc": "port city in northern China",
+   "kind": "city",
+   "parent": "pl:china",
+   "keys": [
+    "טיינצין"
+   ],
+   "qid_auto": "Q11736",
+   "qid": "Q11736"
+  },
+  {
+   "id": "pl:tbilisi",
+   "he": "טביליסי (טיפליס)",
+   "en": "Tbilisi",
+   "desc": "Tiflis, capital of the Caucasus Viceroyalty",
+   "kind": "city",
+   "parent": "pl:caucasus",
+   "keys": [
+    "טיפליס"
+   ],
+   "qid_auto": "Q994",
+   "qid": "Q994"
+  },
+  {
+   "id": "pl:tirana",
+   "he": "טירנה",
+   "en": "Tirana",
+   "desc": "town in central Albania",
+   "kind": "city",
+   "parent": "pl:albania",
+   "keys": [
+    "טיראנה"
+   ],
+   "qid_auto": "Q19689",
+   "qid": "Q19689"
+  },
+  {
+   "id": "pl:tambov",
+   "he": "טמבוב",
+   "en": "Tambov",
+   "desc": "city in central Russia",
+   "kind": "city",
+   "parent": "pl:tambov-governorate",
+   "keys": [
+    "טמבוב"
+   ],
+   "qid_auto": "Q3544",
+   "qid": "Q3544"
+  },
+  {
+   "id": "pl:tangier",
+   "he": "טנג'יר",
+   "en": "Tangier",
+   "desc": "port city in northern Morocco, seat of foreign legations",
+   "kind": "city",
+   "parent": "pl:morocco",
+   "keys": [
+    "טנגיר"
+   ],
+   "qid_auto": "Q126148",
+   "qid": "Q126148"
+  },
+  {
+   "id": "pl:bozcaada",
+   "he": "טנדוס",
+   "en": "Bozcaada",
+   "desc": "Tenedos island",
+   "kind": "island",
+   "parent": "pl:aegean-islands",
+   "keys": [
+    "טנדוס"
+   ],
+   "qid_auto": "Q211817",
+   "qid": "Q211817"
+  },
+  {
+   "id": "pl:tanta",
+   "he": "טנטא",
+   "en": "Tanta",
+   "desc": "city in the Nile Delta",
+   "kind": "city",
+   "parent": "pl:egypt",
+   "keys": [
+    "טנטא"
+   ],
+   "qid_auto": "Q271771",
+   "qid": "Q271771"
+  },
+  {
+   "id": "pl:tenerife",
+   "he": "טנריפה",
+   "en": "Tenerife",
+   "desc": "Canary island",
+   "kind": "island",
+   "parent": "pl:spain",
+   "keys": [
+    "טנריף",
+    "טנריפה"
+   ],
+   "qid_auto": "Q40846",
+   "qid": "Q40846"
+  },
+  {
+   "id": "pl:trabzon",
+   "he": "טרבזון",
+   "en": "Trabzon",
+   "desc": "Black Sea port in Anatolia",
+   "kind": "city",
+   "parent": "pl:anatolia",
+   "keys": [
+    "טרבזון"
+   ],
+   "qid_auto": "Q45301",
+   "qid": "Q45301"
+  },
+  {
+   "id": "pl:troianiv",
+   "he": "טרויאנוב",
+   "en": "Troianiv",
+   "desc": "shtetl in Volhynia",
+   "kind": "village",
+   "parent": "pl:volhynia",
+   "keys": [
+    "טרויאנוב"
+   ],
+   "qid_auto": "Q4464054",
+   "qid": "Q4464054"
+  },
+  {
+   "id": "pl:trieste",
+   "he": "טריאסט",
+   "en": "Trieste",
+   "desc": "Austrian Adriatic port",
+   "kind": "city",
+   "parent": "pl:austria-hungary",
+   "keys": [
+    "טריאסט"
+   ],
+   "qid_auto": "Q546",
+   "qid": "Q546"
+  },
+  {
+   "id": "pl:tripoli-libya",
+   "he": "טריפולי (לוב)",
+   "en": "Tripoli",
+   "desc": "capital of Ottoman Tripolitania (Libya)",
+   "kind": "city",
+   "parent": "pl:tripolitania",
+   "keys": [],
+   "qid_auto": null,
+   "qid": "Q3579"
+  },
+  {
+   "id": "pl:tripolitania",
+   "he": "טריפוליטניה",
+   "en": "Tripolitania",
+   "desc": "Ottoman province in North Africa",
+   "kind": "region",
+   "parent": "pl:libya",
+   "keys": [
+    "טריפוליטניה"
+   ],
+   "qid_auto": "Q192435",
+   "qid": "Q192435"
+  },
+  {
+   "id": "pl:tripoli-greece",
+   "he": "טריפוליס",
+   "en": "Tripoli, Greece",
+   "desc": "Tripolitsa, town in the Peloponnese",
+   "kind": "city",
+   "parent": "pl:greece",
+   "keys": [
+    "טריפוליצה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "pl:ternopil",
+   "he": "טרנופול",
+   "en": "Ternopil",
+   "desc": "town in eastern Galicia",
+   "kind": "city",
+   "parent": "pl:galicia-eastern-europe",
+   "keys": [
+    "טרנופול"
+   ],
+   "qid_auto": "Q156743",
+   "qid": "Q156743"
+  },
+  {
+   "id": "pl:taranto",
+   "he": "טרנטו",
+   "en": "Taranto",
+   "desc": "naval port in southern Italy",
+   "kind": "city",
+   "parent": "pl:italy",
+   "keys": [
+    "טרנטו"
+   ],
+   "qid_auto": "Q13498",
+   "qid": "Q13498"
+  },
+  {
+   "id": "pl:transvaal",
+   "he": "טרנסוואל",
+   "en": "Transvaal",
+   "desc": "province of South Africa",
+   "kind": "region",
+   "parent": "pl:south-africa",
+   "keys": [
+    "טרנסוואל"
+   ],
+   "qid_auto": null,
+   "qid": "Q190959"
+  },
+  {
+   "id": "pl:transylvania",
+   "he": "טרנסילבניה",
+   "en": "Transylvania",
+   "desc": "region of Hungary",
+   "kind": "region",
+   "parent": "pl:hungary",
+   "keys": [
+    "טרנסילבניה"
+   ],
+   "qid_auto": "Q39473",
+   "qid": "Q39473"
+  },
+  {
+   "id": "pl:terrassa",
+   "he": "טרסה",
+   "en": "Terrassa",
+   "desc": "industrial town in Catalonia",
+   "kind": "city",
+   "parent": "pl:spain",
+   "keys": [
+    "טרסה"
+   ],
+   "qid_auto": "Q13939",
+   "qid": "Q13939"
+  },
+  {
+   "id": "pl:tashkent",
+   "he": "טשקנט",
+   "en": "Tashkent",
+   "desc": "city in Russian Turkestan",
+   "kind": "city",
+   "parent": "pl:turkestan",
+   "keys": [
+    "טשקנט"
+   ],
+   "qid_auto": "Q269",
+   "qid": "Q269"
+  },
+  {
+   "id": "pl:cherkasy",
+   "he": "צ'רקאסי",
+   "en": "Cherkasy",
+   "desc": "town in Kiev Governorate",
+   "kind": "city",
+   "parent": "pl:ukraine",
+   "keys": [
+    "טשרקאסי"
+   ],
+   "qid_auto": "Q157055",
+   "qid": "Q157055"
+  },
+  {
+   "id": "pl:yalta",
+   "he": "יאלטה",
+   "en": "Yalta",
+   "desc": "resort town in Crimea",
+   "kind": "city",
+   "parent": "pl:crimea",
+   "keys": [
+    "יאלטה"
+   ],
+   "qid_auto": "Q128499",
+   "qid": "Q128499"
+  },
+  {
+   "id": "pl:ioannina",
+   "he": "יאנינה",
+   "en": "Ioannina",
+   "desc": "Janina, city in Epirus",
+   "kind": "city",
+   "parent": "pl:epirus",
+   "keys": [
+    "יאנינה"
+   ],
+   "qid_auto": "Q183199",
+   "qid": "Q183199"
+  },
+  {
+   "id": "pl:yanishek",
+   "he": "יאניסקי",
+   "en": "Yanishek (unidentified)",
+   "desc": "unidentified locality (1911 news)",
+   "kind": "locality",
+   "keys": [
+    "יאניסקי"
+   ],
+   "qid": null
+  },
+  {
+   "id": "pl:iasi",
+   "he": "יאשי",
+   "en": "Iași",
+   "desc": "city in Moldavia, Romania",
+   "kind": "city",
+   "parent": "pl:romania",
+   "keys": [
+    "יאסי"
+   ],
+   "qid_auto": "Q46852",
+   "qid": "Q46852"
+  },
+  {
+   "id": "pl:japan",
+   "he": "יפן",
+   "en": "Japan",
+   "desc": "Empire of Japan",
+   "kind": "country",
+   "keys": [
+    "יאפאן",
+    "יפן"
+   ],
+   "qid_auto": "Q17",
+   "qid": "Q188712"
+  },
+  {
+   "id": "pl:iacobeni",
+   "he": "יאקובני",
+   "en": "Iacobeni",
+   "desc": "village in Bukovina",
+   "kind": "village",
+   "parent": "pl:bukovina",
+   "keys": [
+    "יאקובני"
+   ],
+   "qid_auto": null,
+   "qid": "Q1065619"
+  },
+  {
+   "id": "pl:jaroslaw",
+   "he": "ירוסלב",
+   "en": "Jarosław",
+   "desc": "town in western Galicia",
+   "kind": "city",
+   "parent": "pl:galicia-eastern-europe",
+   "keys": [
+    "יארוסלאב",
+    "יארוסלב"
+   ],
+   "qid_auto": "Q721928",
+   "qid": "Q721928"
+  },
+  {
+   "id": "pl:judea",
+   "he": "יהודה",
+   "en": "Judea",
+   "desc": "southern region of the Land of Israel",
+   "kind": "region",
+   "parent": "pl:ottoman-palestine",
+   "keys": [
+    "יהודה"
+   ],
+   "qid_auto": null,
+   "qid": "Q104028"
+  },
+  {
+   "id": "pl:yehupetz",
+   "he": "יהופיץ",
+   "en": "Yehupetz (fictional)",
+   "desc": "Sholem Aleichem's fictional name for Kiev",
+   "kind": "fictional town",
+   "parent": "pl:kyiv",
+   "keys": [
+    "יהופץ"
+   ],
+   "qid": null
+  },
+  {
+   "id": "pl:johannisthal",
+   "he": "יוהניסטל",
+   "en": "Johannisthal",
+   "desc": "airfield near Berlin",
+   "kind": "quarter",
+   "parent": "pl:berlin",
+   "keys": [
+    "יוהנישטל"
+   ],
+   "qid_auto": "Q655012",
+   "qid": "Q655012"
+  },
+  {
+   "id": "pl:johannesburg",
+   "he": "יוהנסבורג",
+   "en": "Johannesburg",
+   "desc": "city in the Transvaal",
+   "kind": "city",
+   "parent": "pl:transvaal",
+   "keys": [
+    "יוהנסבורג"
+   ],
+   "qid_auto": "Q34647",
+   "qid": "Q34647"
+  },
+  {
+   "id": "pl:jutland",
+   "he": "יוטלנד",
+   "en": "Jutland",
+   "desc": "peninsula of Denmark",
+   "kind": "peninsula",
+   "parent": "pl:denmark",
+   "keys": [
+    "יוטלנד"
+   ],
+   "qid_auto": "Q25389",
+   "qid": "Q25389"
+  },
+  {
+   "id": "pl:houston",
+   "he": "יוסטון",
+   "en": "Houston",
+   "desc": "city in Texas, US",
+   "kind": "city",
+   "parent": "pl:united-states",
+   "keys": [
+    "יוסטון"
+   ],
+   "qid_auto": "Q16555",
+   "qid": "Q16555"
+  },
+  {
+   "id": "pl:yokohama",
+   "he": "יוקוהמה",
+   "en": "Yokohama",
+   "desc": "port city in Japan",
+   "kind": "city",
+   "parent": "pl:japan",
+   "keys": [
+    "יוקוהמה"
+   ],
+   "qid_auto": "Q38283",
+   "qid": "Q38283"
+  },
+  {
+   "id": "pl:yurevichi",
+   "he": "יורייביץ'",
+   "en": "Yurevichi (unidentified)",
+   "desc": "town in the Russian Empire, site of a 1905 pogrom",
+   "kind": "city",
+   "parent": "pl:russian-empire",
+   "keys": [
+    "יורייביץ"
+   ],
+   "qid": null
+  },
+  {
+   "id": "pl:jena",
+   "he": "ינה",
+   "en": "Jena",
+   "desc": "university town in Thuringia (SPD congress 1905)",
+   "kind": "city",
+   "parent": "pl:thuringia",
+   "keys": [
+    "ייֶנה",
+    "יינה"
+   ],
+   "qid_auto": "Q3150",
+   "qid": "Q3150"
+  },
+  {
+   "id": "pl:hyde-park-london",
+   "he": "הייד פארק",
+   "en": "Hyde Park, London",
+   "desc": "park in London",
+   "kind": "park",
+   "parent": "pl:london",
+   "keys": [
+    "ייד פארק"
+   ],
+   "qid_auto": "Q123738",
+   "qid": "Q123738"
+  },
+  {
+   "id": "pl:heidelberg",
+   "he": "היידלברג",
+   "en": "Heidelberg",
+   "desc": "university town in Baden",
+   "kind": "city",
+   "parent": "pl:baden",
+   "keys": [
+    "יידלברג"
+   ],
+   "qid_auto": "Q2966",
+   "qid": "Q2966"
+  },
+  {
+   "id": "pl:sea-of-azov",
+   "he": "ים אזוב",
+   "en": "Sea of Azov",
+   "desc": "sea",
+   "kind": "sea",
+   "keys": [
+    "ים אזוב"
+   ],
+   "qid_auto": "Q35000",
+   "qid": "Q35000"
+  },
+  {
+   "id": "pl:aegean-sea",
+   "he": "הים האגאי",
+   "en": "Aegean Sea",
+   "desc": "sea",
+   "kind": "sea",
+   "keys": [
+    "ים האגאי"
+   ],
+   "qid_auto": "Q34575",
+   "qid": "Q34575"
+  },
+  {
+   "id": "pl:red-sea",
+   "he": "ים סוף",
+   "en": "Red Sea",
+   "desc": "sea",
+   "kind": "sea",
+   "keys": [
+    "ים האדום",
+    "ים סוף"
+   ],
+   "qid_auto": "Q23406",
+   "qid": "Q23406"
+  },
+  {
+   "id": "pl:adriatic-sea",
+   "he": "הים האדריאטי",
+   "en": "Adriatic Sea",
+   "desc": "sea",
+   "kind": "sea",
+   "keys": [
+    "ים האדריאטי"
+   ],
+   "qid_auto": "Q13924",
+   "qid": "Q13924"
+  },
+  {
+   "id": "pl:baltic-sea",
+   "he": "הים הבלטי",
+   "en": "Baltic Sea",
+   "desc": "sea",
+   "kind": "sea",
+   "keys": [
+    "ים הבלטי"
+   ],
+   "qid_auto": "Q545",
+   "qid": "Q545"
+  },
+  {
+   "id": "pl:ionian-sea",
+   "he": "הים היוני",
+   "en": "Ionian Sea",
+   "desc": "sea",
+   "kind": "sea",
+   "keys": [
+    "ים היוני"
+   ],
+   "qid_auto": "Q37495",
+   "qid": "Q37495"
+  },
+  {
+   "id": "pl:white-sea",
+   "he": "הים הלבן",
+   "en": "White Sea",
+   "desc": "sea",
+   "kind": "sea",
+   "keys": [
+    "ים הלבן"
+   ],
+   "qid_auto": "Q44133",
+   "qid": "Q44133"
+  },
+  {
+   "id": "pl:persian-gulf",
+   "he": "המפרץ הפרסי",
+   "en": "Persian Gulf",
+   "desc": "gulf",
+   "kind": "sea",
+   "keys": [
+    "ים הפרסי"
+   ],
+   "qid_auto": "Q34675",
+   "qid": "Q34675"
+  },
+  {
+   "id": "pl:north-sea",
+   "he": "הים הצפוני",
+   "en": "North Sea",
+   "desc": "sea",
+   "kind": "sea",
+   "keys": [
+    "ים הצפוני"
+   ],
+   "qid_auto": "Q1693",
+   "qid": "Q1693"
+  },
+  {
+   "id": "pl:black-sea",
+   "he": "הים השחור",
+   "en": "Black Sea",
+   "desc": "sea",
+   "kind": "sea",
+   "keys": [
+    "ים השחור"
+   ],
+   "qid_auto": "Q166",
+   "qid": "Q166"
+  },
+  {
+   "id": "pl:mediterranean-sea",
+   "he": "הים התיכון",
+   "en": "Mediterranean Sea",
+   "desc": "sea",
+   "kind": "sea",
+   "keys": [
+    "ים התיכון"
+   ],
+   "qid_auto": "Q4918",
+   "qid": "Q4918"
+  },
+  {
+   "id": "pl:sea-of-marmara",
+   "he": "ים מרמרה",
+   "en": "Sea of Marmara",
+   "desc": "sea",
+   "kind": "sea",
+   "parent": "pl:ottoman-empire",
+   "keys": [
+    "ים מרמרה"
+   ],
+   "qid_auto": "Q35367",
+   "qid": "Q35367"
+  },
+  {
+   "id": "pl:giannitsa",
+   "he": "יאניצה (ינידזה)",
+   "en": "Giannitsa",
+   "desc": "Yenidje, town in Macedonia",
+   "kind": "city",
+   "parent": "pl:macedonia",
+   "keys": [
+    "ינידזה"
+   ],
+   "qid_auto": "Q929022",
+   "qid": "Q929022"
+  },
+  {
+   "id": "pl:yaskov",
+   "he": "יסקוב",
+   "en": "Yaskov (unidentified)",
+   "desc": "unidentified locality (1911 news)",
+   "kind": "locality",
+   "keys": [
+    "יסקוב"
+   ],
+   "qid": null
+  },
+  {
+   "id": "pl:jekabpils",
+   "he": "יקבפילס (יעקובשטדט)",
+   "en": "Jēkabpils",
+   "desc": "Jakobstadt, town in Courland",
+   "kind": "city",
+   "parent": "pl:russian-empire",
+   "keys": [
+    "יעקובשטדט"
+   ],
+   "qid_auto": "Q191120",
+   "qid": "Q191120"
+  },
+  {
+   "id": "pl:bois-de-boulogne",
+   "he": "יער בולוניה",
+   "en": "Bois de Boulogne",
+   "desc": "park in Paris",
+   "kind": "park",
+   "parent": "pl:paris",
+   "keys": [
+    "יער בולוניה"
+   ],
+   "qid_auto": "Q209626",
+   "qid": "Q209626"
+  },
+  {
+   "id": "pl:jaffa",
+   "he": "יפו",
+   "en": "Jaffa",
+   "desc": "port city in Ottoman Palestine",
+   "kind": "city",
+   "parent": "pl:ottoman-palestine",
+   "keys": [
+    "יפו"
+   ],
+   "qid_auto": "Q180294",
+   "qid": "Q180294"
+  },
+  {
+   "id": "pl:krasnodar",
+   "he": "קרסנודר (יקטרינודר)",
+   "en": "Krasnodar",
+   "desc": "Yekaterinodar, city in Kuban",
+   "kind": "city",
+   "parent": "pl:caucasus",
+   "keys": [
+    "יקטרינודר"
+   ],
+   "qid_auto": "Q3646",
+   "qid": "Q3646"
+  },
+  {
+   "id": "pl:dnipro",
+   "he": "דניפרו (יקטרינוסלב)",
+   "en": "Dnipro",
+   "desc": "Yekaterinoslav, city in southern Russia",
+   "kind": "city",
+   "parent": "pl:ukraine",
+   "keys": [
+    "יקטרינוסלב"
+   ],
+   "qid_auto": null,
+   "qid": "Q48256"
+  },
+  {
+   "id": "pl:jerusalem",
+   "he": "ירושלים",
+   "en": "Jerusalem",
+   "desc": "city in Ottoman Palestine",
+   "kind": "city",
+   "parent": "pl:ottoman-palestine",
+   "keys": [
+    "ירושלים"
+   ],
+   "qid_auto": "Q1218",
+   "qid": "Q1218"
+  },
+  {
+   "id": "pl:kuwait",
+   "he": "כווית",
+   "en": "Kuwait",
+   "desc": "sheikhdom in the Persian Gulf",
+   "kind": "country",
+   "parent": "pl:arabian-peninsula",
+   "keys": [
+    "כווית"
+   ],
+   "qid_auto": null,
+   "qid": "Q817"
+  },
+  {
+   "id": "pl:kurdistan",
+   "he": "כורדיסטן",
+   "en": "Kurdistan",
+   "desc": "Kurdish region",
+   "kind": "region",
+   "parent": "pl:ottoman-empire",
+   "keys": [
+    "כורדיסטאן",
+    "כורדיסטן"
+   ],
+   "qid_auto": "Q41470",
+   "qid": "Q41470"
+  },
+  {
+   "id": "pl:western-wall",
+   "he": "הכותל המערבי",
+   "en": "Western Wall",
+   "desc": "Jewish holy site in Jerusalem",
+   "kind": "site",
+   "parent": "pl:jerusalem",
+   "keys": [
+    "כותל המערבי"
+   ],
+   "qid_auto": "Q134821",
+   "qid": "Q134821"
+  },
+  {
+   "id": "pl:kolkata",
+   "he": "כלכותה",
+   "en": "Kolkata",
+   "desc": "Calcutta, city in British India",
+   "kind": "city",
+   "parent": "pl:india",
+   "keys": [
+    "כלכותה"
+   ],
+   "qid_auto": "Q1348",
+   "qid": "Q1348"
+  },
+  {
+   "id": "pl:znamenskaya-church",
+   "he": "כנסיית הסימן",
+   "en": "Znamenskaya Church",
+   "desc": "Church of the Sign, St Petersburg",
+   "kind": "church",
+   "parent": "pl:saint-petersburg",
+   "keys": [
+    "כנסיית הסימן"
+   ],
+   "qid_auto": "Q4192815",
+   "qid": null
+  },
+  {
+   "id": "pl:st-peters-basilica",
+   "he": "בזיליקת פטרוס הקדוש",
+   "en": "St. Peter's Basilica",
+   "desc": "basilica in the Vatican",
+   "kind": "church",
+   "parent": "pl:vatican-city",
+   "keys": [
+    "כנסיית פטרוס הקדוש"
+   ],
+   "qid_auto": "Q12512",
+   "qid": "Q12512"
+  },
+  {
+   "id": "pl:crete",
+   "he": "כרתים",
+   "en": "Crete",
+   "desc": "island under Ottoman suzerainty, united with Greece 1913",
+   "kind": "island",
+   "keys": [
+    "כרתים"
+   ],
+   "qid_auto": "Q34374",
+   "qid": "Q34374"
+  },
+  {
+   "id": "pl:kasrilevke",
+   "he": "כתרילבקה",
+   "en": "Kasrilevke (fictional)",
+   "desc": "Sholem Aleichem's fictional shtetl",
+   "kind": "fictional town",
+   "keys": [
+    "כתרילבקה"
+   ],
+   "qid": null
+  },
+  {
+   "id": "pl:lahore",
+   "he": "לאהור",
+   "en": "Lahore",
+   "desc": "city in Punjab, British India",
+   "kind": "city",
+   "parent": "pl:india",
+   "keys": [
+    "לאהור (הודו)"
+   ],
+   "qid_auto": "Q11739",
+   "qid": "Q11739"
+  },
+  {
+   "id": "pl:lens-pas-de-calais",
+   "he": "לאנס",
+   "en": "Lens, Pas-de-Calais",
+   "desc": "coal town in northern France (Courrières disaster 1906)",
+   "kind": "city",
+   "parent": "pl:france",
+   "keys": [
+    "לאנס"
+   ],
+   "qid_auto": null,
+   "qid": "Q165271"
+  },
+  {
+   "id": "pl:larache",
+   "he": "לראש",
+   "en": "Larache",
+   "desc": "port in northern Morocco",
+   "kind": "city",
+   "parent": "pl:morocco",
+   "keys": [
+    "לאראש",
+    "לארש",
+    "לראש"
+   ],
+   "qid_auto": "Q606775",
+   "qid": "Q606775"
+  },
+  {
+   "id": "pl:laredo-texas",
+   "he": "לארדו",
+   "en": "Laredo, Texas",
+   "desc": "border city in Texas",
+   "kind": "city",
+   "parent": "pl:united-states",
+   "keys": [
+    "לארדו"
+   ],
+   "qid_auto": "Q16868",
+   "qid": "Q16868"
+  },
+  {
+   "id": "pl:lviv",
+   "he": "לבוב (למברג)",
+   "en": "Lviv",
+   "desc": "Lemberg, capital of Galicia",
+   "kind": "city",
+   "parent": "pl:galicia-eastern-europe",
+   "keys": [
+    "לבוב",
+    "למברג"
+   ],
+   "qid_auto": "Q36036",
+   "qid": "Q36036"
+  },
+  {
+   "id": "pl:levant",
+   "he": "הלבנט",
+   "en": "Levant",
+   "desc": "eastern Mediterranean lands",
+   "kind": "region",
+   "keys": [
+    "לבנט"
+   ],
+   "qid_auto": null,
+   "qid": "Q81483"
+  },
+  {
+   "id": "pl:heligoland",
+   "he": "הלגולנד",
+   "en": "Heligoland",
+   "desc": "German North Sea island",
+   "kind": "island",
+   "parent": "pl:germany",
+   "keys": [
+    "לגולנד"
+   ],
+   "qid_auto": "Q3038",
+   "qid": "Q3038"
+  },
+  {
+   "id": "pl:lublin",
+   "he": "לובלין",
+   "en": "Lublin",
+   "desc": "city in Congress Poland",
+   "kind": "city",
+   "parent": "pl:poland",
+   "keys": [
+    "לובלין"
+   ],
+   "qid_auto": "Q37333",
+   "qid": "Q37333"
+  },
+  {
+   "id": "pl:lugano",
+   "he": "לוגאנו",
+   "en": "Lugano",
+   "desc": "town in Switzerland",
+   "kind": "city",
+   "parent": "pl:switzerland",
+   "keys": [
+    "לוגאנו"
+   ],
+   "qid_auto": null,
+   "qid": "Q7024"
+  },
+  {
+   "id": "pl:lugoj",
+   "he": "לוגוש",
+   "en": "Lugoj",
+   "desc": "Lugos, town in Hungary (Banat)",
+   "kind": "city",
+   "parent": "pl:hungary",
+   "keys": [
+    "לוגאש"
+   ],
+   "qid_auto": "Q258981",
+   "qid": "Q258981"
+  },
+  {
+   "id": "pl:lodz",
+   "he": "לודז'",
+   "en": "Łódź",
+   "desc": "industrial city in Congress Poland",
+   "kind": "city",
+   "parent": "pl:poland",
+   "keys": [
+    "לודז"
+   ],
+   "qid_auto": "Q580",
+   "qid": "Q580"
+  },
+  {
+   "id": "pl:livadia-palace",
+   "he": "ארמון ליבדיה",
+   "en": "Livadia Palace",
+   "desc": "imperial palace near Yalta",
+   "kind": "palace",
+   "parent": "pl:crimea",
+   "keys": [
+    "לוואדיה",
+    "ליבדיה",
+    "ליוואדיה"
+   ],
+   "qid_auto": "Q1055311",
+   "qid": "Q1055311"
+  },
+  {
+   "id": "pl:luleburgaz",
+   "he": "לולה בורגז",
+   "en": "Lüleburgaz",
+   "desc": "town in Eastern Thrace (1912 battle)",
+   "kind": "city",
+   "parent": "pl:thrace",
+   "keys": [
+    "לולה בורגאס"
+   ],
+   "qid_auto": "Q214670",
+   "qid": "Q214670"
+  },
+  {
+   "id": "pl:london",
+   "he": "לונדון",
+   "en": "London",
+   "desc": "capital of the United Kingdom",
+   "kind": "city",
+   "parent": "pl:united-kingdom",
+   "keys": [
+    "לונדון"
+   ],
+   "qid_auto": "Q84",
+   "qid": "Q84"
+  },
+  {
+   "id": "pl:lucerne",
+   "he": "לוצרן",
+   "en": "Lucerne",
+   "desc": "city in Switzerland",
+   "kind": "city",
+   "parent": "pl:switzerland",
+   "keys": [
+    "לוצרן"
+   ],
+   "qid_auto": "Q4191",
+   "qid": "Q4191"
+  },
+  {
+   "id": "pl:luxembourg",
+   "he": "לוקסמבורג",
+   "en": "Luxembourg",
+   "desc": "Grand Duchy of Luxembourg",
+   "kind": "country",
+   "keys": [
+    "לוקסמבורג"
+   ],
+   "qid_auto": null,
+   "qid": "Q32"
+  },
+  {
+   "id": "pl:locarno",
+   "he": "לוקרנו",
+   "en": "Locarno",
+   "desc": "town in Switzerland",
+   "kind": "city",
+   "parent": "pl:switzerland",
+   "keys": [
+    "לוקרנו"
+   ],
+   "qid_auto": "Q11935",
+   "qid": "Q11935"
+  },
+  {
+   "id": "pl:liaoyang",
+   "he": "ליאויאנג",
+   "en": "Liaoyang",
+   "desc": "city in Manchuria (1904 battle)",
+   "kind": "city",
+   "parent": "pl:manchuria",
+   "keys": [
+    "ליאויאנג"
+   ],
+   "qid_auto": "Q75203",
+   "qid": "Q75203"
+  },
+  {
+   "id": "pl:liepaja",
+   "he": "ליפאיה (ליבאו)",
+   "en": "Liepāja",
+   "desc": "Libau, port in Courland",
+   "kind": "city",
+   "parent": "pl:russian-empire",
+   "keys": [
+    "ליבאו",
+    "ליבאוו",
+    "ליבוי"
+   ],
+   "qid_auto": "Q167668",
+   "qid": "Q167668"
+  },
+  {
+   "id": "pl:liverpool",
+   "he": "ליברפול",
+   "en": "Liverpool",
+   "desc": "port city in England",
+   "kind": "city",
+   "parent": "pl:united-kingdom",
+   "keys": [
+    "ליברפול"
+   ],
+   "qid_auto": "Q24826",
+   "qid": "Q24826"
+  },
+  {
+   "id": "pl:lithuania",
+   "he": "ליטא",
+   "en": "Lithuania",
+   "desc": "Lithuanian lands of the Russian Empire",
+   "kind": "region",
+   "parent": "pl:russian-empire",
+   "keys": [
+    "ליטא"
+   ],
+   "qid_auto": "Q37",
+   "qid": "Q37"
+  },
+  {
+   "id": "pl:leipzig",
+   "he": "לייפציג",
+   "en": "Leipzig",
+   "desc": "city in Saxony",
+   "kind": "city",
+   "parent": "pl:germany",
+   "keys": [
+    "לייפציג"
+   ],
+   "qid_auto": "Q2079",
+   "qid": "Q2079"
+  },
+  {
+   "id": "pl:lichtenrade",
+   "he": "ליכטנראדה",
+   "en": "Lichtenrade",
+   "desc": "suburb of Berlin",
+   "kind": "quarter",
+   "parent": "pl:berlin",
+   "keys": [
+    "ליכטנראדה"
+   ],
+   "qid_auto": "Q821101",
+   "qid": "Q821101"
+  },
+  {
+   "id": "pl:lille",
+   "he": "ליל",
+   "en": "Lille",
+   "desc": "city in northern France",
+   "kind": "city",
+   "parent": "pl:france",
+   "keys": [
+    "ליל"
+   ],
+   "qid_auto": "Q648",
+   "qid": "Q648"
+  },
+  {
+   "id": "pl:lemnos",
+   "he": "למנוס",
+   "en": "Lemnos",
+   "desc": "Aegean island",
+   "kind": "island",
+   "parent": "pl:aegean-islands",
+   "keys": [
+    "לימנוס"
+   ],
+   "qid_auto": "Q192483",
+   "qid": "Q192483"
+  },
+  {
+   "id": "pl:limassol",
+   "he": "לימסול",
+   "en": "Limassol",
+   "desc": "port in Cyprus",
+   "kind": "city",
+   "parent": "pl:cyprus",
+   "keys": [
+    "לימסול"
+   ],
+   "qid_auto": "Q185632",
+   "qid": "Q185632"
+  },
+  {
+   "id": "pl:linz",
+   "he": "לינץ",
+   "en": "Linz",
+   "desc": "capital of Upper Austria",
+   "kind": "city",
+   "parent": "pl:austria-hungary",
+   "keys": [
+    "לינץ"
+   ],
+   "qid_auto": "Q41329",
+   "qid": "Q41329"
+  },
+  {
+   "id": "pl:lisbon",
+   "he": "ליסבון",
+   "en": "Lisbon",
+   "desc": "capital of Portugal",
+   "kind": "city",
+   "parent": "pl:portugal",
+   "keys": [
+    "ליסבון"
+   ],
+   "qid_auto": "Q597",
+   "qid": "Q597"
+  },
+  {
+   "id": "pl:olaszliszka",
+   "he": "ליסקא",
+   "en": "Olaszliszka",
+   "desc": "Liska, Hasidic town in Hungary",
+   "kind": "city",
+   "parent": "pl:hungary",
+   "keys": [
+    "ליסקא"
+   ],
+   "qid_auto": "Q1017864",
+   "qid": "Q1017864"
+  },
+  {
+   "id": "pl:lipljan",
+   "he": "ליפליאן",
+   "en": "Lipljan",
+   "desc": "town in Kosovo",
+   "kind": "city",
+   "parent": "pl:kosovo",
+   "keys": [
+    "ליפליאן"
+   ],
+   "qid_auto": "Q125413295",
+   "qid": null
+  },
+  {
+   "id": "pl:elk-poland",
+   "he": "ליק (אלק)",
+   "en": "Ełk",
+   "desc": "Lyck, town in East Prussia",
+   "kind": "city",
+   "parent": "pl:east-prussia",
+   "keys": [
+    "ליק"
+   ],
+   "qid_auto": "Q61480",
+   "qid": "Q61480"
+  },
+  {
+   "id": "pl:lancashire",
+   "he": "לנקשייר",
+   "en": "Lancashire",
+   "desc": "county in England",
+   "kind": "region",
+   "parent": "pl:united-kingdom",
+   "keys": [
+    "לנקשייר"
+   ],
+   "qid_auto": "Q23077",
+   "qid": "Q23077"
+  },
+  {
+   "id": "pl:lesbos",
+   "he": "לסבוס",
+   "en": "Lesbos",
+   "desc": "Aegean island (Mytilene)",
+   "kind": "island",
+   "parent": "pl:aegean-islands",
+   "keys": [
+    "לסבוס"
+   ],
+   "qid_auto": "Q128087",
+   "qid": "Q128087"
+  },
+  {
+   "id": "pl:helsinki",
+   "he": "הלסינקי (הלסינגפורס)",
+   "en": "Helsinki",
+   "desc": "Helsingfors, capital of Finland",
+   "kind": "city",
+   "parent": "pl:finland",
+   "keys": [
+    "לסינגפורס",
+    "לסינקי"
+   ],
+   "qid_auto": "Q1757",
+   "qid": "Q1757"
+  },
+  {
+   "id": "pl:larissa",
+   "he": "לריסה",
+   "en": "Larissa",
+   "desc": "town in Thessaly",
+   "kind": "city",
+   "parent": "pl:greece",
+   "keys": [
+    "לריסה"
+   ],
+   "qid_auto": "Q178405",
+   "qid": "Q178405"
+  },
+  {
+   "id": "pl:larnaca",
+   "he": "לרנקה",
+   "en": "Larnaca",
+   "desc": "port in Cyprus",
+   "kind": "city",
+   "parent": "pl:cyprus",
+   "keys": [
+    "לרנקה"
+   ],
+   "qid_auto": "Q171882",
+   "qid": "Q171882"
+  },
+  {
+   "id": "pl:moheli",
+   "he": "מוהלי",
+   "en": "Mohéli",
+   "desc": "island in the Comoros",
+   "kind": "island",
+   "parent": "pl:africa",
+   "keys": [
+    "מאהלי"
+   ],
+   "qid_auto": "Q271797",
+   "qid": "Q271797"
+  },
+  {
+   "id": "pl:mazandaran",
+   "he": "מאזנדראן",
+   "en": "Mazandaran",
+   "desc": "province of northern Persia",
+   "kind": "region",
+   "parent": "pl:persia",
+   "keys": [
+    "מאזנדראן"
+   ],
+   "qid_auto": "Q28713741",
+   "qid": null
+  },
+  {
+   "id": "pl:masalit-morocco",
+   "he": "מאסאליט",
+   "en": "Masalit (unidentified)",
+   "desc": "unidentified battle site in Morocco (1910)",
+   "kind": "locality",
+   "parent": "pl:morocco",
+   "keys": [
+    "מאסאליט"
+   ],
+   "qid": null
+  },
+  {
+   "id": "pl:peter-and-paul-fortress",
+   "he": "מבצר פטרופבלובסק",
+   "en": "Peter and Paul Fortress",
+   "desc": "fortress-prison in St Petersburg",
+   "kind": "fortress",
+   "parent": "pl:saint-petersburg",
+   "keys": [
+    "מבצר פטרו פאבלובסק"
+   ],
+   "qid_auto": "Q38646",
+   "qid": "Q38646"
+  },
+  {
+   "id": "pl:shlisselburg-fortress",
+   "he": "מבצר שליסלבורג",
+   "en": "Shlisselburg Fortress",
+   "desc": "fortress-prison near St Petersburg",
+   "kind": "fortress",
+   "parent": "pl:russian-empire",
+   "keys": [
+    "מבצר שליסלבורג"
+   ],
+   "qid_auto": "Q14690",
+   "qid": "Q14690"
+  },
+  {
+   "id": "pl:magdeburg",
+   "he": "מגדבורג",
+   "en": "Magdeburg",
+   "desc": "city in Prussian Saxony",
+   "kind": "city",
+   "parent": "pl:germany",
+   "keys": [
+    "מגדבורג"
+   ],
+   "qid_auto": "Q1733",
+   "qid": "Q1733"
+  },
+  {
+   "id": "pl:ima-morocco",
+   "he": "אימא",
+   "en": "Ima (unidentified)",
+   "desc": "unidentified locality near Melilla, Morocco (1911)",
+   "kind": "locality",
+   "parent": "pl:morocco",
+   "keys": [
+    "אימא"
+   ],
+   "qid": null
+  },
+  {
+   "id": "pl:aloui-morocco",
+   "he": "אלואי",
+   "en": "Aloui (unidentified)",
+   "desc": "unidentified battle site in Morocco (1911)",
+   "kind": "locality",
+   "parent": "pl:morocco",
+   "keys": [
+    "אלואי"
+   ],
+   "qid": null
+  },
+  {
+   "id": "pl:elsig-morocco",
+   "he": "אלסיג",
+   "en": "Elsig (unidentified)",
+   "desc": "unidentified locality in northern Morocco (1911)",
+   "kind": "locality",
+   "parent": "pl:morocco",
+   "keys": [
+    "אלסיג"
+   ],
+   "qid": null
+  }
+ ],
+ "contextual": [
+  {
+   "key": "ארם",
+   "articles": {
+    "unzerleben19120208-01.2.14": null,
+    "unzerleben19150122-01.2.23": null,
+    "unzerleben19150126-01.2.9": "pl:aram"
+   }
+  },
+  {
+   "key": "ברסט",
+   "articles": {
+    "dfr19070809-01.2.14": "pl:brest-belarus",
+    "hyt19110723-01.2.4": "pl:brest-france",
+    "hyt19110910-01.2.11": "pl:brest-france"
+   }
+  },
+  {
+   "key": "טריפולי",
+   "articles": {
+    "hyt19110501-01.2.13": "pl:tripoli-libya",
+    "hyt19110720-01.2.13": "pl:tripoli-libya",
+    "hyt19110908-01.2.5": "pl:tripoli-libya",
+    "hyt19110926-01.2.8": "pl:tripoli-libya",
+    "hyt19111001-01.2.1": "pl:tripoli-libya",
+    "hyt19111006-01.2.5": "pl:tripoli-libya",
+    "hyt19111006-01.2.8": "pl:tripoli-libya",
+    "hyt19111013-01.2.17": "pl:tripoli-libya",
+    "hyt19111121-01.2.15": "pl:tripoli-libya",
+    "hyt19111206-01.2.4": "pl:tripoli-libya",
+    "hyt19120111-01.2.19": "pl:tripoli-libya",
+    "hyt19120325-01.2.15": "pl:tripoli-libya",
+    "hyt19120425-01.2.15": "pl:tripoli-libya",
+    "hyt19120516-01.2.11": "pl:tripoli-libya",
+    "hyt19121024-01.2.19": "pl:tripoli-libya",
+    "hyt19121029-01.2.8": "pl:tripoli-libya",
+    "unzerleben19111022-01.2.2": "pl:tripoli-libya",
+    "unzerleben19111107-01.2.2": "pl:tripoli-libya",
+    "unzerleben19111115-01.2.2": "pl:tripoli-libya",
+    "unzerleben19111115-01.2.3": "pl:tripoli-libya",
+    "unzerleben19111116-01.2.5": "pl:tripoli-libya",
+    "unzerleben19111205-01.2.10": "pl:tripoli-libya",
+    "unzerleben19130330-01.2.13": "pl:tripoli-libya",
+    "unzerleben19130605-01.2.9": "pl:tripoli-libya"
+   }
+  }
+ ],
+ "drop": [
+  {
+   "key": "אדוק",
+   "why": "unidentifiable OCR form"
+  },
+  {
+   "key": "אוואלי",
+   "why": "unidentifiable OCR form"
+  },
+  {
+   "key": "אוסלה",
+   "why": "means \"abroad\", not a place name"
+  },
+  {
+   "key": "אופרלן",
+   "why": "unidentifiable OCR form"
+  },
+  {
+   "key": "אי שימה",
+   "why": "unidentifiable OCR form"
+  },
+  {
+   "key": "אילאיעט",
+   "why": "generic \"vilayet\" (province)"
+  },
+  {
+   "key": "אלונה",
+   "why": "unidentifiable OCR form"
+  },
+  {
+   "key": "אנאריה",
+   "why": "unidentifiable OCR form"
+  },
+  {
+   "key": "ארדאס",
+   "why": "unidentifiable OCR form"
+  },
+  {
+   "key": "ארמניה בכפר ציפיקו",
+   "why": "garbled extractor label, unidentifiable"
+  },
+  {
+   "key": "אש",
+   "why": "unidentifiable OCR form"
+  },
+  {
+   "key": "בית הקברות היהודי",
+   "why": "generic \"Jewish cemetery\""
+  },
+  {
+   "key": "גבול איטליה",
+   "why": "generic border reference"
+  },
+  {
+   "key": "גבול בולגריה טורקיה",
+   "why": "generic border reference"
+  },
+  {
+   "key": "גבול הקווקזי",
+   "why": "generic border reference"
+  },
+  {
+   "key": "גבול טורקיה",
+   "why": "generic border reference"
+  },
+  {
+   "key": "גיהנום",
+   "why": "\"hell\", metaphorical"
+  },
+  {
+   "key": "דרום מערב (הקצה הדרום מערבי של האימפריה)",
+   "why": "generic direction, not a place"
+  },
+  {
+   "key": "וואילטיסט",
+   "why": "unidentifiable OCR form"
+  },
+  {
+   "key": "ולצן",
+   "why": "unidentifiable OCR form"
+  },
+  {
+   "key": "ופיי",
+   "why": "unidentifiable OCR form"
+  },
+  {
+   "key": "זנקארה",
+   "why": "unidentifiable OCR form"
+  },
+  {
+   "key": "חול",
+   "why": "means \"abroad\", not a place name"
+  },
+  {
+   "key": "חרקל",
+   "why": "unidentifiable (historical fiction)"
+  },
+  {
+   "key": "טור",
+   "why": "unidentifiable OCR form"
+  }
+ ]
+}

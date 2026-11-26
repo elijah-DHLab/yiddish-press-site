@@ -1,0 +1,581 @@
+pl:asilah|אסילה|Asilah|coastal town in northern Morocco|city|pl:morocco|1,159,178
+pl:turku|טורקו|Turku|city in Finland (Swedish: Åbo)|city|pl:finland|2
+pl:abu-shusha|אבו שושה|Abu Shusha|Arab village near Gezer, Ottoman Palestine|village|pl:ottoman-palestine|3
+pl:ethiopia|אתיופיה|Ethiopian Empire|Abyssinia, empire in East Africa|country|pl:africa|4,5
+pl:abram-greater-manchester|אברם|Abram, Greater Manchester|mining village in Lancashire, England (Maypole Colliery disaster 1908)|village|pl:united-kingdom|6
+pl:agadir|אגאדיר|Agadir|port city in southern Morocco (Agadir crisis 1911)|city|pl:morocco|7,8
+pl:lake-prespa|אגם פרספה|Lake Prespa|lake on the Macedonian front|lake|pl:macedonia|9
+pl:masurian-lake-district|אגמי מזוריה|Masurian Lake District|lake district in East Prussia (WWI battles)|region|pl:east-prussia|10
+pl:addis-ababa|אדיס אבבה|Addis Ababa|capital of Ethiopia|city|pl:ethiopia|12
+pl:adana|אדנה|Adana|city in Cilicia, Ottoman Empire (1909 massacre)|city|pl:ottoman-empire|13
+pl:edirne|אדירנה (אדריאנופול)|Edirne|Adrianople, city in Eastern Thrace|city|pl:thrace|14
+pl:daraa|דרעא|Daraa|town in the Hauran, Syria (biblical Edrei)|city|pl:syria|15
+pl:oujda|אוג'דה|Oujda|city in eastern Morocco near the Algerian border|city|pl:morocco|16,19,26
+pl:ungheni|אונגני|Ungheni|town in Bessarabia|city|pl:bessarabia|17
+pl:uganda|אוגנדה|Uganda|British protectorate in East Africa|country|pl:africa|18
+pl:odesa|אודסה|Odesa|port city on the Black Sea, Russian Empire|city|pl:ukraine|20
+pl:privoz|פריבוז (אודרפורט)|Přívoz|Oderfurt, town near Ostrava, Moravia|city|pl:austria-hungary|21
+pl:ohrid|אוהריד|Ohrid|town in Macedonia|city|pl:macedonia|22,187
+pl:havana|הוואנה|Havana|capital of Cuba|city|pl:cuba|24
+pl:ouazzane|ואזאן|Ouazzane|town in northern Morocco|city|pl:morocco|25
+pl:oyster-bay-new-york|אויסטר ביי|Oyster Bay, New York|town in New York, home of Theodore Roosevelt|city|pl:united-states|27
+pl:tombs-of-the-sanhedrin|קברי הסנהדרין|Tombs of the Sanhedrin|rock-cut tombs in northern Jerusalem|site|pl:jerusalem|28
+pl:uman|אומן|Uman|town in Kiev Governorate|city|pl:ukraine|29
+pl:unter-den-linden|אונטר דן לינדן|Unter den Linden|boulevard in Berlin|street|pl:berlin|30
+pl:ontario|אונטריו|Ontario|province of Canada|region|pl:canada|31
+pl:ostend|אוסטנדה|Ostend|port city in Belgium|city|pl:belgium|32
+pl:austria-hungary|אוסטריה-הונגריה|Austria-Hungary|Habsburg dual monarchy 1867–1918|country||33,34,35
+pl:australia|אוסטרליה|Australia|continent and Commonwealth of Australia|country||36
+pl:ufa|אופה|Ufa|city in the Urals, Russian Empire|city|pl:russian-empire|38,623
+pl:ochakiv|אוצ'קוב|Ochakiv|port town on the Black Sea, Kherson Governorate|city|pl:ukraine|40
+pl:atlantic-ocean|האוקיינוס האטלנטי|Atlantic Ocean|ocean|ocean||41
+pl:pacific-ocean|האוקיינוס השקט|Pacific Ocean|ocean|ocean||42
+pl:ukraine|אוקראינה|Ukraine|Ukraine (Little Russia), region of the Russian Empire|region|pl:russian-empire|43
+pl:oral-kazakhstan|אורלסק|Oral, Kazakhstan|Uralsk, city in Uralsk Oblast, Russian Empire|city|pl:russian-empire|44,46
+pl:ulaanbaatar|אולן בטור (אורגה)|Ulaanbaatar|Urga, capital of Mongolia|city|pl:mongolia|45
+pl:urmia|אורמיה|Urmia|city in Persian Azerbaijan|city|pl:persia|47,177
+pl:orenburg|אורנבורג|Orenburg|city in the southern Urals, Russian Empire|city|pl:russian-empire|48
+pl:donbas|דונבאס|Donbas|Donets coal basin|region|pl:ukraine|49
+pl:lebanon|לבנון|Lebanon|Mount Lebanon (Ottoman mutasarrifate) / Lebanon region|region|pl:ottoman-empire|50,683
+pl:rif|הריף|Rif|mountainous region of northern Morocco|region|pl:morocco|51
+pl:yakutsk-oblast|מחוז יקוטסק|Yakutsk Oblast|province in eastern Siberia, Russian Empire|region|pl:siberia|52
+pl:lena-goldfields|מכרות הזהב של הלנה|Lena goldfields|gold-mining district on the Lena river, Siberia (Lena massacre 1912)|region|pl:siberia|53,716,717
+pl:riga|ריגה|Riga|port city in Livonia, Russian Empire|city|pl:russian-empire|54
+pl:chaouia|שאוויה|Chaouia|plain region around Casablanca, Morocco|region|pl:morocco|55
+pl:tetouan|תטואן|Tetouan|city in northern Morocco|city|pl:morocco|56,592
+pl:izmir|איזמיר|İzmir|Smyrna, port city in western Anatolia|city|pl:anatolia|57,63
+pl:azerbaijan-iran|אזרבייג'ן הפרסית|Azerbaijan (Iran)|Iranian Azerbaijan, province of Persia|region|pl:persia|58
+pl:tel-aviv|תל אביב|Tel Aviv|Tel Aviv (founded 1909 as Ahuzat Bayit) near Jaffa|city|pl:ottoman-palestine|59
+pl:ikaria|איקריה|Ikaria|Aegean island|island|pl:aegean-islands|60
+pl:aydin|איידין|Aydın|city in western Anatolia|city|pl:anatolia|62
+pl:haiti|האיטי|Haiti|Caribbean republic|country||64
+pl:italy|איטליה|Italy|Kingdom of Italy|country||65
+pl:azores|האיים האזוריים|Azores|Portuguese Atlantic archipelago|archipelago|pl:portugal|66,70
+pl:aegean-islands|איי הים האגאי|Aegean Islands|islands of the Aegean Sea (the Archipelago)|archipelago|pl:aegean-sea|67,69,181
+pl:philippines|הפיליפינים|Philippines|archipelago in Southeast Asia (US colony)|country||68,72
+pl:west-indies|איי הודו המערבית|West Indies|Caribbean islands|archipelago||71
+pl:cyclades|האיים הקיקלדיים|Cyclades|Greek island group|archipelago|pl:greece|73
+pl:hainan|היינאן|Hainan|island province of China|island|pl:china|76
+pl:french-indochina|הודו-סין הצרפתית|French Indochina|French colony in Southeast Asia|country||77
+pl:indiana|אינדיאנה|Indiana|US state|region|pl:united-states|78
+pl:indianapolis|אינדיאנפוליס|Indianapolis|capital of Indiana, US|city|pl:indiana|79
+pl:east-end-of-london|איסט אנד|East End of London|immigrant quarter of London|quarter|pl:london|80
+pl:stip|שטיפ|Štip|town in Macedonia (Istip)|city|pl:macedonia|81,92
+pl:istanbul|איסטנבול (קושטא)|Istanbul|Constantinople, Ottoman capital|city|pl:ottoman-empire|82,83,152
+pl:issy-les-moulineaux|איסי-לה-מולינו|Issy-les-Moulineaux|suburb of Paris (airfield)|city|pl:france|84
+pl:iceland|איסלנד|Iceland|island in the North Atlantic (Danish dependency)|country|pl:denmark|85
+pl:skopje|סקופיה|Skopje|Üsküb, city in Kosovo vilayet / Macedonia|city|pl:macedonia|86
+pl:peja|פץ' (איפק)|Peja|Peć (İpek), town in Kosovo|city|pl:kosovo|87,663
+pl:iquitos|איקיטוס|Iquitos|city in the Peruvian Amazon|city|pl:peru|88
+pl:europe|אירופה|Europe|continent|continent||89
+pl:ireland|אירלנד|Ireland|island, part of the United Kingdom|region|pl:united-kingdom|90
+pl:irkutsk|אירקוטסק|Irkutsk|city in eastern Siberia|city|pl:siberia|91
+pl:bad-ischl|באד אישל|Bad Ischl|spa town in Upper Austria (imperial summer residence)|city|pl:austria-hungary|93,213
+pl:ksar-el-kebir|קסאר אל-כביר|Ksar el-Kebir|Alcazarquivir, town in northern Morocco|city|pl:morocco|94,95,96,130,131
+pl:alabama|אלבמה|Alabama|US state|region|pl:united-states|97
+pl:albania|אלבניה|Albania|Albania (Ottoman Albanian lands, independent 1912)|country||98
+pl:northern-albania|צפון אלבניה|Northern Albania|northern Albanian highlands|region|pl:albania|99
+pl:elberfeld|אלברפלד|Elberfeld|industrial town in Rhine Province (now Wuppertal)|city|pl:germany|100
+pl:algeciras|אלחסיראס|Algeciras|port town in southern Spain (Algeciras Conference 1906)|city|pl:spain|101,102,105,106,116,117,118
+pl:algiers|אלג'יר|Algiers|capital of French Algeria|city|pl:algeria|103
+pl:algeria|אלג'יריה|Algeria|French Algeria|country||104
+pl:algarve|אלגרבה|Algarve|southern region of Portugal|region|pl:portugal|107
+pl:halle-saale|האלה|Halle (Saale)|city in Prussian Saxony|city|pl:germany|108
+pl:elora-mexico|אלורה (מקסיקו)|Elora, Mexico|unidentified locality in Mexico (1911)|locality|pl:mexico|111
+pl:alsace|אלזס|Alsace|region of Alsace-Lorraine|region|pl:alsace-lorraine|112
+pl:alsace-lorraine|אלזס-לורן|Alsace-Lorraine|German imperial territory 1871–1918|region|pl:germany|113,114,115
+pl:lorraine|לורן|Lorraine|region (German Lorraine)|region|pl:alsace-lorraine|696
+pl:alytus|אליטוס (אוליטה)|Alytus|Olita, town in Vilna Governorate|city|pl:lithuania|119
+pl:ganja-azerbaijan|גנג'ה (יליזבטפול)|Ganja, Azerbaijan|Elisabethpol, city in the Caucasus|city|pl:caucasus|120,642
+pl:aleksandrow-kujawski|אלכסנדרוב קויאבסקי|Aleksandrów Kujawski|Russian–Prussian border station in Congress Poland|city|pl:poland|121,122
+pl:zaporizhzhia|זפוריז'יה (אלכסנדרובסק)|Zaporizhzhia|Aleksandrovsk, city in Yekaterinoslav Governorate|city|pl:ukraine|123
+pl:iskenderun|איסקנדרון (אלכסנדרטה)|İskenderun|Alexandretta, port in northern Syria|city|pl:syria|124
+pl:alexandria|אלכסנדריה|Alexandria|port city in Egypt|city|pl:egypt|125
+pl:olsztyn|אולשטין (אלנשטיין)|Olsztyn|Allenstein, town in East Prussia|city|pl:east-prussia|126
+pl:alps|האלפים|Alps|mountain range|mountains|pl:europe|128
+pl:eleftheroupoli|אלפתרופולי|Eleftheroupoli|town near Kavala, Macedonia|city|pl:macedonia|129
+pl:hamburg|המבורג|Hamburg|port city, Germany|city|pl:germany|132,728
+pl:xiamen|שיאמן (אמוי)|Xiamen|Amoy, port city in Fujian, China|city|pl:china|133
+pl:bad-ems|באד אמס|Bad Ems|spa town in Hesse-Nassau|city|pl:germany|134
+pl:amsterdam|אמסטרדם|Amsterdam|capital of the Netherlands|city|pl:netherlands|135
+pl:united-states|ארצות הברית|United States|United States of America|country||136,195
+pl:angola|אנגולה|Angola|Portuguese colony in Africa|country|pl:africa|138
+pl:united-kingdom|בריטניה|United Kingdom|United Kingdom of Great Britain and Ireland (England)|country||139,296,297
+pl:hanover|הנובר|Hanover|city in Prussia|city|pl:germany|140
+pl:bandar-anzali|בנדר אנזלי|Bandar-e Anzali|Enzeli, Caspian port of Persia|city|pl:persia|141
+pl:pomorie|פומוריה (אנחיאלוס)|Pomorie|Anchialos, Black Sea town in Bulgaria|city|pl:bulgaria|142
+pl:antwerp|אנטוורפן|Antwerp|port city in Belgium|city|pl:belgium|143
+pl:anatolia|אנטוליה|Anatolia|Asia Minor; Asiatic Turkey|region|pl:ottoman-empire|144,158,588
+pl:anti-lebanon-mountains|הרי אנטי-לבנון|Anti-Lebanon Mountains|mountain range between Syria and Lebanon|mountains|pl:syria|145
+pl:bar-montenegro|בר (אנטיווארי)|Bar, Montenegro|Antivari, Montenegrin port|city|pl:montenegro|146
+pl:antakya|אנטיוכיה|Antakya|Antioch, city in northern Syria|city|pl:syria|147
+pl:hankou|האנקאו|Hankou|city on the Yangtze, part of Wuhan, China|city|pl:china|148
+pl:assam|אסאם|Assam|province of British India|region|pl:india|149,150
+pl:governorate-of-estonia|פלך אסטלנד|Governorate of Estonia|Estland Governorate, Russian Empire|region|pl:russian-empire|151
+pl:gorgan|גורגאן (אסטראבאד)|Gorgan|Astarabad, city in northern Persia|city|pl:persia|153
+pl:astara|אסטרה|Astara|border town on the Caspian (Russia/Persia)|city|pl:persia|154
+pl:astrakhan|אסטרחן|Astrakhan|city on the lower Volga|city|pl:russian-empire|155,156
+pl:asia|אסיה|Asia|continent|continent||157
+pl:asir|עסיר|Asir|region in southwestern Arabia|region|pl:arabian-peninsula|160
+pl:essen|אסן|Essen|industrial city in the Ruhr|city|pl:germany|161
+pl:isfahan|אספהאן|Isfahan|city in central Persia|city|pl:persia|162
+pl:afghanistan|אפגניסטן|Afghanistan|Emirate of Afghanistan|country||163
+pl:apulia|אפוליה|Apulia|region of southern Italy|region|pl:italy|164
+pl:epur-albania|אפור (אלבניה)|Epur (Albania)|unidentified locality in southern Albania (1916)|locality|pl:albania|165
+pl:epirus|אפירוס|Epirus|region in northwestern Greece / southern Albania|region|pl:greece|166
+pl:africa|אפריקה|Africa|continent|continent||167
+pl:german-south-west-africa|דרום-מערב אפריקה הגרמנית|German South West Africa|German colony (Herero wars)|country|pl:africa|168,169,410
+pl:ekenas|אקנס|Ekenäs|town in southern Finland|city|pl:finland|170
+pl:bilhorod-dnistrovskyi|בילהורוד-דניסטרובסקי (אקרמן)|Bilhorod-Dnistrovskyi|Akkerman, town in Bessarabia|city|pl:bessarabia|171
+pl:harbin|חרבין|Harbin|city in Manchuria|city|pl:manchuria|172,516,545
+pl:argentina|ארגנטינה|Argentina|republic in South America|country||173
+pl:ardabil|ארדביל|Ardabil|city in Persian Azerbaijan|city|pl:persia|175
+pl:ardanuc|ארדנוץ'|Ardanuç|town near the Russo-Turkish border (1914 fighting)|city|pl:ottoman-empire|176
+pl:erzincan|ארזינג'אן|Erzincan|city in eastern Anatolia|city|pl:anatolia|179
+pl:erzurum|ארזורום|Erzurum|city in eastern Anatolia|city|pl:anatolia|180
+pl:arkhangelsk|ארכנגלסק|Arkhangelsk|port on the White Sea|city|pl:russian-empire|182
+pl:aram|ארם|Aram|ancient Aramean land (Syria) in historical fiction|region|pl:syria|
+pl:winter-palace|ארמון החורף|Winter Palace|imperial palace in St Petersburg|palace|pl:saint-petersburg|184
+pl:yildiz-palace|ארמון ילדיז|Yıldız Palace|Ottoman sultan's palace in Constantinople|palace|pl:istanbul|185,189,641
+pl:armenia|ארמניה|Armenia|Armenian lands (Ottoman and Russian Armenia)|region||186,192
+pl:diyarbakir|דיארבקיר|Diyarbakır|city in southeastern Anatolia|city|pl:anatolia|188
+pl:macedonia|מקדוניה|Macedonia|Ottoman Macedonia region|region||190
+pl:erfurt|ארפורט|Erfurt|city in Prussian Saxony / Thuringia|city|pl:germany|193
+pl:ottoman-palestine|ארץ ישראל|Ottoman Palestine|Land of Israel / Palestine under Ottoman rule|region|pl:ottoman-empire|194
+pl:orient|ארצות המזרח|Orient|the East (Eastern lands)|region||196
+pl:greece|יוון|Greece|Kingdom of Greece|country||197,632
+pl:arab-world|ארצות ערב|Arab world|Arab lands|region||198
+pl:ashgabat|אשגבאט|Ashgabat|Askhabad, city in Transcaspia|city|pl:russian-empire|200,201
+pl:athens|אתונה|Athens|capital of Greece|city|pl:greece|202
+pl:baden|באדן|Grand Duchy of Baden|German state|region|pl:germany|203,214
+pl:basel|באזל|Basel|city in Switzerland (Zionist Congresses)|city|pl:switzerland|204,243
+pl:bonyhad|בוניהאד|Bonyhád|town in Hungary|city|pl:hungary|205
+pl:basming|באסמינג'|Basming (unidentified)|unidentified locality in the Ottoman Empire (1909)|locality|pl:ottoman-empire|206
+pl:baku|באקו|Baku|city on the Caspian, Caucasus|city|pl:caucasus|207,284
+pl:bochum|בוכום|Bochum|city in the Ruhr|city|pl:germany|208
+pl:beersheba|באר שבע|Beersheba|town in southern Ottoman Palestine|city|pl:ottoman-palestine|209
+pl:barakli|בארקלי|Barakli|village on the Struma front, Macedonia|village|pl:macedonia|210
+pl:baskale|באשקלה|Başkale|town near Van, eastern Anatolia|city|pl:anatolia|211
+pl:baghdad|בגדאד|Baghdad|city in Mesopotamia|city|pl:iraq|212
+pl:baden-baden|באדן-באדן|Baden-Baden|spa town in Baden|city|pl:baden|215
+pl:bou-al-douad|בו על דואד|Bou al-Douad (unidentified)|Jewish community in the Chaouia region, Morocco (1910)|locality|pl:chaouia|216
+pl:buenos-aires|בואנוס איירס|Buenos Aires|capital of Argentina|city|pl:argentina|217
+pl:budimirci|בודימירצי|Budimirci|village on the Macedonian front (1916)|village|pl:macedonia|218
+pl:budapest|בודפשט|Budapest|capital of Hungary|city|pl:hungary|219
+pl:bohemia|בוהמיה|Bohemia|crown land of Austria|region|pl:austria-hungary|220
+pl:upper-bavaria|בוואריה העילית|Upper Bavaria|district of Bavaria|region|pl:bavaria|221
+pl:bavaria|בוואריה|Bavaria|Kingdom of Bavaria|region|pl:germany|222
+pl:bukhara|בוכרה|Bukhara|city / Emirate of Bukhara in Central Asia|city|pl:turkestan|223
+pl:bolayir|בולאיר|Bolayır|town on the Gallipoli peninsula (1913 battle)|city|pl:thrace|224
+pl:bulgaria|בולגריה|Bulgaria|Principality / Tsardom of Bulgaria|country||225
+pl:bulawayo|בולוואיו|Bulawayo|city in Rhodesia|city|pl:africa|226
+pl:baltimore|בולטימור|Baltimore|city in Maryland, US|city|pl:united-states|227
+pl:mumbai|מומבאי (בומביי)|Mumbai|Bombay, city in British India|city|pl:india|228,229
+pl:bumliana|בומליאנה|Bumliana (unidentified)|unidentified locality (1911)|locality||230
+pl:boston|בוסטון|Boston|city in Massachusetts, US|city|pl:united-states|231
+pl:bosnia-and-herzegovina|בוסניה והרצגובינה|Bosnia and Herzegovina|Bosnia, annexed by Austria-Hungary 1908|region|pl:austria-hungary|232
+pl:bosphorus|הבוספורוס|Bosphorus|strait at Constantinople|strait|pl:ottoman-empire|233
+pl:bukovina|בוקובינה|Bukovina|Austrian crown land|region|pl:austria-hungary|234
+pl:bucharest|בוקרשט|Bucharest|capital of Romania|city|pl:romania|235
+pl:burgas|בורגס|Burgas|Black Sea port in Bulgaria|city|pl:bulgaria|236
+pl:bordeaux|בורדו|Bordeaux|city in France|city|pl:france|237
+pl:barysaw|בוריסוב|Barysaw|Borisov, town in Minsk Governorate|city|pl:russian-empire|238
+pl:baranavichy|ברנוביץ'|Baranavichy|Baranovichi, railway town in Minsk Governorate|city|pl:russian-empire|239,547
+pl:bursa|בורסה|Bursa|city in northwestern Anatolia|city|pl:anatolia|240
+pl:bushehr|בושהר|Bushehr|Persian Gulf port of Persia|city|pl:persia|241
+pl:barajas|באראחס|Barajas|town near Madrid (airfield)|city|pl:spain|242
+pl:jakarta|ג'קרטה (בטביה)|Jakarta|Batavia, capital of the Dutch East Indies|city|pl:dutch-east-indies|244
+pl:batumi|בטומי|Batumi|Black Sea port in the Caucasus|city|pl:caucasus|245
+pl:biala-podlaska|ביאלה פודלאסקה|Biała Podlaska|town in Siedlce Governorate|city|pl:poland|246
+pl:bialystok|ביאליסטוק|Białystok|city in Grodno Governorate|city|pl:poland|247
+pl:biarritz|ביאריץ|Biarritz|resort town in southwestern France|city|pl:france|248
+pl:bizriel|ביזריאל|Bizriel (unidentified)|unidentified locality (1911, Morocco/Arabia news)|locality||249
+pl:bitola|ביטולה (מונסטיר)|Bitola|Monastir, city in Macedonia|city|pl:macedonia|250
+pl:bitlis|ביטליס|Bitlis|city in eastern Anatolia|city|pl:anatolia|251
+pl:beijing|בייג'ינג (פקין)|Beijing|Peking, capital of China|city|pl:china|252
+pl:beylerbeyi|בילרביי|Beylerbeyi|quarter/palace on the Asian shore of Constantinople|quarter|pl:istanbul|253,259
+pl:beirut|ביירות|Beirut|port city in Ottoman Syria|city|pl:lebanon|254,261
+pl:biel-bienne|ביל|Biel/Bienne|town in Switzerland|city|pl:switzerland|255
+pl:bilbao|בילבאו|Bilbao|city in the Basque Country, Spain|city|pl:spain|256,260
+pl:bielsko-biala|בילסקו|Bielsko-Biała|Bielitz, town in Austrian Silesia|city|pl:austria-hungary|257,258
+pl:beth-zur|בית צור|Beth Zur|ancient town in Judea (historical fiction)|ancient city|pl:judea|263
+pl:bled-hmar|בלאד חמיאר|Bled Hmar (unidentified)|unidentified place of study of Abd al-Hafid, Morocco|locality|pl:morocco|264
+pl:blagoveshchensk|בלגובשצ'נסק|Blagoveshchensk|city on the Amur, Russian Far East|city|pl:siberia|265,266
+pl:belgium|בלגיה|Belgium|Kingdom of Belgium|country||267
+pl:belgrade|בלגרד|Belgrade|capital of Serbia|city|pl:serbia|268
+pl:bled-el-makhzen|בלד אל-מח'זן|Bled el-Makhzen|lands under the Moroccan government's control|region|pl:morocco|269
+pl:bled-es-siba|בלד א-סיבה|Bled es-Siba|tribal lands outside government control, Morocco|region|pl:morocco|270
+pl:balta|בלטה|Balta|town in Podolia Governorate|city|pl:ukraine|271
+pl:blida|בלידה|Blida|town in Algeria|city|pl:algeria|272
+pl:belfast|בלפסט|Belfast|city in Ireland|city|pl:ireland|273,274
+pl:balkans|הבלקן|Balkans|Balkan peninsula|region|pl:europe|275,540
+pl:benghazi|בנגזי|Benghazi|city in Cyrenaica|city|pl:libya|276,277
+pl:bangkok|בנגקוק|Bangkok|capital of Siam|city|pl:siam|278
+pl:bedzin|בנדין|Będzin|town in Piotrków Governorate|city|pl:poland|279
+pl:bandar-e-gaz|בנדר גז|Bandar-e Gaz|Caspian port in Persia|city|pl:persia|280
+pl:bessarabia|בסרביה|Bessarabia|governorate of the Russian Empire|region|pl:russian-empire|281
+pl:betshanovke|בצ'נובקה|Betshanovke (fictional)|fictional shtetl in a satirical feuilleton|fictional town||282
+pl:basra|בצרה|Basra|port city in Mesopotamia|city|pl:iraq|283
+pl:braunschweig|בראונשווייג|Braunschweig|city / Duchy of Brunswick|city|pl:germany|285,291
+pl:branalnitsa|בראנאלניצה|Branalnitsa (unidentified)|unidentified locality in Macedonia (1913)|locality|pl:macedonia|286
+pl:bergen|ברגן|Bergen|city in Norway|city|pl:norway|287
+pl:berdychiv|ברדיצ'ב|Berdychiv|town in Kiev Governorate|city|pl:ukraine|288,298
+pl:brody|ברודי|Brody|town in eastern Galicia|city|pl:galicia-eastern-europe|289
+pl:bydgoszcz|בידגושץ' (ברומברג)|Bydgoszcz|Bromberg, town in Prussian Posen|city|pl:germany|290
+pl:brooklyn|ברוקלין|Brooklyn|borough of New York City|quarter|pl:new-york-city|292
+pl:bryansk|בריאנסק|Bryansk|city in Oryol Governorate|city|pl:russian-empire|293
+pl:brizan|בריזאן|Brizan (unidentified)|unidentified locality on the Macedonian front (1916)|locality|pl:macedonia|294
+pl:british-columbia|קולומביה הבריטית|British Columbia|province of Canada|region|pl:canada|295
+pl:brindisi|ברינדיזי|Brindisi|port city in Apulia|city|pl:apulia|299,300
+pl:brussels|בריסל|Brussels|capital of Belgium|city|pl:belgium|301
+pl:brest-belarus|בריסק (ברסט-ליטובסק)|Brest, Belarus|Brest-Litovsk, fortress city in Grodno Governorate|city|pl:russian-empire|302,309
+pl:brest-france|ברסט (צרפת)|Brest, France|naval port in Brittany|city|pl:france|
+pl:berlin|ברלין|Berlin|capital of Germany|city|pl:germany|303
+pl:bremen|ברמן|Bremen|city-state in Germany|city|pl:germany|304
+pl:bern|ברן|Bern|capital of Switzerland|city|pl:switzerland|305
+pl:brno|ברנו|Brno|Brünn, capital of Moravia|city|pl:austria-hungary|306
+pl:bransk|ברנסק|Brańsk|town in Grodno Governorate|city|pl:poland|307
+pl:braila|בראילה|Brăila|Danube port in Romania|city|pl:romania|310
+pl:barcelona|ברצלונה|Barcelona|city in Catalonia, Spain|city|pl:spain|311
+pl:berat|ברט|Berat|town in southern Albania|city|pl:albania|312
+pl:besiktas|בשיקטאש|Beşiktaş|quarter of Constantinople|quarter|pl:istanbul|313
+pl:java|ג'אווה|Java|island in the Dutch East Indies|island|pl:dutch-east-indies|314,618
+pl:georgia-country|גאורגיה (גרוזיה)|Georgia (country)|Georgia (Gruzia), Caucasus|region|pl:caucasus|315,363
+pl:georgia-us-state|ג'ורג'יה (ארצות הברית)|Georgia (U.S. state)|US state|region|pl:united-states|336
+pl:gavarams|גבארמס|Gavarams (unidentified)|unidentified locality (1911)|locality||316
+pl:hill-1050|גבעה 1050|Hill 1050|height on the Macedonian front near Bitola (1916)|hill|pl:macedonia|321
+pl:jeddah|ג'דה|Jeddah|Red Sea port in the Hejaz|city|pl:hejaz|322
+pl:vistula-land|ארץ הוויסלה|Vistula Land|the Polish (Vistula) governorates of the Russian Empire|region|pl:poland|323
+pl:volhynia|וולין|Volhynia|Volhynian Governorate, Russian Empire|region|pl:ukraine|324,359,441,444
+pl:tambov-governorate|פלך טמבוב|Tambov Governorate|governorate of the Russian Empire|region|pl:russian-empire|325
+pl:kholm-governorate|פלך חלם|Kholm Governorate|Chełm governorate created 1912 from Lublin and Siedlce|region|pl:poland|326,525,535
+pl:tomsk-governorate|פלך טומסק|Tomsk Governorate|governorate in Siberia|region|pl:siberia|327
+pl:tiflis-governorate|פלך טיפליס|Tiflis Governorate|governorate in the Caucasus|region|pl:caucasus|328
+pl:lublin-governorate|פלך לובלין|Lublin Governorate|governorate of Congress Poland|region|pl:poland|329
+pl:governorate-of-livonia|פלך ליפלנד|Governorate of Livonia|Baltic governorate of the Russian Empire|region|pl:russian-empire|330
+pl:siedlce-governorate|פלך שדלצה|Siedlce Governorate|governorate of Congress Poland|region|pl:poland|331
+pl:gusev|גומבינן|Gusev|Gumbinnen, town in East Prussia (1914 battle)|city|pl:east-prussia|332
+pl:gomel|הומל|Gomel|town in Mogilev Governorate|city|pl:russian-empire|333,482
+pl:gongzhuling|גונג'ולין|Gongzhuling|town in Manchuria (Russo-Japanese War)|city|pl:manchuria|334
+pl:gusinje|גוסיניה|Gusinje|town in the Albanian–Montenegrin highlands|city|pl:montenegro|335
+pl:guria|גוריה|Guria|region in western Georgia|region|pl:georgia-country|337
+pl:gorizia|גוריציה|Gorizia|Görz, town on the Isonzo front|city|pl:austria-hungary|338
+pl:gezer|גזר|Gezer|ancient site in Ottoman Palestine|site|pl:ottoman-palestine|339
+pl:djibouti|ג'יבוטי|Djibouti|port of French Somaliland|city|pl:africa|340
+pl:gibraltar|גיברלטר|Gibraltar|British territory in southern Spain|city|pl:united-kingdom|341
+pl:komotini|קומוטיני (גימולג'ינה)|Komotini|Gümülcine, town in Western Thrace|city|pl:thrace|343
+pl:galata|גלאטה|Galata|quarter of Constantinople|quarter|pl:istanbul|344,350
+pl:galati|גלאץ|Galați|Danube port in Romania|city|pl:romania|345
+pl:galveston|גלווסטון|Galveston, Texas|port city in Texas (Jewish immigration)|city|pl:united-states|346,348
+pl:hlukhiv|גלוכוב|Hlukhiv|town in Chernigov Governorate|city|pl:ukraine|347
+pl:glasgow|גלזגו|Glasgow|city in Scotland|city|pl:united-kingdom|349
+pl:galilee|הגליל|Galilee|region of northern Palestine|region|pl:ottoman-palestine|351
+pl:gallipoli|גליפולי|Gallipoli|town / peninsula on the Dardanelles|city|pl:thrace|352
+pl:galicia-eastern-europe|גליציה|Galicia (Eastern Europe)|Austrian crown land|region|pl:austria-hungary|353
+pl:western-galicia|גליציה המערבית|Western Galicia|western part of Galicia|region|pl:galicia-eastern-europe|354
+pl:jamaica|ג'מייקה|Jamaica|British colony in the Caribbean|island|pl:west-indies|355
+pl:gamla|גמלא|Gamla|ancient Jewish town in the Golan (historical fiction)|ancient city|pl:syria|356
+pl:atabak-park|גן אטאבק|Atabak Park|park/palace in Tehran (1910 fighting)|park|pl:tehran|357
+pl:genoa|גנואה|Genoa|port city in Italy|city|pl:italy|358
+pl:vilna-governorate|פלך וילנה|Vilna Governorate|governorate of the Russian Empire|region|pl:lithuania|360
+pl:graz|גראץ|Graz|capital of Styria|city|pl:austria-hungary|361
+pl:grodno|גרודנו|Grodno|city in the Grodno Governorate|city|pl:russian-empire|362
+pl:grozny|גרוזני|Grozny|town in Terek Oblast (oil)|city|pl:caucasus|364
+pl:oradea|אורדיה (גרוסוורדיין)|Oradea|Grosswardein / Nagyvárad, Hungary|city|pl:hungary|365
+pl:greenwich|גריניץ'|Greenwich|district of London|quarter|pl:london|366
+pl:germany|גרמניה|Germany|German Empire|country||367
+pl:dahomey|דהומיי|Dahomey|French colony in West Africa|country|pl:africa|368
+pl:dhaka|דאקה|Dhaka|city in Bengal, British India|city|pl:india|369
+pl:casablanca|קזבלנקה|Casablanca|port city in Morocco (Dar el-Beida)|city|pl:morocco|370
+pl:dublin|דבלין|Dublin|capital of Ireland|city|pl:ireland|371
+pl:alexandroupolis|אלכסנדרופוליס (דדה אגאץ')|Alexandroupolis|Dedeağaç, port in Western Thrace|city|pl:thrace|372,646
+pl:dharamshala|דרמסאלה|Dharamshala|town in British India (1905 earthquake)|city|pl:india|373
+pl:dubasari|דובסרי|Dubăsari|Dubossary, town in Kherson Governorate (1903 blood libel)|city|pl:ukraine|374
+pl:dover|דובר|Dover|port town in England|city|pl:united-kingdom|375
+pl:dobro-pole|דוברו פולה|Dobro Pole|mountain on the Macedonian front|mountain|pl:macedonia|376
+pl:dobruja|דוברוג'ה|Dobruja|region between the Danube and the Black Sea|region|pl:romania|377
+pl:daugavpils|דווינסק|Daugavpils|Dvinsk, city in Vitebsk Governorate|city|pl:russian-empire|378
+pl:dum-dum|דום דום|Dum Dum|town near Calcutta, India|city|pl:india|379
+pl:durres|דורס (דוראצו)|Durrës|Durazzo, Albanian port|city|pl:albania|380,381
+pl:detroit|דטרויט|Detroit|city in Michigan, US|city|pl:united-states|382
+pl:gjakova|ג'אקובה|Gjakova|Djakova, town in Kosovo|city|pl:kosovo|383
+pl:debar|דבאר (דיברה)|Debar|Dibra, town in western Macedonia|city|pl:macedonia|384
+pl:deal-kent|דיל|Deal, Kent|seaside town in Kent, England (Jewish Lads' Brigade camp)|city|pl:united-kingdom|385
+pl:dusseldorf|דיסלדורף|Düsseldorf|city in Rhine Province|city|pl:germany|386
+pl:delhi|דלהי|Delhi|city in British India|city|pl:india|387
+pl:sidirokastro|סידירוקסטרו (דמיר חיסאר)|Sidirokastro|Demir Hisar, town in Macedonia|city|pl:macedonia|388
+pl:demir-kapija|דמיר קאפיה|Demir Kapija|gorge and village on the Vardar|village|pl:macedonia|389
+pl:damanhur|דמנהור|Damanhur|town in the Nile Delta, Egypt|city|pl:egypt|390
+pl:damascus|דמשק|Damascus|city in Ottoman Syria|city|pl:syria|391
+pl:denver|דנוור|Denver|city in Colorado, US|city|pl:united-states|392
+pl:danube|הדנובה|Danube|river|river|pl:europe|393
+pl:dnieper|הדנייפר|Dnieper|river|river|pl:russian-empire|394
+pl:denmark|דנמרק|Denmark|Kingdom of Denmark|country||395
+pl:gdansk|גדנסק (דנציג)|Gdańsk|Danzig, port in West Prussia|city|pl:germany|396
+pl:desouk|דסוק|Desouk|town in the Nile Delta, Egypt|city|pl:egypt|397
+pl:drama-greece|דראמה|Drama, Greece|town in eastern Macedonia|city|pl:macedonia|398
+pl:darjeeling|דרג'ילינג|Darjeeling|hill town in Bengal, India|city|pl:india|399
+pl:dardanelles|הדרדנלים|Dardanelles|strait between the Aegean and the Sea of Marmara|strait|pl:ottoman-empire|400
+pl:drohobych|דרוהוביץ'|Drohobych|oil town in eastern Galicia|city|pl:galicia-eastern-europe|401,402
+pl:southern-italy|דרום איטליה|Southern Italy|southern regions of Italy|region|pl:italy|403
+pl:southern-europe|דרום אירופה|Southern Europe|region|region|pl:europe|404
+pl:southern-albania|דרום אלבניה|Southern Albania|southern Albania / Northern Epirus|region|pl:albania|405
+pl:south-america|דרום אמריקה|South America|continent|continent||406
+pl:south-africa|דרום אפריקה|South Africa|South Africa (Union from 1910)|country|pl:africa|407
+pl:southern-bulgaria|דרום בולגריה|Southern Bulgaria|southern Bulgaria (Eastern Rumelia)|region|pl:bulgaria|408
+pl:southern-morocco|דרום מרוקו|Southern Morocco|southern Morocco (Sous, Marrakesh region)|region|pl:morocco|411
+pl:southern-spain|דרום ספרד|Southern Spain|Andalusia and southern Spain|region|pl:spain|412
+pl:southern-persia|דרום פרס|Southern Persia|southern Persia (British sphere)|region|pl:persia|413
+pl:chile|צ'ילה|Chile|republic in South America|country|pl:south-america|414
+pl:southern-russia|דרום רוסיה|Southern Russia|southern provinces of the Russian Empire|region|pl:russian-empire|415
+pl:dresden|דרזדן|Dresden|capital of Saxony|city|pl:germany|416
+pl:darmstadt|דרמשטאט|Darmstadt|capital of Hesse|city|pl:germany|417
+pl:derna|דרנה|Derna|port in Cyrenaica|city|pl:libya|418
+pl:darnytsia|דרניצה|Darnytsia|suburb of Kiev|quarter|pl:kyiv|419
+pl:tartu|טרטו (דרפט)|Tartu|Dorpat / Yuryev, university town in Livonia|city|pl:russian-empire|420
+pl:ozyorsk|דרקהמן|Ozyorsk, Kaliningrad Oblast|Darkehmen, town in East Prussia|city|pl:east-prussia|421
+pl:the-hague|האג|The Hague|seat of Dutch government (Hague conferences)|city|pl:netherlands|422
+pl:hesse|הסה|Hesse|German state|region|pl:germany|423
+pl:vitebsk|ויטבסק|Vitebsk|city in Vitebsk Governorate|city|pl:russian-empire|424,437,454
+pl:nes-ziona|נס ציונה (ואדי חנין)|Nes Ziona|Jewish colony at Wadi Hanin, Ottoman Palestine|city|pl:ottoman-palestine|425
+pl:vlore|ולורה (ולונה)|Vlorë|Valona, Albanian port|city|pl:albania|426,478,479
+pl:van-turkey|ואן|Van, Turkey|city in eastern Anatolia|city|pl:anatolia|427,435
+pl:varna|ורנה|Varna|Black Sea port in Bulgaria|city|pl:bulgaria|428,492
+pl:warsaw|ורשה|Warsaw|capital of Congress Poland|city|pl:poland|429,436,448,494
+pl:india|הודו|India|British India|country||430
+pl:oran|אוראן|Oran|port city in Algeria|city|pl:algeria|431
+pl:hawaii|הוואי|Hawaii|US territory in the Pacific|island|pl:united-states|432
+pl:wallachia|ולאכיה|Wallachia|region of Romania|region|pl:romania|434
+pl:vilnius|וילנה|Vilnius|Vilna, city in Lithuania|city|pl:lithuania|438,460,461
+pl:volga|וולגה|Volga|river|river|pl:russian-empire|439
+pl:veldil|וולדיל|Veldil (unidentified)|unidentified locality in Ukraine (18th-c. blood libel story)|locality|pl:ukraine|440
+pl:vologda|וולוגדה|Vologda|city in northern Russia|city|pl:russian-empire|442,477
+pl:volochysk|וולוצ'יסק|Volochysk|Russian–Austrian border town in Volhynia|city|pl:volhynia|443
+pl:verona|ורונה|Verona|city in Italy|city|pl:italy|445
+pl:voronezh|וורונז'|Voronezh|city in central Russia|city|pl:russian-empire|446,447
+pl:washington-d-c|וושינגטון|Washington, D.C.|capital of the United States|city|pl:united-states|449
+pl:vatican-city|הוותיקן|Vatican City|Papal See in Rome|city|pl:rome|450
+pl:vyazma|ויאזמה|Vyazma|town in Smolensk Governorate|city|pl:russian-empire|451
+pl:vyborg|ויבורג|Vyborg|town in the Grand Duchy of Finland|city|pl:finland|452
+pl:vidla|וידלה|Vidla (unidentified)|unidentified locality in Albania (1910 revolt)|locality|pl:albania|453
+pl:vitoria-gasteiz|ויטוריה|Vitoria-Gasteiz|city in the Basque Country, Spain|city|pl:spain|455
+pl:van-vilayet|וילאייט ואן|Van vilayet|Ottoman province|region|pl:anatolia|456
+pl:scutari-vilayet|וילאייט סקוטרי|Scutari vilayet|Ottoman province in northern Albania|region|pl:albania|457
+pl:villa-allatini|וילה אלטיני|Villa Allatini|villa in Salonica where Abdul Hamid II was held 1909–1912|building|pl:thessaloniki|458
+pl:wilhelmshohe|וילהלמסהֶהֶה|Wilhelmshöhe|palace near Kassel, imperial residence|palace|pl:germany|459
+pl:villefranche-sur-mer|וילפרנש|Villefranche-sur-Mer|port on the French Riviera|city|pl:france|462
+pl:uiju|אוויג'ו|Uiju|town in northern Korea|city|pl:korea|463
+pl:vienna|וינה|Vienna|capital of Austria-Hungary|city|pl:austria-hungary|464
+pl:venice|ונציה|Venice|city in Italy|city|pl:italy|465,487
+pl:vinohrady|וינוהרדי|Vinohrady|Königliche Weinberge, district of Prague|quarter|pl:prague|466
+pl:vinnytsia|ויניצה|Vinnytsia|town in Podolia Governorate|city|pl:ukraine|467
+pl:wiener-neustadt|וינר נוישטאט|Wiener Neustadt|town in Lower Austria|city|pl:austria-hungary|468
+pl:wiesbaden|ויסבאדן|Wiesbaden|spa city in Hesse-Nassau|city|pl:germany|469
+pl:vistula|הוויסלה|Vistula|river|river|pl:poland|470
+pl:wurttemberg|וירטמברג|Kingdom of Württemberg|German state|region|pl:germany|471
+pl:visegrad-bosnia|וישגרד|Višegrad|town in eastern Bosnia|city|pl:bosnia-and-herzegovina|472
+pl:vichy|וישי|Vichy|spa town in France|city|pl:france|473
+pl:vladivostok|ולדיווסטוק|Vladivostok|Pacific port of Russia|city|pl:russian-empire|474
+pl:volodymyr|ולדימיר-וולינסקי|Volodymyr|Vladimir-Volynsky, town in Volhynia|city|pl:volhynia|475
+pl:vladikavkaz|ולדיקבקז|Vladikavkaz|city in the North Caucasus|city|pl:caucasus|476
+pl:netherlands|הולנד|Netherlands|Kingdom of the Netherlands|country||480
+pl:hong-kong|הונג קונג|Hong Kong|British colony in southern China|city|pl:china|483
+pl:hungary|הונגריה|Kingdom of Hungary|Hungarian half of Austria-Hungary|country|pl:austria-hungary|484
+pl:honolulu|הונולולו|Honolulu|city in Hawaii|city|pl:hawaii|485
+pl:venezuela|ונצואלה|Venezuela|republic in South America|country|pl:south-america|486
+pl:westphalia|וסטפאליה|Westphalia|Prussian province|region|pl:germany|488
+pl:verdun|ורדן|Verdun|fortress town in France (1916 battle)|city|pl:france|490
+pl:worms|וורמס|Worms|city in Hesse|city|pl:germany|491
+pl:versailles|ורסאי|Versailles|town near Paris|city|pl:france|493
+pl:zagreb|זאגרב|Zagreb|capital of Croatia-Slavonia|city|pl:austria-hungary|495
+pl:zakynthos|זקינתוס|Zakynthos|Zante, Ionian island|island|pl:greece|496
+pl:zagorowice|זגורוביצה|Zagorowice (unidentified)|unidentified village in Galicia (1912)|village|pl:galicia-eastern-europe|497
+pl:zgierz|זגייז'|Zgierz|town near Łódź|city|pl:poland|498,499
+pl:zliten|זליטן|Zliten|town in Tripolitania|city|pl:libya|500
+pl:izra|אזרע (זורא)|Izra'|village in the Hauran, Syria|village|pl:hauran|501
+pl:zhytomyr|ז'יטומיר|Zhytomyr|capital of Volhynia Governorate|city|pl:volhynia|502
+pl:zeitun|זייתון|Zeitun|Armenian town in Cilicia (now Süleymanlı)|city|pl:anatolia|503
+pl:zealand|זילנד|Zealand|Danish island (or Dutch Zeeland)|region|pl:denmark|504
+pl:zikhron-yaakov|זכרון יעקב|Zikhron Ya'akov|Jewish colony in Ottoman Palestine|city|pl:ottoman-palestine|505
+pl:zolochiv|זלוצ'וב|Zolochiv|Złoczów, town in eastern Galicia|city|pl:galicia-eastern-europe|506
+pl:zolotonosha|זולוטונושה|Zolotonosha|town in Poltava Governorate|city|pl:ukraine|507
+pl:zelechow|ז'לחוב|Żelechów|town in Siedlce Governorate|city|pl:poland|508
+pl:zambrow|זמברוב|Zambrów|town in Łomża Governorate|city|pl:poland|509
+pl:semmering|זמרינג|Semmering|Alpine pass and resort in Austria|mountain pass|pl:austria-hungary|510
+pl:zanzibar|זנזיבר|Zanzibar|island sultanate in East Africa|island|pl:africa|511
+pl:giurgiu|ג'ורג'ו|Giurgiu|Danube port in Romania|city|pl:romania|513
+pl:hauran|חורן|Hauran|region in southern Syria|region|pl:syria|514,529
+pl:chania|חאניה|Chania|Canea, capital of Crete|city|pl:crete|515
+pl:kharkiv|חרקוב|Kharkiv|city in Kharkov Governorate|city|pl:ukraine|517,549
+pl:khabarovsk|חברובסק|Khabarovsk|city in the Russian Far East|city|pl:siberia|518,519
+pl:hebron|חברון|Hebron|city in Ottoman Palestine|city|pl:ottoman-palestine|520
+pl:hadimkoy|האדימקוי|Hadımköy|village west of Constantinople (Çatalca lines)|village|pl:thrace|521
+pl:hadera|חדרה|Hadera|Jewish colony in Ottoman Palestine|city|pl:ottoman-palestine|522
+pl:al-hudaydah|חודיידה|Al Hudaydah|Red Sea port in Yemen|city|pl:yemen|523
+pl:homs|חומס|Homs|city in Syria|city|pl:syria|526
+pl:norway|נורווגיה|Norway|Kingdom of Norway|country||527
+pl:morocco|מרוקו|Morocco|Sultanate of Morocco|country||528
+pl:hejaz|חג'אז|Hejaz|region in western Arabia|region|pl:arabian-peninsula|530,531
+pl:chios|כיוס|Chios|Aegean island|island|pl:aegean-islands|532,671
+pl:haifa|חיפה|Haifa|port city in Ottoman Palestine|city|pl:ottoman-palestine|533
+pl:aleppo|חלב|Aleppo|city in northern Syria|city|pl:syria|534
+pl:chalcis|כלקיס|Chalcis|town on Euboea, Greece|city|pl:greece|536
+pl:hamadan|חמדאן|Hamadan|city in western Persia|city|pl:persia|537
+pl:khamovniki|חמובניקי|Khamovniki|district of Moscow|quarter|pl:moscow|538
+pl:al-hasa|אל-חסא|Al-Hasa|region in eastern Arabia|region|pl:arabian-peninsula|539
+pl:liaodong-peninsula|חצי האי ליאודונג|Liaodong Peninsula|peninsula in southern Manchuria|peninsula|pl:manchuria|541
+pl:sinai-peninsula|חצי האי סיני|Sinai Peninsula|peninsula between Egypt and Palestine|peninsula|pl:egypt|542
+pl:arabian-peninsula|חצי האי ערב|Arabian Peninsula|peninsula|peninsula|pl:asia|543
+pl:kassandra|חצי האי קסנדרה|Kassandra|peninsula of Chalkidiki|peninsula|pl:macedonia|544
+pl:kharlivka|חרליבקה|Kharlivka (unidentified)|unidentified village in Ukraine (18th-c. blood libel story)|village|pl:ukraine|546
+pl:kherson|חרסון|Kherson|city in Kherson Governorate|city|pl:ukraine|548
+pl:taourirt|תאוריירת|Taourirt|town in eastern Morocco|city|pl:morocco|551
+pl:tafilalt|תאפילאלת|Tafilalt|oasis region in southeastern Morocco|region|pl:morocco|552
+pl:tarla-morocco|טארלא|Tarla (unidentified)|Jewish community in the Chaouia, Morocco (1910)|locality|pl:chaouia|553
+pl:tarnow|טרנוב|Tarnów|town in western Galicia|city|pl:galicia-eastern-europe|554,610
+pl:tarert-morocco|טארערט|Tarert (unidentified)|unidentified locality near Casablanca (1907)|locality|pl:chaouia|555
+pl:tver|טבר|Tver|city in central Russia|city|pl:russian-empire|556,566
+pl:tiberias|טבריה|Tiberias|city in Ottoman Palestine|city|pl:galilee|557
+pl:tabriz|תבריז|Tabriz|city in Persian Azerbaijan|city|pl:azerbaijan-iran|558
+pl:taganrog|טגנרוג|Taganrog|port on the Sea of Azov|city|pl:russian-empire|559
+pl:tahiti|טהיטי|Tahiti|French Polynesian island|island|pl:france|560
+pl:tehran|טהרן|Tehran|capital of Persia|city|pl:persia|561,562
+pl:tuapse|טואפסה|Tuapse|Black Sea town in the Caucasus|city|pl:caucasus|563
+pl:tobruk|טוברוק|Tobruk|port in Cyrenaica|city|pl:libya|564
+pl:togo|טוגו|Togoland|German colony in West Africa|country|pl:africa|565
+pl:tuzi|טוזי|Tuzi|town near Lake Scutari (Albanian revolt 1911)|city|pl:montenegro|567
+pl:tutrakan|טוטרקאן|Tutrakan|Danube town in Dobruja (1916 battle)|city|pl:dobruja|568
+pl:tula|טולה|Tula|city in central Russia|city|pl:russian-empire|569
+pl:toulouse|טולוז|Toulouse|city in southern France|city|pl:france|570
+pl:toulon|טולון|Toulon|naval port in southern France|city|pl:france|571
+pl:tomsk|טומסק|Tomsk|city in Siberia|city|pl:tomsk-governorate|572
+pl:tomaszow-mazowiecki|טומשוב|Tomaszów Mazowiecki|town in Piotrków Governorate|city|pl:poland|573
+pl:tunis|תוניס|Tunis|capital of Tunisia|city|pl:tunisia|574
+pl:tonkin|טונקין|Tonkin|northern region of French Indochina|region|pl:french-indochina|575
+pl:topolitsa|טופוליצה|Topolitsa (unidentified)|unidentified locality (1911)|locality||576
+pl:tukums|טוקום|Tukums|town in Courland|city|pl:russian-empire|577
+pl:tokyo|טוקיו|Tokyo|capital of Japan|city|pl:japan|578
+pl:torun|טורון|Toruń|Thorn, town in West Prussia|city|pl:germany|580
+pl:toronto|טורונטו|Toronto|city in Ontario, Canada|city|pl:ontario|581
+pl:turin|טורינו|Turin|city in Piedmont, Italy|city|pl:italy|582,584
+pl:thuringia|טורינגיה|Thuringia|region of central Germany|region|pl:germany|583
+pl:drobeta-turnu-severin|טורנו סברין|Drobeta-Turnu Severin|Danube town in Romania|city|pl:romania|585
+pl:ottoman-empire|האימפריה העות'מאנית|Ottoman Empire|Ottoman Empire (Turkey)|country||586
+pl:rumelia|רומליה|Rumelia|European Turkey|region|pl:ottoman-empire|587
+pl:turkestan|טורקסטן|Russian Turkestan|Central Asian region of the Russian Empire|region|pl:russian-empire|589
+pl:tushin-morocco|טושין|Tushin (unidentified)|unidentified locality, Morocco news (1911)|locality|pl:morocco|590
+pl:tasmania|טסמניה|Tasmania|Australian state|island|pl:australia|591
+pl:tetovo|טטובו|Tetovo|town in western Macedonia|city|pl:macedonia|593
+pl:tibet|טיבט|Tibet|region in Central Asia|region|pl:china|594
+pl:tianjin|טיינג'ין|Tianjin|port city in northern China|city|pl:china|595
+pl:tbilisi|טביליסי (טיפליס)|Tbilisi|Tiflis, capital of the Caucasus Viceroyalty|city|pl:caucasus|596
+pl:tirana|טירנה|Tirana|town in central Albania|city|pl:albania|597
+pl:tambov|טמבוב|Tambov|city in central Russia|city|pl:tambov-governorate|598
+pl:tangier|טנג'יר|Tangier|port city in northern Morocco, seat of foreign legations|city|pl:morocco|599
+pl:bozcaada|טנדוס|Bozcaada|Tenedos island|island|pl:aegean-islands|600
+pl:tanta|טנטא|Tanta|city in the Nile Delta|city|pl:egypt|601
+pl:tenerife|טנריפה|Tenerife|Canary island|island|pl:spain|602,603
+pl:trabzon|טרבזון|Trabzon|Black Sea port in Anatolia|city|pl:anatolia|604
+pl:troianiv|טרויאנוב|Troianiv|shtetl in Volhynia|village|pl:volhynia|605
+pl:trieste|טריאסט|Trieste|Austrian Adriatic port|city|pl:austria-hungary|606
+pl:tripoli-libya|טריפולי (לוב)|Tripoli|capital of Ottoman Tripolitania (Libya)|city|pl:tripolitania|
+pl:tripolitania|טריפוליטניה|Tripolitania|Ottoman province in North Africa|region|pl:libya|608
+pl:tripoli-greece|טריפוליס|Tripoli, Greece|Tripolitsa, town in the Peloponnese|city|pl:greece|609
+pl:ternopil|טרנופול|Ternopil|town in eastern Galicia|city|pl:galicia-eastern-europe|611
+pl:taranto|טרנטו|Taranto|naval port in southern Italy|city|pl:italy|612
+pl:transvaal|טרנסוואל|Transvaal|province of South Africa|region|pl:south-africa|613
+pl:transylvania|טרנסילבניה|Transylvania|region of Hungary|region|pl:hungary|614
+pl:terrassa|טרסה|Terrassa|industrial town in Catalonia|city|pl:spain|615
+pl:tashkent|טשקנט|Tashkent|city in Russian Turkestan|city|pl:turkestan|616
+pl:cherkasy|צ'רקאסי|Cherkasy|town in Kiev Governorate|city|pl:ukraine|617
+pl:yalta|יאלטה|Yalta|resort town in Crimea|city|pl:crimea|619
+pl:ioannina|יאנינה|Ioannina|Janina, city in Epirus|city|pl:epirus|620
+pl:yanishek|יאניסקי|Yanishek (unidentified)|unidentified locality (1911 news)|locality||621
+pl:iasi|יאשי|Iași|city in Moldavia, Romania|city|pl:romania|622
+pl:japan|יפן|Japan|Empire of Japan|country||624,662
+pl:iacobeni|יאקובני|Iacobeni|village in Bukovina|village|pl:bukovina|625
+pl:jaroslaw|ירוסלב|Jarosław|town in western Galicia|city|pl:galicia-eastern-europe|626,627
+pl:judea|יהודה|Judea|southern region of the Land of Israel|region|pl:ottoman-palestine|628
+pl:yehupetz|יהופיץ|Yehupetz (fictional)|Sholem Aleichem's fictional name for Kiev|fictional town|pl:kyiv|629
+pl:johannisthal|יוהניסטל|Johannisthal|airfield near Berlin|quarter|pl:berlin|630
+pl:johannesburg|יוהנסבורג|Johannesburg|city in the Transvaal|city|pl:transvaal|631
+pl:jutland|יוטלנד|Jutland|peninsula of Denmark|peninsula|pl:denmark|633
+pl:houston|יוסטון|Houston|city in Texas, US|city|pl:united-states|634
+pl:yokohama|יוקוהמה|Yokohama|port city in Japan|city|pl:japan|635
+pl:yurevichi|יורייביץ'|Yurevichi (unidentified)|town in the Russian Empire, site of a 1905 pogrom|city|pl:russian-empire|636
+pl:jena|ינה|Jena|university town in Thuringia (SPD congress 1905)|city|pl:thuringia|637,640
+pl:hyde-park-london|הייד פארק|Hyde Park, London|park in London|park|pl:london|638
+pl:heidelberg|היידלברג|Heidelberg|university town in Baden|city|pl:baden|639
+pl:sea-of-azov|ים אזוב|Sea of Azov|sea|sea||643
+pl:aegean-sea|הים האגאי|Aegean Sea|sea|sea||644
+pl:red-sea|ים סוף|Red Sea|sea|sea||645,656
+pl:adriatic-sea|הים האדריאטי|Adriatic Sea|sea|sea||647
+pl:baltic-sea|הים הבלטי|Baltic Sea|sea|sea||648
+pl:ionian-sea|הים היוני|Ionian Sea|sea|sea||649
+pl:white-sea|הים הלבן|White Sea|sea|sea||650
+pl:persian-gulf|המפרץ הפרסי|Persian Gulf|gulf|sea||651
+pl:north-sea|הים הצפוני|North Sea|sea|sea||652
+pl:black-sea|הים השחור|Black Sea|sea|sea||653
+pl:mediterranean-sea|הים התיכון|Mediterranean Sea|sea|sea||654
+pl:sea-of-marmara|ים מרמרה|Sea of Marmara|sea|sea|pl:ottoman-empire|655
+pl:giannitsa|יאניצה (ינידזה)|Giannitsa|Yenidje, town in Macedonia|city|pl:macedonia|657
+pl:yaskov|יסקוב|Yaskov (unidentified)|unidentified locality (1911 news)|locality||658
+pl:jekabpils|יקבפילס (יעקובשטדט)|Jēkabpils|Jakobstadt, town in Courland|city|pl:russian-empire|659
+pl:bois-de-boulogne|יער בולוניה|Bois de Boulogne|park in Paris|park|pl:paris|660
+pl:jaffa|יפו|Jaffa|port city in Ottoman Palestine|city|pl:ottoman-palestine|661
+pl:krasnodar|קרסנודר (יקטרינודר)|Krasnodar|Yekaterinodar, city in Kuban|city|pl:caucasus|664
+pl:dnipro|דניפרו (יקטרינוסלב)|Dnipro|Yekaterinoslav, city in southern Russia|city|pl:ukraine|665
+pl:jerusalem|ירושלים|Jerusalem|city in Ottoman Palestine|city|pl:ottoman-palestine|666
+pl:kuwait|כווית|Kuwait|sheikhdom in the Persian Gulf|country|pl:arabian-peninsula|667
+pl:kurdistan|כורדיסטן|Kurdistan|Kurdish region|region|pl:ottoman-empire|668,669
+pl:western-wall|הכותל המערבי|Western Wall|Jewish holy site in Jerusalem|site|pl:jerusalem|670
+pl:kolkata|כלכותה|Kolkata|Calcutta, city in British India|city|pl:india|672
+pl:znamenskaya-church|כנסיית הסימן|Znamenskaya Church|Church of the Sign, St Petersburg|church|pl:saint-petersburg|673
+pl:st-peters-basilica|בזיליקת פטרוס הקדוש|St. Peter's Basilica|basilica in the Vatican|church|pl:vatican-city|674
+pl:crete|כרתים|Crete|island under Ottoman suzerainty, united with Greece 1913|island||675
+pl:kasrilevke|כתרילבקה|Kasrilevke (fictional)|Sholem Aleichem's fictional shtetl|fictional town||676
+pl:lahore|לאהור|Lahore|city in Punjab, British India|city|pl:india|677
+pl:lens-pas-de-calais|לאנס|Lens, Pas-de-Calais|coal town in northern France (Courrières disaster 1906)|city|pl:france|678
+pl:larache|לראש|Larache|port in northern Morocco|city|pl:morocco|679,681,722
+pl:laredo-texas|לארדו|Laredo, Texas|border city in Texas|city|pl:united-states|680
+pl:lviv|לבוב (למברג)|Lviv|Lemberg, capital of Galicia|city|pl:galicia-eastern-europe|682,715
+pl:levant|הלבנט|Levant|eastern Mediterranean lands|region||684
+pl:heligoland|הלגולנד|Heligoland|German North Sea island|island|pl:germany|685
+pl:lublin|לובלין|Lublin|city in Congress Poland|city|pl:poland|686
+pl:lugano|לוגאנו|Lugano|town in Switzerland|city|pl:switzerland|687
+pl:lugoj|לוגוש|Lugoj|Lugos, town in Hungary (Banat)|city|pl:hungary|688
+pl:lodz|לודז'|Łódź|industrial city in Congress Poland|city|pl:poland|689
+pl:livadia-palace|ארמון ליבדיה|Livadia Palace|imperial palace near Yalta|palace|pl:crimea|690,700,703
+pl:luleburgaz|לולה בורגז|Lüleburgaz|town in Eastern Thrace (1912 battle)|city|pl:thrace|691
+pl:london|לונדון|London|capital of the United Kingdom|city|pl:united-kingdom|692
+pl:lucerne|לוצרן|Lucerne|city in Switzerland|city|pl:switzerland|693
+pl:luxembourg|לוקסמבורג|Luxembourg|Grand Duchy of Luxembourg|country||694
+pl:locarno|לוקרנו|Locarno|town in Switzerland|city|pl:switzerland|695
+pl:liaoyang|ליאויאנג|Liaoyang|city in Manchuria (1904 battle)|city|pl:manchuria|697
+pl:liepaja|ליפאיה (ליבאו)|Liepāja|Libau, port in Courland|city|pl:russian-empire|698,699,701
+pl:liverpool|ליברפול|Liverpool|port city in England|city|pl:united-kingdom|702
+pl:lithuania|ליטא|Lithuania|Lithuanian lands of the Russian Empire|region|pl:russian-empire|704
+pl:leipzig|לייפציג|Leipzig|city in Saxony|city|pl:germany|705
+pl:lichtenrade|ליכטנראדה|Lichtenrade|suburb of Berlin|quarter|pl:berlin|706
+pl:lille|ליל|Lille|city in northern France|city|pl:france|707
+pl:lemnos|למנוס|Lemnos|Aegean island|island|pl:aegean-islands|708
+pl:limassol|לימסול|Limassol|port in Cyprus|city|pl:cyprus|709
+pl:linz|לינץ|Linz|capital of Upper Austria|city|pl:austria-hungary|710
+pl:lisbon|ליסבון|Lisbon|capital of Portugal|city|pl:portugal|711
+pl:olaszliszka|ליסקא|Olaszliszka|Liska, Hasidic town in Hungary|city|pl:hungary|712
+pl:lipljan|ליפליאן|Lipljan|town in Kosovo|city|pl:kosovo|713
+pl:elk-poland|ליק (אלק)|Ełk|Lyck, town in East Prussia|city|pl:east-prussia|714
+pl:lancashire|לנקשייר|Lancashire|county in England|region|pl:united-kingdom|718
+pl:lesbos|לסבוס|Lesbos|Aegean island (Mytilene)|island|pl:aegean-islands|719
+pl:helsinki|הלסינקי (הלסינגפורס)|Helsinki|Helsingfors, capital of Finland|city|pl:finland|720,721
+pl:larissa|לריסה|Larissa|town in Thessaly|city|pl:greece|723
+pl:larnaca|לרנקה|Larnaca|port in Cyprus|city|pl:cyprus|724
+pl:moheli|מוהלי|Mohéli|island in the Comoros|island|pl:africa|725
+pl:mazandaran|מאזנדראן|Mazandaran|province of northern Persia|region|pl:persia|726
+pl:masalit-morocco|מאסאליט|Masalit (unidentified)|unidentified battle site in Morocco (1910)|locality|pl:morocco|727
+pl:peter-and-paul-fortress|מבצר פטרופבלובסק|Peter and Paul Fortress|fortress-prison in St Petersburg|fortress|pl:saint-petersburg|729
+pl:shlisselburg-fortress|מבצר שליסלבורג|Shlisselburg Fortress|fortress-prison near St Petersburg|fortress|pl:russian-empire|730
+pl:magdeburg|מגדבורג|Magdeburg|city in Prussian Saxony|city|pl:germany|731
+pl:ima-morocco|אימא|Ima (unidentified)|unidentified locality near Melilla, Morocco (1911)|locality|pl:morocco|75
+pl:aloui-morocco|אלואי|Aloui (unidentified)|unidentified battle site in Morocco (1911)|locality|pl:morocco|109
+pl:elsig-morocco|אלסיג|Elsig (unidentified)|unidentified locality in northern Morocco (1911)|locality|pl:morocco|127

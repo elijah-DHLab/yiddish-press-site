@@ -1,0 +1,775 @@
+[4] org:ultima-ora | אולטימה אורה | Ultima Ora | newspaper mentioned in 1910
+     T Q113004899  Breaking News /   | Romanian TV theatrical performance <television play> sl=0
+     T Q19709665  Breaking News /   | Romanian play by Mihail Sebastian <literary work> sl=1
+     T Q12742793   /   | newspaper <newspaper> sl=1
+     T Q20970226   /   | Wikimedia disambiguation page <Wikimedia disambiguation page> sl=1
+[5] org:unzer-leben | אונזער לעבן | Unzer Leben | Yiddish daily newspaper in Odessa (1907–1915)
+     T Q9366864  Our Life /   | monthly magazine <magazine> sl=1
+[6] org:haor | האור | HaOr | Hebrew newspaper in Jerusalem edited by Eliezer Ben-Yehuda
+       Q115011790  Haoran Lin /   | researcher <human> sl=0
+       Q9797  Horst aan de Maas /  [2001–] | municipality in Limburg, the Netherlands <municipality of the Netherlands> sl=43
+    ✓  Q13060227  haor /   | seasonal wetland ecosystem in northeastern Bangladesh, mainly in Sylhet Division <geographical feature> sl=8
+       Q455589  Meng Haoran / מנג האוראן 690–740 | poet from the Tang Dynasty <human> sl=37
+       Q205697  Howrah / האורה  | City in West Bengal, India <municipal corporation of West Bengal> sl=77
+       Q111187877  Haoran Sun /   | Chinese researcher <human> sl=0
+     T Q1513432  HaZvi / הצבי [1884–] | Hebrew-language newspaper published in Jerusalem by Eliezer Ben-Yehuda from 1884 <newspaper> sl=8
+[7] org:izvestia | איזבסטיה | Izvestia | newspaper of the Petrograd Soviet, founded 1917
+   *✓T Q753932  Izvestia / איזבסטיה [1917–] | Soviet and Russian socially political and business daily newspaper <newspaper, government gazette> sl=39
+    ✓T Q86674888  Izvestia /   | Russian Federal Information TV Channel <news agency, television channel> sl=0
+    ✓T Q6102481  Izvestia /  1987–1991 | Canadian-bred Thoroughbred racehorse <horse, individual animal> sl=2
+     T Q1062293  Channel One Cup (ice hockey) / גביע הערוץ הראשון בהוקי קרח (רוסיה) [1967–] | annual ice hockey tournament for men's national teams played in Russia <ice hockey competition, recurring sporting event> sl=14
+     T Q111604087  Proceedings of the Russian Academy of Sciences. Series Biological /  [1992–] | scientific journal <scientific journal> sl=0
+     T Q15817699  Proceedings of the Academy of Sciences, Geographical Series /   | journal <scientific journal> sl=0
+[10] org:al-ahwal | אל-אחואל | al-Ahwal | Arabic newspaper (Beirut)
+     T Q50810436  Al-Ahwal: Jurnal Hukum Keluarga Islam /   | Academic journal published by Universitas Islam Negeri Sunan Kalijaga Yogyakarta <academic journal, open-access journal> sl=0
+     T Q12183306  al-Aḥwāl /  [1891–1912] | newspaper published in Beirut between 1891 and 1912 <newspaper, periodical> sl=1
+     T Q124970372  al-Aḥwāl /  [1924–] | magazine published in Cairo from 1924 onwards <magazine, periodical> sl=0
+     T Q124970371  al-Aḥwāl /  [1922–] | newspaper published in Cairo from 1922 onwards <newspaper, periodical> sl=0
+     T Q124970369  al-Aḥwāl /  [1908–] | newspaper published in Cairo from 1908 onwards <newspaper, periodical> sl=0
+     T Q124970370  al-Aḥwāl /  [1910–] | magazine published in Cairo from 1910 onwards <magazine, periodical> sl=0
+[11] org:el-liberal-salonica | אל ליברל | El Liberal | Judeo-Spanish newspaper in Salonica
+    ✓T Q3327138  El Liberal /  [1879–1939] | Spanish newspaper <newspaper> sl=7
+    ✓T Q5822302  El Liberal /   | Newspaper from Santiago del Estero, Argentina <newspaper> sl=3
+    ✓T Q26213394  El Liberal /  [1901–] | newspaper of Seville <newspaper> sl=2
+     T Q5822300  El Liberal (Murcia) /  [1909–1939] | newspaper <newspaper> sl=2
+     T Q10918686  El Liberal (Bilbao) /  [1901–1937] | former Spanish newspaper <newspaper, daily newspaper> sl=3
+    ✓T Q5822304  El Liberal /   | newspaper in Colombia <newspaper> sl=2
+[13] org:al-nafir | אל-נפיר | al-Nafir | Arabic newspaper in Ottoman Palestine
+     T Q124973473  al-Nafīr /  [1923–] | newspaper published in Cairo from 1923 onwards <newspaper, periodical> sl=0
+     T Q124973474  al-Nafīr al-ʿUthmānī /  [1904–1908] | newspaper published in Alexandria between 1904 and 1913 <newspaper, periodical> sl=0
+[14] org:allgemeine-zeitung | אלגמיינה צייטונג | Allgemeine Zeitung | German newspaper
+    ✓T Q1432339  Allgemeine Zeitung / אלגמיינה צייטונג [1798–1929] | German newspaper; published 1798-1803, 1807-1925 <newspaper> sl=10
+    ✓T Q153077  Allgemeine Zeitung /  [1916–] | newspaper published in Nambia <daily newspaper> sl=11
+    ✓T Q19430789  Allgemeine Zeitung /  [1850–] | newspaper in Mainz <newspaper> sl=3
+    ✓T Q2648872  Allgemeine Zeitung /  [1834–] | German newspaper published in Coesfeld since 1834 <periodical> sl=1
+    ✓T Q107467213  Allgemeine Zeitung /  [1945–1945] | German newspaper <newspaper> sl=1
+    ✓T Q106875560  Allgemeine Zeitung /  [1835–] | New York German-language newspaper, 1835-1840s <newspaper> sl=0
+[16] org:asahi-shimbun | אסאהי שימבון | Asahi Shimbun | Japanese newspaper
+   *✓T Q720503  Asahi Shimbun /  [1879–] | Japanese newspaper <daily newspaper> sl=42
+     T Q444649  Asahi Shimbun Company /  [1879–] | company <newspaper publisher> sl=4
+     T Q11517524  Asahi Shimbun Publications /   | Japanese publishing company <publishing house> sl=2
+    ✓T Q11517478  Asahi Shōgakusei Shimbun /  [1879–] | newspaper <newspaper> sl=1
+     T Q11517531  Asahi Shimbun reporter's self-staged coral damage report /  [1989–] |  <environmental degradation, frameup> sl=1
+     T Q11517520  Asahi Shimbun Digital /  [1995–] |  <online newspaper> sl=1
+[17] org:ost-und-west | אוסט אונד וסט | Ost und West | German-Jewish monthly, Berlin
+   *✓T Q1667655  Ost und West / Ost und West [1901–1923] | zionist journal (1901-1923) <periodical> sl=5
+    ✓T Q142168783  Ost und West /  [1969–1970] | television series (1969–1970) <television series> sl=0
+    ✓T Q120731533  Ost und West /  [1837–1847] |  <newspaper> sl=0
+     T Q142131026  Berlin Stunde Null /   | episode of Ost und West (1970) <television series episode> sl=0
+     T Q142131027  Wlassow - General zwischen Hitler und Stalin /   | episode of Ost und West (1970) <television series episode> sl=0
+     T Q113473633  Ost und West: Studien zur geschichtlichen Problematik der Antike /   | review in Zeitschrift für Sozialforschung <review> sl=0
+[20] org:excelsior-newspaper | אקסלסיור | Excelsior | French illustrated daily newspaper
+    ✓T Q3061794  Excelsior /  [1910–1940] | French daily newspaper <daily newspaper> sl=4
+    ✓T Q3735906  Excelsior /   | ferry built in 1999 <ferry> sl=5
+    ✓T Q3061796  Excelsior /   | ballet <ballet> sl=4
+     T Q370712  Excelsior Rotterdam / אקסלסיור רוטרדם [1902–] | association football club in the Netherlands <association football club> sl=45
+    ✓T Q19443009  Excelsior /   | Poem by Mexican writer Salvador Díaz Mirón <literary work> sl=1
+    ✓T Q130755222  Excelsior /  [1964–] | science fiction fanzine produce by Arnie Katz <science fiction fanzine> sl=0
+[23] org:birzhevye-vedomosti | בירז׳בייה ודומוסטי | Birzhevye Vedomosti | Russian daily newspaper, St. Petersburg
+     T Q4087004  Birzhevyie Vedomosti / בירזבי ודומוסטי [1861–1879] | Newspaper (1861 - 1880) <newspaper> sl=7
+[24] org:vardar-newspaper | ורדאר | Vardar | publication or body named "Vardar" mentioned in Salonica, 1913
+    ✓T Q73923887  Vardar /   | family name <family name> sl=1
+    ✓  Q189596  Vardar / וארדאר  | river in North Macedonia and Greece <river> sl=65
+       Q12883218  Paramero /   | village in Trikala, Greece <village> sl=4
+    ✓T Q86451667  Vardar /  [1996–] |  <business> sl=0
+       Q743691  Vardar Statistical Region /   | geographic region in North Macedonia <administrative territorial entity, statistical region of North Macedonia> sl=35
+       Q838802  Vardarac /   | settlement in the Municipality of Bilje, Osijek-Baranja County, Croatia <settlement in Croatia> sl=17
+[28] org:novoye-vremya | נובויה ורמיה | Novoye Vremya | Russian daily newspaper, St. Petersburg
+   *✓T Q2598596  Novoye Vremya / נובויה ורמיה [1868–1917] | Russian newspaper (1868–1917) <newspaper, daily newspaper> sl=17
+    ✓T Q3517786  Novoye Vremya /  [1868–] | Russian publisher <publishing house> sl=3
+     T Q4051211  The New Times /  [1943–] | Russian magazine <periodical> sl=10
+[29] org:gazeta-warszawska | גזטה ורשבסקה | Gazeta Warszawska | Polish daily newspaper, Warsaw
+   *✓T Q5529094  Gazeta Warszawska / גזטה ורשבסקה [1774–1793] | defunct Polish daily newspaper <periodical> sl=4
+     T Q9371167   /  [2008–] |  <periodical> sl=2
+    ✓T Q9266420  Gazeta Warszawska /   | Wikimedia disambiguation page <Wikimedia disambiguation page> sl=1
+[30] org:grazhdanin | גרז׳דנין | Grazhdanin | Russian conservative newspaper of Prince Meshchersky
+    ✓T Q196811  Tsesarevich /   | pre-dreadnought battleship of the Imperial Russian Navy <pre-dreadnought battleship> sl=17
+    ✓T Q4147482  Grazhdanin /  [1872–1914] | conservative political and literary magazine/newspaper published in St. Petersbu <periodical> sl=7
+    ✓T Q141929057  Grazhdanin /   | novel by Sergey Plotnikov <literary work> sl=0
+    ✓T Q141929137  Grazhdanin /   | 2021 edition of the novel by Sergey Plotnikov (T8 RUGRAM) <version, edition or translation> sl=0
+     T Q4147480  Grazhdanin Topinambur /  [2002–] | Ukrainian music band <musical ensemble> sl=3
+     T Q4147484  Citizen Poet /  [2011–] | Russian television program <television series> sl=3
+[31] org:dos-lebn | דאס לעבן | Dos Lebn | Yiddish newspaper (1906)
+     T Q216153   / באג לייף  | 1998 animated film directed by John Lasseter and Andrew Stanton <animated film> sl=72
+[33] org:dzien-polski | דז׳ן פולסקי | Dzień Polski | Polish newspaper (1906)
+     T Q9248805   /   |  <holiday> sl=1
+     T Q9248821   /   |  <holiday> sl=1
+[34] org:die-welt-zionist-weekly | די וועלט | Die Welt | Zionist weekly founded by Herzl
+   *✓T Q29872  Die Welt / די ולט [1946–] | German national daily newspaper <newspaper, daily newspaper> sl=50
+     T Q1217470  Die Welt des Islams /  [1913–] | academic journal <periodical, academic journal> sl=2
+    ✓T Q876140  Die Welt / די ולט [1897–1914] | Zionist newspaper, founded by Theodor Herzl <newspaper> sl=6
+     T Q512687  Die Weltbühne / די ולטבינה [1905–1933] | German magazine <magazine> sl=16
+    ✓T Q83664706  Rosa 'Die Welt' /   | rose cultivar <rose cultivar> sl=1
+    ✓T Q120217437  Die Welt /  [1932–] |  <newspaper> sl=0
+[36] org:daily-express | דיילי אקספרס | Daily Express | British daily newspaper
+   *✓T Q610190  Daily Express / דיילי אקספרס [1900–] | British middle market newspaper <periodical, daily newspaper> sl=37
+    ✓T Q3694775  Daily Express /  [1998–] | daily newspaper in Pakistan <newspaper> sl=7
+    ✓T Q71566705  Daily Express /  [1855–1859] | Edinburgh newspaper, 1855-1859 <daily newspaper> sl=0
+    ✓T Q5209249  Daily Express /  [1851–] | daily newspaper in Ireland published from 1851 to 1921 <periodical> sl=1
+    ✓T Q5209248  Daily Express /  [1963–] | daily newspaper in West Malaysia <newspaper> sl=4
+    ✓T Q6415836  Kirksville Daily Express /  [1901–] | US newspaper <newspaper> sl=1
+[37] org:the-daily-graphic | דיילי גרפיק | The Daily Graphic | British illustrated daily
+    ✓T Q4175261  The Daily Graphic /  [1873–1889] | 19th-century newspaper published in New York City <newspaper> sl=9
+    ✓T Q2410669  Daily Graphic /  [1950–] | Ghanaian newspaper <newspaper, periodical> sl=4
+    ✓T Q139493087  The Daily Graphic /   | London daily newspaper <newspaper> sl=2
+    ✓T Q100291837  The Daily Graphic /   | newspaper published in Harper, Kansas <newspaper> sl=0
+    ✓T Q100291838  The Daily Graphic /   | newspaper published in Ridgeway, North Carolina <newspaper> sl=0
+     T Q59030783   /   |  <> sl=0
+[38] org:the-daily-telegraph | דיילי טלגרף | The Daily Telegraph | British daily newspaper
+   *✓T Q192621  The Daily Telegraph / דיילי טלגרף [1855–] | British daily broadsheet newspaper <newspaper, periodical> sl=67
+    ✓T Q1819581  The Daily Telegraph /  [1879–] | Australian daily tabloid newspaper <periodical, daily newspaper> sl=19
+    ✓T Q6964889  The Daily Telegraph /  [1871–1999] | former New Zealand newspaper published in Hawke's Bay <newspaper> sl=4
+    ✓T Q25184234  The Daily Telegraph /   | Australia newspaper published in Launceston (1881-1928) <newspaper> sl=2
+    ✓T Q97303100  The Daily Telegraph /   | Wikinews disambiguation page <Wikinews article> sl=1
+    ✓T Q106500625  The Daily Telegraph /   | Vanity Fair caricature of Mr Edward Levy by Spy <print, work with multiple executions> sl=0
+[39] org:daily-chronicle | דיילי כרוניקל | Daily Chronicle | British daily newspaper
+    ✓T Q5209234  Daily Chronicle /   | newspaper in DeKalb, Illinois, USA <newspaper, periodical> sl=1
+   *✓T Q74707  Daily Chronicle /  [1872–1930] | British newspaper <newspaper> sl=11
+    ✓T Q5209235  Daily Chronicle /   | newspaper in Levin, New Zealand <newspaper> sl=3
+    ✓T Q48971115  The Chronicle /   | Newspaper based in Centralia, Washington <newspaper> sl=1
+    ✓T Q100291424  The Daily Chronicle /   | newspaper published in Knoxville, Tennessee <newspaper> sl=0
+    ✓T Q5209236  Daily Chronicle /   | Wikimedia disambiguation page <Wikimedia disambiguation page> sl=1
+[40] org:daily-mail | דיילי מייל | Daily Mail | British daily newspaper
+   *✓T Q210534  Daily Mail / דיילי מייל [1896–] | British tabloid newspaper, since 1896 <newspaper, periodical> sl=58
+    ✓T Q18349983  Daily Mail /  [1903–] | Brisbane, Queensland, Australian Newspaper (1903-1933) <newspaper> sl=3
+    ✓  Q103780886  Daily Mail /   | shipwreck off the Scottish coast <ship, shipwreck> sl=0
+    ✓T Q100292025  The Daily Mail /  [1890–] | newspaper published in Hagerstown, Maryland <newspaper> sl=1
+     T Q667613  Daily Mail and General Trust /  [1922–] | British media conglomerate <public company, enterprise> sl=9
+    ✓T Q124535567  Daily Mail /   | organization <organization> sl=0
+[41] org:the-daily-news-uk | דיילי ניוז | The Daily News | British daily newspaper
+   *✓T Q2605160  The Daily News / הדיילי ניוז [1846–1912] | national daily newspaper in the United Kingdom (1846-1930) <newspaper, periodical> sl=11
+    ✓T Q7728686  The Daily News /  [1842–] | newspaper in Galveston, Texas <newspaper> sl=3
+    ✓T Q1245411  Daily News /  [1882–1990] | former afternoon daily newspaper published in Perth, Western Australia <daily newspaper> sl=3
+    ✓T Q6511078  Lebanon Daily News /  [1872–] | newspaper based in Lebanon, Pennsylvania <newspaper, website> sl=2
+     T Q7162926  Peninsula Daily News /  [1916–] | newspaper in Port Angeles, Washington <newspaper, daily newspaper> sl=2
+    ✓T Q7728682  The Daily News /  [1923–] | newspaper in Longview, Washington <newspaper, daily newspaper> sl=1
+[45] org:vorwarts | פורוורטס | Vorwärts | central organ of the SPD, Berlin
+    ✓T Q106332269  Vorwärts /   | family name <family name> sl=0
+   *✓T Q467800  Vorwärts /  [1876–] | party newspaper from Germany (1876-) <party newspaper> sl=20
+    ✓T Q17032061  Vorwärts /  [1899–] | newspaper (1899-1937) <newspaper> sl=1
+    ✓T Q12806119  Vorwärts /  [1923–1924] | newspaper from Yugoslavia (1923-1924) <newspaper> sl=1
+    ✓T Q2534714  Vorwärts /  [1893–] | newspaper from Switzerland (1893-) <newspaper> sl=1
+    ✓T Q1515127  Vorwärts /   | steamboat built in 1903 <steamboat> sl=2
+[48] org:l-humanite | ל׳אומניטה | L'Humanité | French socialist daily
+    ✓T Q1137404  L'Humanité / ל'הומניטה [1904–] | French daily newspaper <periodical, daily newspaper> sl=31
+    ✓  Q240858  Hénin-Beaumont / הנין-בומון [1971–] | commune in Pas-de-Calais, France <commune of France> sl=67
+    ✓T Q1402398  Humanité /   | 1999 film by Bruno Dumont <film> sl=18
+     T Q3272224  L’Humanité Dimanche /  [1948–] | weekly newspaper supplement in France <magazine, newspaper supplement> sl=2
+     T Q123579648  L’humanité /   | literary work <literary work> sl=0
+     T Q125021169  L’Humanité /   | performing arts production of the Théâtre Vidy-Lausanne during the season 2009-2 <performing arts production> sl=0
+[50] org:vestnik-evropy | וסטניק יברופי | Vestnik Evropy | Russian liberal monthly
+    ✓T Q765757  Vestnik Evropy /  [1866–1918] | magazine of late-nineteenth-century Russia <magazine> sl=10
+    ✓T Q16630006  Vestnik Evropy /  [1802–1830] |  <magazine> sl=5
+     T Q23731015   /   |  <> sl=0
+    ✓T Q4109613  Vestnik Evropy /   | Wikimedia disambiguation page <Wikimedia disambiguation page> sl=4
+[59] org:le-temps | לה טאן | Le Temps | French daily newspaper, Paris
+    ✓T Q64223800  Le Temps /  [1975–] | Canadian folk rock band <musical group> sl=1
+    ✓T Q3227550  Le Temps /   | 1975 self-titled debut studio album by Le Temps <album> sl=0
+   *✓T Q639137  Le Temps /  [1861–1942] | French newspaper (1861-1942) <newspaper, periodical> sl=12
+    ✓T Q139275406  Le Temps /  [1979–1982] | Canadian newspapers of 1979 <journal> sl=0
+     T Q673324   /  [1998–] | Swiss French-language daily newspaper <daily newspaper> sl=21
+    ✓T Q110459477  Le Temps /   | 2021 song by Tayc <song> sl=2
+[61] org:el-tiempo-constantinople | אל טיימפו | El Tiempo | Judeo-Spanish newspaper in Constantinople
+    ✓T Q124239482  El tiempo /   | poem written by Meneses Monroy <literary work> sl=0
+   *✓T Q1324658  El Tiempo /  [1913–] | Colombian newspaper <daily newspaper> sl=20
+     T Q2397018  El tiempo es oro / El tiempo es oro  | album by Paulina Rubio <album> sl=5
+    ✓T Q5352249  El Tiempo / אל טיימפו [1872–1930] | former Judeo-Spanish (Ladino) language newspaper, published in Constantinople/Is <periodical> sl=3
+    ✓T Q5352248  El Tiempo / דיאריו טיימפו [1970–] | Honduran newspaper <newspaper> sl=4
+    ✓T Q5352250  El Tiempo / El tiempo  | album by Benny Ibarra <album> sl=2
+[62] org:the-times | הטיימס | The Times | London daily newspaper
+   *✓T Q50008  The Times / הטיימס [1785–] | British daily national newspaper based in London <newspaper, periodical> sl=89
+     T Q9684  The New York Times / ניו יורק טיימס [1851–] | American daily newspaper (founded 1851) <daily newspaper> sl=125
+    ✓T Q7769394  The Times /  [1882–] | newspaper in Trenton, New Jersey <newspaper, periodical> sl=2
+     T Q1768060  The Times Literary Supplement /  [1902–] | weekly literary review published in London <magazine> sl=18
+    ✓T Q5165605  East Bay Times /  [1947–] | newspaper from Walnut Creek, California <newspaper> sl=4
+    ✓T Q7769395  The Times /  [1980–] | British band <musical group> sl=2
+[63] org:la-tribuna | לה טריבונה | La Tribuna | Italian daily newspaper, Rome
+    ✓T Q5965374  La Tribuna /  [1976–] | Honduran newspaper <newspaper, periodical> sl=3
+    ✓T Q21573257  La Tribuna /  [1925–1983] | Paraguayan newspaper <daily newspaper> sl=4
+    ✓T Q25515032  La Tribuna /   |  <magazine> sl=1
+    ✓T Q52284771  La Tribuna /   | newspaper in Spain <newspaper> sl=1
+    ✓T Q28492781  La Tribuna /  [1912–1920] | newspaper published in Madrid (1912-c. 1922) <newspaper> sl=2
+     T Q27713677  La Tribuna odontologica /   | journal <scientific journal> sl=0
+[64] org:la-tribuna-libera | לה טריבונה ליברה | La Tribuna Libera | Judeo-Spanish newspaper in Salonica
+     T Q19965911   /   | newspaper <newspaper> sl=2
+[65] org:the-tribune-london | הטריביון | The Tribune | London Liberal daily (1906–1908)
+   *✓T Q1922367  The Tribune /  [1881–] | Indian English-language daily newspaper <newspaper> sl=14
+    ✓T Q7770195  The Tribune /  [1869–] | daily broadsheet newspaper and news website that covers San Luis Obispo County,  <newspaper, daily newspaper> sl=1
+    ✓T Q7770193  The Tribune /  [1911–] | newspaper in North Carolina, USA <newspaper> sl=1
+    ✓T Q7770196  The Tribune /  [1885–] | newspaper in Seymour, Indiana, USA <newspaper> sl=1
+    ✓T Q5173916  Coshocton Tribune /  [1909–] | newspaper in Coshocton, Ohio <newspaper> sl=2
+    ✓T Q113509950  The Tribune /  [2021–] | news organisation in Sheffield, England <online newspaper> sl=0
+[66] org:el-judio | אל ג׳ודיו | El Judío | Judeo-Spanish Zionist newspaper (Constantinople)
+    ✓  Q20218609  El Judío /   | human settlement in Mexico <human settlement> sl=6
+    ✓  Q97647678  El Judío /   |  <human settlement, archaeological site> sl=0
+       Q97627434  El Judio /   | archaeological site in Almonte, Spain <archaeological site> sl=0
+       Q97647698  El Judio. Túmulos /   |  <tumulus, archaeological site> sl=0
+       Q97646743  El Judio Este /   |  <human settlement, archaeological site> sl=0
+     T Q20897646   /   |  <literary work> sl=2
+[70] org:the-outlook | The Outlook | The Outlook | British/American weekly
+   *✓T Q17142729  The Outlook / מגזין אאוטלוק [1870–1935] | weekly magazine published in New York (1870–1935) <magazine> sl=6
+    ✓T Q7755679  The Outlook /  [1911–] | Newspaper published in Gresham, Oregon, United States <newspaper, periodical> sl=2
+    ✓T Q113654751  Mitzpeh /  [1983–] | Jewish student newspaper at University of Maryland <newspaper, college student newspapers and periodicals> sl=0
+    ✓T Q18162799  The Outlook /  [1898–] | British magazine, 1898-1928 <magazine> sl=2
+    ✓  Q34812397  The Outlook /   | mountain in United States of America <mountain> sl=1
+    ✓T Q119045560  The Outlook /  [1834–] | painting by Henry Perlee Parker (1795–1873), Laing Art Gallery <painting> sl=0
+[71] org:la-liberte | לה ליברטה | La Liberté | French daily newspaper
+    ✓  Q305518  Graçay /   | commune in Cher, France <commune of France> sl=39
+   *✓T Q25397792  La Liberté /  [1865–1940] | French newspaper <periodical> sl=4
+     T Q1303632   /  [1871–] | Swiss newspaper <daily newspaper> sl=7
+    ✓  Q2707665  La Liberté /   | building in the Netherlands <building> sl=3
+     T Q29530  Liberty Leading the People / החירות מובילה את העם [1830–] | painting by Eugène Delacroix, Louvre <painting> sl=67
+    ✓T Q5391603  La Liberté /  [–1894] | Argentine anarchist newspaper <anarchist newspaper> sl=1
+[73] org:la-nacion | לה נסיון | La Nación | Argentine daily newspaper, Buenos Aires
+   *✓T Q1507630  La Nación /  [1870–] | daily Spanish-language newspaper in Argentina <daily newspaper, newspaper of record> sl=28
+    ✓T Q19448624  La Nación /   |  <publishing house, printing company> sl=2
+    ✓T Q1460840  La Nación /  [1946–] | daily newspaper published in San Jose, Costa Rica <daily newspaper> sl=8
+    ✓T Q5648270  La Nación /  [1925–1936] | Spanish newspaper (1925-1936) <daily newspaper> sl=6
+    ✓T Q2878539  La Nación /  [1917–2010] | Chilean newspaper <daily newspaper> sl=5
+    ✓T Q28534762  La Nación /  [1916–1918] | Spanish newspaper (1916-1918) <newspaper> sl=2
+[74] org:la-stampa | לה סטמפה | La Stampa | Italian daily newspaper, Turin
+   *✓T Q923353  La Stampa / לה סטמפה [1867–] | Italian daily newspaper (founded 1867) <newspaper, daily newspaper> sl=35
+    ✓T Q20022907  La Stampa /   |  <musical group> sl=1
+    ✓T Q1713063  La Stampa /   | musical group <musical group> sl=1
+     T Q139955562  La Stampa — 20 July 1943 (bombing of Rome) /   | Front page reporting the bombing of Rome, with detailed descriptions of destruct <newspaper> sl=0
+     T Q107398757  La stampa a Viterbo, "1488"-1800: catalogo descrittivo /  [1963–] | 1963 bibliography by Dennis E. Rhodes <bibliography> sl=0
+     T Q107399036  La stampa a Viterbo, "1488"-1800: catalogo descrittivo /   | bibliography published in Firenze: L.S. Olschki, 1963 <bibliography, version, edition or translation> sl=0
+[75] org:le-figaro | לה פיגארו | Le Figaro | French daily newspaper
+   *✓T Q216047  Le Figaro / לה פיגארו [1826–] | French daily newspaper <newspaper, daily newspaper> sl=63
+     T Q3222760  Le Figaro Magazine /  [1978–] | French language weekly news magazine published in Paris, France <newspaper> sl=4
+    ✓T Q76354129  Le Figaro /   | print in the National Gallery of Art (NGA 115102) <print> sl=0
+     T Q3222764  Le Figaro littéraire /   | newspaper <newspaper> sl=1
+     T Q51090031  Le Figaro histoire /  [2012–] | magazine <magazine> sl=0
+     T Q3546495  Le Figaro TV /  [2004–] |  <television channel> sl=2
+[79] org:al-muqtabas | אל-מוקתבס | al-Muqtabas | Arabic newspaper in Damascus
+    ✓T Q12193626  al-Muqtabas /  [1906–1913] | Monthly journal published by Muḥammad Kurd ʿAlī in Cairo and, later, Damascus <journal, magazine> sl=1
+    ✓T Q112180812  al-Muqtabas /  [1908–] | Daily newspaper published by Muḥammad Kurd ʿAlī in Damascus from 1908 onwards <newspaper, periodical> sl=1
+    ✓T Q124964359  al-Muqtabas /  [1908–1909] | newspaper published in Damascus between 1908 and 1909 <newspaper, periodical> sl=0
+    ✓T Q124964357  al-Muqtabas /  [1914–1916] | newspaper published in Damascus between 1914 and 1916 <newspaper, periodical> sl=0
+    ✓T Q124964356  al-Muqtabas /  [1910–1913] | newspaper published in Damascus between 1910 and 1913 <newspaper, periodical> sl=0
+    ✓T Q124964353  al-Muqtabas /  [1909–] | magazine published in Damascus between 1909 and 1918 <magazine, periodical> sl=0
+[80] org:the-morning-post | מורנינג פוסט | The Morning Post | London daily newspaper
+   *✓T Q1750567  The Morning Post / The Morning Post [1772–1937] | London newspaper (1772–1937) <newspaper, periodical> sl=17
+    ✓T Q100277734  The Morning Post /   | newspaper published in Raleigh, North Carolina <newspaper> sl=0
+    ✓T Q106500597  The Morning Post /   | Vanity Fair caricature of Mr A Borthwick by Ape <print, work with multiple executions> sl=0
+    ✓T Q100277733  The Morning Post /   | newspaper published in Camden, New Jersey <newspaper> sl=0
+    ✓T Q135009793  The Morning Post /  [1877–] | painting by Hubert Salentin (Hubert-Salentin-Museum) <painting> sl=0
+[81] org:mechveret | משוורת | Mechveret | Young Turk organ published in Paris
+     T Q191657  stirrup / ארכוף  | light frame or ring that holds the foot of a rider <> sl=60
+     T Q499897  stapes / משוורת  | bone of the middle ear <class of anatomical entity> sl=47
+[93] org:oze | אוזה | OZE | Society for the Protection of the Health of the Jewish Population
+    ✓  Q1086653  Oze /   | commune in Hautes-Alpes, France <commune of France> sl=43
+       Q1625110  Ozenay /   | commune in Saône-et-Loire, France <commune of France> sl=32
+       Q661620  Ozenx-Montestrucq /  [1973–] | commune in Pyrénées-Atlantiques, France <commune of France> sl=37
+       Q220940  Ozerailles /   | commune in Meurthe-et-Moselle, France <commune of France> sl=37
+     T Q21488135  Özel /   | family name <family name> sl=2
+       Q1062791  Ozeville /   | commune in Manche, France <commune of France> sl=35
+[99] org:ivria | עבריה | Ivria | Hebrew-language societies (Berlin and elsewhere)
+     T Q2514721   /  [1911–] |  <pressure group> sl=1
+[106] org:general-jewish-labour-bund | הבונד | General Jewish Labour Bund | Jewish socialist party in the Russian Empire
+     T Q647460  General Jewish Labour Bund in Lithuania, Poland and Russia / הבונד [1897–1946] | political party in tsarist Russia and Latvia <political party, labor union> sl=39
+     T Q5531969  General Jewish Labour Bund in Poland / בונד העבודה הכללי בפולין [1917–1948] | political party in Poland <political party> sl=6
+     T Q5531970  General Jewish Labour Bund in Romania /  [1923–1940] | political party in Romania <political party> sl=2
+     T Q5531968  General Jewish Labour Bund in Latvia /  [1918–1940] | Jewish socialist party in Latvia <political party> sl=2
+     T Q16838609  General Jewish Labour Bund in Belarus /  [1918–] |  <political party> sl=1
+     T Q5531971  General Jewish Labour Bund in Lithuania /  [–1921] |  <political party> sl=1
+       Q125474  The Bund / הבונד  | historical district in central Shanghai, China <thoroughfare, boardwalk> sl=36
+[107] org:bilu | ביל"ו | Bilu | Zionist pioneer movement (1882)
+    ✓T Q18032067  TOP2B /   | protein-coding gene in the species Homo sapiens <gene> sl=8
+       Q12476247  Biluhu /   | district in Gorontalo Regency, Gorontalo Province, Indonesia <kecamatan> sl=4
+    ✓T Q863392  Bilu / ביל"ו [1882–] | organization <organization> sl=17
+    ✓  Q45689202  Lin Ruchu /  1543–1623 | Ming dynasty person CBDB = 128586 <human> sl=0
+     T Q13615855  Bilulua /   | genus of insects <taxon> sl=5
+    ✓T Q108752133  Bilu /   | family name <family name> sl=0
+[113] org:diskin-orphanage | בית היתומים דיסקין | Diskin Orphanage | orphanage in Jerusalem founded by Rabbi Diskin
+    ✓  Q5282323  Diskin Orphanage / בית היתומים דיסקין [1927–] | historic boarding school in Jerusalem <orphanage> sl=3
+[114] org:eliyahu-hanavi-synagogue | בית הכנסת אליהו הנביא | Eliyahu Hanavi Synagogue | synagogue in Alexandria
+    ✓  Q1331109  Eliyahu Hanavi Synagogue / בית הכנסת אליהו הנביא (אלכסנדריה) [1354–1798] | synagogue in Alexandria, Egypt <synagogue> sl=16
+       Q92147984  Eliyahu Hanavi Synagogue, Jerusalem / בית הכנסת אליהו הנביא (ירושלים) [1600–] | Synagogue in Jerusalem <synagogue, esnoga> sl=3
+[115] org:ben-ezra-synagogue | בית הכנסת בן עזרא | Ben Ezra Synagogue | synagogue in Cairo
+    ✓  Q2474653  Ben Ezra Synagogue / בית הכנסת בן עזרא [1892–] | building in Egypt <synagogue> sl=21
+[119] org:bezalel-academy-of-arts-and-design | בצלאל | Bezalel Academy of Arts and Design | art school in Jerusalem founded 1906
+       Q492519  Bezalel Academy of Art and Design / בצלאל אקדמיה לאמנות ועיצוב ירושלים [1906–] | Israeli art school <art academy> sl=37
+     T Q19967785  Bezalel / בצלאל  | male given name <male given name> sl=1
+     T Q138195988  Betsalʼel / בצלאל [2014–] | magazine <magazine> sl=1
+       Q18759744  Bezalel Smotrich / בצלאל סמוטריץ' 1981– | Israeli far-right religious politician and lawyer (born 1980) <human> sl=36
+[125] org:bnai-brith | בני ברית | B'nai B'rith | Jewish fraternal order
+   *✓T Q248686  B'nai B'rith / בני ברית [1843–] | international Jewish service organization <nonprofit organization, non-governmental organization> sl=34
+    ✓T Q107380793  B'nai B'rith, Loge Mala Zimetbaum /  [1953–] | Belgian organization <nonprofit organization> sl=0
+     T Q105163114  B'nai B'rith Europe /   | international Jewish social service organization <nonprofit organization> sl=1
+    ✓T Q126797272  B'nai B'rith Magazine /   | magazine <magazine> sl=0
+     T Q9163323  B'nai B'rith Poland / בני ברית פולין [1922–] |  <association> sl=1
+     T Q46709894  B'nai B'rith France /   |  <association under the French law of 1901> sl=0
+[126] org:bnei-zion-salonica | בני ציון | Bnei Zion (Salonica) | Zionist society in Salonica
+       Q938477  Bnei Zion / בני ציון [1947–] | human settlement <human settlement, moshav> sl=8
+     T Q20501415   / בני ציון  | Wikimedia disambiguation page <Wikimedia disambiguation page> sl=2
+[142] org:zionist-actions-committee | הוועד הפועל הציוני | Zionist Actions Committee | executive bodies (Greater/Smaller Actions Committee) of the Zionist Organization
+     T Q2906291  Zionist General Council / הוועד הפועל הציוני  | The supreme institution of the Zionist movement <religious organization> sl=6
+[143] org:zionistische-vereinigung-fur-deutschland | ההסתדרות הציונית בגרמניה | Zionistische Vereinigung für Deutschland | German Zionist federation
+     T Q205369  Zionist Federation of Germany / התאחדות ציוני גרמניה [1894–] | largest Zionist Organisation <nonprofit organization> sl=8
+[168] org:hakham-bashi | חכם באשי | Hakham Bashi | office of the Chief Rabbi in the Ottoman Empire
+     T Q1568783  hahambaşı / חכם באשי  | Turkish term used to refer to the chief rabbi of the Ottoman Empire <position, historical position> sl=15
+[176] org:mevaseret-zion-salonica | מבשרת ציון | Mevaseret Zion (Salonica) | Zionist society in Salonica
+     T Q1025294  Mevaseret Zion / מבשרת ציון [1951–] | town in Israel near Jerusalem <local council in Israel> sl=23
+     T Q123933736   / מבשרת ציון (עיתון) [–1884] |  <magazine> sl=1
+[181] org:dropsie-college | מכללת דרופסי | Dropsie College | Jewish academic institution in Philadelphia (1907)
+     T Q65088719  Dropsie College for Hebrew and Cognate Learning / מכללת דרופסי ללימודי עברית  | america’s first degree-granting institution for post-doctoral Jewish studies <educational institution> sl=4
+       Q5059469  Center for Advanced Judaic Studies / מרכז למחקרי יהדות מתקדמים [1907–] | Postdoctoral research center focused on Judaism <research institute> sl=2
+[190] org:admiralty-board-russia | האדמירליות הרוסית | Admiralty Board | Russian naval administration
+    ✓T Q2628121  Admiralty Board / מנהלת האדמירליות  | administration body of the Imperial Russian Navy; Russian executive body (colleg <Imperial Russian collegium> sl=11
+    ✓T Q3519420  Admiralty Board / מנהלת האדמירליות [1964–] | administration body of the Naval Service of the United Kingdom <government committee> sl=4
+     T Q4057904  Admiralty Board of Sweden /  [1634–1791] |  <government agency> sl=4
+[195] org:odessa-university | אוניברסיטת אודסה | Odessa University | Imperial Novorossiya University
+     T Q85300  Odesa University / אוניברסיטת אודסה [1865–] | university in Ukraine <university, open-access publisher> sl=36
+[206] org:imperial-military-medical-academy | האקדמיה הצבאית לרפואה | Military Medical Academy | military medical academy in St. Petersburg
+    ✓T Q9377456  Military Medical Academy /  [1958–2002] | former higher education Institution in Poland <former educational institution> sl=2
+    ✓T Q6852078  Military Medical Academy /  [1891–] | hospital in Bulgaria <school, hospital> sl=5
+     T Q1459393  S. M. Kirov Military Medical Academy / האקדמיה לרפואה צבאית בסנט-פטרסבורג [1798–] | school of military medicine in Saint Petersburg, Russian Federation <military academy, medical academy> sl=12
+    ✓T Q20421853  Military Medical Academy /  [1979–] | healthcare organization in Cairo, Egypt <military academy> sl=5
+       Q6593183  Military Medical Academy (Serbia) /  [1884–] | medical center in Belgrade, Serbia <hospital> sl=6
+       Q9366805  University Clinical Hospital No. 2 /  [1930–] | hospital in Łódź, Poland <hospital> sl=2
+[208] org:russian-social-democratic-labour-party | מפלגת הפועלים הסוציאל-דמוקרטית הרוסית | Russian Social Democratic Labour Party | RSDLP
+   *✓T Q204911  Russian Social Democratic Labour Party / מפלגת הפועלים הסוציאל-דמוקרטית הרוסית [1898–1917] | political party in the Russian Empire <political party> sl=60
+    ✓T Q7382128  Russian Social Democratic Labour Party (menshevik) /  [1917–1965] | historic political party in Russia founded 1903 <political party> sl=4
+    ✓T Q4397996  Russian Social Democratic Labour Party (of Internationalists) /  [1917–1920] | political party in Russia <political party> sl=4
+     T Q1774814  Russian Social Democratic Labour Party (bolshevik) / מפלגת הלייבור הסוציאל-דמוקרטית הרוסית [1917–1918] | Russian political party <political party> sl=9
+     T Q1922340  Mezhraiontsy /  [1913–1917] | faction of the Russian Social Democratic Labor Party <political faction> sl=12
+[209] org:bolsheviks | הבולשביקים | Bolsheviks | faction of the RSDLP
+   *✓T Q83372  Bolsheviks / בולשביזם [1903–] | faction of the Marxist Russian Social Democratic Labour Party; a major faction i <political movement, group of humans> sl=92
+    ✓T Q30703585  Bolsheviks /  [1918–] | painting by Ilya Repin <painting> sl=3
+     T Q63256310  Bolsheviks Party of South Africa /   | political party in South Africa <political party> sl=5
+     T Q12135511  Bolsheviks' occupation of Poltava (1918) /  [1918–1919] |  <military occupation> sl=2
+       Q124286931  Bolsheviks' grave on Krasnenkoe cemetery /   | mass grave, historic site, memorial in Kirovsky District, Saint Petersburg, Russ <historic site, mass grave> sl=1
+     T Q139773956   /   |  <> sl=0
+[210] org:saint-petersburg-stock-exchange | הבורסה של סנקט פטרבורג | Saint Petersburg Stock Exchange | stock exchange
+   *✓T Q2306284  SPB Exchange - All Markets / הבורסה לניירות ערך בסנקט פטרבורג [1997–] | Shares, depositary receipts, government bonds, structured finance products, spot <stock exchange, organization> sl=9
+     T Q114586941  Stock Exchange Saint Petersburg /   | stock exchange in Russia <stock exchange> sl=1
+    ✓T Q528335  Saint Petersburg Stock Exchange /   | Wikimedia disambiguation page <Wikimedia disambiguation page> sl=3
+[213] org:district-court-russian-empire | בית המשפט המחוזי | District court (Russian Empire) | okruzhnoy sud, regional courts of the Russian Empire
+     T Q97382254  Israeli district court / בית המשפט המחוזי  |  <> sl=0
+     T Q1614849  United States district court / בית המשפט המחוזי של ארצות הברית  | type of court of the United States federal court system <> sl=21
+     T Q7889769  United States District Court for the District of Columbia / בית המשפט המחוזי של ארצות הברית במחוז קולומביה [1863–] | United States federal district court <United States district court> sl=11
+     T Q97384785  Haifa District Court / בית המשפט המחוזי בחיפה  | Court in Israel <Israeli district court> sl=2
+[214] org:supreme-criminal-court-russia | בית הדין הפלילי העליון | Supreme Criminal Court | Russian supreme criminal court
+   *✓T Q3919871  Supreme Criminal Court / בית המשפט העליון הפלילי [1764–] |  <supreme court, extraordinary court> sl=6
+    ✓T Q6080850  Supreme Criminal Court /   | supreme court in Turkey <> sl=0
+[217] org:butyrka-prison | כלא בוטירקה | Butyrka prison | prison in Moscow
+    ✓  Q1018222  Butyrka prison / בוטירקה [1771–] | prison in Moscow, Russia <architectural landmark, detention center> sl=29
+[219] org:azov-don-bank | בנק אזוב-דון | Azov-Don Bank | Russian commercial bank
+     T Q4058430  Azov-Don Commerce Bank /  [1871–1917] | former bank in Russia <bank> sl=6
+[225] org:russo-chinese-bank | הבנק הרוסי-סיני | Russo-Chinese Bank | Russian bank (1895)
+    ✓T Q21996923  Russo-Chinese Bank /  [1895–1926] | foreign bank representing Russian interest in China during the period between Qi <bank> sl=11
+    ✓T Q2472186  Russo-Chinese Bank /  [1910–1926] | International bank (1910–1917) <enterprise, business> sl=9
+       Q6125587  Russo-Chinese Bank Building /   | building in Shanghai, China <cultural heritage> sl=4
+       Q10905444  Russo-Chinese Bank Building, Wuhan /   |  <cultural heritage of China> sl=2
+     T Q10905445  Russo-Chinese Bank site /   |  <cultural heritage> sl=2
+[227] org:russian-post-office-in-constantinople | הדואר הרוסי בקושטא | Russian post office in the Ottoman Empire | foreign post office in Constantinople
+     T Q4400527  Russian post offices in the Ottoman Empire /   |  <aspect of history> sl=4
+[228] org:state-duma | הדומה | State Duma | State Duma of the Russian Empire (1906–1917)
+    ✓T Q715641  State Duma / הדומה הממלכתית של הפדרציה הרוסית [1907–] | lower house of Federal Assembly of Russia <lower house, elected legislative house> sl=77
+    ✓T Q1649453  State Duma / הדומה הממלכתית של האימפריה הרוסית [1906–1917] | legislative assembly in the Russian Empire <legislative assembly> sl=40
+     T Q4128600  State Duma election in Russia / הבחירות הפרלמנטריות ברוסיה  | To determine the composition of the State Duma <class of election> sl=6
+     T Q19909528  Council of Labor and Defense Building / בניין מועצת העבודה וההגנה [1935–] | building in Moscow, Russia <architectural landmark, parliament building> sl=4
+    ✓T Q4146575  State Duma / הדומה הממלכתית  | Wikimedia disambiguation page <Wikimedia disambiguation page> sl=8
+[235] org:ministry-of-foreign-affairs-russia | משרד החוץ הרוסי | Ministry of Foreign Affairs of the Russian Empire | Russian foreign ministry / diplomacy
+     T Q3251811  Ministry of Foreign Affairs (Russian Empire) / משרד החוץ [1802–1917] | government ministry in imperial Russia <foreign affairs ministry> sl=12
+     T Q789889  Ministry of Foreign Affairs of the Russian Federation / משרד החוץ של רוסיה [1991–] | executive ministry of the Russian government <juridical person, federal ministry in Russia> sl=44
+[244] org:committee-of-ministers-russian-empire | ועדת השרים | Committee of Ministers | Committee of Ministers of the Russian Empire
+     T Q2735723  Committee of Ministers of the Council of Europe / מועצת השרים של מועצת אירופה  | Council of Europe's decision-making body <organization> sl=14
+     T Q4229709  Committee of Ministers of the Russian Empire /  [1802–1906] | Russian government from 1802 to 1906 <government> sl=4
+     T Q2903636  Security Cabinet of Israel / הקבינט המדיני-ביטחוני [2001–] | inner forum of the Israeli Cabinet <committee> sl=10
+     T Q6710165   / ועדת השרים להתיישבות  |  <> sl=1
+     T Q6670696  The Ministerial Committee for Legislation / ועדת השרים לענייני חקיקה  | A committee in the Israeli government <> sl=1
+     T Q20502237   / ועדת השרים למתן היתר לפרסומים  |  <> sl=1
+[255] org:russian-literary-fund | החברה לעזרה הדדית לסופרים | Literary Fund | Russian society for mutual aid to writers
+     T Q6481132  Lambda Literary Foundation / הקרן הספרותית למבה [1997–] | LGBT literary organization <LGBTQ+ organization, literary society> sl=2
+[256] org:rossiya-insurance-company | חברת רוסיה | Rossiya Insurance Company | Russian insurance company
+       Q9209439  Rossiya Insurance Company Building in Warsaw /   | former building in Warsaw <destroyed building or structure> sl=2
+[257] org:pirogov-society | אגודת פירוגוב | Pirogov Society | Society of Russian Physicians in memory of Pirogov
+     T Q4363398  The Pirogov Society /  [1883–] | scientific society in Russia <learned society, medical organization> sl=1
+[269] org:polytechnic-museum | המוזיאון הפוליטכני | Polytechnic Museum | museum in Moscow
+       Q1577987  Polytechnical Museum in Moscow / המוזיאון הפוליטכני [1872–] | science museum in Moscow, Russia,one of the oldest science museums in the world <historic site, technology museum> sl=15
+[272] org:russian-club | המועדון הרוסי | Russian Club | Russian nationalist club (Kiev/St. Petersburg)
+     T Q2177020  Russian Team Badminton Championships /   | badminton championships <recurring sporting event> sl=2
+     T Q134987111  Bariton /  [2018–] | The best karaoke bar and nightclub in Perm, Russia <karaoke, bar> sl=0
+[284] org:department-of-trade-russia | מחלקת המסחר | Department of Trade of the Ministry of Trade and Industry | Russian ministry department
+     T Q503577  United States Department of Commerce / מחלקת המסחר של ארצות הברית [1913–] | U.S. federal executive department overseeing commerce <economic affairs ministry, ministry of trade> sl=45
+     T Q1574823  United States Department of Commerce and Labor / מחלקת המסחר והעבודה של ארצות הברית [1903–1913] | former executive department of the United States government; split into two depa <ministry of trade, ministry of labour> sl=12
+     T Q3545667  Department of Trade and Industry / מחלקת המסחר והתעשייה של הפיליפינים [1901–] | executive department of the Philippines <executive department of the Philippines> sl=3
+[285] org:department-of-police-russian-empire | מחלקת המשטרה | Department of Police | Department of Police of the Russian Ministry of Internal Affairs
+    ✓T Q4294610  Department of Police /   | department of the South African government <government agency> sl=2
+     T Q16956279  Department of Police and Customs /  [1975–1975] | Australian government department, 1975-1975 <government agency, department of the Australian Government> sl=1
+    ✓T Q5260446  Department of Police /   | Wikimedia disambiguation page <Wikimedia disambiguation page> sl=1
+[297] org:petrischule | גימנסיה פטרי | Petrischule | German school in St. Petersburg
+     T Q2388897  Saint Peter's School /  [1709–] | secondary school in Russia <school, architectural landmark> sl=11
+     T Q136955605  HLA – The Flensburg School of Business, Petri School campus /   | vocational school in Flensburg, Germany <vocational school (Germany)> sl=0
+     T Q60322780  Petri school Leipzig /  [1834–] | School in Leipzig, Germany <educational institution> sl=2
+     T Q1552688  Gymnasium Petrinum / גימנסיה פטרינום [1655–] | gymnasium in Brilon, Germany <public school, gymnasium> sl=3
+[301] org:hotel-metropol | מלון מטרופול | Hotel Metropol | hotel
+    ✓  Q2034313  Hotel Metropol / מלון מטרופול מוסקבה [1907–] | historic hotel in Moscow, Russia <hotel, movie theater> sl=15
+    ✓  Q1630962  Hotel Metropole, Vienna / מלון מטרופול (וינה) [1873–] | hotel in Vienna <palace hotel, destroyed building or structure> sl=7
+    ✓  Q60172479  Hotel Metropol, Warsaw /   | hotel in Warsaw, Poland <hotel> sl=3
+    ✓T Q42317476  Hotel Metropol /   | hotel in Tallinn, Estonia <hotel> sl=2
+    ✓  Q57237229  Hotel Metropol /   | hotel in St. Gallen, Switzerland <hotel> sl=1
+    ✓T Q12791087  Hotel Krka /   | hotel in Novo Mesto <hotel> sl=1
+[305] org:wirtschaftliche-vereinigung | האיחוד הכלכלי | Wirtschaftliche Vereinigung | German antisemitic parliamentary group
+     T Q107017353  Wirtschaftliche Vereinigung deutscher Gaswerke /  [1904–] | cartel <cartel> sl=0
+     T Q107361296  Wirtschaftliche Vereinigung der Roggen- und Weizenmühlen /  [1933–] | cartel <cartel> sl=0
+     T Q131895773   /   |  <organization> sl=0
+     T Q1232427  Economic Union /   |  <organization> sl=4
+     T Q2585796   /   |  <> sl=1
+     T Q18029791   /   |  <political party> sl=1
+     T Q212141  Economic and Monetary Union of the European Union / האיחוד הכלכלי והמוניטרי של האיחוד האירופי  | set of States of the European Union that form a single market and use a single c <currency union, economic union> sl=46
+[306] org:sms-panther | האוניה פנתר | SMS Panther | German gunboat sent to Agadir in 1911
+    ✓T Q527159  SMS Panther / פנתר (אונייה, 1901)  | 1901 Iltis-class gunboat <gunboat> sl=14
+    ✓T Q19013671  SMS Panther /   | 1885 Panther-class protected cruiser <protected cruiser> sl=9
+    ✓T Q665289  Panther-class protected cruiser /  [1885–] | 1885 class of Austro-Hungarian protected cruisers <ship class> sl=8
+    ✓T Q3943757  SMS Panther /   | Wikimedia disambiguation page <Wikimedia disambiguation page> sl=4
+[314] org:deutsche-bank | דויטשה בנק | Deutsche Bank | German bank
+   *✓T Q66048  Deutsche Bank / דויטשה בנק [1870–] | German global banking and financial services company <bank, public company> sl=70
+     T Q157273  Waldstadion / דויטשה בנק פארק [1925–] | stadium in Frankfurt am Main, Germany <association football venue> sl=54
+    ✓  Q1497368  Deutsche Bank building complex /  [1870–] | former headquarters of Deutsche Bank in Berlin <building complex> sl=2
+    ✓T Q30338593  Deutsche Bank / דויטשה בנק ארה"ב  | American subsidiary <business> sl=0
+     T Q1202180  Deutsche Bank Prize in Financial Economics / פרס דויטשה בנק לכלכלה פיננסית [2005–] | scholarly award <science award, economics award> sl=4
+    ✓  Q48200698  Deutsche Bank /  [1898–] |  <cultural heritage ensemble> sl=2
+[321] org:national-liberal-party-germany | המפלגה הלאומית-ליברלית | National Liberal Party (Germany) | German party
+     T Q686228  National Liberal Party / המפלגה הלאומית ליברלית [1875–] | Romanian political party <political party> sl=38
+     T Q394542  PNL / המפלגה הלאומית ליברלית  | Wikimedia disambiguation page <Wikimedia disambiguation page> sl=12
+[329] org:imperial-council-austria | הרייכסראט האוסטרי | Imperial Council (Austria) | Reichsrat, parliament of Cisleithania
+     T Q565039  Reichsrat / רייכסראט (גרמניה) [1919–1934] | organ representing the German states 1919-1934 <upper house, representation of states in a federal system> sl=21
+     T Q697775  Austrian Imperial Council / רייכסראט (אוסטריה) [1861–1918] | Parliament of the Austrian half of the Austro-Hungarian Empire <parliament> sl=20
+       Q2139640  Reichsratsstraße /  [1873–] | street in Vienna <street> sl=2
+     T Q2139630  House of Councillors /  [1818–1919] | upper house of the kingdom of Bavaria (1818-1919) <upper house> sl=4
+     T Q15055408  Riksråd / חבר המועצה המלכותית  | various councils that ruled Scandinavian countries in the Middle Ages <profession, position> sl=11
+     T Q2993893  royal council /   | council of advisers to a monarch <> sl=5
+[330] org:k-k-telegraphen-korrespondenz-bureau | לשכת הקורספונדנציה של וינה | k.k. Telegraphen-Korrespondenz-Bureau | official Austrian news agency
+     T Q85017764  Telegraphen-Korrespondenz Bureau /  [1860–] |  <business> sl=5
+[345] org:french-general-staff | המטה הכללי הצרפתי | French General Staff | general staff of the French army
+     T Q66307865  French General Staff Maps (NAID 1074067) /   | series in the National Archives and Records Administration's holdings <collection> sl=0
+[346] org:french-foreign-legion | הלגיון הזר | French Foreign Legion | French military unit
+    ✓T Q96572407  French Foreign Legion /   | vocal track by Frank Sinatra; 1958 studio recording <music track with vocals> sl=0
+   *✓T Q188559  Foreign Legion / לגיון הזרים הצרפתי [1831–] | Corps of the French Army, which is partly made up of foreign nationals <foreign legion, major military unit> sl=56
+    ✓T Q96566942  Time After Time / French Foreign Legion /   | 1959 US 7" single by Frank Sinatra; Capitol Records – F4155 <7″ single> sl=0
+    ✓T Q96563697  Time After Time / French Foreign Legion /   | 1959 single by Frank Sinatra <single> sl=0
+    ✓T Q3087454  French Foreign Legion /   | original song composed by Guy Wood, lyrics by Aaron Schroeder <musical work/composition> sl=1
+     T Q93469866  French foreign legionnaire /   | member of French Foreign Legion <position, military profession> sl=1
+[348] org:bourse-du-travail-paris | בורסת העבודה בפריז | Bourse du travail (Paris) | Paris labour exchange
+       Q2922456  Bourse du travail de Paris /  [1892–] | building in Paris, France <building> sl=3
+[349] org:de-rothschild-freres | בית הבנקאות רוטשילד | de Rothschild Frères | Paris Rothschild bank
+     T Q2882957  Rothschild banking family of France / משפחת הבנקאים רוטשילד הצרפתית [1817–1991] | French family of bankers <bank, organization> sl=4
+     T Q122143900  Banque Rothschild /  [1817–1991] | former French bank <business, bank> sl=8
+[351] org:louvre | הלובר | Louvre | museum in Paris
+       Q19675  Louvre Museum / מוזיאון הלובר [1793–] | art and archeology museum in Paris, France <art museum, archaeological museum> sl=170
+    ✓  Q1461794  Louvre - Rivoli /   | Paris Métro station <metro station, underground station> sl=23
+       Q3044768  Department of Paintings of the Louvre / מחלקת הציורים של הלובר  | curatorial department of the Louvre in charge of most of the European paintings  <art collection, curatorial department of the Louvre> sl=1
+       Q1075988  Louvre Palace / ארמון הלובר [1190–] | former royal palace, now hosting the Louvre Museum in Paris, France <palace, château> sl=39
+       Q908517  Louvres / לובר  | commune in Val-d'Oise, France <commune of France> sl=38
+       Q313459  Louvrechy /   | commune in Somme, France <commune of France> sl=39
+[353] org:house-of-lords | בית הלורדים | House of Lords | upper house of the UK Parliament
+    ✓T Q16844992  House of Lords /   | album by Lords of the Underground <album> sl=2
+    ✓  Q11007  House of Lords / בית הלורדים [1801–] | upper house in the Parliament of the United Kingdom <house of lords> sl=78
+    ✓T Q110315866  house of lords /   | upper house comprised of the nobility, by inheritance or appointment <> sl=0
+   *✓T Q373702  House of Lords /  [1988–] | American rock band <rock band> sl=9
+     T Q120826  House of Lords Act 1999 /   | Public General Act of Parliament of the United Kingdom <Public General Act of the Parliament of the United Kingdom> sl=12
+    ✓T Q106836416  House of Lords /  [1809–] | aquatint by Thomas Rowlandson <aquatint print> sl=0
+[354] org:house-of-commons-of-the-united-kingdom | בית הנבחרים הבריטי | House of Commons of the United Kingdom | lower house of the UK Parliament
+       Q11005  House of Commons / בית הנבחרים הבריטי [1801–] | lower house in the Parliament of the United Kingdom <house of commons> sl=81
+[355] org:london-stock-exchange | בורסת לונדון | London Stock Exchange | stock exchange
+    ✓  Q171240  London Stock Exchange / הבורסה לניירות ערך בלונדון [1698–] | stock exchange in the City of London <stock exchange> sl=72
+     T Q5573225  London Stock Exchange Group / קבוצת הבורסה לניירות ערך בלונדון [2007–] | British multinational stock exchange and financial information company located i <public company, business> sl=17
+     T Q438511  London Stock Exchange - AIM MTF / AIM (בורסה) [1995–] | AIMX identifying AIM Multilateral Trading Facility (MTF) driven by the London St <stock exchange, stock market> sl=12
+       Q55099312  London Stock Exchange bombing /  [1990–] |  <bomb attack> sl=1
+     T Q107190279  London Stock Exchange – Curveglobal Markets /   | London Stock Exchange Derivatives Market (part of London Stock Exchange Regulate <stock market> sl=0
+     T Q107227842  London Stock Exchange - MTF /   | MIC allocated to the London Stock Exchange (operating MIC: XLON) Multilateral Tr <stock market> sl=0
+[359] org:board-of-trade | מחלקת המסחר הבריטית | Board of Trade | British government department
+    ✓T Q887543  Board of Trade / מועצת הסחר של הממלכה המאוחדת [1621–] | UK advisory body to the Department for International Trade <advisory board, government organization> sl=13
+    ✓T Q9067081  Royal Barcelona Board of Trade /  [1758–] | Educational & regulatory institution for promoting Catalan commercial and indust <organization> sl=4
+    ✓T Q1123526  chamber of commerce / לשכת המסחר  | organization for the promotion of business interests <> sl=33
+    ✓T Q1775946  collegium / מועצת המסחר  | group in which each member has approximately equal power and authority <> sl=6
+    ✓T Q130265089  board of trade /   | legal form in Canada <legal form> sl=0
+    ✓T Q106500866  Board of Trade /   | Vanity Fair caricature of Mr Henry Calcraft by Spy <print, work with multiple executions> sl=0
+[364] org:manchester-chamber-of-commerce | לשכת המסחר של מנצ׳סטר | Manchester Chamber of Commerce | chamber of commerce
+     T Q105537662  Manchester Chamber of Commerce and Industry /   | UK Chamber of Commerce <chamber of commerce and industry> sl=0
+[368] org:federterra | פדרטרה | Federterra | Italian federation of agricultural workers
+     T Q17630354  National Federation of Agricultural Workers (Italy) /  [1901–] | trade union of Italy <labor union> sl=2
+[376] org:indiana-university | אוניברסיטת אינדיאנה | Indiana University | university
+    ✓T Q6608367  Indiana University / אוניברסיטת אינדיאנה [1820–] | university system, Indiana, United States <school, state university system> sl=41
+    ✓T Q1079140  Indiana University Bloomington / אוניברסיטת אינדיאנה בלומינגטון [1820–] | public research university located in Bloomington, Indiana, U.S. (flagship campu <public educational institution of the United States, public research university> sl=68
+     T Q1433199  Indiana University – Purdue University Indianapolis / אוניברסיטת אינדיאנה - אוניברסיטת פורדו אינדיאנפוליס [1969–2024] | defunct Indianapolis campus of Indiana University which included two Purdue Univ <university, public educational institution of the United States> sl=14
+     T Q2123017  Indiana University School of Medicine / בית הספר לרפואה באוניברסיטת אינדיאנה [1903–] | medical school in Indianapolis <medical school> sl=6
+       Q5975426  IU Indianapolis University Library /  [1994–] | Library of Indiana University Indianapolis <academic library, publishing house> sl=2
+     T Q3140337  Indiana Hoosiers / אוניברסיטת אינדיאנה  | intercollegiate sports teams of Indiana University Bloomington <university and college sports club> sl=10
+[377] org:united-states-department-of-war | מחלקת המלחמה האמריקאית | United States Department of War | US War Department
+    ✓T Q1143596  United States Department of War / מחלקת המלחמה של ארצות הברית [1789–1947] | United States Cabinet department (1789-1947) <government agency, ministry of War> sl=25
+    ✓T Q11209  United States Department of Defense / מחלקת ההגנה של ארצות הברית [1949–] | executive department of the United States federal government <United States federal executive department, ministry of War> sl=60
+     T Q136359464   /   | Wikimedia disambiguation page <Wikimedia disambiguation page> sl=1
+[385] org:sofia-university | אוניברסיטת סופיה | Sofia University | university in Bulgaria
+   *✓T Q841581  Sofia University / אוניברסיטת סופיה [1888–] | university in Sofia, Bulgaria <public university, open-access publisher> sl=42
+    ✓T Q6040956  Sofia University /  [1975–] | private for-profit university in Palo Alto, California <school, private for-profit educational institution> sl=4
+       Q33139597  Sofia University Astronomical Observatory /  [1897–] | Astronomical Observatory at the University of Sofia "St. Kliment Ohridski" <astronomical observatory> sl=3
+     T Q2496195  University of Mining and Geology "Saint Ivan Rilski" /  [1953–] | university in Sofia, Bulgaria <university> sl=5
+       Q7553677  Sofia University Mountains / הרי אוניברסיטת סופיה  | mountain range in Antarctica <mountain range> sl=7
+       Q2626582  Sofia University St. Kliment Ohridski Metro Station /  [2009–] | metro station in Sofia, Bulgaria <metro station, underground station> sl=7
+[389] org:military-league | הליגה הצבאית | Military League | Greek officers league behind the 1909 Goudi coup
+   *✓T Q3567022  Military League /   | secret military organization of Greece <> sl=3
+    ✓T Q138542939  Military League /   | Wikimedia disambiguation page <Wikimedia disambiguation page> sl=1
+[391] org:church-of-greece | הכנסייה היוונית האורתודוקסית | Greek Orthodox Church | Eastern Orthodox church (Greece / Patriarchate)
+   *✓T Q7970362  Greek Orthodoxy / נצרות יוונית-אורתודוקסית  | Christian denominations of the Eastern Orthodox Church descended from a Greek tr <religious denomination> sl=49
+       Q211004  Ecumenical Patriarchate of Constantinople / הפטריארכיה האקומנית של קונסטנטינופול  | Eastern Orthodox religious denomination based in İstanbul, Türkiye <Eastern Orthodox patriarchate> sl=70
+    ✓T Q5601848  Greek Orthodox Church of St Nicholas /   | church in Liverpool, Merseyside, England, UK <church building> sl=6
+    ✓T Q54819384  Greek Orthodox church /  [1957–] | church in Rotterdam, the Netherlands <church building> sl=1
+       Q323301  Eastern Orthodox Patriarchate of Antioch / הכנסייה היוונית-אורתודוקסית האנטיוכית  | Eastern Orthodox patriarchate currently headquartered in Damascus, Syria <Eastern Orthodox patriarchate> sl=60
+    ✓T Q51592557  Greek Orthodox Church /   | church in Kingston, Canada <church building> sl=0
+[392] org:catholic-church | הכנסייה הקתולית | Catholic Church | Roman Catholic Church
+   *✓T Q9592  Catholic Church / הכנסייה הקתולית [1–] | largest Christian Church, made up of 24 autonomous Churches in communion with th <Christian Church, Christian denomination> sl=207
+    ✓T Q1088552  Catholic church building / כנסייה קתולית  | church building in the Catholic Church <type of building> sl=9
+    ✓T Q110209751  Catholic Church /   | gouache - Michel Jean Cazabon <gouache painting> sl=0
+     T Q769585  Catholic Church in the United States /  [1789–] | part of the worldwide Roman Catholic Church <Catholic Church of an area, Catholic organization> sl=20
+    ✓T Q106842044  Catholic church /   | church building in Hesse, Germany <church building> sl=1
+    ✓T Q1487180  Catholic Church /  [1931–] | church building in Langnau im Emmental in the canton of Bern, Switzerland <Catholic church building> sl=2
+[394] org:dominican-order | המסדר הדומיניקני | Dominican Order | Catholic religious order
+   *✓T Q131479  Dominican Order / דומיניקנים [1215–] | Roman Catholic religious order <mendicant order, organization> sl=82
+    ✓T Q1237954  Nuns of the Order of Preachers /  [1206–] | Roman Catholic religious order for women <religious order, second order> sl=9
+    ✓T Q107724058  Dominican University /  [2016–] | university in Ibadan, Nigeria <school, educational institution> sl=3
+    ✓T Q103906059  Dominican Order /   | encyclopedia article <encyclopedia article> sl=0
+     T Q70144199  coat of arms of the Dominican Order (I) /   | gyronny of sable and argent, a cross flory counterchanged <coat of arms> sl=0
+     T Q17626137  Dominican Order in Peru /   |  <> sl=2
+[395] org:society-of-jesus | הישועים | Society of Jesus | Jesuits
+   *✓T Q36380  Society of Jesus / ישועים [1540–] | Catholic order of priests and brothers founded by Ignatius of Loyola and his com <Catholic order, group of humans> sl=117
+    ✓T Q7765105  The Society of Jesus /   | 2004 film <film> sl=5
+     T Q101003195  S.J. /   | postnominal letters denoting membership of the Society of Jesus <religious name suffix> sl=0
+     T Q386750  General Congregation of the Society of Jesus /  [1558–] | representative assembly of the Society of Jesus <assembly, catholic event> sl=8
+     T Q3191109  Jesuits of Canada /   |  <Society of Jesus of an area> sl=1
+     T Q55640124  Jesuits in the United States /   | history of the Catholic order of the Society of Jesus in the United States <Society of Jesus of an area> sl=1
+[396] org:inquisition | האינקוויזיציה | Inquisition | Catholic ecclesiastical tribunal
+    ✓T Q6036894  Inquisition /   | 2003 video game <video game> sl=1
+   *✓T Q43173  Inquisition / אינקוויזיציה [1184–] | religious procedure in the ancient régime to persecute those not aligned with Ca <tribunal, type of Roman Catholic institution> sl=105
+    ✓  Q625356  Dicastery for the Doctrine of the Faith / הקונגרגציה של דוקטרינת האמונה [1542–2022] | institution of the Roman Curia and successor to the Holy Office <congregation> sl=20
+    ✓T Q3286938  Roman Inquisition /  [1542–1908] | (1542–1908) institution of the Roman Curia <defunct organization> sl=20
+    ✓T Q25669  inquisitorial system / השיטה האינקוויזיטורית  | legal system where the court (or a part) is actively involved in investigating t <> sl=25
+    ✓T Q1575219  Inquisition /  [1988–] | American black metal band <musical group> sl=13
+[405] org:national-consultative-assembly | המג׳לס | National Consultative Assembly | Majlis, Persian parliament (1906)
+     T Q650066  People's Majlis / המג'לס העממי [1932–] | legislature of the Republic of Maldives <unicameral legislature> sl=17
+[409] org:qing-court | החצר הקיסרית הסינית | Qing imperial court | court of the Qing dynasty
+     T Q118639617   /   |  <> sl=0
+[413] org:state-bank-of-morocco | בנק המדינה של מרוקו | State Bank of Morocco | bank established by the Algeciras Act (1907)
+     T Q119795148  State bank of Morocco historical building in Casablanca's Medina /   | historical building in Morocco <historic building> sl=0
+[416] org:young-turks | הטורקים הצעירים | Young Turks | Ottoman constitutionalist reform movement
+    ✓T Q15548291  Young / יונג טורקס [2006–] | British independent record label owned by Beggars Group <record label> sl=7
+   *✓T Q83896  Young Turks / הטורקים הצעירים  | political reform movement in the Ottoman Empire <political movement> sl=61
+    ✓T Q19655  The Young Turks /  [2002–] | online news show <news program, television series> sl=16
+    ✓T Q4023065  Young Turks / Young Turks  | song by Rod Stewart <single> sl=11
+    ✓T Q9383550  Young Turks /   | Italian-American gang <> sl=1
+    ✓T Q25351699  Young Turks /   | group of Bell Labs scientists <group of humans> sl=2
+[417] org:ittihad-i-muhammedi | האיחוד המוחמדי | İttihad-ı Muhammedi | Muhammadan Union, Islamist society behind the 1909 counter-coup
+     T Q11926988  Islamic Union Party of the Ottoman Empire /   |  <political party, political party in the Ottoman Empire> sl=2
+[421] org:cemiyet-i-ilmiye | אגודת העולמא | Cemiyet-i İlmiye | Ottoman ulema society
+     T Q2034323  Ottoman Scientific Society /  [1861–] | science academy <academy of sciences> sl=2
+     T Q136198612  Cemiyyet-i İlmiyye-I İslamiyye /   |  <> sl=0
+[427] org:albanian-committee | הוועד האלבני העליון | Albanian committee | Albanian national committee (1910)
+     T Q1256914  Albanian Committee of Janina /   | organization defending Albanian rights (founded 1877) <organization> sl=8
+[435] org:greek-macedonian-committee | הוועד המהפכני היווני | Greek committee | Greek revolutionary committee in Macedonia
+     T Q12876533  Greek Committee for International Detente and Peace /   | KKE-affiliated Greek peace organization <peace organization> sl=1
+[441] org:government-of-the-ottoman-empire | הממשלה העות׳מאנית | Government of the Ottoman Empire | Ottoman cabinet / council of ministers
+       Q18871  Sublime Porte / השער הנשגב  | synecdoche for the central government of the Ottoman Empire <synecdoche, gate> sl=50
+       Q12560  Ottoman Empire / האימפריה העות'מאנית [1299–1922] | empire with the monarchs from the Ottoman dynasty (1299–1922) <empire, historical country> sl=213
+     T Q59495557  Sublime Porte Papers (NAID 18573536) /  [1830–1911] | collection in the National Archives and Records Administration's holdings <collection> sl=0
+       Q131368598  Sublime Porte Fountains /   | fountain in İstanbul, Turkey <fountain> sl=1
+     T Q136429522  Bâbıâlî /   | novel by Namık Kemal (1880) <written work> sl=0
+     T Q4838554  Babıali Kültür Yayıncılığı /  [1999–] | publishing company in Istanbul, Turkey <business> sl=2
+     T Q4559693  1913 Ottoman coup d'état / ההפיכה באימפריה העות'מאנית ב-1913 [1913–] | coup d'état in the Ottoman Empire <coup d'état> sl=17
+[444] org:government-of-albania | ממשלת אלבניה | Government of Albania | Albanian council of ministers (1914)
+     T Q1989935  Provisional Government of Albania /  [1912–1914] | first Government of Albania (4 December 1912- 22 January 1914) <historical country> sl=15
+[448] org:triple-alliance-1882 | הברית המשולשת | Triple Alliance | Germany, Austria-Hungary and Italy
+    ✓  Q2608489  Aztec Empire / האימפריה האצטקית [1325–1521] | former Mesoamerican empire <historical country> sl=46
+   *✓T Q153867  Triple Alliance / הברית המשולשת [1882–1915] | defensive alliance between Germany, Austria–Hungary and Italy (1882-1915) <military alliance, former administrative territorial entity> sl=63
+    ✓T Q15051546  Triple Alliance / הברית המשולשת [1865–1870] | 1865 alliance between Argentina, the Empire of Brazil and Uruguay <military alliance> sl=0
+     T Q58947  Paraguayan War / מלחמת הברית המשולשת [1864–1870] | large-scale conflict in South America (1864–1870) <war> sl=61
+    ✓T Q283511  Triple Alliance / הברית המשולשת (1771) [1717–] | 1717 treaty between the Netherlands, France, and Britain <treaty, triad> sl=18
+    ✓T Q1851827  Triple Alliance /   | 1596 alliance between England, France, and the Netherlands <alliance> sl=2
+[451] org:balkan-league | הברית הבלקנית | Balkan League | alliance of Bulgaria, Serbia, Greece and Montenegro (1912)
+   *✓T Q239225  Balkan League / הליגה הבלקנית [1912–] | 1912 military alliance <military alliance> sl=57
+    ✓T Q4851083  Balkan League /  [1994–1997] | Balkan ice hockey league between 1994-1997 <ice hockey league> sl=3
+    ✓T Q27794988  Balkan League /   | Wikimedia disambiguation page <Wikimedia disambiguation page> sl=1
+[466] org:north-company | חברת הצפון | North company | company (1907)
+       Q49264525  North Company Ditch /   | canal in Mora County, New Mexico, United States of America <canal> sl=1
+       Q29495987  North Company Offices /   | Grade II listed building in Maesteg. Located on the N corner of Talbot Street wi <office building> sl=0
+     T Q132087863   /  [2009–] |  <organization> sl=0
+[480] pl:roman-empire | האימפריה הרומית | Roman Empire | ancient Roman state
+    ✓T Q2277  Roman Empire / האימפריה הרומית [-26–395] | period of Ancient Rome following the Republic <historical country> sl=209
+    ✓T Q12544  Byzantine Empire / האימפריה הביזנטית [395–1453] | Roman Empire during Late Antiquity and the Middle Ages <historical country, historical period> sl=192
+    ✓T Q42834  Western Roman Empire / האימפריה הרומית המערבית [395–476] | independently administered western provinces of the Roman Empire <historical country> sl=98
+    ✓  Q27856747  Roman Empire / האימפריה הרומית [2016–2019] | American drama series <web series, television series> sl=9
+    ✓  Q11351052  Roman Empire /  1999–2016 | horse <horse, individual animal> sl=1
+     T Q14618893  Classical Roman Empire /  [-26–395] | Augustus through Theodosius (27 BC to 395 AD) <historical country, historical period> sl=0
+[487] org:liberal-party-uk | המפלגה הליברלית (בריטניה) | Liberal Party (UK) | British Liberal Party
+     T Q6540721  1976 Liberal Party (UK) leadership election /  [1976–] |  <leadership election> sl=1
+     T Q6540720  1967 Liberal Party (UK) leadership election /  [1967–] |  <leadership election> sl=1
+     T Q622441  Liberal Party / המפלגה הליברלית [1859–1988] | major political party in the United Kingdom from 1859 to 1988 <political party, former liberal party> sl=47
+     T Q110857  Liberals / המפלגה העממית הליברלית [1934–] | political party in Sweden <political party> sl=42
+     T Q2731720  Liberal Party / המפלגה הליברלית [2006–] | conservative political party in Brazil <political party> sl=21
+     T Q722796  Liberal Party / המפלגה הליברלית [1875–1906] | political party <political party> sl=14
+
+--- unambiguous auto picks (check the description fits):
+[1] org:l-univers-israelite (French Jewish periodical) -> Q3204832 L'Univers israélite | French Jewish periodical
+[8] org:l-independance-belge (Belgian daily newspaper) -> Q25381777 L'Indépendance belge | Belgian newspaper
+[9] org:ikdam (Ottoman Turkish daily newspaper in Constantinople) -> Q6064230 İkdam | Turkish newspaper
+[12] org:misr-newspaper (Arabic newspaper in Egypt) -> Q914712 .مصر | internationalised country code top-level domain for Egypt
+[15] org:goteborgs-handels-och-sjofartstidning (Swedish newspaper) -> Q968533 Göteborgs Handels- och Sjöfartstidning | periodical literature
+[18] org:la-epoca (Judeo-Spanish newspaper in Salonica) -> Q5968539 La Época | Spanish newspaper
+[19] org:l-echo-de-paris (French daily newspaper) -> Q3205139 L'Écho de Paris | daily newspaper in Paris from 1884 to 1944
+[21] org:berliner-tageblatt (German daily newspaper, Berlin) -> Q455014 Berliner Tageblatt | defunct German newspaper (1872–1939)
+[22] org:bukarester-tagblatt (German-language daily in Bucharest) -> Q107695152 Bukarester Tagblatt | German-language daily newspaper
+[25] org:berner-tagwacht (Swiss social-democratic newspaper) -> Q824604 Berner Tagwacht | periodical literature
+[26] org:the-jewish-chronicle (London Jewish weekly) -> Q886181 The Jewish Chronicle | London-based newspaper
+[27] org:glos-narodu (Polish newspaper, Kraków) -> Q9284186 Głos Narodu | closed daily newspaper
+[35] org:deutsche-marokko-zeitung (German newspaper in Morocco (Tangier)) -> Q131355485 Deutsche Marokko-Zeitung | German newspaper published in Morocco, 1907-1914
+[42] org:der-wahre-jacob (German social-democratic satirical magazine) -> Q1197879 Der Wahre Jacob | magazine
+[43] org:der-fraynd (Yiddish daily newspaper, St. Petersburg/Warsaw (19) -> Q12405872 Der Fraind | Yiddish daily newspaper
+[44] org:volna-newspaper (Russian social-democratic newspaper (1906)) -> Q312471 S-125 | surface-to-air missile system
+[46] org:viitorul (Romanian Liberal newspaper) -> Q124130735 Viitorul | Romanian newspaper
+[47] org:wiener-allgemeine-zeitung (Viennese daily newspaper) -> Q2568834 Wiener Allgemeine Zeitung | 
+[49] org:westminster-gazette (British Liberal evening newspaper) -> Q3562161 Westminster Gazette | former newspaper published in London
+[52] org:journal-des-debats (French daily newspaper) -> Q2565164 Journal des débats | French daily (1789-1944)
+[53] org:le-journal (French daily newspaper, Paris) -> Q3223697 Le Journal | French newspaper
+[54] org:journal-de-geneve (Swiss daily newspaper) -> Q501154 Journal de Genève | periodical literature
+[55] org:ziemia-lubelska (Polish newspaper, Lublin) -> Q122697548 Ziemia Lubelska | ship built in 1971
+[56] org:zemshchina (Russian Black Hundred newspaper) -> Q20515617 Zemshchina | Political term in 16th-century Russia
+[58] org:haherut (Hebrew newspaper in Jerusalem (1909–1917)) -> Q132726325 HaHerut | Hebrew newspaper published in Jerusalem from 1909 onwards
+[68] org:haynt (Yiddish daily newspaper, Warsaw (1908–1939)) -> Q2919549 Haynt | Yiddish daily newspaper
+[69] org:evreiskii-mir (Russian-Jewish periodical) -> Q49572348 Evreysky Mir | Russian Jewish magazine
+[72] org:le-matin-france (French daily newspaper, Paris) -> Q3224404 Le Matin | French newspaper
+[77] org:berliner-lokal-anzeiger (Berlin daily newspaper) -> Q821625 Berliner Lokal-Anzeiger | German daily newspaper
+[82] org:militar-zeitung (military newspaper (1910)) -> Q120542690 Militär-Zeitung | Austrian newspaper with military content
+[83] org:mir-sofia (Bulgarian daily newspaper, Sofia) -> Q36999206 Mir | family name
+[85] org:anglo-jewish-association (British Jewish organization founded 1871) -> Q4763643 Anglo-Jewish Association | British Jewish organization formed in 1871
+[86] org:hilfsverein-der-deutschen-juden (German-Jewish aid society (1901)) -> Q11322497 Hilfsverein der Deutschen Juden | 
+[98] org:hashomer (Jewish guard organization in Ottoman Palestine (19) -> Q607080 Hashomer | Jewish defense organization in Palestine
+[102] org:alliance-israelite-universelle (Paris-based international Jewish organization (186) -> Q1316546 Alliance Israélite Universelle | Paris-based international Jewish organization
+[104] org:world-zionist-organization (Zionist Organization founded 1897) -> Q205386 The World Zionist Organization | organization founded by Theodor Herzl (1897-)
+[105] org:verein-zur-abwehr-des-antisemitismus (German association against antisemitism) -> Q2514838 Society for Defense against Anti-Semitism | organization
+[121] org:hebrew-reali-school (school in Haifa founded 1913) -> Q2911112 Hebrew Reali School | high school in Haifa
+[122] org:evelina-de-rothschild-school (girls school in Jerusalem) -> Q7068338 Evelina de Rothschild high school | public secondary school in Israel
+[123] org:laemel-school (Jewish school in Jerusalem (1856)) -> Q12404541 Lemel school | school in Jerusalem, Israel
+[127] org:anglo-palestine-bank (Zionist bank founded 1902) -> Q16130849 Anglo-Palestine Bank | business
+[129] org:jewish-colonial-trust (Zionist bank in London (1899)) -> Q2911482 Jewish Colonial Trust | 
+[131] org:bar-kochba-berlin (Jewish gymnastics club in Berlin) -> Q125362388 Bar Kochba Berlin | 
+[132] org:jewish-national-bloc (Jewish electoral bloc (1917)) -> Q16968945 Jewish National Bloc | Latvian political alliance
+[133] org:herzliya-hebrew-gymnasium (Hebrew high school in Jaffa/Tel Aviv (1905)) -> Q113641601 Herzliya Hebrew Gymnasium | newsreel
+[136] org:odessa-committee (Society for the Support of Jewish Farmers and Arti) -> Q1529159 Odessa Committee | 
+[138] org:jewish-association-for-the-protection-of-girls-and-women (British Jewish organization against white slavery) -> Q28319788 Jewish Association for the Protection of Girls and Women | Welfare Organisation
+[141] org:jewish-colonization-association (JCA, founded by Baron Hirsch 1891) -> Q1364798 Jewish Colonization Association | organization aiming to facilitate the mass emigration of Jews from Eas
+[157] org:galveston-movement (Jewish immigration scheme to Texas (1907–1914)) -> Q5519425 Galveston Movement | U.S. Jewish immigration aid program
+[165] org:society-for-the-promotion-of-culture-among-the-jews-of-russia (OPE, founded 1863) -> Q7552306 Society for the Promotion of Culture among the Jews of Russia | organization in the Russian Empire
+[169] org:technion (technical institute in Haifa (founded 1912)) -> Q333705 Technion – Israel Institute of Technology | Israeli science and technology research university in Haifa
+[172] org:kollel-warsaw (kollel in Jerusalem) -> Q6445314 Kupath Rabbi Meir Baal Haness | Jewish charity founded in 1796
+[173] org:zion-mule-corps (Jewish unit of the British Army (1915)) -> Q12404849 Zion Mule Corps | 
+[180] org:maccabi (Jewish gymnastics and sports associations) -> Q223728 Maccabi Tel Aviv F.C. | Israeli football club based in Tel Aviv
+[183] org:imperial-russian-technical-society (technical society (Odessa branch)) -> Q4401040 Russian Technical Society | 
+[184] org:union-of-the-russian-people (Black Hundred monarchist party (1905)) -> Q580690 Union of the Russian People | far-right political party in the Russian Empire
+[186] org:russian-theatrical-society (theatrical society) -> Q28155489 Russian theatrical society | 
+[191] org:okhrana (Russian secret police) -> Q138503 Okhrana | secret police force of the Russian Empire
+[192] org:moscow-state-university (Imperial Moscow University) -> Q13164 Lomonosov Moscow State University | public research university in Moscow, Russia
+[193] org:saint-petersburg-state-university (Imperial St. Petersburg University) -> Q27621 Saint Petersburg State University | Russian federal state-owned higher education institution
+[194] org:university-of-warsaw (Imperial University of Warsaw) -> Q144488 University of Warsaw | largest university in Poland
+[197] org:tomsk-state-university (university in Siberia) -> Q742494 Tomsk State University | university in Russia
+[198] org:kyiv-university (Imperial University of St. Vladimir) -> Q84151 Taras Shevchenko National University of Kyiv | public university in Kyiv, Ukraine
+[200] org:all-russian-national-union (Russian nationalist party (1908)) -> Q4127529 All-Russian National Union | political party of the Russian Empire
+[202] org:assembly-of-the-nobility-russia (Russian noble assembly (1905)) -> Q2429514 Assembly of the Nobility | Governing body in the Russian Empire
+[203] org:zemstvo (local self-government institution in the Russian E) -> Q842803 zemstvo | institution of local government in Russian Empire
+[207] org:sr-combat-organization (terrorist wing of the Socialist Revolutionary Part) -> Q2579563 SR Combat Organization | Russian terrorist organization (1902-11)
+[216] org:turku-court-of-appeal (Åbo Court of Appeal, Finland) -> Q3739555 Turku Court of Appeal | oldest court of appeal in Finland
+[218] org:state-bank-of-the-russian-empire (central bank of Russia) -> Q1689848 State Bank of the Russian Empire | Bank
+[223] org:bank-of-finland (central bank of Finland) -> Q194060 Bank of Finland | the central bank of Finland
+[224] org:russo-asiatic-bank (Russian bank (1910)) -> Q21996923 Russo-Chinese Bank | foreign bank representing Russian interest in China during the period 
+[233] org:moscow-city-duma (municipal council) -> Q2041767 Moscow City Duma | municipal legislative body in Moscow
+[234] org:saint-petersburg-city-duma (municipal council) -> Q4407658 Saint Petersburg City Duma | City hall
+[238] org:petrograd-military-revolutionary-committee (Petrograd Soviet body that led the October Revolut) -> Q2985515 Military Revolutionary Committee | 1917–1918 Bolshevik organizations
+[250] org:free-economic-society (Imperial Free Economic Society (1765)) -> Q1721679 Free Economic Society | scientific society
+[261] org:ropit (ROPiT shipping company (Odessa)) -> Q1135992 Russian Steam Navigation and Trading Company | transport company in the Russian Empire
+[267] org:trudoviks (Labour Group in the State Duma) -> Q1570527 Trudoviks | political party
+[268] org:black-hundreds (Russian ultra-nationalist movement) -> Q940855 Black Hundreds | early 20th century Russian monarchist movement
+[279] org:council-of-peoples-commissars (Soviet government (1917)) -> Q4426244 Council of People's Commissars | Soviet government institution formed shortly after the October Revolut
+[283] org:separate-corps-of-gendarmes (Russian political police) -> Q2416089 Special Corps of Gendarmes | security police in the Russian Empire
+[289] org:moscow-archaeological-institute (institute) -> Q4304039 Moscow Archaeological Institute | archaeological institute in Moscow, Russia
+[290] org:saint-petersburg-mining-institute (mining institute) -> Q58346416 Saint Petersburg Mining Institute | Mining Institute in Saint Petersburg, Russian Empire
+[302] org:pan-german-league (Alldeutscher Verband (1891)) -> Q559398 Pan-German League | former German populist political organization (1893-1939) with nationa
+[303] org:deutsche-turnerschaft (German gymnastics federation) -> Q882268 Deutsche Turnerschaft | umbrella group for gymnastics clubs
+[308] org:berlin-stock-exchange (stock exchange) -> Q74039057 Berlin Stock Exchange | print in the National Gallery of Art (NGA 61332)
+[310] org:prussian-house-of-representatives (lower house of the Prussian Landtag) -> Q316276 Prussian House of Representatives | second chamber of the Prussian Landtag
+[312] org:reichsgericht (supreme court of the German Empire) -> Q512552 Reichsgericht | highest court in Germany from 1879 to 1945
+[316] org:dresdner-bank (German bank) -> Q1258529 Dresdner Bank | company
+[317] org:reichsbank (central bank of the German Empire) -> Q560183 Reichsbank | bank
+[319] org:mendelssohn-and-co (Berlin private bank) -> Q806779 Mendelssohn & Co. | Private bank based in Berlin, Germany, Aryanized by Nazi regime in 193
+[320] org:social-democratic-party-of-germany (SPD) -> Q49768 Social Democratic Party of Germany | centre-left political party in Germany
+[322] org:german-general-staff (general staff of the German army) -> Q10572199 German General Staff | full-time body at the head of the Prussian Army and German Army (1871–
+[324] org:hamburg-america-line (HAPAG shipping company) -> Q696056 Hamburg-Amerikanische-Packetfahrt-Actien-Gesellschaft | former German ocean carrier (1847-1970)
+[325] org:carl-zeiss (optics company) -> Q282186 Carl Zeiss AG | German manufacturer of optical systems
+[334] org:krakow-city-council (municipal council) -> Q11833358 Kraków City Council | legislative body of the city of Kraków, Poland
+[336] org:university-of-lviv (university in Lemberg) -> Q80207 Lviv University | public university in Lviv, Ukraine
+[337] org:jagiellonian-university (university in Kraków) -> Q189441 Jagiellonian University | Polish higher education institution
+[338] org:humboldt-university-of-berlin (Friedrich-Wilhelms-Universität) -> Q152087 Humboldt-Universität zu Berlin | public research university in Berlin, Germany
+[339] org:eotvos-lorand-university (University of Budapest) -> Q390287 Eötvös Loránd University | public research university in Budapest, Hungary
+[340] org:polish-legions (Polish units in the Austro-Hungarian army) -> Q685455 Polish Legions in World War I | military unit
+[342] org:french-army (army of France) -> Q1076619 French Army | land warfare branch of France's military
+[343] org:french-parliament (parliament of the French Third Republic (incl. Cha) -> Q632552 French Parliament | legislative branch of France
+[344] org:government-of-france (French cabinet / Council of Ministers) -> Q1450662 Government of the French Republic | body exerting the executive power in France
+[347] org:bloc-des-gauches (French left-wing coalition) -> Q2906741 Bloc des gauches | political party in France
+[350] org:credit-lyonnais (French bank) -> Q779722 Crédit Lyonnais | French banking company
+[356] org:national-union-of-womens-suffrage-societies (British suffragist organization) -> Q2748532 National Union of Women's Suffrage Societies | organization of women's suffrage societies in the United Kingdom
+[357] org:dock-wharf-riverside-and-general-labourers-union (British dockers union) -> Q5287182 Dock, Wharf, Riverside and General Labourers' Union | British trade union
+[358] org:armstrong-whitworth (British arms manufacturer) -> Q689159 Armstrong Whitworth | British manufacturing company of 1847-1927
+[360] org:royal-naval-air-service (British naval air arm) -> Q1637285 Royal Naval Air Service | 1914-1918 aerial warfare component of the navy of the United Kingdom
+[361] org:white-star-line (British shipping company) -> Q320466 White Star Line | British shipping company
+[362] org:cunard-line (British shipping company (with Canadian lines)) -> Q730587 Cunard Line | British cruise line
+[363] org:liverpool-chamber-of-commerce (chamber of commerce) -> Q31271073 Liverpool Chamber of Commerce | commercial chamber
+[367] org:australian-natives-association (Australian mutual society) -> Q4824488 Australian Natives' Association | mutual organization in Australia
+[369] org:sapienza-university-of-rome (university) -> Q209344 Sapienza University of Rome | Italian university founded in Rome in 1303
+[370] org:banco-di-roma (Italian bank active in Tripolitania) -> Q3633836 Banco di Roma | Italian bank
+[371] org:navigazione-generale-italiana (Italian shipping company) -> Q3873449 Navigazione Generale Italiana | Italian shipping company
+[374] ev:turin-international-1911 (world exhibition in Turin, 1911) -> Q3062256 Turin International | 1911 world's fair in Italy
+[375] org:columbia-university (university in New York) -> Q49088 Columbia University | private university in New York City, New York, US
+[379] org:equitable-life-assurance-society (American insurance company) -> Q7732361 The Equitable Life Assurance Society | British life insurance company
+[380] org:chicago-and-alton-railroad (American railroad) -> Q125972949 Chicago & Alton Railroad | former American railroad
+[381] org:singer-corporation (sewing-machine company (Russian branch)) -> Q1330508 Singer Corporation | American manufacturer of sewing machines and Consumer Electronics
+[382] org:standard-oil (American oil trust) -> Q375791 Standard Oil | defunct American oil company (1870–1911)
+[383] org:university-of-buenos-aires (university) -> Q194223 University of Buenos Aires | public research university in Buenos Aires, Argentina
+[384] org:university-of-athens (university) -> Q547867 National and Kapodistrian University of Athens | university in Athens, Greece
+[386] org:university-of-bucharest (university) -> Q608338 University of Bucharest | university in Bucharest, Romania
+[393] org:holy-see (the Papacy / Vatican) -> Q5886115 Holy See–Palestine relations | bilateral relations
+[407] org:persian-cossack-brigade (Russian-officered cavalry in Persia) -> Q1515896 Persian Cossack Brigade | elite cavalry unit formed in 1879 in Persia
+[415] org:committee-of-union-and-progress (CUP, Young Turk party) -> Q1559352 Committee of Union and Progress | political party in the Ottoman Empire
+[419] org:socialist-workers-federation (Salonica socialist federation (1909)) -> Q3092170 Socialist Workers' Federation | workers' federation in early 20th century Thessaloniki
+[422] org:turkish-hearths (Türk Ocakları / Türk Yurdu nationalist society) -> Q6549686 Turkish Hearths | Turkish socio-cultural institution
+[423] org:istanbul-university (Darülfünun) -> Q192964 Istanbul University | public university in Istanbul, Turkey
+[424] org:ottoman-parliament (Ottoman parliament) -> Q3333555 Ottoman General Assembly | supreme legislative body of the Ottoman Empire
+[425] org:armenian-national-assembly (Ottoman Armenian millet assembly) -> Q4793200 Armenian National Assembly | organization
+[429] org:imperial-ottoman-bank (bank) -> Q2041453 Ottoman Bank | former bank in Turkey
+[430] org:ottoman-navy (navy of the Ottoman Empire) -> Q1062125 Ottoman Navy | navy of the Ottoman Empire
+[431] org:hellenic-navy (navy of Greece) -> Q1129369 Hellenic Navy | maritime warfare branch of Greece's military
+[432] org:ottoman-gendarmerie (gendarmerie of the Ottoman Empire (incl. Macedonia) -> Q11955532 Ottoman Gendarmerie | national Gendarmerie force of the Ottoman Empire
+[436] org:internal-macedonian-revolutionary-organization (IMRO, Macedonian committee) -> Q488297 Internal Macedonian Revolutionary Organization | revolutionary national liberation movement in Ottoman territories in E
+[437] org:league-of-private-initiative-and-decentralization (Prince Sabahaddin's Young Turk faction) -> Q12207723 League of Private Initiative and Decentralization | political party in the Ottoman Empire
+[439] org:jerusalem-municipality (Ottoman municipal council of Jerusalem) -> Q2974831 Municipality of Jerusalem | Israeli municipality of Jerusalem
+[443] org:government-of-romania (Romanian council of ministers) -> Q2528718 Government of Romania | body exerting the executive power in Romania
+[445] org:government-of-spain (Spanish cabinet) -> Q1194749 Government of Spain | Executive authority of Spain
+[447] org:triple-entente (alliance of France, Russia and Britain (and allies) -> Q177859 Triple Entente | early 20th century alliance between France, Russia and the United King
+[449] org:franco-russian-alliance (Dual Alliance (1894)) -> Q243799 Franco-Russian Alliance | military alliance
+[450] org:holy-alliance (alliance of 1815) -> Q154640 Holy Alliance | military alliance
+[452] org:second-international (Socialist International) -> Q188592 Second International | organisation of socialist and labour parties (1889–1916)
+[453] org:international-socialist-bureau (executive of the Second International, Brussels) -> Q2510606 International Socialist Bureau | permanent organization of the Second International
+[454] org:inter-parliamentary-union (international organization of parliaments) -> Q176815 Interparliamentary Union | international organization of national parliaments
+[455] org:international-peace-bureau (international peace organization) -> Q252420 International Peace Bureau | international organization
+[456] org:permanent-court-of-arbitration (international court at The Hague) -> Q1045198 Permanent Court of Arbitration | intergovernmental organization
+[457] org:european-commission-of-the-danube (international river commission) -> Q1377293 European Commission of the Danube | international river management body
+[458] org:norwegian-nobel-committee (awards the Nobel Peace Prize) -> Q946621 Norwegian Nobel Committee | organization
+[469] org:music-society-palestine (music society in Ottoman Palestine (1910)) -> Q112258376 music society | association whose interest is music
+[472] ev:algeciras-conference (international conference on Morocco, 1906) -> Q163573 Algeciras Conference | international conference to find a solution to the First Moroccan Cris
+[473] ev:hague-conventions-of-1899-and-1907 (Hague peace conferences) -> Q1566316 Hague Conventions of 1899 and 1907 | series of international treaties
+[474] ev:london-conference-of-1912-1913 (ambassadors and peace conference ending the First ) -> Q59491 London Conference of 1912–1913 | International summit on the First Balkan War
+[481] pl:winter-palace (imperial residence in St. Petersburg) -> Q182147 Winter Palace | former imperial palace in Saint Petersburg, Russia
+[482] pl:tauride-palace (seat of the State Duma, St. Petersburg) -> Q676093 Tauride Palace | palace
+[483] pl:hadera (Jewish colony in Ottoman Palestine) -> Q471886 Hadera | city in the Haifa District, Israel
+[484] pl:ottoman-empire (state) -> Q12560 Ottoman Empire | empire with the monarchs from the Ottoman dynasty (1299–1922)
+[485] grp:bakhtiari-people (Lur tribal confederation in Persia) -> Q798284 Bakhtiari people | Iranian tribe
+[488] org:freedom-and-accord-party (Ottoman Liberal Union (Hürriyet ve İtilaf), 1911) -> Q1326843 Freedom and Accord Party | political party in Ottoman Empire

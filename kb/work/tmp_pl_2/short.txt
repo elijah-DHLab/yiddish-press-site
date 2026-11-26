@@ -1,0 +1,1984 @@
+[0] org:national-consultative-assembly | Persian parliament (Majlis), Tehran, from 1906
+   T Q650066 People's Majlis [1932–] | legislature of the Republic of Maldives <unicameral legislature> sl=1
+[2] pl:fes-el-bali | old medina of Fez, Morocco
+   vT Q29080943 Fes el Bali | quarter of Fes, Morocco <old town> sl=23
+   T Q80985 Fez [789–] | city in Morocco <city> sl=125
+   vT Q2072102 Medina of Fez | Moroccan cultural heritage site <medina quarter, urban area> sl=15
+[3] pl:medina | city in the Hejaz
+   *vT Q35484 Medina [-900–] | city in Medina Province, Saudi Arabia <big city, holy city of Islam> sl=164
+   v Q15700013 Medina | family name <family name> sl=4
+   vT Q527887 Medina [1818–] | city in and county seat of Medina County, Ohio, United States <county seat, ci
+   v Q232517 Medina | Danish pop singer <human> sl=26
+   v Q4119652 Medina | genus of flies <taxon> sl=11
+[5] pl:orient | the East (Near/Middle East as a whole)
+   vT Q1916168 Orient [1879–] | human settlement in Adair County, Iowa, United States of America <city in the 
+   vT Q3461988 Orient | census-designated place in Suffolk County, New York <census-designated place in the Un
+   v Q19595 Leyton Orient F.C. [1881–] | association football club in London, England <association football
+   T Q77 Uruguay [1825–] | sovereign state in South America <country, secular state> sl=325
+   vT Q575726 Orient | city in Franklin County, Illinois, United States <city in the United States> sl=32
+[6] pl:orange-free-state | Boer republic, annexed by Britain 1902
+   vT Q160284 Free State [1994–] | province of South Africa <province of South Africa> sl=92
+   vT Q218023 Orange Free State [1854–1902] | independent Boer sovereign republic in Southern Africa between 
+   T Q1971200 Orange Free State Province [1910–1994] | former South African province (1910–1994) <province of
+    Q1888815 flag of the Orange Free State [1856–] | national flag <Vierkleurs, national flag> sl=13
+   T Q56829328 Oranje-Vrijstaat Gouwerment-Spoorwegen [1897–1900] | railway operator in the Orange Free State 
+[7] pl:madrid | capital of Spain
+   *vT Q2807 Madrid | capital of Spain <municipality of Spain> sl=306
+   v Q37485027 Madrid | family name <family name, toponymic surname> sl=1
+   vT Q58137354 Madrid | constituency of the Senate of Spain <constituency of the Senate of Spain> sl=1
+   vT Q155605 Madrid | municipality of the Philippines in the province of Surigao del Sur <municipality of th
+   v Q38602061 Madrid |  <electoral unit> sl=0
+[8] pl:mehdia-morocco | coastal town near Kenitra, Morocco
+   v Q554862 6215 Mehdia | asteroid <asteroid> sl=18
+   T Q4541886 Mehdiabad [1956–] | municipality in Azerbaijan <human settlement> sl=13
+   T Q5855234 Mehdiabad-e Sardar | village in Iran <village> sl=6
+    Q107312076 Mehdiascaris | genus of roundworms (nematodes) in the tribe Lappetascaridinea <taxon> sl=1
+   T Q16046475 Dariun Canal | canal in Shushtar, Iran <river> sl=4
+[9] pl:moravia | crown land of Austria
+   *vT Q43266 Moravia | historical land in the Czech Republic <region, historical region> sl=102
+   v Q106907497 Moravia | family name <family name> sl=1
+   T Q12038677 Moravian regional archive [1839–] |  <archives, publishing house> sl=2
+   T Q3524703 Moravská Ostrava | neighborhood of Ostrava <municipal part of the Czech Republic> sl=5
+   T Q3094617 Moravian Gallery in Brno [1961–] | museum in Brno <organization, art museum> sl=10
+[10] pl:essaouira | port city in Morocco (Mogador)
+   *vT Q216939 Essaouira | city in Marrakech-Safi, Morocco <city, urban commune of Morocco> sl=75
+   T Q1368543 Essaouira Province | province of Morocco <province of Morocco> sl=20
+   vT Q33672422 Essaouira |  <second-level administrative division> sl=1
+   vT Q55264662 Essaouira Ramparts | Moroccan cultural heritage site <old town, urban area> sl=1
+    Q96758332 Essaouira constituency |  <electoral unit> sl=0
+[11] pl:mogilev | city in Belarus (Russian Empire)
+   *vT Q154835 Mahilyow | city in Belarus, capital of Mahilyow region, on Dniapro River <big city, city of obl
+   T Q189822 Mogilev Region [1938–] | administrative division in Belarus <region of Belarus> sl=80
+   vT Q42302887 Mogilev [1972–] | hotel in Mogilev, Belarus <hotel> sl=1
+   T Q2024261 Mahilioŭ District [1924–] | administrative division of Mahilioŭ region, Belarus <district of Be
+   v Q98579594 Mogilev | tractor manufacturer <tractor brand> sl=1
+[12] pl:mozambique | Portuguese colony in East Africa
+   *vT Q1029 Mozambique [1975–] | country in Southeastern Africa; the current form of Mozambique since 1975 
+   vT Q889394 Portuguese Mozambique [1498–1975] | 1498–1975 Portuguese possession in East Africa <Portuguese 
+   v Q139808514 Mozambique |  <literary work> sl=0
+    Q504564 FRELIMO [1962–] | ruling party of Mozambique since 1977 <political party> sl=38
+    Q1348685 Oreochromis mossambicus | species of fish <taxon> sl=39
+[14] pl:moldavia | historical region of Romania
+   *vT Q217 Moldova [1991–] | country in Eastern Europe <country, landlocked country> sl=331
+   vT Q10957559 Principality of Moldavia [1346–1859] | principality in Southeast Europe between 1346–1859 <hist
+   vT Q209754 Western Moldavia | region in north-eastern Romania <historical region> sl=42
+   vT Q18366588 Moldavia | historical and geographical region in Romania, Moldova, and Ukraine <historical regi
+   T Q907112 Transnistria [1991–] | unrecognized state in the international borders of Moldova <landlocked c
+[15] pl:bitola | city in Macedonia (Monastir)
+   vT Q157246 Bitola | town and seat of Bitola Municipality, North Macedonia <city> sl=89
+   T Q159380 Bitola Municipality | local administrative unit (opština) in North Macedonia <municipality of N
+   T Q1438810 Bitola railway station | railway station in North Macedonia <railway station> sl=8
+   vT Q22553088 Bitola | watercourse in Democratic Republic of the Congo <watercourse> sl=1
+   vT Q62740914 Bitola |  <human settlement> sl=1
+[17] pl:monte-carlo | district of Monaco
+   v Q550248 Monte Carlo | 2011 film by Thomas Bezucha <film> sl=37
+   *vT Q45240 Monte Carlo [1866–] | ward in the Principality of Monaco <town> sl=95
+   v Q15036779 Monte Carlo | 1987 video game <video game> sl=1
+   v Q134548603 Monte Carlo | vocal track by Larz-Kristerz; 2009 studio recording <music track with vocals> sl=
+   v Q134548609 Monte Carlo | song written and composed by Thomas Deutgen and Lars Blomkvist; originally recor 
+[18] pl:montevideo | capital of Uruguay
+   *vT Q1335 Montevideo [1723–] | capital and largest city of Uruguay <primate city, million city> sl=206
+   v Q282713 Dogali | Italian protected cruiser <protected cruiser> sl=11
+   vT Q16594 Montevideo Department [1816–] | department of Uruguay <department of Uruguay> sl=51
+   vT Q986302 Montevideo | city in Minnesota, United States <city in the United States> sl=46
+   vT Q20270689 Montevideo | human settlement in Mexico <human settlement, locality of Mexico> sl=4
+[19] pl:montenegro | Kingdom of Montenegro
+   *vT Q236 Montenegro [2006–] | country in southeastern Europe <country, sovereign state> sl=323
+   vT Q1001470 Montenegro [1873–] | municipality of Rio Grande do Sul state, Brazil <municipality of Brazil> s
+   v Q9034815 Montenegro | family name <family name> sl=6
+    Q189018 Montenegro men's national football team | men's national association football team representing
+   vT Q1256403 Montenegro | Colombian municipality of the department of Quindío <municipality of Colombia> sl=
+[20] pl:montreux | town in Switzerland
+   vT Q69354 Montreux | municipality in the canton of Vaud in Switzerland <municipality of Switzerland, city
+   vT Q1060711 Montreux | commune in Meurthe-et-Moselle, France <commune of France> sl=38
+   vT Q914290 Montreux-Château | commune in Territoire de Belfort, France <commune of France> sl=36
+   vT Q148038 Montreux-Vieux | commune in Haut-Rhin, France <commune of France> sl=40
+   vT Q148686 Montreux-Jeune | commune in Haut-Rhin, France <commune of France> sl=40
+[22] pl:mukachevo | town in Hungary (Munkács), today Ukraine
+   *vT Q146456 Mukachevo [701–] | city in Zakarpattia Oblast, Ukraine <human settlement, city of regional sign
+   T Q177141 Mukachevo Raion [1956–2020] | former administrative unit in Ukraine <former raion of Ukraine> s
+   vT Q1068138 Mukachevo | human settlement in Kugarchinsky District, Republic of Bashkortostan, Russia <hamle
+   T Q98663281 Mukachevo Raion [2020–] | raion in Zakarpattia Oblast, Ukraine (established in 2020) <raion of 
+   T Q97195034 Mukachevo urban hromada | Territorial hromada in Zakarpattia Oblast, Ukraine <hromada> sl=8
+[23] pl:moscow | city in Russia
+   *vT Q649 Moscow | capital and most populous city of Russia <largest city, federal subject of Russia> sl=
+   T Q8450 1980 Summer Olympics [1980–1980] | Games of the XXII Olympiad, in Moscow, USSR <Summer Olympic 
+    Q6760 UTC+03:00 | identifier for a time offset from UTC of +3 <time zone named for a UTC offset> sl=9
+   T Q1778321 Moscow Pedagogical State University [1872–] | university in Russia <university, public universi
+   T Q13164 Lomonosov Moscow State University [1755–] | public research university in Moscow, Russia <publi
+[24] pl:shenyang | city in Manchuria (Mukden)
+   *vT Q11720 Shenyang | Prefecture-level and sub-provincial city in Liaoning, China <big city, prefecture-le
+   T Q6130416 Shenyang railway station | railway station in Shenyang, China (for metro station, see Q11138985
+   vT Q11138504 Shenyang | town in Siping, Jilin, China <town of China> sl=1
+   T Q136478 Shenyang Aircraft Corporation [1951–] | aerospace manufacturer <aerospace manufacturer> sl=19
+   v Q46452749 Shen-yang [1947–1949] | Shenyang during the Republic of China (1912-1949) period <administrativ
+[25] pl:mocha-yemen | port town in Yemen
+   v Q18346290 Mocha | JavaScript test framework running on node.js <JavaScript library, software framework> s
+   v Q37020557 Mocha | family name <family name> sl=1
+    Q11231813 MOCHA: under a full moon | 1989 album by Miki Imai <album> sl=1
+   *vT Q339258 Mocha | city in Yemen <city, human settlement> sl=48
+   v Q739929 cafè mocha | chocolate-flavored variant of a caffè latte <> sl=42
+[26] pl:muratli | town on the Salonica–Constantinople railway, Easte
+   vT Q2581023 Muratlı [1957–] | district and town of Tekirdağ, Turkey <district of Turkey> sl=10
+   vT Q10795439 Muratlı | village in Araban, Gaziantep, Turkey <administrative territorial entity, village of T
+   vT Q10795441 Muratlı | mahalle (administrative quarter) in Ceylanpınar, Şanlıurfa, southeastern Turkey <maha
+   vT Q4828472 Muratlı | village in Borçka, Artvin, northeastern Turkey <village of Turkey> sl=11
+   vT Q6584870 Muratlı | village in Araç, Kastamonu, north-central Turkey <village of Turkey> sl=6
+[27] pl:el-jadida | port city in Morocco (Mazagan)
+   *vT Q219583 El Jadida | city in Morocco <city, big city> sl=65
+   vT Q555360 Mazagan [1502–] | former Portuguese possession in Africa, Moroccan cultural heritage site <arch
+   T Q599606 El Jadida Province | province of Morocco <province of Morocco> sl=18
+   T Q43282103 El Jadida Museum |  <museum> sl=3
+    Q96758396 El Jadida constituency |  <electoral unit> sl=2
+[29] pl:miedzyrzec-podlaski | town in Poland (Mezeritch)
+   *vT Q34267 Międzyrzec Podlaski [1174–] | city and urban gmina in Biała Podlaska County, Lublin Voivodeship
+   vT Q614260 Gmina Międzyrzec Podlaski | rural gmina of Poland <rural municipality of Poland> sl=21
+   T Q2192404 Międzyrzec Podlaski train station | railway station in Międzyrzec Podlaski, Poland <railway sta
+   vT Q33694034 Międzyrzec Podlaski |  <> sl=1
+   T Q2069079 Międzyrzec Podlaski Ghetto | Nazi ghetto in occupied Poland <ghetto in Nazi-occupied Europe> sl
+[40] pl:hunan | province of China
+   *vT Q45761 Hunan | landlocked province in China <province of China> sl=127
+   vT Q9575097 Hunan [1912–1949] | former province (1912-1949) of the Republic of China, replaced by a nearly 
+   vT Q15892309 Hunan [1664–1911] | Province (1664-1911) of the Qing Empire, replaced by a nearly identical pro
+    Q27714389 Hunan yi ke da xue xue bao = Hunan yike daxue xuebao = Bulletin of Hunan Medical University | j
+    Q13220 Xiang Chinese | Chinese language spoken mainly in Hunan province <natural language, modern lang
+[41] pl:hubei | province of China
+   *vT Q46862 Hubei | province of China <province of China> sl=134
+   vT Q9575004 Hupeh [1911–1949] | former province (1911-1949) of the Republic of China, replaced by a nearly 
+   vT Q28411551 Hubei [1645–1911] | Province (1645-1911) of the Qing Empire, replaced by a nearly identical pro
+   v Q149493 /   | asteroid <asteroid> sl=33
+    Q97190917 Hubei Provincial People's Congress Standing Committee |  <local Standing Committee of People's 
+[46] pl:kiev-governorate | governorate of the Russian Empire
+   *vT Q1437277 Kiev Governorate [1796–1925] | governorate of the Russian Empire <governorate> sl=33
+   vT Q16852240 Kiev Governorate [1708–1764] | division of the Russian Tsardom then Empire <governorate of the 
+[48] pl:tetouan | city in northern Morocco
+   *vT Q185157 Tétouan | Moroccan city located in the Western Rif <city, urban commune of Morocco> sl=88
+   T Q1257443 Tétouan Province | province of Morocco <province of Morocco> sl=18
+   T Q1433058 Tetouan Saniat R'mel Airport | airport in Morocco <airport, commercial traffic aerodrome> sl=21
+   vT Q33721176 Tetouan |  <second-level administrative division> sl=1
+   v Q142081426 Plan, Campo de la Hipica (Tetouan) 1947 | plan image of campo de la hipica <> sl=0
+[52] pl:mytilene | main town of Lesbos
+   vT Q128087 Lesbos | Greek island located in the northeastern Aegean Sea <island> sl=94
+   vT Q189059 Mytilene | city on the Greek island of Lesbos <city> sl=64
+   vT Q42295059 Mytilene [-1100–] | ancient polis of Lesbos, Greece <polis, ancient city> sl=2
+   v Q6019598 Mytilene | set of mythological Greek characters <set of mythological Greek characters> sl=3
+   v Q11277632 MS Lene | ship built in 1973 <ferry> sl=6
+[53] pl:mitrovica-kosovo | town in Kosovo vilayet
+   T Q178168 Mitrovica | city in Kosovo <city> sl=67
+[56] pl:milan | city in Italy
+   *vT Q490 Milan [-599–] | Italian commune and capital city of Lombardy <city, metropolis> sl=226
+   v Q1076681 Milan | male given name <unisex given name, male given name> sl=17
+   v Q16873817 Milan | family name <family name> sl=3
+   vT Q1645063 Milan [1817–] | village in Erie and Huron Counties, Ohio, USA <village of Ohio> sl=40
+   v Q1543 AC Milan [1899–] | football club in Milan, Italy <association football club, men's association 
+[57] pl:milanowek | town near Warsaw
+   *vT Q422283 Milanówek | city and urban gmina of Poland <urban municipality of Poland> sl=34
+   T Q2677852 Milanówek railway station | railway station in Milanówek, Poland <railway station> sl=4
+   vT Q33693687 Milanówek |  <> sl=1
+   T Q2895407 Milanówek Grudów station | railway station in Milanówek, Poland <railway station> sl=5
+    Q9289614 coat of arms of Milanowek |  <coat of arms> sl=1
+[58] pl:mulhouse | city in Alsace (Mülhausen)
+   *vT Q79815 Mulhouse | commune in Haut-Rhin, France <commune of France, big city> sl=115
+    Q24938414 Mulhouse Philidor [1971–] | French chess club <chess club> sl=2
+   T Q2828557 Mulhouse urban area | human settlement in France <urban area> sl=1
+   T Q268195 Mulhouse tramway | tram system <tram system> sl=16
+    Q1143710 Mulhouse Alsace Agglomération [2017–] | agglomeration community <public institution of intermun
+[59] pl:munich | city in Bavaria
+   vT Q1726 Munich [1158–] | capital and most populous city of Bavaria, Germany <district capital, metropol
+   vT Q15789 FC Bayern Munich [1900–] | association football club in Munich, Germany <association football c
+   T Q1053735 Munich Central Collecting Point [–1949] | depot used by the Monuments, Fine Arts, and Archives 
+    Q8438 1972 Summer Olympics [1972–1972] | Games of the XX Olympiad, in Munich, West Germany <Summer Ol
+   T Q154568 Alte Pinakothek [1836–] | art museum in Munich, Germany <art museum, national museum> sl=47
+[60] pl:minsk | city in Belarus (Russian Empire)
+   *vT Q2280 Minsk | capital and largest city of Belarus <administrative territorial entity of Belarus, firs
+   T Q192959 Minsk region [1938–] | administrative division (voblasts) in Belarus <region of Belarus> sl=84
+   vT Q68035312 Minsk | sports club <sports club> sl=0
+   T Q1636191 Minsk District [1934–] | district of Belarus <district of Belarus> sl=27
+   v Q4295178 Soviet destroyer Minsk | 1935 Leningrad-class destroyer <flotilla leader> sl=7
+[61] pl:mississippi-river | river in the US
+   *vT Q1497 Mississippi River | primary river of the largest drainage basin in the United States <river> sl
+   vT Q1503538 Mississippi River | tributary of the Ottawa River in Ontario, Canada <river> sl=12
+   T Q2887546 Mississippi River drainage basin | drainage basin of the Mississippi River <drainage basin, dra
+   v Q16982109 Mississippi River Campaign [1862–1863] | 1862 military campaign during the American Civil War <
+   T Q1528035 Mississippi River Delta | delta of the Mississippi River <river delta> sl=21
+[62] pl:dardanelles | strait
+   *vT Q6514 Dardanelles | strait in northwestern Turkey <strait> sl=108
+   vT Q28162554 Dardanelles | lieu-dit in Clarendon, Quebec, Canada <lieu-dit> sl=0
+   v Q5222418 Dardanelles [2006–] | Australian rock band <musical group> sl=1
+   T Q164983 Gallipoli Campaign [1915–1916] | 1915–1916 military campaign during World War I <military campa
+   v Q5222420 Dardanelles | EP <extended play> sl=1
+[65] pl:michigan | US state
+   vT Q1166 Michigan [1837–] | state of the United States of America <U.S. state> sl=226
+   T Q230492 University of Michigan [1817–] | public research university in Ann Arbor, Michigan <public educ
+   v Q1758890 Michigan | 2003 album by Sufjan Stevens <album> sl=8
+   vT Q1169 Lake Michigan | one of the Great Lakes of North America <lake> sl=107
+   v Q109676634 Michigan | episode of Welcome to Night Vale <podcast episode> sl=0
+[66] pl:mecca | holy city in the Hejaz
+   vT Q234167 Mecca Province | province of Saudi Arabia <list of provinces of Saudi Arabia> sl=67
+   *vT Q5806 Mecca | Saudi Arabian city and capital of the Makkah province <holy city, human settlement> sl=
+   v Q36974332 Mecca | family name <family name> sl=0
+   vT Q2097028 Mecca | census-designated place in Riverside County, California, United States <census-designat
+   vT Q3289054 Mecca | town in Wabash Township, Parke County, Indiana, United States <human settlement, town i
+[67] pl:meknes | imperial city in Morocco
+   *vT Q178663 Meknes | city in Morocco <city, urban commune of Morocco> sl=95
+   T Q3408890 Meknès Prefecture | prefecture of Morocco <prefecture of Morocco> sl=16
+   v Q83647137 Meknes | ship built in 1982 <ship> sl=1
+    Q3304826 Meknès [1914–1940] | ship, 1914 <ocean liner, steamship> sl=2
+   T Q681138 Meknes city train station | railway station in Morocco <railway station> sl=5
+[68] pl:mlawa | town in Poland
+   *vT Q983868 Mława [1429–] | town in northern Poland, is the capital of Mława County <city, urban municipali
+   T Q941294 Mława railway station | railway station in Mława, Poland <railway station> sl=5
+   T Q947468 Mława County | powiat of Poland <powiat> sl=34
+   T Q4265865 Mlawat | village in Rembang Regency, Central Java, Indonesia <desa> sl=6
+   vT Q35736875 Mława |  <human settlement> sl=1
+[69] pl:mellah-of-casablanca | Jewish quarter of Casablanca
+   v Q138544231 Mellah of Casablanca |  <> sl=2
+[71] pl:malta | British island colony
+   *vT Q233 Malta [1964–] | country in Southern Europe situated on an archipelago in the Mediterranean Sea 
+   v Q37151700 Malta | family name <family name> sl=1
+   vT Q338351 Malta | river in the Ankogel Group in Carinthia, tributary of Lieser <river> sl=5
+   vT Q1887806 Malta | civil parish in the municipality of Vila do Conde, Portugal <freguesia of Portugal> sl=
+   v Q17210420 MALTA | Japanese saxophonist (1949-) <human> sl=1
+[72] pl:melilla | Spanish enclave in Morocco
+   vT Q5831 Melilla | Spanish autonomous city in northwestern Africa <border city, exclave> sl=176
+   vT Q23984135 Melilla | human settlement in Spain <city> sl=2
+   vT Q6812414 Melilla | one of the 52 Spanish administrative constituencies <electoral district of the Spanis
+   vT Q651392 Melilla Airport [1969–] | airport located in Melilla, an enclave of Spain in Africa <airport, c
+   v Q88182598 Melilla | electoral district of the Second Spanish Republic <circunscripción electoral de las C
+[76] pl:manaus | city in Brazil
+   *vT Q40236 Manaus [1669–] | municipality of Amazonas state, Brazil <big city, municipality of Brazil> sl=1
+   v Q10261398 Creio – Diante do Trono 15 | 2012 live album by Diante do Trono <album> sl=3
+   vT Q1827037 Manaus | microregion in Amazonas, Brazil <microregion of Brazil> sl=11
+   T Q657271 Manaus International Airport [1976–] | international airport serving Manaus, Brazil <internatio
+    Q21224533 Manausdota | genus of insects <taxon> sl=3
+[77] pl:manakhah | town in Yemen
+   T Q1010798 Manakhah District | District of Sana'a Governorate, Yemen <district of Yemen> sl=10
+   vT Q12227001 Manākhah | Islah in Manakhah District in Sana'a Governorate in Yemen <uzlah> sl=3
+   *vT Q3844238 Manakhah | place in San‘a’, Yemen <human settlement> sl=12
+[78] pl:manila | capital of the Philippines
+   *vT Q1461 Manila [1571–] | capital city of the Philippines <megacity, metropolis> sl=209
+   vT Q3734794 Europa | seaplane carrier of the Italian Regia Marina <seaplane tender, steamship> sl=5
+   vT Q20144565 Manila | human settlement in Mexico <human settlement, locality of Mexico> sl=4
+   vT Q2121817 Manila | human settlement in Gomez Palacio Municipality, Mexico <human settlement, locality of 
+    Q6083690 MBC Media Group [1946–] | Philippine media company <media company> sl=7
+[79] pl:mansoura-egypt | city in Egypt
+   *vT Q223587 Mansoura | city in Egypt <city, big city> sl=62
+   vT Q22932686 Mansoura |  <markas of Egypt> sl=4
+   vT Q3286577 Mansoura | municipality in Bordj Bou Arréridj, Algeria <commune of Algeria> sl=17
+   vT Q6751864 Mansoura | community in Nicosia District, Republic of Cyprus <community of Cyprus Republic> sl=
+   T Q6751865 /   | rural commune of Morocco <rural commune of Morocco> sl=9
+[80] pl:manchuria | region in north-east China
+   vT Q30623 Manchukuo [1932–1945] | Japanese puppet state in Manchuria (1932–1945) <puppet state, historica
+   vT Q81126 Manchuria | geographic region in Northeast Asia <historical region> sl=109
+   vT Q1057925 Northeast China | geographic region of China including Heilongjiang, Jilin, and Liaoning <list 
+    Q33638 Manchu | Tungusic language originating from Northeast China <natural language, modern language>
+    Q311361 Juglans mandshurica | species of plant <taxon, macrophanerophytes> sl=29
+[81] pl:manchester | city in England
+   vT Q18125 Manchester [1301–] | city in Greater Manchester, England <civil parish, city status in the Unit
+   v Q37257850 Manchester | family name <family name> sl=2
+   vT Q2187247 Manchester | town in Oklahoma <town in the United States> sl=32
+   vT Q21525592 Manchester [1974–] | metropolitan borough in Greater Manchester, England <metropolitan borough,
+   vT Q48370 Manchester [1722–] | city in Hillsborough County in southern New Hampshire, United States <city
+[83] pl:hagia-sophia | mosque in Constantinople
+   *vT Q12506 Hagia Sophia [532–404] | mosque, museum, and former church in Istanbul, Turkey <mosque, museum>
+   vT Q1568660 Hagia Sophia [700–] | church in Thessaloniki, Greece <cathedral> sl=29
+   v Q21529510 Hagia Sophia [1912–] | poem by Osip Mandelstam <literary work> sl=2
+   v Q112250696 Hagia Sophia | painting by Leipold <painting> sl=0
+   T Q1568666 Hagia Sophia, Trabzon [1238–] | Byzantine monument in Trabzon, Turkey <church building, mosque>
+[85] pl:mesopotamia | region of the Ottoman Empire
+   *vT Q11767 Mesopotamia | historical region within the Tigris–Euphrates river system <cultural landscape, h
+   v Q7559727 Somer Assault | 1991 video game <video game> sl=2
+   v Q15765427 Mesopotamia | academic journal <scientific journal> sl=0
+   vT Q6821578 Mesopotamia | narrow island that forms part of the University Parks in the English city of Oxf 
+   vT Q765845 Mesopotamia [116–637] | Province of the Roman Empire <Roman province> sl=33
+[88] pl:kacanik | town and gorge in Kosovo
+   *vT Q248378 Kaçanik | town in Kosovo <town> sl=35
+   T Q2043130 Kaçanik Municipality [1960–] | municipality of Kosovo <municipality of Kosovo, municipalities a
+    Q136167802 Kaçanıklı Mehmet Paşa Camii [1608–] |  <mosque, külliye> sl=0
+   vT Q125413011 Kačanik | cadastral municipality of Serbia in the municipality of Kačanik <cadastral municipali
+   T Q12759653 Kaçaniku i Vjetër | village in Kosovo <village, cadastral municipality of Serbia> sl=5
+[93] pl:metz | city in Lorraine
+   *vT Q22690 Metz | city in Grand Est, France <commune of France, big city> sl=123
+   v Q16876893 Metz | family name <family name, occupational surname> sl=4
+   vT Q372289 Metz-le-Comte | commune in Nièvre, France <commune of France> sl=36
+   v Q318206 Metz [1938–] | German electronic manufacturer <business> sl=10
+   vT Q1146113 Metz-Robert | commune in Aube, France <commune of France> sl=41
+[96] pl:macau | Portuguese colony in China
+   vT Q1004486 Macau | commune in Gironde, France <commune of France> sl=41
+   *vT Q14773 Macau [1557–] | city and special administrative region of China <city-state, tourist destinatio
+   v Q91246196 Macau | family name <family name> sl=0
+   vT Q3916279 Portuguese Macau [1557–1999] | Portuguese possession in East Asia between 1557 and 1999 <colony
+   T Q723779 Macău [1299–] | village in Cluj County, Romania <village> sl=12
+[97] pl:macedonia | Ottoman Macedonia
+   T Q103251 Macedonia | geographical and historical region in southeastern Europe, today forming parts o <r
+   T Q221 North Macedonia [1991–] | country in southeastern Europe <country, landlocked country> sl=327
+   T Q81734 Macedonia [1913–] | geographic and administrative region of Greece <region, historical region> 
+    Q39702 Macedonia | Wikimedia disambiguation page <Wikimedia disambiguation page> sl=107
+[99] pl:mexico | country
+   vT Q96 Mexico [1810–] | country in North America <country, sovereign state> sl=402
+   vT Q1489 Mexico City [1521–] | capital and largest city of Mexico <city, megacity> sl=260
+   vT Q82112 State of Mexico [1823–] | most populous state of Mexico <state of Mexico> sl=105
+   vT Q55712 Mexico | municipality of the Philippines in the province of Pampanga <municipality of the Phili
+   v Q6826187 Mexico | genus of insects <taxon> sl=7
+[101] pl:margavar | district west of Urmia, Persia
+   T Q3678415 Margawar | rural district in West Azerbaijan, Iran <rural district of Iran> sl=10
+[104] pl:morocco | Sultanate of Morocco
+   *vT Q1028 Morocco [789–] | sovereign state in North Africa <country, constitutional monarchy> sl=335
+   v Q142141374 Morocco | board game <board game> sl=0
+   v Q2118555 Morocco leather | soft, pliable leather used for bookbinding, wallets, linings for luggage, glo
+   v Q577754 Morocco | 1930 film by Josef von Sternberg and Henry Hathaway <film> sl=34
+   v Q3708053 Morocco titular see | titular see <diocese, titular see> sl=3
+[105] pl:fez | city in Morocco
+   *vT Q80985 Fez [789–] | city in Morocco <city> sl=125
+   v Q2581523 Fez | 2012 video game <video game> sl=23
+   v Q5425402 FEZ | Fedora web interface <software> sl=0
+   v Q189862 fez | cone-shaped cap with a flat crown <> sl=65
+   v Q3889237 Felix Zamenhof | Polish poet and Esperantist (1868–1933) <human> sl=6
+[106] pl:marianske-lazne | spa town in Bohemia (Marienbad)
+   *vT Q523469 Mariánské Lázně [1273–] | town in the Czech Republic <Czech municipality with expanded powers, 
+   vT Q56416261 Mariánské Lázně | core part of Mariánské Lázně <core municipal part with the same name as the m
+   vT Q110714979 Mariánské Lázně | cadastral area in Cheb District <cadastral area in the Czech Republic> sl=0
+   vT Q2489524 Mariánské Lázně | railway station in Mariánské Lázně, Czech Republic <railway station> sl=5
+   vT Q24331090 Mariánské Lázně [2003–] | administrative district in the Czech Republic <administrative distric
+[107] pl:mariupol | city in Ukraine
+   *vT Q37133 Mariupol [901–] | city and seaport in Donetsk Oblast, Ukraine <city in Ukraine> sl=134
+   vT Q949628 Mariupol | railway station in Ukraine <railway station> sl=10
+   T Q107295404 Mariupol urban hromada [2020–] | Hromada (municipality) in Mariupol Raion, Donetsk Oblast, Ukra
+   T Q4281596 Mariupol uyezd [1780–1923] | district in administrative-territorial unit, Russia <uezd of the R
+   T Q97482653 Mariupol Raion [2020–] | raion in Donetsk Oblast, Ukraine (established in 2020) <raion of Ukrai
+[111] pl:central-africa | region
+   vT Q929 Central African Republic [1960–] | country in Central Africa <country, republic> sl=302
+   vT Q27433 Central Africa | core region of the African continent <region, subregion> sl=151
+    Q6723 UTC+02:00 | identifier for a time offset from UTC of +2 <time zone named for a UTC offset> sl=8
+    Q27710320 Central African Journal of Medicine [1955–] | medical journal <medical journal> sl=1
+    Q5060273 Central African Republic Council of Ministers |  <> sl=3
+[112] pl:marseille | city in France
+   *vT Q23482 Marseille [-599–] | French commune <commune of France> sl=192
+   v Q132885 Olympique de Marseille [1899–] | association football club in Marseille, France <association fo
+   v Q18215247 Marseille [2016–2018] | French drama web television series <television series> sl=18
+   vT Q971261 Marseille-en-Beauvaisis | commune in Oise, France <commune of France> sl=39
+   v Q135264423 Marseille | Tony Hawk's Pro Skater 2 level <level> sl=0
+[113] pl:mersin | port in Cilicia
+   vT Q132637 Mersin Province | province in south-central Turkey <province of Turkey> sl=80
+   vT Q134291 Mersin | city in Turkey <city, metropolitan municipality in Turkey> sl=96
+   vT Q10792877 Mersin | mahalle (administrative quarter) in Akçaabat, Trabzon, northeastern Turkey <mahalle> s
+   v Q87183673 Mersin | family name <family name> sl=0
+   vT Q6585676 Mersin | mahalle (administrative quarter) in Perşembe, Ordu, northern Turkey <mahalle> sl=4
+[117] pl:mashhad | city in Persia
+   *vT Q121157 Mashhad [818–] | capital city of Razavi Khorasan Province, Iran <city of Iran> sl=124
+   T Q1270617 Mashhad County | county in Razavi Khorasan Province, Iran <county of Razavi Khorasan Province> 
+   T Q5941905 Mashhad Railway Station | railway station in Mashhad, Iranian national heritage site <railway s
+   vT Q2915771 Mashhad | place in Israel <local council in Israel> sl=12
+    Q10854129 Mashhad University of Medical Sciences [1949–] | university in Mashhad, Iran <medical universit
+[119] pl:znojmo | town in Moravia (Znaim)
+   *vT Q214956 Znojmo | town in the Czech Republic <municipality of the Czech Republic, Czech municipality wit
+   vT Q56415461 Znojmo | central part of the city of Znojmo <core municipal part with the same name as the muni
+   T Q853969 Znojmo District | district of Czechia <district of the Czech Republic> sl=44
+   vT Q89085368 Znojmo [2003–] |  <administrative district of Czech municipality with expanded powers> sl=1
+   vT Q18180625 Znojmo | railway station in Znojmo, Czech Republic <railway station> sl=3
+[121] pl:nanjing | city in China
+   *vT Q16666 Nanjing [-494–] | capital city of Jiangsu Province, China, former capital of the Republic of Ch
+   T Q683580 Nanjing University [1915–] | public university in Nanjing, China <vice-ministerial level univer
+   vT Q113491483 Nanjing | historical administrative division of China <former county of China> sl=0
+   v Q10908774 Nanzhili | historical province of the Ming Empire in China <administrative territorial entity> 
+   vT Q10906766 Nan-ching [1927–1949] | Nanjing during the Republic of China period <special municipality, form
+[122] pl:naples | city in Italy
+   *vT Q2634 Naples | capital city of Campania, Italy <city, big city> sl=207
+   v Q37550197 Naples | family name <family name> sl=1
+   vT Q257830 Naples [1886–] | city in Collier County, Florida, United States <city in the United States> sl=
+   vT Q3870228 Naples | unincorporated community in Boundary County, Idaho, United States <unincorporated comm
+   T Q691851 University of Naples Federico II [1224–] | university in Naples <public university, open-access
+[127] pl:nigrita | town in Macedonia
+   vT Q2272672 Nigrita | town in Serres, Greece <human settlement> sl=21
+   v Q56941 Nigrita | genus of birds <taxon> sl=24
+    Q1049477 Nigrita canicapillus | species of bird <taxon> sl=26
+   vT Q13427561 Negroland | sub-Saharan region of West Africa <area> sl=14
+    Q232616 Nigrita bicolor | species of bird <taxon> sl=27
+[129] pl:olt-river | river in Romania
+   v Q106649759 orthotopic liver transplantation | type of liver transplantation <> sl=0
+   v Q37441070 Olt | family name <family name> sl=1
+   T Q68129 Olten | municipality in the canton of Solothurn in Switzerland <municipality of Switzerland, ci
+   T Q188945 Olt County | county in Romania <county of Romania> sl=61
+   T Q126822 Olt River | river in Romania <river> sl=56
+[133] pl:daugava | Western Dvina river
+   vT Q80021 Daugavpils [1275–] | state city in south-eastern Latvia <state city of Latvia> sl=104
+   vT Q8197 Daugava | river in Latvia, Belarus and Russia <river, transboundary river> sl=94
+   v Q136332486 Daugava [1928–1940] | Latvian monthly magazine between 1928-1940 <magazine> sl=0
+   v Q5227884 Daugava | 2007 studio album by Lars Winnerbäck <album> sl=2
+   vT Q15218809 Daugava | railway station in Latvia <railway station> sl=3
+[134] pl:danube | river
+   *vT Q1653 Danube | second-longest river in Europe <river, transboundary river> sl=200
+   vT Q1165108 Danube | Paris Métro station <metro station, one-way station> sl=19
+    Q12046593 Danube basin | drainage basin of the Danube River <drainage basin> sl=4
+   vT Q106847690 Danube | metro station in Dubai, United Arab Emirates <elevated station, metro station> sl=4
+   vT Q3708297 Danube | human settlement in Herkimer County, New York, United States of America <town in the U
+[141] pl:timis-river | river in Banat, Hungary (Temes)
+   T Q83404 Timișoara [1266–] | city and county seat in Timiș County, Romania <college town, municipality o
+   v Q37016908 Temes | family name <family name> sl=0
+   T Q5062149 Giarmata | commune in Timiș County, Romania <commune of Romania> sl=24
+   T Q5062165 Sânandrei | commune in Timiș County, Romania <commune of Romania> sl=22
+   T Q5062862 Satchinez | commune in Timiș County, Romania <commune of Romania> sl=21
+[142] pl:yangtze | river in China
+   T Q5413 Yangtze River | longest river in Asia and third-longest in the world <river> sl=168
+   v Q4541138 /   | minor planet <asteroid> sl=13
+    Q33140714 Yangtzeconinae | subfamily of molluscs <fossil taxon> sl=0
+    Q15758768 Yangtze River basin | river basin in East Asia <drainage basin> sl=3
+   T Q1980544 Yangtzekanaal | port in Rotterdam, Netherlands <canal> sl=2
+[143] pl:neman | river (Memel)
+   v Q37528078 Neman | family name <family name> sl=1
+   vT Q5622 Neman | river in eastern Europe <river, transboundary river> sl=80
+   vT Q5671 Neman [1277–] | town of Nemansky District of Kaliningrad Oblast, Russia <city or town> sl=47
+    Q6990928 Nemanja | male given name <male given name> sl=6
+    Q6990922 Nemania | genus of fungi <taxon> sl=11
+[144] pl:seine | river in France
+   *vT Q1471 Seine | river in France <river> sl=131
+   vT Q254398 Seine-Port | commune in Seine-et-Marne, France <commune of France> sl=36
+   vT Q1142326 Seine [1790–1967] | former French department (1790–1968) <department of France, enclave> sl=28
+   T Q1570490 Seine River | watercourse in Ontario, Canada <river> sl=6
+   T Q12758 Seine-Maritime [1790–] | French department <department of France> sl=107
+[150] pl:struma | river in Bulgaria and Macedonia
+   *vT Q204127 Struma | river in Bulgaria and Greece <river> sl=51
+    Q147715 Strumaria | genus of plants <taxon> sl=15
+   T Q11094 chronic thyroiditis | autoimmune disease <autoimmune disease> sl=52
+   vT Q2462874 Struma | village in Sandanski municipality, Blagoevgrad oblast, Bulgaria <kmetstvo of Bulgaria,
+   T Q2357409 struma ovarii | rare form of monodermal teratoma that contains mostly thyroid tissue, which may
+[153] pl:prut | river between Romania and Bessarabia
+   vT Q11828113 Prut | river in Poland, tributary of the Narew <river> sl=3
+   v Q1915660 Mecidiye | protected cruiser of the Ottoman Navy <protected cruiser> sl=11
+   *vT Q182445 Prut | river in Eastern Europe <river> sl=73
+   T Q532859 Prutting | municipality of Germany <municipality without town privileges in Germany> sl=37
+    Q75607496 Prutscher | family name <family name> sl=1
+[155] pl:coruh-river | river in north-east Anatolia
+    Q20474452 Çoruh River Basin | mountain landscape in Turkey <drainage basin> sl=2
+   T Q32695898 Coruh River | river in Turkey <river, Wikimedia duplicated page> sl=1
+   T Q70970 Çoruh | river in Georgia and Turkey <river, watercourse> sl=40
+[156] pl:cijevna | river in Montenegro/Albania (Cem)
+   T Q185615 Cem River | river in Montenegro and Albania <river> sl=26
+   T Q2972381 /   | village in Podgorica Municipality, Montenegro <village> sl=9
+   T Q55583196 /   |  <> sl=1
+   v Q2972377 Cijevna | Wikimedia disambiguation page <Wikimedia disambiguation page> sl=3
+   v Q917132 Cem | male given name <male given name> sl=5
+[159] pl:novocherkassk | city on the Don
+   *vT Q175452 Novocherkassk [1805–] | city in Rostov Oblast, Russia <city or town, big city> sl=72
+   v Q21002417 Novocherkassk [1987–] | 1987 Ropucha-class landing ship <large landing ship> sl=13
+   vT Q4326201 Novocherkassk | human settlement in Saraktashsky District, Orenburg Oblast, Russia <village, ad
+   T Q14927654 Novocherkassk railway station [1905–] | railway station in Novocherkassk, Rostov, Russia <railw
+    Q429282 Novocherkassk Electric Locomotive Plant [1946–] | Soviet (later Russian) manufacturer <enterpri
+[160] pl:novorossiya | historical region of southern Ukraine
+   vT Q16912926 Novorossiya [–2015] | proposed merger of Donetsk and Lugansk People Republics that was never re
+   vT Q1136962 Novorossiya [1764–] | a former Cossack territory conquered then governed by the former Russian 
+   vT Q60787704 Novorossiya | former Soviet air base <> sl=1
+    Q140231641 Highway of Death (Ukraine) | road where Ukrainian drones frequently strike Russian military sup
+    Q125181672 Novorossiya Railways [2023–] | Railway company <organization, unitary enterprise> sl=3
+[161] pl:novorossiysk | port on the Black Sea
+   vT Q48256 Dnipro [1526–] | city and administrative center of Dnipropetrovsk Oblast, Ukraine <big city, ce
+   vT Q1789521 Giulio Cesare | 1911 Conte di Cavour-class battleship <battleship, dreadnought> sl=16
+   vT Q15760 Novorossiysk [1838–] | city in Krasnodar Krai, Russia <port city, big city> sl=95
+   v Q1474055 Novorossiysk [–1993] | 1978 Project 1143.3 aircraft carrier <aircraft carrier> sl=15
+   v Q18399870 B-261 Novorossiysk | Russian Project 636.3 attack submarine <attack submarine> sl=6
+[166] pl:nakhchivan | town in the Caucasus
+   *vT Q230104 Nakhchivan [-1499–] | capital of the Nakhchivan Autonomous Republic of Azerbaijan <city, şəhər>
+   T Q131083 Nakhchivan Autonomous Republic [1990–] | autonomous republic of Azerbaijan <autonomous republic
+   vT Q51995862 Nakhchivan [1908–] | railway station in Nakhchivan Autonomous Republic, Azerbaijan <railway sta
+   T Q284506 Nakhchivan Autonomous Soviet Socialist Republic [1921–1990] | within the Azerbaijan SSR of the 
+    Q4314700 Nakhchivan State University [1967–] | university in Azerbaijan <university> sl=9
+[167] pl:nahalat-binyamin | Jewish neighbourhood near Jaffa (Tel Aviv)
+   T Q12021229 Tel Regev Cemetery [2004–] |  <Jewish cemetery> sl=6
+   T Q65251207 Territory of the Tribe of Benjamin |  <administrative territorial entity type, territory of a t
+   T Q12409826 Nachlat Binyamin Street, Tel Aviv-Yafo | tel Aviv street & neighbourhood in Israel <street> sl=
+    Q113355490 Isaac Benjamin Wolf |  <human> sl=1
+[170] pl:new-jersey | US state
+   *vT Q1408 New Jersey [1776–] | state of the United States of America <U.S. state> sl=231
+   v Q135264428 New Jersey | Tony Hawk's Underground level <level> sl=0
+   vT Q2335128 Province of New Jersey [1664–1776] | former colony in North America, part of Great Britain <col
+   v Q779923 New Jersey | 1988 studio album by Bon Jovi <album> sl=25
+    Q27712131 New Jersey medicine : the journal of the Medical Society of New Jersey | journal <scientific jo
+[172] pl:new-south-wales | state of Australia
+   *vT Q3224 New South Wales [1788–] | state of Australia <state of Australia> sl=171
+   vT Q18348382 Colony of New South Wales [1788–1901] | British colony which later became a state of Australia 
+    Q63408358 Geographical Names Register | database of places registered by the New South Wales Geographic N
+    Q534417 New South Wales Waratahs [1882–] | Rugby Union club based in Sydney, Australia <rugby union fra
+   T Q734764 University of New South Wales [1949–] | public research university in Kensington, Sydney, Austr
+[176] pl:mykolaiv | city in Ukraine (Nikolaev)
+   vT Q41572 Mykolaiv [1789–] | capital city of Mykolaiv Oblast in southern Ukraine <city in Ukraine> sl=100
+   T Q181633 Mykolaiv Oblast [1937–] | oblast of Ukraine <oblast of Ukraine> sl=100
+   vT Q58475 Mykolaiv [1570–] | town in Lviv oblast in Ukraine <city in Ukraine> sl=35
+   T Q104530289 Mykolaiv Raion [2020–] | raion in Mykolaiv Oblast, Ukraine (established in 2020) <raion of Ukra
+   vT Q4320193 Mykolaiv [1555–] | village in Khmelnytskyi Raion, Khmelnytsky Oblast, Ukraine <village of Ukrai
+[180] pl:nazareth | town in the Galilee
+   vT Q580315 Nazareth [–2024] | former municipality in East Flanders, Belgium <municipality of Belgium> sl=3
+   v Q683695 Nazareth [1968–] | Scottish hard rock band <rock band> sl=39
+   v Q37073626 Nazareth | family name <family name> sl=2
+   v Q98827160 Nazareth | male given name <male given name> sl=0
+   *vT Q430776 Nazareth [-2199–] | city in Israel; predominantly inhabited by Muslim-Arab citizens of Israel; 
+[181] pl:naxos | Greek island
+   v Q1579196 Naxos [1987–] | Hong Kong record label <record label> sl=18
+   vT Q188527 Naxos Island | Greek island in the Aegean Sea <island> sl=80
+   v Q113568585 Naxos | 2022 video game <video game> sl=0
+   v Q105764958 Naxos | ship built in 2007 <ship> sl=0
+   vT Q530644 Naxos | chief town of Naxos island, Cyclades, Greece <city> sl=28
+[183] pl:ceuta | Spanish enclave in Morocco
+   vT Q5065729 Ceuta | one of the 52 Spanish electoral constituencies <electoral district of the Spanish Congr
+   *vT Q5823 Ceuta | Spanish autonomous city in northwestern Africa <autonomous city of Spain> sl=161
+   vT Q4418099 Ceuta | town in Elota Municipality, State of Sinaloa, Mexico <locality of Mexico> sl=5
+   vT Q106428113 Portuguese Ceuta | former Portuguese possession in the North of Africa <human settlement, admin
+   vT Q106428150 Ceuta under Muslim rule [–1415] |  <human settlement, administrative territorial entity> sl=0
+[185] pl:southampton | port in England
+   *vT Q79848 Southampton | city and major port in Hampshire, South-East England, United Kingdom <city, big c
+   v Q18732 Southampton F.C. [1885–] | association football club in Southampton, England <association footb
+   vT Q7569088 Southampton | human settlement in Nova Scotia, Canada <human settlement> sl=1
+   vT Q21683230 City of Southampton [1835–] | local government area in Hampshire, England, UK <municipal boroug
+   vT Q2631643 Southampton [1640–] | town in Suffolk County, New York, partly on the South Fork of Long Island
+[187] pl:samos | island, autonomous Ottoman principality
+   vT Q13580795 Samos [-1100–-266] | ancient Greek city-state <polis, ancient city> sl=1
+   v Q37312890 Samos | family name <family name> sl=0
+   vT Q156882 Samos | Greek island in Aegean Sea <island, polis> sl=82
+   vT Q917876 Samos | Spanish municipality <municipality of Galicia> sl=43
+   v Q124327549 Samos | Belgian comic artist <human> sl=0
+[189] pl:seville | city in Spain
+   *vT Q8717 Seville | municipality of Andalusia, Spain <municipality of Spain> sl=180
+   v Q112323610 Seville | Uzbek-born Russian singer <human> sl=4
+   vT Q7458058 Seville [1886–] | town in Victoria, Australia <town, gazetted locality of Victoria> sl=5
+   T Q95088 Province of Seville | province of Andalusia, Spain <province of Spain> sl=86
+   vT Q683023 Seville | municipality of Spain <municipality of Spain> sl=49
+[190] pl:sevastopol | port in Crimea
+   *vT Q7525 Sevastopol [1783–] | port city in Crimea, disputed between Ukraine and Russia <federal subject 
+   v Q1570972 Sevastopol | 1911 Gangut-class battleship <battleship> sl=15
+   vT Q614147 Sevastopol | 1895 Petropavlovsk-class battleship <pre-dreadnought battleship, ironclad warship>
+   v Q15961705 ENS Anwar El Sadat | 2014 Mistral-class amphibious assault ship <amphibious assault ship, helic
+   v Q11314846 Sevastopol | 1976 Krivak-class frigate <patrol vessel> sl=6
+[191] pl:segovia | city in Spain
+   vT Q15684 Segovia | Spanish municipality, in Castilla y León, capital of the province of the same na <cit
+   v Q23792710 Segovia | family name <family name> sl=2
+   vT Q2274555 Segovia [1869–] | Colombian municipality of the department of Antioquia <municipality of Colomb
+   vT Q55283 Segovia Province | province in Spain <province of Spain> sl=85
+   T Q107173751 Segovia City | city of Spain in Castilla y León, capital of the municipality of the same name <
+[195] pl:suwalki | town in Poland
+   *vT Q236083 Suwałki | town in Poland <city, city with powiat rights in Poland> sl=69
+   T Q5757130 Suwałki train station | railway station in Suwałki, Poland <railway station> sl=5
+   vT Q591333 Gmina Suwałki | rural gmina of Poland <rural municipality of Poland> sl=23
+   T Q1135363 Suwałki County [1999–] | powiat of Poland <powiat> sl=33
+   vT Q33718900 Suwałki |  <administrative territorial entity of Poland> sl=1
+[196] pl:sudan | Anglo-Egyptian Sudan
+   *vT Q1049 Sudan [1956–] | country in Northeast Africa <republic, rump state> sl=335
+   vT Q13097273 Sudan | village in Rembang Regency, Central Java, Indonesia <desa> sl=5
+   vT Q26332448 Sudan | village in East Kotawaringin Regency, Central Kalimantan, Indonesia <desa> sl=1
+   vT Q508014 French Sudan [1880–1959] | French colonial territory in West Africa from 1880 to 1960, now Mali
+    Q17022177 Sudan People's Liberation Movement-in-Opposition [2013–] | South Sudanese political party <poli
+[199] pl:salisbury | city (England or Rhodesia, uncertain)
+   vT Q160642 Salisbury | cathedral city in Wiltshire, England, United Kingdom <city, civil parish> sl=90
+   vT Q2028813 Salisbury [1763–] | city in Rowan County, North Carolina, United States <city in the United Sta
+   v Q28017312 Salisbury | family name <family name> sl=1
+   vT Q1760852 Salisbury [–2009] | former non-metropolitan district in Wiltshire, England <non-metropolitan di
+   v Q94788554 Salisbury | unisex given name <unisex given name> sl=1
+[200] pl:sosnowiec | town in Poland
+   *vT Q105060 Sosnowiec [1902–] | city in the Dąbrowa Basin (the Lesser Poland part of the Silesian Voivodesh
+   v Q140487 Zagłębie Sosnowiec [1906–] | Polish association football club <association football club> sl=23
+   vT Q7563886 Sosnowiec | village in Świętokrzyskie, Poland <village of Poland> sl=9
+   vT Q7563884 Sosnowiec | village in Greater Poland, Poland <village of Poland> sl=8
+   T Q2605868 Sosnowiec Maczki [1857–] | railway station in Sosnowiec, Poland <heritage site, railway station
+[202] pl:surabaya | city in Java
+   *vT Q11462 Surabaya [1293–] | city in East Java Province, Indonesia <city of Indonesia> sl=124
+   vT Q11212291 Surabaya | village in Garut Regency, West Java, Indonesia <desa> sl=6
+   vT Q12518097 Surabaya | village in East Lombok Regency, West Nusa Tenggara, Indonesia <desa> sl=5
+   vT Q12518098 Surabaya | subdistrict in Bengkulu City, Bengkulu, Indonesia <kelurahan> sl=4
+   vT Q12518095 Surabaya | subdistrict in Bandar Lampung City, Lampung, Indonesia <kelurahan> sl=3
+[203] pl:soroca | town in Bessarabia
+   vT Q853785 Soroca [1499–] | Moldovan city situated on the Dniester river <city, municipality of Moldova> s
+   T Q188901 Sorocaba [1654–] | municipality in the state of São Paulo, Brazil <big city, municipality of Br
+   vT Q2129022 Soroca District [1940–] | district of Moldova <district of Moldova> sl=33
+   vT Q4429111 Soroca | village in Glodeni District, Moldova <village> sl=6
+    Q7563608 Sorocaba | genus of insects <taxon> sl=5
+[204] pl:syria | Ottoman Syria
+   *vT Q858 Syria [1920–] | country in West Asia <country, sovereign state> sl=338
+   v Q3509007 Syria [1920–] | academic journal <scientific journal> sl=4
+   v Q21441670 Syria | subgenus of insects <taxon> sl=1
+   v Q20001455 Syria | female given name <female given name> sl=0
+   vT Q3076765 Ottoman Syria [1516–1918] | the region of Syria under the Ottoman Empire (1516–1918) <dependent
+[207] pl:stavanger | city in Norway
+   vT Q26772333 Stavanger [1125–] | city in Stavanger Municipality, Norway <city, urban area in Norway> sl=8
+   *vT Q25416 Stavanger [1837–] | municipality in Rogaland, Norway <organization, municipality of Norway> sl=
+   T Q3355141 Stavanger station | railway station in Stavanger, Norway <railway station, last station> sl=13
+   T Q1757024 Stavanger Aftenblad [1893–] | newspaper <regional newspaper> sl=9
+   T Q6513974 Stavanger Cathedral School [1824–] | Upper secondary school in Stavanger, Norway <public school
+[208] pl:settat | town in Chaouia, Morocco
+   *vT Q818019 Settat | city in Morocco <city, big city> sl=41
+   T Q1523840 Settat Province | province of Morocco <province of Morocco> sl=18
+   vT Q27536129 Settat |  <geographic location> sl=1
+    Q96758323 Settat constituency |  <electoral unit> sl=2
+   T Q27539008 Settat Circle [–2018] |  <circle of Morocco> sl=3
+[210] pl:istanbul | Constantinople, Ottoman capital
+   vT Q406 Istanbul [1453–] | largest city in Turkey <megacity, metropolitan municipality in Turkey> sl=29
+   vT Q534799 Istanbul Province [1922–] | province in northwestern Turkey <province of Turkey> sl=87
+   v Q18352396 Istanbul | board game <board game> sl=8
+   T Q192964 Istanbul University [1453–] | public university in Istanbul, Turkey <public university, open-ac
+   T Q256 Turkish | Oghuz Turkic language of the Turkish people <natural language, modern language> sl=24
+[211] pl:ivano-frankivsk | city in Galicia (Stanislau)
+   *vT Q156726 Ivano-Frankivsk [1662–] | city in Ukraine <big city, city or town> sl=98
+   T Q178269 Ivano-Frankivsk Oblast [1939–] | oblast of Ukraine <oblast of Ukraine> sl=98
+   T Q98521883 Ivano-Frankivsk Raion [2020–] | raion in Ivano-Frankivsk Oblast, Ukraine (established in 2020) 
+   vT Q892996 Ivano-Frankivsk | railway station in Ivano-Frankivsk, Ukraine <railway station, station buildin
+   T Q4195890 Ivano-Frankivsk National Medical University [1945–] | academic publisher <university, open-acce
+[213] pl:stryi | town in Galicia
+   vT Q6537583 Stryi | village in Belarus <village in Belarus> sl=6
+   *vT Q158923 Stryi | city in Ukraine <city of regional significance of Ukraine> sl=61
+   T Q2599671 Stryi Raion | raion in Lviv Oblast, Ukraine <former raion of Ukraine> sl=13
+   T Q619805 Stryi River | river in Ukraine <river> sl=28
+   T Q103823962 Stryi Raion [2020–] | raion in Lviv Oblast, Ukraine (established in 2020) <raion of Ukraine> sl
+[216] pl:xian | city in China (Sianfu)
+   *vT Q5826 Xi'an | capital of Shaanxi Province, China <ancient city, former capital> sl=143
+   vT Q15955274 Xi'an County [–1912] | historical administrative division of China, precursor of modern-day Kec
+   vT Q6501000 Chang'an | ancient capital and city of China <archaeological site, human settlement> sl=44
+   T Q981237 Xi'an Jiaotong University | university in Xi'an, China <university, vice-ministerial level univ
+   v Q148864 /   | asteroid <asteroid> sl=32
+[217] pl:siberia | region
+   *vT Q5428 Siberia | geographical region of Russia comprising North Asia <region> sl=184
+   v Q10513519 Siberia | 2005 studio album by Echo & the Bunnymen <album> sl=6
+   v Q2679334 Siberia | 2011 studio album by Lights <album> sl=3
+   T Q326663 tick-borne encephalitis | viral infectious disease involving the central nervous system <type o
+   vT Q20217249 Siberia | human settlement in Mexico <human settlement, locality of Mexico> sl=4
+[222] pl:siedlce | town in Poland
+   *vT Q319813 Siedlce [1448–] | city in eastern Poland <city, city with powiat rights in Poland> sl=64
+   vT Q2194215 Gmina Siedlce | rural gmina of Poland <rural municipality of Poland> sl=19
+   T Q379162 Siedlce County | powiat of Poland <powiat> sl=33
+   vT Q2797902 Siedlce | city district of Gdańsk, Poland <dzielnica> sl=8
+   vT Q7509600 Siedlce, Lesser Poland Voivodeship | village in Lesser Poland, Poland <village of Poland> sl=8
+[223] pl:sydney | city in Australia
+   v Q18915128 Sydney | unisex given name <unisex given name> sl=4
+   vT Q932261 Sydney [1785–] | community in Nova Scotia, Canada <city> sl=41
+   *vT Q3130 Sydney [1788–] | capital city of New South Wales, Australia <city, global city> sl=266
+   vT Q5356001 Sydney [1920–] | state electoral district of New South Wales, Australia <electoral district of 
+   v Q21501740 Sydney | family name <family name> sl=1
+[224] pl:ho-chi-minh-city | Saigon, French Indochina
+   *vT Q1854 Ho Chi Minh City [1976–] | largest city in Vietnam <largest city, megacity> sl=257
+   T Q5873997 Ho Chi Minh City University of Science [1942–] | public college in Ho Chi Minh City, Vietnam <u
+   T Q943759 Vietnam National University [1995–] | university in Ho Chi Minh City <university> sl=23
+    Q2198304 Ho Chi Minh City Metro | rapid transit network in Ho Chi Minh City, Vietnam <rapid transit> sl=
+   T Q3101701 Ho Chi Minh City University of Technology [1957–] | university in Ho Chi Minh city, Vietnam <un
+[225] pl:sylhet | town in British India
+   vT Q466221 Sylhet [1867–] | capital and largest city of Sylhet Division, Bangladesh <city, big city> sl=71
+   vT Q459732 Sylhet Division | division of Bangladesh <division of Bangladesh> sl=59
+   T Q2093352 Sylhet District | district of Bangladesh <district of Bangladesh> sl=32
+   vT Q3825579 Jaintia Kingdom [1500–1835] | former kingdom in present-day North-East India <former administra
+    Q2044560 Sylheti | Indo-Aryan language <natural language, modern language> sl=199
+[226] pl:silistra | town in Bulgaria
+   vT Q182428 Silistra | city in Silistra municipality, Silistra oblast, Bulgaria <border city, municipality 
+   vT Q2012423 Silistra Province [1999–] | oblast of Bulgaria <oblast of Bulgaria> sl=70
+   vT Q2219334 Silistra | municipality in Silistra oblast, Bulgaria <municipality of Bulgaria> sl=21
+   v Q58385161 Silistra [1885–] | painting by Felix Kanitz <painting> sl=0
+   T Q1385946 Silistra eyalet [1593–1864] | Ottoman province <eyalet> sl=21
+[227] pl:ulyanovsk | city in Russia (Simbirsk)
+   vT Q5627 Ulyanovsk [1648–] | city in Ulyanovsk Oblast, Russia <big city, city or town> sl=111
+   vT Q5634 Ulyanovsk Oblast [1943–] | federal subject of Russia <federal subject of Russia, oblast of Russ
+   v Q30891273 Ulyanovsk | Yasen-class nuclear attack submarine <nuclear submarine, cruise missile submarine> 
+   v Q58197403 Ulyanovsk | cancelled Project 1143.7 aircraft carrier <aircraft carrier, abandoned entity> sl=0
+   vT Q19658930 Ul'yanovsk | human settlement in Arkhangelsk Oblast, Russia <hamlet, human settlement> sl=3
+[228] pl:shimla | summer capital of British India
+   vT Q83786 Shimla | capital of Himachal Pradesh, India <city, big city> sl=96
+   T Q1921404 Shimla District | district of Himachal Pradesh in India <district of India> sl=38
+   v Q20684937 Shimla | Bangladeshi film actress <human> sl=4
+   vT Q7496892 Shimla Airport | airport in India <airport, commercial traffic aerodrome> sl=14
+   vT Q15957702 Shimla Vidhan Sabha constituency | constituency of the Himachal Pradesh legislative assembly in
+[229] pl:simferopol | city in Crimea
+   *vT Q19566 Simferopol [1784–] | city in Crimea, Ukraine <big city, city or town> sl=125
+   v Q1329517 Jupiter intelligence ship | intelligence ship <spy ship> sl=4
+   T Q2237983 Simferopol Raion [1923–] | human settlement in Ukraine <raion of Ukraine, municipal district> s
+   v Q842331 /   | asteroid <asteroid> sl=34
+   vT Q2062717 Simferopol [1946–] | railway station in Crimea <railway station, architectural landmark> sl=11
+[231] pl:singapore | British colony
+   *vT Q334 Singapore [1965–] | sovereign island country and city-state in maritime Southeast Asia <big cit
+   T Q7522983 Singapore General Hospital [1821–] | hospital in Singapore <hospital> sl=15
+    Q15758715 Singapore Medical Journal [1960–] | journal <open-access journal, scientific journal> sl=1
+   vT Q1054746 Singapore Island | main island of the Republic of Singapore <island> sl=32
+   v Q140696604 Singapore | encyclopedia article <encyclopedia article> sl=1
+[232] pl:sicily | island of Italy
+   *vT Q1460 Sicily [1946–] | region of Italy (for the island in the Mediterranean Q4951156) <cultural regio
+   v Q55421237 Sicily | family name <family name> sl=1
+   vT Q4951156 Sicily | Italian island in the Mediterranean Sea <island> sl=24
+   v Q29723287 sicily | protein-coding gene in the species Drosophila melanogaster <gene> sl=0
+   v Q29815991 Severe impairment of CI with lengthened youth Dmel_CG15738 | protein found in Drosophila melano
+[233] pl:saxony | Kingdom of Saxony
+   *vT Q1202 Saxony [1918–] | federated state of Germany <federated state of Germany> sl=179
+   vT Q153015 Kingdom of Saxony [1806–1918] | former German state (1806-1918) <kingdom, historical country> s
+   v Q59360977 Saxony | family name <family name> sl=1
+   vT Q156199 Electorate of Saxony [1356–1806] | state of the Holy Roman Empire, established when Emperor Cha
+   T Q1206 Saxony-Anhalt [1990–] | state of Germany <federated state of Germany> sl=161
+[236] pl:slutsk | town in Belarus
+   *vT Q201243 Slutsk | city in Belarus <city of raion subordinance> sl=53
+   vT Q28380772 Slutsk | Sluck train station <railway station> sl=6
+   v Q108415374 Slutsk | family name <family name> sl=0
+   T Q148965 Slutsk Uyezd [1793–1924] | uyezd of the Russian Empire <uyezd of the Soviet Union, uezd of the 
+   T Q2091666 Sluck District [1924–] | district of Minsk region, Belarus <district of Belarus> sl=24
+[238] pl:smolensk | city in Russia
+   *vT Q2337 Smolensk [863–] | city and administrative center of Smolensk Oblast in central Russia <big city
+   v Q3811864 Smolensk | 1990 Oscar-II-class submarine <cruise missile submarine> sl=8
+   vT Q4353574 ORP Kraków |  <river monitor> sl=4
+   T Q2347 Smolensk Oblast [1937–] | federal subject of Russia <federal subject of Russia, oblast of Russi
+   vT Q856906 Livingston Island | island of the South Shetland Islands <island> sl=37
+[239] pl:smarhon | town in Belarus (Smorgon)
+   *vT Q958617 Smarhon [1503–] | city in Belarus <city of raion subordinance> sl=39
+   T Q954534 Smarhoń District [1940–] | district of Belarus <district of Belarus> sl=23
+   T Q4425171 Smarhoń | railway station in Smarhoń, Belarus <railway station> sl=6
+   vT Q7543811 Smarhon | airport in Smorgon, Belarus <airbase> sl=3
+   T Q17044947 flag of Smarhoń District [2004–] |  <flag of a country subdivision> sl=3
+[240] pl:samothrace | Aegean island
+   *vT Q203175 Samothrace | island in the north Aegean <island> sl=62
+   v Q27898834 Samothrace [1928–] | painting by Dines Carlsen <painting> sl=0
+   vT Q38283593 Palaiopoli Archaeological Site | archaeological site in Samothrace, Greece <polis, archaeologic
+   vT Q123706384 Samothrace | ancient Greek city <polis> sl=1
+   v Q139760227 Samothrace | American metal band <musical group> sl=1
+[242] pl:izmir | city in Anatolia (Smyrna)
+   vT Q35997 İzmir [-3000–] | city in İzmir Province, Turkey <metropolitan municipality in Turkey, port city
+   vT Q344490 İzmir Province [1922–] | province in west Turkey <province of Turkey> sl=87
+   T Q1536377 Gulf of İzmir | gulf of the Aegean Sea <bay, gulf> sl=25
+    Q6057545 Izmir [–1987] | ship built in 1955 <cruise ship> sl=3
+   T Q8080262 İzmir Büyükşehir Belediyesi SK [1979–] | Turkish sports club <handball team, sports club> sl=3
+[243] pl:semirechye | oblast of Russian Turkestan
+   vT Q2381321 Semirechye [1867–1924] | oblast of the Russian Empire and RSFSR <oblast of the Russian Empire, 
+   vT Q1067864 Semirechye | human settlement in Kugarchinsky District, Republic of Bashkortostan, Russia <admi
+   v Q2282432 Semirechye | breed of pig <pig breed> sl=3
+    Q1961888 Semirechye Cossacks | Cossack host in modern-day Kazakhstan and Kyrgyzstan <military unit> sl=1
+   T Q1005407 Jetisu | landscape in Central Asia <landscape> sl=39
+[246] pl:san-antonio | city in Texas
+   T Q975 / סן אנטוניו [1718–] | city in Texas <county seat, big city> sl=151
+   vT Q56581 San Antonio [1849–] | municipality of the Philippines in the province of Zambales <municipality
+   vT Q104052 San Antonio [1957–] | municipality of the Philippines in the province of Quezon <municipality o
+   vT Q175163 San Antonio | municipality of the Philippines in the province of Northern Samar <municipality o
+   vT Q30923 San Antonio | municipality of the Philippines in the province of Nueva Ecija <municipality of t
+[247] pl:shengjin | port in Albania (San Giovanni di Medua)
+   T Q43934 Liaoning [1907–] | province of China <province of China> sl=124
+   T Q11720 Shenyang | Prefecture-level and sub-provincial city in Liaoning, China <big city, prefecture-le
+   *vT Q606485 Shëngjin | city in Lezhë County, Albania <city, human settlement> sl=37
+   vT Q21020439 Shëngjin | Municipal unit in Lezhë County, Albania <Communes of Albania, bashkia> sl=4
+    Q112543106 Shengjing Shi | researcher in New Zealand <human> sl=0
+[249] pl:san-sebastian | city in Spain
+   *vT Q10313 San Sebastián [1180–] | municipality in Basque Country, Spain <municipality of Spain> sl=116
+   vT Q2167734 San Sebastián | municipality in Comayagua Department, Honduras <municipality of Honduras> sl=13
+   vT Q3947953 San Sebastián | municipality in Lempira Department, Honduras <municipality of Honduras> sl=11
+   vT Q2434304 San Sebastián [1562–] | Colombian municipality of the department of Cauca <municipality of Colo
+   vT Q61262240 San Sebastián | town in Los Reyes Municipality, State of Michoacán, Mexico <locality of Mexico>
+[250] pl:yesilkoy | suburb of Constantinople (San Stefano)
+   vT Q1010949 Yeşilköy | mahalle (administrative quarter) in Bakırköy, İstanbul–Europe, northwestern Turk <ma
+   vT Q8053367 Yeşilköy | mahalle (administrative quarter) in Haymana, Ankara, west-central Turkey <mahalle> s
+   vT Q10837545 Yeşilköy | mahalle (administrative quarter) in Şahinbey, Gaziantep, south-central Turkey <mahal
+   vT Q6769282 Yeşilköy | mahalle (administrative quarter) in Silvan, Diyarbakır, southeastern Turkey <mahalle
+   vT Q105640479 Yeşilköy | mahalle (administrative quarter) in Ergani, Diyarbakır, southeastern Turkey <mahalle
+[251] pl:san-francisco | city in California
+   *vT Q62 San Francisco [1776–] | city and county in California, United States <big city, city in the Uni
+   vT Q949535 San Francisco [1886–] | city in Argentina <city, municipality> sl=24
+   vT Q7413912 /   | railway station in San Francisco <dead-end railway station, railway station> sl=6
+   vT Q316332 San Francisco | municipality of the Philippines in the province of Cebu <municipality of the Ph
+   vT Q104063 San Francisco [1938–] | municipality of the Philippines in the province of Quezon <municipality
+[252] pl:mahabad | town in Persia (Saujbulagh)
+   *vT Q335518 Mahabad | city in West Azerbaijan Province, Iran <city of Iran> sl=51
+   T Q750775 Mahabad County | county in West Azerbaijan province, Iran <county of Iran> sl=23
+   v Q25433466 Mahabad | constituency of the Iranian parliament <electoral unit> sl=3
+   vT Q5859528 Mahabad | village in Firuzkuh County, Iran <village> sl=7
+   T Q5723505 Mahabad River | river in Iran <river> sl=6
+[253] pl:st-louis | city in Missouri
+   vT Q38022 St. Louis [1764–] | independent city in Missouri, United States <big city, city in the United S
+   v Q63430950 St. Louis | family name <affixed family name> sl=1
+   v Q96278264 St. Louis | vocal track by The Easybeats; 1969 studio recording <music track with vocals> sl=0
+    Q504309 St. Louis Cardinals [1882–] | Major League Baseball franchise in St. Louis, Missouri <baseball 
+   vT Q273779 Saint-Louis [1659–] | city and regional capital in Senegal <city, department of Senegal> sl=67
+[254] pl:saint-petersburg | capital of the Russian Empire (Petrograd from 1914
+   vT Q656 Saint Petersburg [1703–] | federal city and former capital of Russia <federal subject of Russia
+   vT Q49236 St. Petersburg [1876–] | city in Pinellas County, Florida, United States <big city, city in the
+   T Q2495829 Saint Petersburg Mining University [1773–] | technical university in Russia <national research 
+   T Q27621 Saint Petersburg State University [1724–] | Russian federal state-owned higher education instit
+   T Q628254 Imperial Academy of Arts [1757–] | art school in Saint Petersburg, Russia <art academy> sl=38
+[255] pl:sanaa | city in Yemen
+   v Q737536 SANAA [1995–] | Architecture firm (est.1995) based in Tokyo <architectural firm> sl=25
+   v Q26055862 Sanaa | given name <given name> sl=1
+   v Q10661069 Sanaa | genus of insects <taxon> sl=6
+   *vT Q2471 Sanaa | capital city of Yemen <city, big city> sl=173
+   vT Q388291 Sanaa Governorate | governorate of Yemen <governorate of Yemen> sl=41
+[256] pl:spain | country
+   *vT Q29 Spain [1516–] | country in southwestern Europe with territories in Africa <country, nation stat
+   v Q16932431 Spain | family name <family name> sl=4
+   v Q42267 Spain men's national football team | men's national association football team representing Spai
+   vT Q178038 Second Spanish Republic [1931–1939] | political regime established in Spain between April 14, 1
+   vT Q170603 New Spain [1521–1820] | viceroyalty of the Spanish Empire (1535-1821) <viceroyalty of the Spani
+[257] pl:shkoder | city in northern Albania (Scutari)
+   vT Q131638 Shkodër | city in northwestern Albania <city, human settlement> sl=97
+   T Q193438 Shkodër County | country of Albania <county of Albania> sl=67
+   T Q16350146 Shkodër municipality | municipality of Albania <municipality of Albania> sl=4
+   T Q194176 Shkodër District | former geographic subdivision of Albania <district of Albania> sl=43
+   T Q30621485 Shkodër railway station | railway station in Shkodër County, Abania <railway station> sl=3
+[258] pl:skopje | city in Macedonia (Üsküb)
+   *vT Q384 Skopje | capital city of North Macedonia <capital city, big city> sl=197
+   T Q21115 Skopje Statistical Region | Region in North Macedonia <administrative territorial entity, stati
+   v Q115794574 Scopien (titular see) | titular see <titular see> sl=0
+   T Q68037265 Skopje 2003 | sports club <sports club> sl=0
+   T Q3097759 Skopje Train Station | main railway station in Skopje, Macedonia <railway station, bus station>
+[260] pl:saratov | city in Russia
+   *vT Q5332 Saratov [1590–] | city in Saratov Oblast, Russia <big city, city or town> sl=148
+   vT Q111363441 Saratov [–2022] | Alligator-class landing ship <landing ship> sl=11
+   T Q5334 Saratov Oblast [1936–] | federal subject of Russia <federal subject of Russia, oblast of Russia
+    Q47508662 Sarátov [1762–] |  <ship of the line> sl=2
+   T Q400422 Saratov State University [1909–] | university in Saratov, Russia <building complex, national re
+[262] pl:sarajevo | city in Bosnia
+   *vT Q11194 Sarajevo [1462–] | capital city of Bosnia and Herzegovina <city, federal capital> sl=218
+   vT Q9333848 Sarajevo | railway station in Bosnia and Herzegovina <railway station> sl=13
+   v Q139734219 Sarajevo |  <literary work> sl=0
+    Q9657 1984 Winter Olympics [1984–1984] | 14th edition of Winter Olympics, in Sarajevo, Yugoslavia <Wi
+   T Q18276 Sarajevo Canton [1995–] | canton in Bosnia and Herzegovina <canton of the Federation of Bosnia 
+[263] pl:serres | town in Macedonia
+   vT Q470668 Serres | commune in Hautes-Alpes, France <commune of France> sl=45
+   vT Q1019240 Serres | commune in Aude, France <commune of France> sl=44
+   vT Q226414 Serres | commune in Meurthe-et-Moselle, France <commune of France> sl=37
+   vT Q206957 Serres | city in Central Macedonia, Greece <city> sl=57
+   T Q1368231 Serres-sur-Arget | commune in Ariège, France <commune of France> sl=35
+[267] pl:old-city-jerusalem | walled city of Jerusalem
+   T Q213274 Old City of Jerusalem [-1001–] | walled area within the modern city of Jerusalem <administrativ
+   T Q748211 Old Town | neighborhood of Prague, Czech Republic <city center, urban area> sl=51
+   T Q579854 Gamla stan | urban district in Stockholm, Sweden <quarter> sl=45
+   T Q971198 Altstadt-Lehel | borough of Munich, Germany <borough of Munich> sl=22
+[268] pl:acre-israel | town in the Galilee
+   vT Q40780 Acre [1962–] | state in the North Region of Brazil <federative unit of Brazil, state of Brazil>
+   vT Q81292 acre | unit of area <unit of area, English unit of measurement> sl=88
+   v Q16158001 Acre | family name <family name> sl=2
+   vT Q126084 Acre [-1499–] | city in Israel <city> sl=103
+    Q4675103 Acremonium | genus of fungi <taxon> sl=17
+[271] pl:hartuv | Jewish colony near Jerusalem (Artuf)
+   vT Q2919698 Hartuv [1883–] | agricultural colony in the Judean Hills (1883-1948) <former settlement> sl=8
+   T Q116350116 Hartuv Interchange | Interchange in Israel <interchange> sl=1
+   T Q34940376 Hårtuva | point in Norway <point> sl=1
+   T Q2646503 Hart Island | island in the Bronx, New York City, United States, at the western end of Long Is 
+    Q126690158 /   |  <> sl=0
+[272] pl:arabian-peninsula | Arabia
+   vT Q31945 Arabian Peninsula | peninsula in Western Asia <province, peninsula> sl=149
+    Q15043573 Peninsular Arabic | variety of the Arabic language spoken around the Arabian Peninsula <modern 
+    Q22137063 history of the Saudi Arabian Peninsula | occurrences and people in the Saudi Arabia Peninsula t
+   T Q17002300 Arabian Peninsula coastal fog desert | Ecoregion (WWF) <ecoregion, WWF ecoregion> sl=10
+    Q15077847 Arabian Peninsula People's Union [1959–] | political party <political party> sl=6
+[273] pl:padua | city in Italy
+   *vT Q617 Padua [-1182–] | commune and capital city of the Province of Padua, Veneto, Italy <city-state, 
+   v Q37269841 Padua | family name <family name> sl=1
+   v Q112220423 Padua | district in Merauke Regency, South Papua Province, Indonesia <distrik> sl=1
+   vT Q24740141 Padua | village in Merauke Regency, South Papua, Indonesia <kampung of Papua> sl=1
+   T Q16226 Province of Padua | province of Veneto, Italy <province of Italy> sl=86
+[275] pl:pavlovsky-posad | town in Moscow Governorate
+   *vT Q177908 Pavlovsky Posad [1328–] | human settlement in Pavlovo-Posadsky District, Moscow Oblast, Russia 
+   vT Q4341791 Pavlovsky Posad | railway station in Moscow Oblast, Russia <railway station> sl=4
+    Q4487383 flag of Pavlovsky Posad [2007–] |  <municipal flag> sl=1
+   T Q123904207 Pavlovsky Posad Ordzhonikidze Street 7 | building in Pavlovsky Posad <apartment building> sl=1
+   T Q123904848 Pavlovsky Posad Kirova street 91 | building in Pavlovsky Posad <apartment building> sl=1
+[277] pl:belem | city in Brazil (Pará)
+   vT Q18500330 Belém [2013–] | civil parish in the municipality of Lisboa, Portugal <freguesia of Portugal> sl
+   vT Q12829733 Belém [1616–] | municipality of Pará state, Brazil <big city, municipality of Brazil> sl=110
+    Q815384 Belem | barque built in 1896 <three-masted barque> sl=10
+    Q87754977 Belem | female given name <female given name> sl=1
+   vT Q49863297 Belém | town in Otumba Municipality, State of México, Mexico <locality of Mexico> sl=5
+[278] pl:faro | city in Portugal
+   vT Q159457 Faro [1266–] | municipality in Faro District, Portugal <municipality of Portugal> sl=88
+   T Q4628 Faroe Islands [1948–] | North Atlantic archipelago organized as an autonomous constituent count
+   vT Q63384606 Faro | ACTV stop in Venice on Murano <landing> sl=1
+   v Q9258075 Faro | male given name <male given name> sl=1
+   vT Q244521 Faro District | district of Portugal <district of Portugal> sl=56
+[279] pl:paris | capital of France
+   *vT Q90 Paris [-300–] | capital and most populous city in France <megacity, metropolis> sl=367
+   v Q483020 Paris Saint-Germain FC [1970–] | association football club in Paris, France having two UCL <ass
+   vT Q830149 Paris [1845–] | city in and county seat of Lamar County, Texas, United States <county seat, cit
+   v Q18331346 Paris | family name <family name, toponymic surname> sl=2
+   v Q162121 Paris | genus of plants <taxon> sl=45
+[280] pl:parma | city in Italy
+   vT Q2683 Parma | city in the northern Italian region of Emilia-Romagna <city, comune of Italy> sl=125
+   vT Q862711 Parma [1816–] | city in Cuyahoga County, Ohio, United States <city in the United States> sl=50
+   v Q141315 Parma | genus of fishes <taxon> sl=18
+   v Q2693 Parma Calcio 1913 [1913–] | Italian professional football club based in Parma, Emilia-Romagna <
+   v Q2053682 parma | round shield used by the Roman army <weapon model> sl=14
+[282] pl:treptower-park | park in Berlin
+   vT Q559274 Berlin Treptower Park station | train station of the Berlin S-Bahn <Berlin S-Bahn station> sl=1
+   vT Q666937 Treptower Park [1876–] | park in Berlin, Germany <park> sl=22
+    Q134539864 Treptower Park 14 in East Berlin, German Democratic Republic. [1955–] |  <painting> sl=0
+    Q47523648 /  [1981–] | painting by Hartmut Staake <painting> sl=0
+   T Q48441 Soviet War Memorial [1949–] | war memorial and military cemetery in Berlin's Treptower Park, Ge
+[284] pl:pabianice | town in Poland
+   *vT Q158589 Pabianice | city in the Łódź Voivodeship in central Poland <urban municipality of Poland> sl=54
+   vT Q677536 Gmina Pabianice | rural gmina of Poland <rural municipality of Poland> sl=18
+   T Q1164895 Pabianice County | powiat of Poland <powiat> sl=31
+    Q23862585 /   | article in Otto's encyclopedia <encyclopedia article> sl=1
+   T Q7121544 Pabianice, Silesian Voivodeship | village in Silesian, Poland <village of Poland> sl=6
+[286] pl:fagaras | town in Transylvania
+   *vT Q685869 Făgăraș [1291–] | city in Brașov County, Romania <municipality of Romania> sl=50
+   vT Q16898141 Făgăraș [1291–] | locality in Brașov County, Romania <constituent locality, municipality seat o
+   T Q60675934 Făgăraș railway station | railway station in Făgăraș, Romania <railway station> sl=3
+   T Q847604 Făgăraș Mountains | mountain range in Romania <mountain range> sl=34
+    Q409366 lupeol | chemical compound <type of chemical entity> sl=16
+[287] pl:podgorica | town in Montenegro
+   *vT Q23564 Podgorica | capital city of Montenegro <city, big city> sl=192
+   T Q3305250 Podgorica Capital City | Capital City of Montenegro <municipality of Montenegro> sl=24
+   vT Q2577994 Podgorica | place in Styria, Slovenia <dispersed settlement> sl=14
+   vT Q4020045 Podgorica | place in Lower Carniola, Slovenia <human settlement> sl=12
+   T Q1166175 Podgorica City Stadium [1945–] | Football stadium in Montenegro <association football venue> sl
+[290] pl:busan | port in Korea (Fusan)
+   *vT Q16520 Busan | metropolitan city of South Korea <city, metropolitan city of South Korea> sl=145
+   v Q106353854 Busan | family name <family name> sl=0
+    Q495027 Busan IPark FC [1979–] | football club in Busan, Korea <association football club> sl=41
+    Q45449665 Bušan | Ming dynasty person CBDB = 123954 <human> sl=4
+   T Q494906 2002 Asian Games [2002–2002] | 14th edition of the Asian Games <multi-sport event> sl=37
+[291] pl:poznan | city in Prussian Poland (Posen)
+   *vT Q268 Poznań | capital of the Greater Poland Voivodeship in west-central Poland <Hanseatic city, city
+    Q11826128 Poznan | male given name <male given name> sl=1
+    Q23858340 Poznaň | article in Otto's encyclopedia <encyclopedia article> sl=1
+   T Q101575 Poznań County | powiat of Poland <powiat> sl=31
+    Q27890737 Poznański | family name <family name, masculine family name> sl=4
+[292] pl:potsdam | city near Berlin
+   *vT Q1711 Potsdam | capital city of the German state of Brandenburg <college town, district independent c
+   T Q647973 Potsdam central station | central railway station in Potsdam, Germany <railway station, Berlin 
+   T Q6142 Potsdam-Mittelmark District [1993–] | district in Brandenburg state, Germany <rural district of
+   vT Q1022943 Potsdam | town in St. Lawrence County, New York, United States <town in the United States, town
+   v Q113290497 Potsdam | warship (GDR) <warship> sl=1
+[294] pl:poland | Congress Poland / Polish lands
+   *vT Q36 Poland [1918–] | country in Central Europe <country, sovereign state> sl=391
+   vT Q172107 Polish–Lithuanian Commonwealth [1569–1795] | historical multinational monarchist state in Easte
+   v Q7208891 Poland | family name <family name> sl=3
+   v Q63197748 Poland | badminton player <human> sl=0
+   vT Q171348 Crown of the Kingdom of Poland [1386–1795] | 1385–1795 territorial possessions of the King of P
+[295] pl:pompeii | ancient city near Naples
+   vT Q43332 Pompeii [-600–] | ancient Roman city near modern Naples, Italy <archaeological site, ancient ci
+   vT Q36471 Pompei [1891–] | city in Campania, southern Italy <comune of Italy> sl=68
+   v Q3396071 Pompeii | 2014 film directed by Paul W. S. Anderson <film> sl=36
+   v Q37559636 Pompeii | family name <family name> sl=0
+   v Q1507713 Pompeia gens | Roman gens <gens> sl=14
+[296] pl:focsani | town in Romania
+   *vT Q192265 Focșani [1482–] | capital of the county of Vrancea, Romania <municipality of Romania, county se
+   vT Q16898650 Focșani [1482–] | locality in Vrancea County, Romania <constituent locality, municipality seat 
+   T Q12728813 Focșani railway station | railway station in Focșani, Romania <railway station> sl=3
+    Q122785667 Focsani | ship built in 1976 <ship> sl=0
+    Q111302658 Focșani Gate | militarily and strategically important area in Romania and NATO <human-geographi
+[297] pl:port-au-prince | capital of Haiti
+   *vT Q34261 Port-au-Prince [1749–] | capital of Haiti <big city, city or town> sl=158
+   T Q2222007 Port-au-Prince Arrondissement | arrondissement of Haiti <arrondissement of Haiti> sl=18
+    Q3004136 Port au Prince [1790–] | ship <slave ship, sailing ship> sl=4
+   vT Q24065184 Port-Au-Prince | crater on Mars <Mars crater> sl=2
+    Q77587048 Port Au Prince [1976–] | painting by Sheila Eaton Isham <painting> sl=0
+[298] pl:lushunkou-district | Port Arthur, Manchuria
+   vT Q623329 Lüshunkou District | district of Liaoning Province, China <Municipal district> sl=43
+   vT Q45400 Port Arthur | city in Jefferson County, Texas, United States <city in the United States> sl=55
+   vT Q999109 Port Arthur | small town and former convict settlement on the Tasman Peninsula, in Tasmania, A 
+   vT Q34116 Thunder Bay [1683–] | city in Thunder Bay District, Ontario, Canada <city, big city> sl=65
+   vT Q2343093 VIII District | city district in Turku, Finland <district of Turku> sl=6
+[300] pl:porto | city in Portugal
+   vT Q36433 Porto | municipality in Porto District, Portugal <big city, municipality of Portugal> sl=141
+   v Q37482660 Porto | family name <family name, toponymic surname> sl=2
+   T Q40269 Porto Alegre [1772–] | municipality of Rio Grande do Sul state, Brazil <big city, municipality 
+   vT Q33707919 Porto | city seat of Porto district and municipality <big city, municipality seat> sl=2
+   vT Q128446 FC Porto [1893–] | professional association football club based in Porto, Portugal <association
+[301] pl:portugal | country
+   *vT Q45 Portugal [1128–] | country in Southwestern Europe <country, sovereign state> sl=373
+   v Q14110517 Portugal | family name <family name, toponymic surname> sl=3
+    Q267245 Portugal men's national football team | men's national association football team representing P
+   v Q7232531 Portugal [1987–] | constituency of the European Parliament <constituency of the European Parlia
+   T Q5146 Portuguese | Western Romance language <natural language, spoken language> sl=297
+[303] pl:taiwan | island (Formosa), Japanese colony
+   *vT Q865 Taiwan [1912–] | country in East Asia <political entity, continental country> sl=316
+   v Q18112781 Taiwan | genus of insects <taxon> sl=1
+   vT Q137816 Taiwan under Japanese rule [1895–1945] | period of Taiwanese history (1895–1945) <colony, histo
+   vT Q22502 Taiwan Island | island in East Asia; main land of the Republic of China (Taiwan) <island> sl=97
+    Q262828 Standard Taiwanese Mandarin | variety of Modern Standard Chinese serving as the official langua
+[307] pl:peterhof | imperial residence near St Petersburg
+   T Q1258473 Peterhof Palaces and complex [1711–] | Peterhof Palace & Park ensemble <protected area, palace 
+   *vT Q178310 Peterhof [1711–] | city in Russia <city municipality> sl=66
+   T Q4360238 Peterhof Museal Reserve [1918–] | reserve in Russia <nonprofit organization, museum-reserve> sl
+   vT Q135471248 Peterhof | isolated farm in the municipality of Argenbühl, Baden-Württemberg, Germany <isolated
+   v Q2623487 13923 Peterhof | asteroid <asteroid> sl=19
+[308] pl:makhachkala | port in Dagestan (Petrovsk-Port)
+   *vT Q5168 Makhachkala [1844–] | city in Dagestan, Russia <city, big city> sl=118
+   vT Q16638662 Makhachkala Urban Okrug [2005–] | district in Dagestan, Russia <second-level administrative div
+   T Q68075624 Makhachkala Lighthouse [1852–] | lighthouse in Dagestan <lighthouse, architectural landmark> sl
+   T Q4285675 Makhachkala railway station | railway station in Russia <railway station> sl=2
+   v Q126980689 Makhachkala |  <corvette> sl=2
+[309] pl:petrosani | town in Transylvania
+   *vT Q746041 Petroșani [1640–] | city in Hunedoara County, Romania <city, municipality of Romania> sl=43
+   vT Q10858324 Petroșani [1900–] | village in Constanța County, Romania <village> sl=11
+   vT Q16898319 Petroșani [1640–] | locality in Hunedoara County, Romania <constituent locality, municipality s
+   T Q60807517 Petroșani railway station | railway station in Petroșani, Romania <railway station> sl=2
+   T Q60807486 Petroșani Triaj railway station | railway station in Romania <railway station> sl=0
+[310] pl:patras | city in Greece
+   *vT Q133123 Patras | city in Greece <city, big city> sl=100
+   v Q37320307 Patras | family name <family name> sl=1
+   v Q115626573 Patras | male given name <male given name> sl=0
+   T Q12875753 Municipality of Patras | municipality of Greece <municipality of Greece> sl=8
+   vT Q1143224 Latin Archdiocese of Old Patras | Residential and then titular Catholic see in Greece <titular 
+[311] pl:piotrkow-trybunalski | town in Poland
+   *vT Q158004 Piotrków Trybunalski [1217–] | city with powiat rights of Poland <city, city with powiat rights
+   vT Q33706828 Piotrków Trybunalski |  <> sl=1
+   T Q30092012 Piotrków Trybunalski train station [1864–] |  <institutional complex> sl=1
+    Q11797298 Sejm Constituency no. 10 | electoral district for the Sejm of the Republic of Poland <constitue
+   T Q2684289 Piotrków Trybunalski Wąskotorowy train station [1920–] | former narrow railway station in Piotr
+[315] pl:philadelphia | city in Pennsylvania
+   vT Q1345 Philadelphia [1682–] | largest city in the U.S. state of Pennsylvania and seat of Philadelphia 
+   v Q204057 Philadelphia | 1993 film by Jonathan Demme <film> sl=56
+   vT Q3805 Amman | capital of Jordan <city, big city> sl=195
+   T Q510324 Philadelphia Museum of Art [1876–] | art museum in Philadelphia, Pennsylvania <nonprofit organi
+   v Q62575381 Philadelphia | female given name <female given name> sl=1
+[318] pl:finland | Grand Duchy of Finland
+   *vT Q33 Finland [1917–] | country in Northern Europe <country, unitary state> sl=403
+   vT Q62633 Grand Duchy of Finland [1809–1917] | predecessor state of modern Finland <grand duchy, general 
+   T Q2983474 Finnish National Gallery [2014–] | organization of three museums that make up the largest art m
+    Q499029 Social Democratic Party of Finland [1899–] | registered political party in Finland <political p
+   v Q5450446 Finland [1996–] | constituency of the European Parliament <constituency of the European Parliam
+[319] pl:pinsk | town in Belarus
+   *vT Q204150 Pinsk [1097–] | city in Brest region, Belarus <big city, city of oblast subordinance> sl=68
+   T Q1885558 Pinsk district [1940–] | district of Belarus <district of Belarus> sl=28
+    Q21453237 Pinsky | family name <family name> sl=4
+    Q21476726 Pinsker | family name <family name> sl=2
+   vT Q54865359 Pinsk | railway station in Belarus <railway station> sl=5
+[320] pl:piraeus | port of Athens
+   *vT Q58976 Piraeus | city and port of Attica region, Greece <big city> sl=98
+   vT Q28829238 Piraeus railway station | Athens suburban railway station in Piraeus, Athens, Greece <dead-end 
+   T Q12875755 Piraeus Municipality | municipality in Athens, Greece <municipality, municipality of Greece> sl
+   vT Q13426467 Piraeus | ancient Athenian deme <deme> sl=3
+   vT Q82310 Port of Piraeus | chief port of Athens <seaport> sl=24
+[321] pl:florence | city in Italy
+   v Q950780 Florence | female given name <female given name> sl=10
+   vT Q597842 Florence | county seat of Florence County, South Carolina, United States <county seat, city in 
+   *vT Q2044 Florence | Italian city and commune, located in Tuscany <comune of Italy, big city> sl=214
+   v Q51844095 Florence | 2018 interactive story and video game <video game> sl=14
+   v Q108484951 Florence | bishop of the Roman Catholic Church <human> sl=0
+[322] pl:pleven | town in Bulgaria (Plevna)
+   vT Q165420 Pleven | city in Pleven municipality, Pleven oblast, Bulgaria <big city, city in Bulgaria> sl=8
+   v Q26224948 Pleven | family name <family name> sl=1
+   T Q1013509 Pléven [–2024] | former commune in Côtes-d'Armor, France <commune of France> sl=41
+   vT Q2012242 Pleven Province [1999–] | oblast of Bulgaria <oblast of Bulgaria> sl=72
+   vT Q2657334 Pleven | municipality in Pleven oblast, Bulgaria <municipality of Bulgaria> sl=20
+[323] pl:plovdiv | city in Bulgaria (Philippopolis)
+   vT Q459 Plovdiv | city in Plovdiv municipality, Plovdiv oblast, Bulgaria <city in Bulgaria, oblast seat
+   vT Q187874 Plovdiv Province [1999–] | oblast of Bulgaria <oblast of Bulgaria> sl=74
+   vT Q4365146 Plovdiv | municipality in Plovdiv oblast, Bulgaria <municipality of Bulgaria> sl=15
+   v Q749293 3860 Plovdiv | asteroid <asteroid> sl=27
+   v Q104632640 Plovdiv | painting by Henryk Krych <painting> sl=0
+[324] pl:ploiesti | city in Romania
+   *vT Q179585 Ploiești [1503–] | capital of the county of Prahova, Romania <big city, municipality of Romania
+   T Q11819742 Ploiești Sud railway station | railway station in Ploiești, Romania <railway station> sl=3
+   T Q18540350 Ploiești Vest railway station | railway station in Ploiești, Romania <railway station> sl=3
+   vT Q49280734 Ploiești [1503–] | constituent locality of the city of Ploiești, Romania <constituent locality,
+   T Q18540349 Ploiești Nord railway station | railway station in Ploiești, Romania <railway station> sl=3
+[326] pl:florina | town in Macedonia
+   *vT Q202272 Florina | town in Western Macedonia, Greece <human settlement> sl=54
+   vT Q52869052 Florina | State suburb in Northern Territory, Australia <suburb/locality of Australia> sl=1
+   T Q3558683 Florina Municipality | municipality of Macedonia, Greece <municipality of Greece> sl=11
+    Q16275851 /   | female given name <female given name> sl=4
+    Q12728444 Florina Cercel | Romanian actor <human> sl=5
+[327] pl:plymouth | port in England
+   v Q1124857 Plymouth [1928–2001] | American vehicle brand <trademark, car brand> sl=30
+   vT Q1640912 Plymouth [1825–] | city in Wayne County, Michigan, United States <city in the United States> sl
+   vT Q2028307 Plymouth [1787–] | town in North Carolina, United States <county seat, town in the United State
+   vT Q1570359 Plymouth | city in Sheboygan County, Wisconsin, United States <fourth-class city> sl=33
+   vT Q43382 Plymouth | city in Devon, England <city, civil parish> sl=110
+[332] pl:flanders | region of Belgium
+   v Q16869959 Flanders | family name <family name> sl=2
+   vT Q234 Flanders | ethnic territory of the Flemish people <ethnic territory> sl=110
+   vT Q157070 County of Flanders [866–1797] | county and historic territory in the Low Countries <countship, 
+   vT Q9337 Flemish Region [1980–] | federal region of Belgium <region> sl=62
+   vT Q9331 Flemish Community [1980–] | one of the three official communities in Belgium <community of Belg
+[333] pl:flensburg | town in Schleswig
+   vT Q3798 Flensburg | town in Schleswig-Holstein, Germany <major regional center, urban municipality in G
+   T Q459134 Flensburg station | railway station in Flensburg, Germany <railway station, border train statio
+   vT Q1012323 Flensburg | city in Morrison County, Minnesota, United States <city in the United States> sl=37
+   v Q33120907 Flensburg | family name <family name> sl=1
+   vT Q1787285 Flensburg [1867–1974] | former rural district of Germany <rural district> sl=3
+[334] pl:ottoman-palestine | Ottoman Palestine
+   vT Q617602 Palestine [1846–] | city in and county seat of Anderson County, Texas, United States <county se
+   vT Q219060 Palestine [1988–] | political entity that enjoys incomplete recognition as a state, located in 
+   vT Q23792 Palestine | geographic region in West Asia <divided region, historical region> sl=151
+   vT Q193714 Mandatory Palestine [1920–1948] | League of Nations Mandate in the Middle East under British ad
+    Q15733002 Palestine Exploration Quarterly [1865–] | academic journal <academic journal, scientific journa
+[335] pl:penang | island in British Malaya
+   vT Q188096 Penang [1786–] | Malaysian state <state of Malaysia> sl=89
+   vT Q20584173 Penang | village in Bondowoso Regency, East Java, Indonesia <desa> sl=4
+   vT Q24819337 Pinang Island | island in South Nias Regency, North Sumatra Province, Indonesia <islet> sl=1
+   T Q61092 George Town [1786–] | capital city of the Malaysian state of Penang <city, big city> sl=81
+   vT Q1150673 Penang Island | island on west coast of Penang, Malaysia <island, administrative territorial en
+[337] pl:penza | city in Russia
+   vT Q5540 Penza [1663–] | city in central Russia <administrative divisions of Russia, big city> sl=100
+   vT Q5545 Penza Oblast [1939–] | federal subject of Russia <federal subject of Russia, oblast of Russia> 
+   T Q208209 Penzance | town and civil parish in Cornwall, England, UK <town, civil parish> sl=59
+   v Q10804641 Penza | genus of insects <taxon> sl=1
+   v Q683025 3189 Penza | asteroid <asteroid> sl=29
+[340] pl:beijing | capital of China (Peking)
+   *vT Q956 Beijing | capital city of China <city, global city> sl=307
+   T Q193074 2022 Winter Olympics [2022–2022] | 24th edition of Winter Olympics, in Beijing, China <Winter O
+    Q8567 2008 Summer Olympics [2008–2008] | Games of the XXIX Olympiad, in Beijing, China <Summer Olympi
+   T Q16952 Peking University [1898–] | university in Beijing, China <public university, higher education i
+    Q1143153 China Standard Time | time zone <time zone> sl=21
+[341] pl:prague | city in Bohemia
+   *vT Q1085 Prague [800–] | capital city of the Czech Republic <region of the Czech Republic, electoral uni
+   T Q31519 Charles University [1348–] | oldest and largest university in the Czech Republic <Czech researc
+   v Q121755980 Prague | family name <family name> sl=0
+   T Q973974 Prague 1 [1973–] | administrative district, municipal district and municipal part of Prague <ad
+   vT Q1953283 Prague | city in Oklahoma, United States <city in the United States> sl=37
+[343] pl:beyoglu | European quarter of Constantinople (Pera)
+   *vT Q217411 Beyoğlu [1926–] | district of İstanbul, northwestern Turkey <neighborhood, district of Turkey> 
+   vT Q1898768 Beyoğlu | mahalle (adminstrative quarter) in Türkoğlu, Kahramanmaraş, southern Turkey <mahalle>
+   vT Q10739553 Beyoğlu | mahalle (administrative quarter) in Tekkeköy, Samsun, northern Turkey <mahalle> sl=4
+   vT Q6845193 Beyoğlu | village in Tuzluca, Iğdır, eastern Turkey <village of Turkey> sl=5
+   vT Q6845151 Beyoğlu | mahalle (administrative quarter) in Şarköy, Tekirdağ, northwestern Turkey <mahalle> s
+[345] pl:prussia | Kingdom of Prussia
+   vT Q38872 Prussia [1525–1933] | common term for the Duchy, the Kingdom and the Free State of Prussia (152
+   v Q37297732 Prussia | family name <family name> sl=1
+   vT Q918723 Prussia | historical region in Central Europe <historical region> sl=34
+    Q35501 Old Prussian | extinct Western Baltic language <dead language, modern language> sl=70
+    Q28453512 Prussian medical blue | dark blue pigment used as a medication <WHO essential medicines> sl=11
+[346] pl:pretoria | city in South Africa
+   *vT Q3926 Pretoria [1855–] | administrative capital of South Africa located in the Gauteng province <admi
+   vT Q604444 University of Pretoria [1908–] | university in South Africa <university, higher education insti
+   v Q14867231 Pretoria | genus of insects <taxon> sl=4
+   T Q133083 Gauteng [1994–] | province in South Africa <province of South Africa> sl=99
+   v Q388719 790 Pretoria | outer main-belt asteroid <asteroid> sl=39
+[347] pl:friedrichstrasse | street in Berlin
+   *vT Q316893 Friedrichstraße | street in Berlin, Germany <street> sl=24
+   T Q3753274 Friedrichstraße metro station | metro station in Berlin <underground station, Berlin U-Bahn sta
+   vT Q130560385 Friedrichstraße | street in Grevenbroich, North Rhine-Westphalia, Germany <street> sl=0
+   vT Q15830813 Friedrichstraße | street in Bonn, Germany <street> sl=3
+   vT Q61754725 Friedrichstraße | street in Dresden, Germany <street> sl=1
+[348] pl:ferizaj | town in Kosovo (Ferizović/Uroševac)
+   *vT Q738901 Ferizaj | third largest city of Kosovo <city> sl=45
+   T Q868964 Ferizaj District [2000–] | district of the Republic of Kosovo <district of Kosovo> sl=35
+   T Q2048755 Ferizaj Municipality [1960–] | municipality in Kosovo <municipalities and cities of Serbia, mun
+   T Q132017089 Ferizaj railway station | railway station in Kosovo <railway station> sl=2
+   T Q131349946 history of Ferizaj | aspect of history <aspect of history> sl=2
+[352] pl:prilep | town in Macedonia
+   *vT Q157032 Prilep | city and seat of Prilep Municipality, North Macedonia <city> sl=70
+   T Q6312454 Prilep Municipality | local administrative unit (opština) in North Macedonia <municipality of N
+   vT Q4378525 Prilep | village in Sungurlare municipality, Burgas oblast, Bulgaria <kmetstvo of Bulgaria, vil
+   vT Q4378527 Prilep | village in Dobrich-selska municipality, Dobrich oblast, Bulgaria <village of Bulgaria>
+   vT Q15577530 Prilep | village in Kosovo <village, cadastral municipality of Serbia> sl=10
+[353] pl:perm | city in Russia
+   vT Q5400 Perm Krai [2005–] | krai and federal subject in Volga Federal District, Russia <federal subject
+   vT Q915 Perm [1723–] | city in Russia <million city, big city> sl=135
+   v Q30891277 Perm | Yasen-class nuclear attack submarine <cruise missile submarine, nuclear submarine> sl=4
+    Q1193907 link rot | phenomenon in which URLs gradually tend to cease functioning <Wikibase reason for de
+   v Q23864327 Perm | article in Otto's encyclopedia <encyclopedia article> sl=1
+[354] pl:mount-parnassus | mountain in Greece
+   *vT Q105261 Mount Parnassus | mountain in Phthiotis Regional Unit, Greece <mountain> sl=66
+   v Q106814065 Mount Parnassus [1803–] | drawing - Sir Robert Smirke the younger <drawing> sl=0
+   vT Q21922156 Mount Parnassus | mountain in Australia <mountain> sl=1
+   vT Q31677390 Mount Parnassus | mountain in New Zealand <mountain, hill> sl=1
+   T Q8537181 Mount Parnassus (Colorado) | mountain in United States of America <mountain> sl=3
+[355] pl:frantiskovy-lazne | spa town in Bohemia (Franzensbad)
+   *vT Q756581 Františkovy Lázně | town in the Czech Republic <municipality of the Czech Republic, municipalit
+   vT Q56413298 Františkovy Lázně | core part of the town <core municipal part with the same name as the munici
+   vT Q110714931 Františkovy Lázně | cadastral area in Cheb District, Karlovy Vary Region, Czech Republic <cadas
+   T Q2159153 Františkovy Lázně railway station | railway station in Františkovy Lázně, Czech Republic <railw
+    Q121979232 /   | book edition published in 2011 <version, edition or translation> sl=0
+[356] pl:frankfurt | Frankfurt am Main
+   vT Q1794 Frankfurt [100–] | most populated city of Hesse, Germany <global city, business cluster> sl=212
+   T Q4024 Frankfurt (Oder) [1201–] | city in Brandenburg, Germany <city, border city> sl=96
+   vT Q38245 Eintracht Frankfurt [1899–] | sports club based in Frankfurt am Main, Hesse, Germany <sports cl
+    Q151139 Frankfurt Stock Exchange [1585–] | stock exchange located in Frankfurt, Germany <stock exchange
+   T Q163804 Städel Museum [1816–] | art museum in Frankfurt, Germany <art museum, nonprofit organization> s
+[358] pl:persia | Qajar Iran
+   vT Q83311 Persian Empire [-549–1979] | succession of empires (6th century–1979) ruling modern-day Iran an
+   T Q9168 Persian [-600–] | Western Iranian language <natural language, language family> sl=268
+    Q48952 Persian Wikipedia [2003–] | Persian-language edition of Wikipedia <Wikipedia language edition> 
+   v Q37445339 Persia | family name <family name> sl=1
+   v Q19979294 Persia | American pornographic actress <human> sl=2
+[359] pl:przemysl | fortress city in Galicia
+   *vT Q208473 Przemyśl | city in southeastern Poland <city, city with powiat rights in Poland> sl=78
+    Q4385098 Przemysław | male given name <male given name> sl=10
+    Q983449 Przemysław Wacha | badminton player <human> sl=15
+    Q51549002 Przemysław Guzik | Polish cardiologist <human> sl=0
+    Q48148315 Przemysław Piekarz | Polish physicist <human> sl=1
+[360] pl:petah-tikva | Jewish colony near Jaffa
+   *vT Q190828 Petah Tikva [1878–] | city in the Central District of Israel, part of the Tel Aviv metropolitan
+   T Q6607590 Petah Tikva Museum of Art [1964–] | art museum in Israel <museum> sl=3
+   vT Q25552910 Petah Tikva |  <human settlement> sl=1
+   T Q1129090 HaMoshava Stadium [2011–] | football stadium in Petah Tikva, Israel <stadium> sl=17
+   T Q5422648 Petah Tikva (sub-district) | subdistrict in Central District, Israel <subdistrict of Israel> sl
+[361] pl:changsha | city in Hunan
+   *vT Q174091 Changsha | capital of Hunan province, China <prefecture-level city of China, big city> sl=106
+   vT Q113491646 Changsha | historical administrative division of China <former county of China> sl=0
+   v Q16603689 Changsha | eldest daughter of emperor Gaozu <human> sl=1
+   T Q1062120 Changsha County | county in Hunan, China <county of China> sl=21
+   T Q13703317 Changsha  Town |  <town of China> sl=3
+[362] pl:volgograd | city on the Volga (Tsaritsyn)
+   *vT Q914 Volgograd [1589–] | city and administrative center of Volgograd Oblast in southern Russia <big 
+   T Q3819 Volgograd Oblast [1936–] | federal subject of Russia <federal subject of Russia, electoral unit
+   T Q4122943 Volgograd railway station [1862–] | Russian railway station <railway station, architectural lan
+   v Q64154237 Volgograd [1970–] | photograph in the National Gallery of Art (NGA 172247) <photograph> sl=0
+   T Q43444307 Volgogradská | street in Liberec, Czech Republic <street> sl=1
+[365] pl:tsushima-island | island, site of 1905 naval battle
+   *vT Q52051 Tsushima Island | island in Nagasaki, Japan <island, island group> sl=55
+   vT Q11556058 Tsushima Island | island in Ehime, Japan <island> sl=1
+[366] pl:catalca | town and fortified line west of Constantinople
+   *vT Q272681 Çatalca | district of İstanbul, northwestern Turkey <town, municipality of Turkey> sl=42
+   vT Q10839070 Çatalca | mahalle (administrative quarter) in Menderes, İzmir, western Turkey <mahalle> sl=3
+   vT Q6486564 Çatalca | mahalle (administrative quarter) in Nizip, Gaziantep, south-central Turkey <mahalle> 
+   vT Q8077554 Çatalca | mahalle (administrative quarter) in Tarsus, Mersin, south-central Turkey <mahalle> sl
+   vT Q3675950 Çatalca | mahalle (administrative quarter) in Kızıltepe, Mardin, southeastern Turkey <mahalle> 
+[369] pl:zion | Zion / Land of Israel (symbolic)
+   v Q20001811 Zion | male given name <male given name> sl=0
+   v Q98605808 Zion | female given name <female given name> sl=1
+   vT Q205325 Zion National Park [1919–] | national park in Washington, Iron, and Kane counties in Utah, Unit
+   vT Q332444 Mount Zion | hill in Jerusalem <hill> sl=64
+   vT Q205332 Zion [1901–] | city in Lake County, Illinois, United States <city in the United States> sl=39
+[370] pl:chita | city in Siberia
+   vT Q1575553 Chita [1727–] | Colombian municipality of the department of Boyacá <municipality of Colombia> s
+   vT Q53139 Chita [1653–] | city in eastern Russia <big city, city or town> sl=94
+   vT Q495826 Chita [1970–] | city in Aichi prefecture, Japan <city of Japan> sl=43
+   T Q182902 Chita Oblast [1937–2008] | oblast of Russia <former administrative territorial entity> sl=49
+   T Q767312 Chita district [1878–] | district in Aichi prefecture, Japan <district of Japan> sl=19
+[372] pl:qingdao | city in German Kiautschou (Tsingtao)
+   *vT Q170322 Qingdao | prefecture-level city in Shandong, China <sub-province-level division, prefecture-lev
+   T Q1005878 Qingdao railway station [1901–] | railway station <railway station, Top Class station> sl=11
+   vT Q15896654 Ch'ing-tao [1929–1949] | Qingdao during the Republic of China (1912-1949) period <special munic
+   T Q497367 Qingdao Jiaozhou Bay Bridge [2011–] | bridge in Qingdao, Shandong, China <road bridge, prestres
+   vT Q13828030 Qingdao | subdistrict in Jilin Province, China <subdistrict in China> sl=1
+[374] pl:czestochowa | city in Poland
+   *vT Q103217 Częstochowa | city in the Silesian Voivodeship, Poland <city with powiat rights in Poland, big 
+   T Q1145567 Częstochowa County | powiat of Poland <powiat> sl=34
+   T Q2399276 Częstochowa University of Technology [1949–] | technical university in Częstochowa, Poland <uni
+   v Q114350836 Częstochowa | ship launched in 1966 <cargo ship> sl=1
+   T Q3283746 Częstochowa railway station | main railway station in Częstochowa, Poland <railway station> sl=
+[375] pl:northern-albania | region
+   T Q4412051 North Albania | NUTS region of Albania <NUTS 2 statistical territorial entity> sl=9
+[376] pl:north-america | continent
+   *vT Q49 North America | continent in the Americas <continent, subcontinent> sl=303
+    Q941023 Eastern Time Zone | time zone observing UTC−05:00 during standard time and UTC−04:00 during day
+    Q2086913 Central Time Zone | time zone observing UTC−06:00 during standard time and UTC−05:00 during day
+    Q192075 North American P-51 Mustang | US fighter aircraft <aircraft family> sl=58
+   v Q139808347 North America |  <chapter> sl=0
+[379] pl:northern-korea | northern part of Korea
+   v Q12622725 Northern Korea | Geographic location of Korea <> sl=1
+    Q114237154 Northern Korean | Korean dialect of northern part of the Korean Peninsula <dialect> sl=2
+[380] pl:safed | town in the Galilee
+   *vT Q188336 Safed | city in northern Israel <city> sl=66
+   T Q5423089 Safed Subdistrict [1950–] | subdistrict in Northern Israel <subdistrict of Israel> sl=4
+   vT Q12409416 Safed Fortress [1240–] | archaeological site in Israel <castle, fortification> sl=8
+    Q62015669 Safedin I Arkayun |  <human> sl=0
+   T Q7061378 Safed old cemetery |  <Jewish cemetery> sl=5
+[381] pl:kucukcekmece | town west of Constantinople
+   *vT Q639240 Küçükçekmece [1987–] | district of İstanbul, northwestern Turkey <municipality of Turkey, distr
+   vT Q109768478 Küçükçekmece [2007–] | BRT station in Istanbul <station located on surface, bus stop> sl=2
+   T Q58814862 Küçükçekmece railway station [1872–] | railway station in İstanbul, Turkey <railway station, in
+    Q6454263 Küçükçekmece SK [1911–] | Turkish association football club <association football club> sl=3
+   T Q1797436 Lake Küçükçekmece | lake in Turkey <lake> sl=14
+[382] pl:chernivtsi | city in Bukovina (Czernowitz)
+   *vT Q157725 Chernivtsi | capital city of Chernivtsi Oblast in western Ukraine and historical center of th <
+   T Q168856 Chernivtsi Oblast [1940–] | oblast of Ukraine <oblast of Ukraine> sl=101
+   vT Q1999900 Chernivtsi | urban-type settlement in Vinnytsia Oblast, Ukraine <human settlement, urban-type s
+   T Q1551183 Chernivtsi University [1875–] | university in Chernivtsi, Ukraine <national university, open-ac
+   T Q2634156 Chernivtsi Raion [1923–2020] | former raion in Vinnytsia Oblast, Ukraine <former raion of Ukrai
+[383] pl:crnoljeva | mountain pass in Kosovo
+   *vT Q3658771 Crnoljeva | Mountain in central Kosovo <mountain range> sl=14
+   vT Q32157611 Crnoljeva | river in Kosovo - Geonames ID = 791765 <river> sl=1
+   v Q29435841 Crnoljeva | Wikimedia disambiguation page <Wikimedia disambiguation page> sl=1
+[384] pl:chernihiv | city in Ukraine
+   *vT Q157053 Chernihiv | capital city of Chernihiv Oblast in northeastern Ukraine <city of regional signific
+   T Q167874 Chernihiv Oblast [1932–] | oblast of Ukraine <oblast of Ukraine> sl=99
+   v Q5092050 Chernihiv | Ukrainian minesweeper <ocean minesweeper> sl=5
+   T Q2991543 Chernihiv Raion [1923–2020] | former region of Ukraine (1923—2020) <former raion of Ukraine> sl
+   T Q103858737 Chernihiv Raion [2020–] | raion in Chernihiv Oblast, Ukraine (established in 2020) <raion of Uk
+[385] pl:cerkezkoy | town in Eastern Thrace
+   *vT Q272800 Çerkezköy | district of Tekirdağ, northwestern Turkey <city, town> sl=35
+   T Q48989033 Çerkezköy Railway Station | Railway Station in Tekirdağ <railway station, station located on su
+   vT Q2678987 Çerkezköy | district of Turkey <district of Turkey> sl=3
+    Q6045538 Çerkezköy Belediyespor | Turkish association football club <association football club> sl=1
+   T Q5062884 Cerchezu [1900–] | commune in Constanța County, Romania <commune of Romania> sl=23
+[387] pl:kavala | port in Macedonia
+   *vT Q187352 Kavala | city in northern Greece, the principal seaport of eastern Macedonia and the capi <city
+   v Q99647455 Kavala | family name <family name> sl=1
+   vT Q6627501 Kavala | mahalle (administrative quarter) in Ortahisar, Trabzon, northeastern Turkey <mahalle> 
+   T Q1625595 Kavala Regional Unit [2011–] | regional unit of East Macedonia, Greece <regional unit of Greece
+    Q3595318 Kavalam Narayana Panicker | Indian dramatist, director and poet (1928–2016) <human> sl=11
+[390] pl:kazan | city on the Volga
+   *vT Q900 Kazan [1005–] | city in the Republic of Tatarstan, Russia <administrative territorial entity, c
+   v Q4207627 Kazan | large cauldron; due to its size could be used for boiling or similar cooking tec <stock
+   v Q36925341 Kazan | family name <family name> sl=1
+   T Q719436 Kazan River | watercourse in Nunavut, Canada <river> sl=22
+   vT Q98523678 Kazan | village in Yüksekova, Hakkâri, southeastern Turkey <village of Turkey> sl=6
+[391] pl:kalisz | city in Poland
+   *vT Q52842 Kalisz | city with powiat rights of Poland <city, city with powiat rights in Poland> sl=73
+   v Q16867446 Kalisz | family name <family name> sl=2
+   T Q133178 Kalisz County [1999–] | powiat of Poland <powiat> sl=31
+   T Q4976885 /   | village in powiat kościerski, Pomeranian Voivodeship, Poland <village of Poland> sl=11
+    Q47496258 Kaliszan | family name <family name> sl=1
+[396] pl:kashan | city in Persia
+   *vT Q240475 Kashan | city in Isfahan Province, Iran <big city, city of Iran> sl=65
+   T Q1279103 Kashan County | county in Isfahan Province, Iran <county of Iran> sl=26
+   vT Q5629700 Kashan | village in East Azerbaijan, Iran <village> sl=10
+   vT Q5822394 Kashan | village in Iran <village> sl=7
+   vT Q98506565 Kashan [1973–] | 1973 nuclear weapons test <nuclear weapons testing> sl=0
+[397] pl:cadiz | city in Spain
+   *vT Q15682 Cádiz [-1100–] | municipality and capital city of the province of Cádiz, Spain <municipality of
+   T Q1020688 Cadiz [1861–] | city of the Philippines in the province of Negros Occidental <component city> s
+   T Q81978 Cádiz Province | province of Spain <province of Spain> sl=88
+    Q10743774 Cadiz | genus of leaf beetles <monotypic taxon> sl=4
+    Q37487479 Cadiz | family name <family name> sl=1
+[398] pl:cairo | capital of Egypt
+   *vT Q85 Cairo [969–] | capital city of Egypt <metropolis, megacity> sl=262
+   v Q16865296 Cairo | family name <family name> sl=2
+   v Q99836774 Cairo | given name <given name> sl=0
+   vT Q2171022 HMT Royal Edward | 1907 liner converted to troopship <troopship, ocean liner> sl=4
+   T Q30805 Cairo Governorate [969–] | governorate of Egypt <governorate of Egypt> sl=61
+[399] pl:amur-railway | section of the Trans-Siberian Railway
+   v Q1858010 Amur Railway [1907–] | railway line in Russia <railway line> sl=4
+[400] pl:cuba | country
+   *vT Q241 Cuba [1898–] | sovereign state situated on an island in the Caribbean Sea <unitary state, count
+   v Q87300703 Cuba | genus of plants <taxon> sl=0
+   vT Q552580 Cuba [1782–] | municipality in Beja District, Portugal <municipality of Portugal> sl=30
+   vT Q952911 Cuba | civil parish in the municipality of Cuba, Portugal <freguesia of Portugal> sl=10
+   v Q37430510 Cuba | family name <family name> sl=2
+[401] pl:kaunas | city in Lithuania (Kovno)
+   vT Q4115712 Kaunas | city and administrative center of Kaunas County in Lithuania <city, Hanseatic city> sl
+   vT Q853861 Kaunas County | county of Lithuania <county of Lithuania> sl=64
+   vT Q928938 Kaunas City Municipality | city municipality of Lithuania <city municipality of Lithuania> sl=8
+   T Q1351722 Kaunas District Municipality [1955–] | district municipality of Lithuania <district municipalit
+   v Q2618081 /   | asteroid <asteroid> sl=15
+[402] pl:kobryn | town in Belarus
+   *vT Q955992 Kobryn | city in Belarus <city of raion subordinance> sl=46
+   v Q37219971 Kobryn | family name <family name> sl=1
+   T Q944303 Kobryn district [1940–] | district of Belarus <district of Belarus> sl=25
+    Q118054781 Kobryń | family name <family name> sl=0
+   vT Q28380554 Kobryn | railway station in Kobryn, Belarus <railway station> sl=4
+[403] pl:guangdong | province of China (Kwangtung)
+   *vT Q15175 Guangdong | province of China <province of China> sl=137
+   vT Q9574619 Kuangtung [1912–1950] | former province (1912-1950) of the Republic of China, replaced by a nea
+   vT Q28411078 Guangdong [1647–1911] | Province (1647-1911) of the Qing Empire, initially inclusive of modern 
+   v Q11061695 Guangdong | Province of the Ming Empire, inclusive of modern Guangdong, Hainan, Macao, Hong  <f
+   v Q148024 /   | asteroid <asteroid> sl=33
+[405] pl:caucasus | region
+   vT Q18869 Caucasus | region spanning Europe and Asia <region, cultural region> sl=166
+   vT Q5477 Caucasus Mountains | mountain system spanning Eastern Europe and Western Asia <mountain range> 
+   v Q39070082 Caucasus | name of American-bred Thoroughbred racehorse <horse> sl=1
+   vT Q2081939 Caucasus [1893–] | 1893 Imperial Fabergé egg <Fabergé egg> sl=12
+   v Q16737714 Caucasus | character from Greek mythology <mythological Greek character> sl=1
+[407] pl:kotor | port in Dalmatia (Cattaro)
+   *vT Q171080 Kotor | town in Montenegro <city, town> sl=80
+   v Q5632980 HMS Kempenfelt | 1943 W and Z-class destroyer <destroyer> sl=7
+   v Q725902 Star Wars: Knights of the Old Republic | 2003 video game <video game, creative work> sl=38
+   vT Q1088573 Kotoriba | municipality and settlement in Međimurje County, Croatia <municipality of Croatia> s
+   T Q180758 Kotor Varoš | town in Bosnia and Herzegovina <city or town, municipality of Bosnia and Herzegov
+[410] pl:colombia | country
+   *vT Q739 Colombia [1810–] | country in South America <republic, country> sl=367
+   vT Q2462831 Colombia | Madrid Metro station <metro station, underground station> sl=16
+   v Q212564 Colombia men's national football team [1924–] | men's national football team representing Colom
+   vT Q137766078 Colombia | neighborhood in municipality of Managua, Managua Department, Nicaragua <barrio> sl=0
+   vT Q1093490 Florida [1825–] | Colombian municipality of the department of Valle del Cauca <municipality of 
+[413] pl:kumanovo | town in Macedonia
+   *vT Q54452 Kumanovo [1094–] | town and seat of Kumanovo Municipality, North Macedonia <town, municipality 
+   T Q2352376 Kumanovo Municipality | local administrative unit (opština) in North Macedonia <municipality of
+   vT Q4246873 Kumanovo | village in Aksakovo municipality, Varna oblast, Bulgaria <village of Bulgaria, kmets
+    Q15709597 Kumanovo and Osogovo Diocese |  <diocese of the Macedonian Orthodox Church> sl=4
+   vT Q2734429 Kumanovo | village in Pirot District, Serbia <human settlement, cadastral municipality of Serbi
+[414] pl:congo-free-state | Congo Free State / Belgian Congo
+   vT Q76048 Congo Free State [1885–1908] | area in Central Africa controlled by Leopold II of Belgium (1885
+    Q2935437 Congo–Arab War [1892–] | 1892–1894 war between the Congo Free state and the Arabo-Swahilis <pro
+    Q5160500 Congo Free State propaganda war | worldwide media propaganda campaign waged by both King Leopol
+    Q110772688 Congo Free State–United States relations | bilateral relations <bilateral relation> sl=1
+   vT Q213510 Belgian Congo [1908–1960] | Belgian colony in Central Africa (1908–1960), established after int
+[417] pl:constanta | Romanian Black Sea port
+   *vT Q79808 Constanța [-300–] | capital of the county of Constanța, Romania <city, municipality of Romania>
+   T Q188505 Constanța County | county in Romania <county of Romania> sl=68
+   T Q59615461 Constanța Railway Station | Railway station in Romania <railway station> sl=6
+    Q86589075 Constanta | female given name <female given name> sl=0
+   vT Q16898202 Constanța [-300–] | locality in Constanța County, Romania <municipality seat of Romania, consti
+[418] pl:kosovo | Kosovo vilayet
+   *vT Q1246 Kosovo [2008–] | country in southeastern Europe <country, landlocked country> sl=285
+   vT Q1231 Kosovo | geographical region in Europe <region, disputed territory> sl=17
+   vT Q1255 Kosovo and Metohija [1990–] | autonomous province of Serbia <autonomous province of Serbia> sl=
+   v Q139733411 Kosovo |  <literary work> sl=0
+   v Q139734576 Kosovo |  <literary work> sl=0
+[419] pl:kyustendil | town in Bulgaria
+   vT Q189305 Kyustendil [1–] | city in Kyustendil municipality, Kyustendil oblast, Bulgaria <city in Bulgari
+   vT Q1112985 Kyustendil Province [1999–] | oblast of Bulgaria <oblast of Bulgaria> sl=70
+   vT Q1003231 Kyustendil | municipality in Kyustendil oblast, Bulgaria <municipality of Bulgaria> sl=20
+   vT Q123948028 Kyustendil | street in Krasno Selo dist. Sofia (Bulgaria) <street> sl=0
+   T Q25478025 Kyustendil sanjak [1395–1878] | administrative division of the Ottoman Empire <sanjak> sl=7
+[420] pl:kostroma | city in Russia
+   vT Q2592 Kostroma [1152–] | city in the center of European Russia <city or town> sl=97
+   T Q2596 Kostroma Oblast [1944–] | federal subject of Russia <federal subject of Russia, oblast of Russi
+   vT Q863102 Kostroma | river in Kostroma and Yaroslavl Oblasts, Russia <river> sl=40
+   v Q1995696 Kostroma | 1986 Sierra-class submarine <nuclear-powered attack submarine> sl=5
+   v Q6433579 Kostroma | Irish-bred Thoroughbred racehorse <horse> sl=1
+[421] pl:kastrati | Albanian highland tribe and region
+   v Q6374831 Kastrati | family name <family name> sl=3
+   v Q123238025 Kastrati Group | Albanian oil industry company <enterprise> sl=1
+    Q210970 castrato | type of male singer who is castrated in order to maintain a high voice <Fach> sl=45
+   T Q15234212 Kastrati (tribe) | region in Albania; historic Albanian tribe <tribe> sl=5
+   T Q2633801 Kastrat | municipal unit in Shkodër, Albania <Communes of Albania, bashkia> sl=15
+[423] pl:copenhagen | capital of Denmark
+   *vT Q1748 Copenhagen [1167–] | capital and largest city of Denmark <city, cycling city> sl=245
+   vT Q504125 Copenhagen Municipality | municipality in the Capital Region of Denmark <municipality of Denmar
+   T Q186285 University of Copenhagen [1479–] | public research university in Copenhagen, Denmark <organizat
+   T Q671384 Statens Museum for Kunst [1896–] | art museum in Copenhagen, Denmark <national gallery> sl=33
+   v Q1164128 Copenhagen | Duke of Wellington's war horse <horse, individual animal> sl=11
+[425] pl:cordoba-spain | city in Spain
+   vT Q5818 Córdoba | municipality in the province of Córdoba, Spain <municipality of Spain> sl=140
+   vT Q44210 Córdoba [1573–] | city in Argentina, capital of its province <city of Argentina> sl=109
+   T Q44759 Córdoba Province | province of Argentina <province of Argentina> sl=90
+   vT Q101948176 Córdoba | Andalusian city, capital of the municipality of the same name <big city, municipality
+   vT Q5796926 Córdoba [2015–] | Metro station in Buenos Aires <underground railway station, metro station> sl
+[426] pl:korea | Korean Empire
+    Q17985 Korean Wikipedia [2002–] | Korean-language edition of Wikipedia <Wikipedia language edition> sl
+   T Q884 South Korea [1948–] | country in East Asia <country, sovereign state> sl=356
+   T Q9176 Korean | language native to the Korean Peninsula <natural language, modern language> sl=218
+   vT Q18097 Korea | region in East Asia <state, region> sl=172
+   vT Q28179 Joseon [1392–1897] | Korean dynasty 
+[429] pl:cornwall | county in England
+   vT Q23148 Cornwall | historic county of England and Celtic nation <historic county of England, historical
+   v Q37085529 Cornwall | family name <family name> sl=2
+   v Q113128304 Cornwall | given name <given name> sl=0
+   vT Q22338583 Cornwall | unitary council area of Cornwall, England, United Kingdom <non-metropolitan county, 
+   vT Q21916728 Cornwall | village in Tasmania, Australia <village, suburb/locality of Tasmania> sl=4
+[430] pl:kursk | city in Russia
+   vT Q3159 Kursk [1032–] | city in the south-west of Russia <big city, city/town in Russia> sl=108
+   v Q47490488 Kursk | family name <family name> sl=0
+   T Q3178 Kursk Oblast [1934–] | federal subject of Russia <oblast of Russia, federal subject of Russia> 
+   vT Q4248821 Kursk | railway station <railway station> sl=5
+   v Q141553692 Kursk | encyclopedia article from Collier's New Encyclopedia <encyclopedia article> sl=1
+[431] pl:corfu | Greek island
+   vT Q121378 Corfu | Greek island in the Ionian Sea <island> sl=100
+   v Q105339980 Corfu | ship built in 2006 <roll-on/roll-off passenger ship> sl=3
+   vT Q205832 Corfu | capital of the Greek island and municipality of Corfu <city> sl=65
+   T Q12875675 Corfu Municipality [2011–2019] | former municipality of Greece (2010-2019) <former municipality
+   v Q15650072 Corfu | Hellenic naval ship <ship> sl=1
+[433] pl:casablanca | port city in Morocco
+   *vT Q7903 Casablanca | largest city of Morocco <city> sl=153
+   v Q37497783 Casablanca | family name <family name> sl=0
+    Q1046659 Casablanca-class escort carrier [1943–] | class of American escort carriers <ship class> sl=17
+   v Q1046707 Casablanca Records [1973–] | American recording label <record label> sl=19
+   v Q132689 Casablanca | 1942 film directed by Michael Curtiz <film> sl=107
+[435] pl:koziatyn | railway town in Ukraine
+   *vT Q369383 Koziatyn [1870–] | city in Khmilnik raion, Vinnytsya oblast, Ukraine <city of regional signific
+   T Q2996163 Koziatyn Raion [1923–2020] | raion in Vinnytsia Oblast, Ukraine <former raion of Ukraine> sl=20
+   vT Q4227140 Koziatyn [1583–] | village in Horokhiv Raion, Volyn Oblast, Ukraine <village of Ukraine> sl=10
+    Q12103259 Koziatyn 1st - Fastiv 1st | railway section in Ukraine <railway line> sl=2
+   T Q12111465 Koziatyn I | railway station <railway station, Keilbahnhof> sl=4
+[438] pl:catania | city in Sicily
+   *vT Q1903 Catania [-728–] | city in Sicily, Italy <comune of Italy, big city> sl=139
+   v Q36997591 Catania | family name <family name> sl=3
+   v Q2018 Catania FC [1908–] | Italian football club based in the city of Catania, Sicily <association fo
+   v Q6389929 Kenneth C. Catania | American neuroscientist <human> sl=2
+   T Q16154 Province of Catania [1860–2015] | one of nine provinces in the autonomous island region of Sici
+[440] pl:kyiv | city in Ukraine (Kiev)
+   *vT Q1899 Kyiv [482–] | capital and largest city of Ukraine <tourist destination, city in Ukraine> sl=277
+   T Q170036 Kyiv Oblast [1932–] | oblast of Ukraine <oblast of Ukraine> sl=110
+   T Q84151 Taras Shevchenko National University of Kyiv [1834–] | public university in Kyiv, Ukraine <arch
+   T Q2387454 Kyiv Aviation University [1933–] | university in Kyiv, Ukraine <aviation university> sl=12
+   T Q4348927 Kiev Gymnasium [1809–1917] | School in Kiev <gymnasium> sl=2
+[442] pl:cilicia | region in southern Anatolia (Lesser Armenia)
+   v Q83646116 Cilicia | ship built in 2000 <ship> sl=1
+   *vT Q620864 Cilicia [–1375] | ancient region of Asia Minor <region, historical region> sl=72
+   vT Q4819648 Cilicia | Roman province <Roman province> sl=19
+   v Q1500062 Pompeiopolis in Cilicia | titular see <titular see> sl=2
+   v Q15794468 Cilicia | passenger ship built in 1938 <motor ship> sl=3
+[444] pl:campulung | town in Romania
+   *vT Q736296 Câmpulung | city in Argeș County, Romania <municipality of Romania> sl=43
+   T Q652802 Câmpulung Moldovenesc [1411–] | city in Suceava County, Romania <municipality of Romania> sl=42
+   vT Q16898097 Câmpulung | locality in Argeș County, Romania <municipality seat of Romania, constituent locali
+   T Q59615949 Câmpulung railway station | railway station in Câmpulung, Romania <railway station> sl=2
+   T Q5063206 Câmpulung la Tisa [1329–] | commune in Maramureș County, Romania <commune of Romania, border ci
+[446] pl:bad-kissingen | spa town in Bavaria
+   *vT Q488346 Bad Kissingen | town in Bavaria, Germany <World Heritage Site, Greater district town> sl=71
+   T Q10466 Bad Kissingen district [1862–] | district in Bavaria, Germany <District of Bavaria> sl=49
+   vT Q1007953 Bad Kissingen | federal electoral district of Germany <federal electoral district of Germany> s
+   vT Q800425 Bad Kissingen | railway halt in the district of Bad Kissingen, Lower Franconia, Germany <railwa
+   T Q2901349 Bad Kissingen airfield | aerodrome in Germany <German special airfield> sl=6
+[447] pl:cyrenaica | region of Libya
+   *vT Q165198 Cyrenaica | eastern coastal region of Libya <historical region, geographical area> sl=67
+   v Q80642790 Cyrenaica (Libyan Archaeological Guides) | 2013 edition <version, edition or translation> sl=0
+   vT Q4221249 Cyrenaica |  <Roman province> sl=2
+    Q34623080 Cyrenaica (Pauly-Wissowa) | cross-reference in Paulys Realencyclopädie der classischen Altertum
+   v Q65578544 Cyrenaica | print in the National Gallery of Art (NGA 54788) <print> sl=0
+[448] pl:chisinau | city in Bessarabia (Kishinev)
+   *vT Q21197 Chișinău [1436–] | capital of Moldova <municipality, big city> sl=195
+   vT Q136672034 Chișinău | tram station in Brăila, Romania <tram stop> sl=0
+   vT Q17176229 Chișinău Municipality [1995–] | municipality of Moldova <municipality of Moldova> sl=11
+   vT Q4222669 Chișinău [1871–] | railway station in Chișinău, Moldova <railway station, station building> sl=
+   T Q18405702 Central cemetery of Chișinău | cemetery in Chișinău <cemetery> sl=6
+[450] pl:cleveland | city in Ohio
+   *vT Q37320 Cleveland [1796–] | city in and county seat of Cuyahoga County, Ohio, United States <county sea
+   T Q657415 Cleveland Museum of Art [1913–] | art museum in Cleveland, Ohio <museum, nonprofit organization
+   v Q20747722 Cleveland | male given name <male given name> sl=2
+   vT Q2979001 Cleveland [1855–] | municipality in Estrie, Quebec, Canada <township municipality> sl=11
+   v Q3680580 Cleveland | album by American rapper Layzie Bone <album> sl=2
+[454] pl:cologne | city in Germany
+   *vT Q365 Cologne | most populous city in North Rhine-Westphalia, Germany <Hanseatic city, metropolis> sl
+   vT Q1070283 Cologne | commune in Gers, France <commune of France> sl=41
+   v Q131746 perfume | a substance, extract, or preparation for diffusing or imparting an agreeable or  <goo
+   T Q54096 University of Cologne [1388–] | university in Germany <open-access publisher, local Internet re
+   vT Q104064 Cologne | Italian comune <comune of Italy> sl=46
+[455] pl:kielce | city in Poland
+   *vT Q102317 Kielce | city and capital of the Świętokrzyskie Voivodeship in south-central Poland <city, city
+   T Q1335594 Kielce County | county in Świętokrzyskie Voivodeship, Poland <powiat> sl=29
+    Q25413548 Kielce Voivodeship [1945–1975] | former voivodeship in Poland (1945–1975) <voivodeship of Polan
+    Q6405237 Sejm Constituency no. 33 | Polish parliamentary constituency <constituency of the Sejm> sl=2
+   vT Q57325809 Kielce | N3-SA2 type ship <ship> sl=3
+[456] pl:kolkata | city in British India (Calcutta)
+   *vT Q1348 Kolkata | capital city of West Bengal, India <metropolis, megacity> sl=208
+   vT Q388535 Netaji Subhas Chandra Bose International Airport | International airport in Kolkata, India <dom
+   vT Q2088496 Kolkata district | district in West Bengal, India <district of India> sl=35
+   T Q1156894 Kolkata Knight Riders [2008–] | cricket team in the Indian Premier League <sports team> sl=30
+   T Q6427323 Kolkata railway station [2006–] | Railway Station in West Bengal, India <railway station, stati
+[463] pl:canossa | castle in Italy (proverbial)
+   *vT Q111144 Canossa | Italian comune <comune of Italy> sl=52
+   v Q56245832 Canossa | family name <family name> sl=1
+   T Q1033649 Canossa Castle [950–] | castle in Italy <castle, castle ruin> sl=24
+   vT Q5033455 Canossa | neighborhood in Edmonton, Alberta, Canada <neighborhood> sl=1
+    Q473151 House of Canossa [1000–] | noble family <noble family> sl=12
+[464] pl:guangzhou | city in China (Canton)
+   vT Q16572 Guangzhou | capital city of Guangdong Province, China <megacity, prefecture-level city of China
+   v Q19376036 Chinese destroyer Guangzhou | 2002 Type 052B destroyer <destroyer> sl=5
+   v Q3270603 Guangzhou | administrative division of ancient China <zhou> sl=5
+   T Q244322 2010 Asian Games [2010–2010] | 16th edition of the Asian Games <multi-sport event> sl=40
+   T Q1047372 Guangzhou Railway Station [1974–] | railway station in Yuexiu District, Guangzhou, Guangdong, C
+[465] pl:kentucky | US state
+   *vT Q1603 Kentucky [1792–] | state of the United States of America <U.S. state> sl=223
+   T Q1360303 University of Kentucky [1865–] | public university in the United States <land-grant university,
+   v Q23730994 Kentucky | 2016 studio album by Black Stone Cherry <album> sl=2
+   vT Q6392428 Kentucky Wildcats men's basketball [1903–] | NCAA Division I team of the University of Kentucky
+   T Q2781219 Kentucky Lake | reservoir in Kentucky and Tennessee, United States <reservoir> sl=8
+[466] pl:konigsberg | city in East Prussia
+   vT Q4120832 Königsberg [1255–1945] | historic capital of East Prussia, since 1945 Russian territory <city, 
+   vT Q1829 Kaliningrad [1255–] | Russian Baltic city between Poland and Lithuania <centre of oblast, city 
+   v Q105991678 Königsberg | family name <family name> sl=1
+   vT Q426204 Crihalma [1396–] | village in Brașov County, Romania <village> sl=12
+   vT Q1796271 Königsberg | mountain in the Harz range, Germany <mountain> sl=7
+[468] pl:kastellorizo | Aegean island
+   *vT Q212096 Kastellorizo | island of Dodecanese, Greece <village, island> sl=52
+   vT Q11881958 Megisti Municipality | municipality of Greece <municipality of Greece> sl=8
+   vT Q95576602 Kastellorizo | settlement in Greece <human settlement> sl=1
+   T Q2756463 Kastellorizo Airport | airport in Greece <airport, commercial traffic aerodrome> sl=14
+   T Q108664930 Kastellorizo Castle | medieval castle in Megisti Municipality, Greece <castle> sl=0
+[469] pl:kastamonu | city in Anatolia
+   *vT Q155915 Kastamonu | central district and city in Kastamonu Province, Turkey <city, municipality> sl=70
+   T Q483191 Kastamonu Province | province in north-central Turkey <province of Turkey> sl=78
+   vT Q6374778 Kastamonu | electoral district in Turkey <electoral district in Turkey> sl=3
+   vT Q1431667 Kastamonu Airport | airport in Turkey <airport, commercial traffic aerodrome> sl=13
+   T Q1958465 Kastamonu district | district of Kastamonu, north-central Turkey <district of Turkey> sl=4
+[470] pl:veles | town in Macedonia (Köprülü)
+   v Q2103813 Veles | genus of birds <monotypic taxon> sl=5
+   *vT Q157050 Veles | town in North Macedonia <city> sl=59
+   v Q83637724 Veles | ship built in 2004 <ship> sl=1
+   T Q2092152 Velešín | town in the Czech Republic <municipality with town privileges in the Czech Republic, 
+   T Q2088561 Veles Municipality | local administrative unit (opština) in North Macedonia <municipality of No
+[471] pl:cyprus | island under British administration
+   *vT Q229 Cyprus [1960–] | country in the Mediterranean Sea <country, sovereign state> sl=327
+   vT Q599724 Cyprus [1994–] | Docklands Light Railway station <station located in a cut, Docklands Light Rai
+   v Q10262778 Cyprus | genus of insects <taxon> sl=0
+   vT Q644636 Cyprus | island in the Eastern Basin of the Mediterranean Sea <island> sl=65
+   T Q156050 brucellosis | Human and animal disease <type of disease> sl=72
+[475] pl:craiova | city in Romania
+   *vT Q168057 Craiova [1475–] | city in Dolj County, Romania <municipality of Romania, college town> sl=94
+   T Q59615775 Craiova railway station | railway station in Craiova, Romania <railway station> sl=5
+   vT Q16898248 Craiova [1475–] | locality in Dolj County, Romania <constituent locality, municipality seat of 
+    Q44864980 Craiova seen from the carriage | film <film> sl=2
+   T Q5181794 Craiova River | river in Romania <river> sl=4
+[477] pl:karachi | city in British India
+   *vT Q8660 Karachi [1729–] | provincial capital of Sindh, Pakistan <administrative territorial entity, met
+   vT Q68037518 Karachi | sports club <sports club> sl=0
+   T Q1661751 University of Karachi [1951–] | public university in Karachi, Pakistan <research university, pu
+    Q10543536 Karachiota | genus of insects <taxon> sl=4
+    Q18529873 Karachi–Peshawar Line | railway line in Pakistan <railway line> sl=6
+[480] pl:caracas | capital of Venezuela
+   *vT Q1533 Caracas [1567–] | capital and largest city of Venezuela <city, administrative territorial entit
+   v Q37506428 Caracas | family name <family name> sl=1
+   vT Q12478366 Caracas | village in Kuningan Regency, West Java, Indonesia <desa> sl=6
+   vT Q11132323 Caracas | village in Subang Regency, West Java, Indonesia <desa> sl=6
+    Q1130244 Caracas Fútbol Club [1967–] | Venezuelan association football team based in Caracas <associatio
+[481] pl:karbala | holy city in Mesopotamia
+   *vT Q199909 Karbala | city in Karbala Governorate, Iraq <city, big city> sl=92
+   T Q214104 Karbala Governorate | governorate of Iraq <governorate of Iraq> sl=54
+   v Q20971464 Karbala | 2015 film directed by Krzysztof Łukaszewicz <film> sl=9
+   vT Q5788098 Karbala | village in Iran <village> sl=7
+   v Q83627557 Karbala | ship built in 2012 <ship> sl=1
+[482] pl:cardiff | city in Wales
+   *vT Q10690 Cardiff [1081–] | capital city of Wales, United Kingdom <city, big city> sl=163
+   v Q18662 Cardiff City F.C. [1899–] | association football club in Cardiff, Wales <association football c
+   v Q16865370 Cardiff | family name <family name> sl=2
+   vT Q24342199 Cardiff [1996–] | principal area in south-east Wales, United Kingdom <principal area, district 
+   T Q1035745 Cardiff University [1883–] | public research university in Cardiff, United Kingdom <charitable 
+[484] pl:kronstadt | naval base near St Petersburg
+   vT Q82174 Brașov [1234–] | capital of the county of Brașov, Romania <municipality of Romania, big city> s
+   vT Q155863 Kronstadt [1703–] | port city in Kronshtadtsky District, Russia <city municipality> sl=80
+   v Q737737 2447 Kronstadt | asteroid <asteroid> sl=34
+   v Q28036346 Kronstadt [1984–] | painting by Harvey Quaytman <painting> sl=0
+   v Q2088449 Kronstadt | German steamboat <steamboat> sl=5
+[485] pl:crete | island
+   vT Q958049 Crete [1871–] | city in Saline County, Nebraska, United States <city in the United States> sl=3
+   *vT Q34374 Crete | island of Greece <island, traditional geographic divisions of Greece> sl=158
+   T Q46135 Créteil | French commune and city in Val-de-Marne, Île-de-France <city, commune of France> sl=8
+   v Q110095657 Crete | given name <hypocorism, given name> sl=0
+   vT Q1267522 Crete Region | administrative region of Greece <administrative region of Greece> sl=28
+[486] pl:crimea | peninsula
+   vT Q7835 Crimea | Eastern European peninsula, in the Black Sea and Sea of Azov, disputed between U <peni
+   vT Q756294 Autonomous Republic of Crimea [1991–] | administrative division of Ukraine since 1992, not occu
+   vT Q15966495 Republic of Crimea [2014–] | unrecognized administrative division of Russia <federal subject of
+    Q1788951 Crimean-Congo hemorrhagic fever virus | species of virus <taxon> sl=7
+   vT Q160440 Crimean Khanate [1441–1783] | former state at the Crimean Peninsula until April 1783 <historica
+[488] pl:oslo | capital of Norway (Kristiania)
+   T Q585 / אוסלו [1048–] | capital city of Norway <big city, largest city> sl=245
+   vT Q5245991 Oslo Municipality [1838–] | municipality in Norway <county of Norway, municipality of Norway> s
+    Q3111191 Oslo University Hospital [2008–] | hospital in Norway <health trust> sl=12
+   T Q486156 University of Oslo [1811–] | Norwegian public research university <open-access publisher, publi
+   v Q11994196 Oslo | 1999 studio album by Folk & Røvere <album> sl=1
+[489] pl:karlovy-vary | spa town in Bohemia (Karlsbad)
+   vT Q384544 Karlovy Vary [1350–] | city in Karlovy Vary Region, Czech Republic <city, statutory city in the
+   T Q12028735 Karlovy Vary railway station | railway station in Karlovy Vary, Czech Republic <railway station
+   vT Q56414571 Karlovy Vary | cadastral area in Karlovy Vary District <core municipal part with the same name 
+   vT Q110726256 Karlovy Vary [1842–] |  <cadastral area in the Czech Republic> sl=0
+   T Q191091 Karlovy Vary Region [2000–] | region of the Czech Republic <region of the Czech Republic> sl=70
+[490] pl:karlsruhe | city in Baden
+   *vT Q1040 Karlsruhe [1715–] | city in Baden-Württemberg, Germany <district capital, major regional center
+   vT Q663558 German cruiser Karlsruhe | 1927 Königsberg-class cruiser <light cruiser, shipwreck> sl=25
+   T Q309988 Karlsruhe Institute of Technology [2009–] | technical university and research center in Karlsru
+   v Q1381656 Karlsruhe | 1982 Bremen-class frigate <frigate> sl=7
+   v Q104880023 German corvette Karlsruhe | German Braunschweig-class corvette <corvette> sl=3
+[491] pl:kremenchuk | city in Poltava Governorate
+   *vT Q156724 Kremenchuk [1571–] | city in Ukraine <city of regional significance of Ukraine> sl=82
+   v Q46968037 Kremenchuk | Ukrainian Gyurza-M class artillery boat <gunboat> sl=3
+   v Q12114466 Kremenchuk |  <corvette> sl=1
+   T Q2639248 Kremenchuk Raion [–2020] | former raion of Ukraine <former raion of Ukraine> sl=12
+   vT Q4240111 Kremenchuk | railway station <railway station> sl=7
+[493] pl:kresna | town and gorge in Bulgaria
+   vT Q2662531 Kresna | municipality in Blagoevgrad oblast, Bulgaria <municipality of Bulgaria> sl=25
+   vT Q406476 Kresna | city in Kresna municipality, Blagoevgrad oblast, Bulgaria <municipality seat, city in 
+    Q42891 / קרישנה -3227–-3101 | Hindu deity <Hindu deity, legendary figure> sl=130
+    Q111619293 Kresna Priawan Djokosoetono | beneficial owner of Blue Bird <human> sl=0
+    Q37476782 Kresnak | family name <family name> sl=0
+[496] pl:kerch | city in Crimea
+   *vT Q157065 Kerch [-609–] | city in Crimea, Ukraine <big city, municipal formation in Russia> sl=90
+   vT Q4219731 SMS Inn | 1915 ship <monitor, river monitor> sl=4
+   v Q767188 /   | asteroid <asteroid> sl=33
+   v Q37505472 Kerch | family name <family name> sl=1
+    Q21501694 Kercheval | family name <family name> sl=2
+[497] pl:kirklareli | town in Eastern Thrace (Kirk Kilisse)
+   *vT Q206903 Kırklareli | central district and city in Kırklareli Province, Turkey <city, municipality> sl=7
+   T Q131597 Kırklareli Province | province in northwestern Turkey <province of Turkey> sl=80
+   vT Q6454722 Kırklareli | electoral district for the Grand National Assembly of Turkey <electoral district i
+   T Q13746545 Kırklareli district | district of Kırklareli, northwestern Turkey <district of Turkey> sl=5
+    Q1797516 Kırklarelispor [1968–] | Turkish sports club <association football club> sl=6
+[498] pl:mount-hermon | mountain
+   *vT Q215471 Mount Hermon | mountain range in Syria and Lebanon <mountain, highest point> sl=66
+   vT Q6024937 Mount Hermon | census designated place in Hope Township, New Jersey <census-designated place in
+   vT Q3458733 Mount Hermon | unincorporated community in Santa Clara County, California <census-designated pl
+   vT Q6921175 Mount Hermon | human settlement in Washington Parish, Louisiana, United States of America <unin
+   vT Q6024941 Mount Hermon | census-designated place (CDP) in Pittsylvania County, Virginia, United States <c
+[500] pl:mount-sinai | mountain in Sinai
+   *vT Q377485 Mount Sinai | mountain in the Sinai Peninsula of Egypt <mountain> sl=89
+   T Q1950740 Icahn School of Medicine at Mount Sinai [1963–] | medical school <medical school, private not-f
+    Q6923672 Mount Sinai Journal of Medicine [1934–] | journal <medical journal, scientific journal> sl=1
+   vT Q3468969 Mount Sinai | hamlet located within the Town of Brookhaven in Suffolk County, New York, United 
+   T Q1476505 Mount Sinai Hospital [1852–] | hospital in Manhattan, New York City, United States <hospital, n
+[503] pl:rabat | city in Morocco
+   *vT Q3551 Rabat [1146–] | capital city of Morocco <city, big city> sl=191
+   v Q64425480 Rabat | article in Otto's encyclopedia <encyclopedia article> sl=1
+   vT Q44381 Rabat | town near Mdina, Malta <town> sl=48
+   vT Q752348 Rabat | capital of Gozo, an island of the Maltese archipelago <city> sl=54
+   T Q639968 Rabat-les-Trois-Seigneurs | commune in Ariège, France <commune of France> sl=35
+[513] pl:tekirdag | town on the Sea of Marmara (Rodosto)
+   *vT Q182009 Tekirdağ | city in Turkey <city, big city> sl=78
+   T Q129387 Tekirdağ Province | province in northwestern Turkey <province of Turkey> sl=84
+   vT Q1966785 Tekirdağ | electoral district <electoral district in Turkey> sl=4
+    Q107277842 Tekirdagensis |  <fossil taxon> sl=0
+   T Q1964403 Namık Kemal University [2006–] | state university in Tekirdağ, Turkey <public university, open-
+[516] pl:aleppo | city in Syria
+   vT Q41183 Aleppo [-5000–] | city in Aleppo Governorate, Syria <city, big city> sl=150
+   vT Q214064 Aleppo Governorate | governorate of Syria <governorate of Syria> sl=59
+    Q211457 Pinus halepensis | species of plant <taxon> sl=60
+   v Q61994005 Aleppo | horse <horse> sl=0
+   T Q2302663 University of Aleppo [1958–] | university in Aleppo, Syria <university> sl=26
+[517] pl:rhodes | Aegean island
+   v Q4398705 Rhodes | family name <family name> sl=7
+   vT Q22254 Rhodes | commune in Moselle, France <commune of France> sl=38
+   v Q21402248 Rhodes | unisex given name <given name> sl=1
+   v Q18162005 Rhodes | British singer-songwriter <human> sl=7
+   *vT Q43048 Rhodes [-1600–] | island in Aegean sea, Greece <island, polis> sl=117
+[518] pl:rhodesia | British territory
+   *vT Q954 Zimbabwe [1980–] | sovereign state in southern Africa <country, republic> sl=320
+   v Q548227 Rhodesia | genus of insects <taxon> sl=9
+   v Q10653225 Rhodesia | genus of fungi <taxon> sl=2
+   vT Q217169 Rhodesia [1965–1979] | unrecognised state in Southern Africa (1965–1979) <historical unrecogniz
+   vT Q7321054 Rhodesia | village and civil parish in Nottinghamshire, UK <village, civil parish> sl=8
+[519] pl:rotterdam | city in the Netherlands
+   *vT Q34370 Rotterdam | city in South Holland, the Netherlands <city, human settlement> sl=170
+   vT Q2680952 Rotterdam | municipality in the Netherlands <municipality of the Netherlands> sl=9
+   v Q105619817 RotterdaM | Dutch StarCraft II player and caster <human> sl=1
+   v Q105539079 Rotterdam | family name <family name> sl=1
+   v Q18705467 Rotterdam [1904–] | painting by Wassily Kandinsky <painting> sl=1
+[520] pl:rome | capital of Italy
+   vT Q220 Rome [-752–] | capital and largest city of Italy <capital city, metropolis> sl=344
+   vT Q6580 Rome [1834–] | county seat of Floyd County, Georgia, United States <county seat, city in the Un
+   v Q37571708 Rome | family name <family name> sl=3
+   vT Q17167 Roman Republic [-508–-26] | period of ancient Roman civilization (509 BC–27 BC) <historical cou
+    Q6655 UTC+01:00 | identifier for a time offset from UTC of +1 <time zone named for a UTC offset> sl=9
+[522] pl:rumelia | European provinces of the Ottoman Empire
+   *vT Q184002 Rumelia | Ottoman possessions in the Balkans <historical region> sl=52
+   vT Q4400028 Rumelia | village in Madzharovo municipality, Haskovo oblast, Bulgaria <village of Bulgaria, km
+   T Q4811008 Rumelia eyalet [1365–1867] | 1365–1867 Ottoman province in the Balkans <eyalet> sl=25
+    Q2360396 Balkan Gagauz | Turkic language <natural language, modern language> sl=28
+    Q6086949 Rumelian Turkish | Turkish dialects spoken in Rumelia <dialect group> sl=2
+[525] pl:rosario | city in Argentina
+   *vT Q52535 Rosario [1852–] | city in Argentina <municipality of Argentina, city of Argentina> sl=115
+   v Q1069827 Rosario | unisex given name <female given name, unisex given name> sl=8
+   v Q16882278 Rosario | family name <family name> sl=2
+   vT Q59758 Rosario [1687–] | municipality of the Philippines in the province of Batangas <municipality of 
+   vT Q40486 Rosario | municipality of the Philippines in the province of La Union <municipality of the Phil
+[526] pl:rostov-on-don | city in Russia
+   *vT Q908 Rostov-on-Don [1749–] | city and administrative center of Rostov Oblast in southern Russia <mil
+   vT Q16534881 Platov International Airport | airport in Russia <federal aeroport, international airport> sl=2
+   T Q1432638 Rostov-on-Don Airport [1925–2018] | Defunct airport in Russia <airport, former aerodrome> sl=32
+    Q99655665 Rostov-on-Don Wiki-Conference 2010 [2010–2010] |  <convention> sl=2
+    Q4487672 flag of Rostov-on-Don [1998–] |  <municipal flag> sl=1
+[527] pl:russian-empire | Russia
+   vT Q34266 Russian Empire [1721–1917] | former empire in Eurasia and North America (1721–1917) <historical
+   vT Q7382038 Romanov Empire [2011–] | micronation created in 2011 <micronation, self-proclaimed state> sl=16
+    Q2163579 Russian Empire census [1897–] | census carried out in the Russian Empire <census, Russian censu
+   T Q910495 Russian America [1772–1867] | Russian possessions in North America in the 18th century until 18
+    Q1253316 Russian Empire national football team [1910–1914] | former men's national association football 
+[528] pl:little-russia | historical name for (Left-bank) Ukraine
+   *vT Q1048315 Little Russia | historical and geographic term for Ukraine <administrative territorial entity, 
+   v Q33111551 Malorossiya | abortive initiative to unite proxy republics in eastern Ukraine, July 18–August  
+   vT Q6651794 Little Russia | former ethnic enclave in Tottenham, London, United Kingdom <former ethnic encla
+   vT Q3377378 Petite Russie [1912–] | residential complex in Paris <building complex> sl=3
+   T Q527343 Little Russia Governorate [1764–1802] | governorate of the Russian Empire <governorate> sl=18
+[529] pl:ruse | town in Bulgaria (Rustchuk)
+   vT Q160173 Ruse | city in Ruse municipality, Ruse oblast, Bulgaria <border city, municipality seat> sl=93
+   v Q37270483 Ruse | family name <family name> sl=1
+   v Q170028 deception | act of intentionally propagating beliefs of things that are not true, or not the <f
+   vT Q1251933 Ruse Province [1999–] | oblast of Bulgaria <oblast of Bulgaria> sl=74
+   vT Q2652929 Ruse | municipality in Ruse oblast, Bulgaria <municipality of Bulgaria> sl=18
+[533] pl:rehovot | Jewish colony in Judea
+   *vT Q207350 Rehovot [1890–] | city in the Central District of Israel, south of Tel Aviv <city> sl=57
+   v Q64503133 4X-EDF | Boeing 787-9 airliner <Boeing 787-9, retro airline liveries> sl=1
+   vT Q2753190 Rehoboth | biblical place names <Wikimedia list article, biblical place> sl=3
+   vT Q16595332 Rehoboth | biblical place name, watersource established by Isaac <water well, biblical place> s
+   T Q2916598 Rehovot Railway Station | railway station in Israel <railway station> sl=8
+[538] pl:ryazan | city in Russia
+   *vT Q2746 Ryazan [1095–] | city in Russia <administrative divisions of Russia, big city> sl=106
+   T Q2753 Ryazan Oblast [1937–] | federal subject of Russia <federal subject of Russia, oblast of Russia>
+   T Q1540291 Ryazan Governorate [1796–1929] | governorate of the Russian Empire <governorate, governorate of
+   vT Q4402698 Ryazan | human settlement in Cherepovetsky District, Vologda Oblast, Russia <hamlet> sl=3
+   vT Q16023140 Ryazan | human settlement in Nikolskoye rural settlement, Odintsovsky District, Moscow Ob <haml
+[539] pl:riga | city in Latvia
+   *vT Q1773 Riga [1201–] | capital and largest city of Latvia <Hanseatic city, big city> sl=225
+   v Q20727049 Riga | family name <family name> sl=2
+   vT Q274924 Admiral Kuznetsov | 1985 Kuznetsov-class aircraft carrier <aircraft carrier, aircraft cruiser> 
+   vT Q3494576 Square François Riga - François Rigasquare | square in Schaerbeek, Brussels, Belgium <square> s
+   v Q33013095 Riga | genus of insects <fossil taxon> sl=0
+[541] pl:rijeka | port in Hungary-Croatia (Fiume)
+   vT Q1647 Rijeka | city and settlement in Primorje-Gorski Kotar County, Croatia <big city, town in Croati
+    Q4022 river | larger natural watercourse <type of watercourse, ecosystem type> sl=283
+    Q16115992 Rijeka Philological School | academic journal <> sl=2
+   vT Q1141414 Rijeka Airport | international airport in Omišalj, Croatia <commercial traffic aerodrome, airpo
+   v Q1410287 /   | asteroid <asteroid> sl=16
+[542] pl:reims | city in France
+   *vT Q41876 Reims | city in Marne, France <big city, commune of France> sl=124
+   vT Q616652 Reims-la-Brûlée | commune in Marne, France <commune of France> sl=34
+   v Q125384203 Reims | family name <family name> sl=0
+   T Q3330225 Museum of Fine Arts of Reims [1794–] | museum in Reims, France <art museum> sl=7
+   v Q770316 12280 Reims | asteroid <asteroid> sl=19
+[543] pl:ramnicu-sarat | town in Romania
+   *vT Q617624 Râmnicu Sărat [1439–] | city in Buzău County, Romania <city, municipality of Romania> sl=38
+   v Q5014181 CSM Râmnicu Sărat [2010–] | Romanian professional football club <association football club> sl=
+   vT Q16898160 Râmnicu Sărat [1439–] | locality in Buzău County, Romania <municipality seat of Romania, consti
+   T Q59504704 Râmnicu Sărat railway station | heritage site in Buzău County, Romania <railway station> sl=2
+   T Q12731487 Râmnicu-Sărat County [1862–] | county of the Kingdom of Romania <county of the Kingdom of Roman
+[544] pl:rif | mountainous region of northern Morocco
+    Q24809101 Rift Valley fever phlebovirus | species of virus <taxon, synonym> sl=0
+    Q14276794 Rift Valley fever virus | species of virus <taxon> sl=0
+    Q29171 infantry | military service branch concerned with combat by individuals on foot <branch of serv
+   v Q34174 Tarifit | Zenati Berber language of northern Morocco <modern language> sl=57
+    Q422652 rifampicin | pharmaceutical drug <type of chemical entity> sl=42
+[546] pl:ramla | town in Palestine
+   T Q5419070 Ramla sub-district | sub-district in Israel <subdistrict of Israel> sl=4
+   *vT Q221447 Ramla | city in Israel <city> sl=65
+    Q12701721 Ramlah Ram | Malaysian singer and actress <human> sl=2
+    Q104167545 Ramlah Kalla |  <human> sl=0
+   vT Q7289704 Ramlah | human settlement in United Arab Emirates <human settlement> sl=1
+[547] pl:sibiu | city in Transylvania (Hermannstadt)
+   *vT Q83324 Sibiu [1191–] | capital of the county of Sibiu, Romania <municipality of Romania, big city> sl=
+   T Q184797 Sibiu County [1968–] | county of Romania <county of Romania> sl=69
+   vT Q16898517 Sibiu [1191–] | locality in Sibiu County, Romania <constituent locality, municipality seat of R
+   T Q7507116 Sibiu railway station | Romanian train station <railway station> sl=7
+    Q115667 Sibiu Cycling Tour [2011–] | Romanian multi-day road cycling race <stage race> sl=13
+[551] pl:rechytsa | town in Belarus
+   *vT Q909612 Rechytsa | city in Belarus <city of raion subordinance> sl=41
+   vT Q6532338 Rečyca | agrotown in Belarus <agrotown> sl=5
+   vT Q6532326 Rečyca | village in Kamieniec district, Belarus <village in Belarus> sl=6
+   vT Q14927682 Rečyca | railway station in Belarus <railway station> sl=6
+   vT Q13134022 Rečyca | village in Belarus <village in Belarus> sl=6
+[552] pl:racconigi | royal castle town in Piedmont
+   *vT Q20376 Racconigi | Italian comune <comune of Italy> sl=56
+   vT Q136671476 Racconigi |  <tram stop> sl=0
+   vT Q30029254 Racconigi | chief town of the homonym municipality <municipality seat> sl=1
+   T Q3970631 Racconigi railway station | railway station in Italy <railway station> sl=7
+   T Q3415986 Racconigi metro station [2006–] | metro station in Turin, Italy <metro station, underground sta
+[556] pl:shala-albania | Albanian highland tribe/region (uncertain identifi
+   v Q16883107 Shala | family name <family name> sl=2
+   v Q121208795 Shala | given name <given name> sl=0
+   vT Q11140039 Shala | town in Fuxin, Liaoning, China <town of China> sl=1
+   v Q390973 Shala | ancient Sumerian goddess <goddess> sl=12
+   vT Q4519722 Shalitsa | river in Karelia, Russia <river> sl=5
+[557] pl:shanghai | city in China
+   *vT Q8686 Shanghai [1292–] | provincial-level municipality in China <megacity, metropolis> sl=251
+   v Q15036769 Shanghai | 1986 video game <video game> sl=7
+   vT Q11359590 Shanghai County [1292–1992] | historical administrative division of China <former county of Chi
+    Q63717698 Shanghai Journal of Economics [1982–] | Chinese journal <academic journal> sl=0
+   v Q50847471 Shanghai | video game series <video game series> sl=1
+[558] pl:champs-elysees | avenue in Paris
+   T Q550 avenue des Champs-Élysées [1670–] | avenue in Paris, France <boulevard, avenue> sl=95
+   v Q106781659 Champs-Élysées | 2015 song by SCH <music track with vocals> sl=0
+   v Q2955922 Champs-Élysées |  <television program> sl=3
+   v Q124098916 Champs-Élysées | song by SCH <musical work/composition> sl=0
+   v Q139096878 Champs-Élysées [1878–] | tin figure ensemble by the foundry Zinngießerei Ammon <tin figure, gro
+[560] pl:chantilly | town near Paris
+   vT Q126675 Chantilly | commune in Oise, France <commune of France> sl=60
+   v Q392693 Chantilly | extinct cat breed from North America <cat breed> sl=14
+   vT Q328451 Chantilly | unincorporated community located in Northern Virginia, United States <census-design
+   v Q3398119 Chantilly porcelain [1725–] | French porcelain <business, ceramics manufactory> sl=7
+   v Q2978825 Clematis patens ‘Evipo021’ | Clematis cultivar <Clematis cultivar> sl=2
+[563] pl:shadrinsk | town in Perm Governorate
+   *vT Q198155 Shadrinsk [1662–] | city in Russia <city or town> sl=52
+   vT Q4519362 Shadrinsk | railway station in Shadrinsk, Russia <railway station> sl=1
+   T Q1653963 Shadrinsky District [1924–] | human settlement in Russia <municipal district> sl=16
+   T Q4519376 Shadrinsky Uyezd [1781–1923] | administrative subdivision of Perm Viceroyalty, Perm and Yekater
+   vT Q2061171 Shadrinsk | air bases in Russia <aerodrome> sl=6
+[565] pl:switzerland | country
+   *vT Q39 Switzerland [1848–] | country in Central Europe <state, country> sl=387
+   vT Q435583 Old Swiss Confederacy [1291–1798] | confederation of cantons (1291-1798) <historical country> s
+   v Q139772872 Switzerland |  <chapter> sl=0
+   v Q123007015 Switzerland | 2003 vocal track by Lemon Demon <music track with vocals> sl=0
+    Q165141 Switzerland men's national football team | men's national association football team representin
+[566] pl:zikhron-yaakov | Jewish colony in Samaria
+   T Q198399 Zichron Yaakov [1882–] | town and local council in Haifa District, Israel <town, moshav> sl=30
+   T Q113363477 Zichron Yaacov Cemetery | Cemetery in Zichron Yaacov, Israel <cemetery, Jewish cemetery> sl=0
+   T Q141805278 Zikhron Ya'akov Natural Region | natural Region in Haifa, Israel <administrative territorial en
+   T Q10860773 Zichron Ya'akov | neighborhood in Jerusalem, Israel <human settlement> sl=2
+    Q140302693 / זכרון יעקב: רבנים ראשיים  | Wikimedia category <Wikimedia category> sl=1
+[567] pl:stuttgart | city in Württemberg
+   *vT Q1022 Stuttgart | city on the Neckar river and capital of the federal state Baden-Württemberg, Ger <m
+   vT Q79844 Stuttgart [1880–] | city in Arkansas, United States <city in the United States> sl=45
+   T Q727750 Stuttgart-Mitte | human settlement in Germany <old town, Stadtbezirk> sl=9
+    Q21417186 The Stuttgart Database of Scientific Illustrators 1450–1950 | database of scientific illustrato
+   T Q1398505 Stuttgart-Nord | human settlement in Germany <Stadtbezirk> sl=8
+[568] pl:szczecin | port in Pomerania (Stettin)
+   *vT Q393 Szczecin | capital city of the West Pomeranian Voivodeship, Poland <city, Hanseatic city> sl=14
+   T Q247642 Szczecin Główny | railway station in Szczecin, Poland <railway station, central station> sl=16
+   T Q848999 Szczecinek [1310–] | city and urban gmina of Poland <urban municipality of Poland> sl=45
+   T Q7664243 Szczecin Gumieńce railway station | railway station in Szczecin, Poland <railway station, borde
+   vT Q33719184 Szczecin |  <> sl=1
+[574] pl:heliopolis-cairo | suburb of Cairo
+   T Q178835 Baalbek | city in Baalbek-Hermel, Lebanon <city, archaeological site> sl=87
+   T Q191687 Heliopolis [-3500–] | city of ancient Egypt <sanctuary, temple> sl=63
+   T Q2739389 Heliopolis [1906–] | Cairo suburb <shiyakha, geographic location> sl=23
+    Q662191 Bü 181 Bestmann | 1939 utility aircraft family <aircraft family> sl=19
+[576] pl:abbassia | district of Cairo
+   *vT Q4115223 Abbassia | neighborhood in Cairo, capital of Egypt <quarter, shiyakha> sl=15
+   vT Q18161422 Abbassia [2012–] | Cairo Metro station <metro station, underground station> sl=4
+   v Q63725859 Abbassia | feminine given name <female given name> sl=0
+   v Q135456323 Abbassia | fictional planet in the American science fiction media franchise The Expanse <fictio
+    Q3603167 Abbassia Pluvial | extended wet and rainy period in the climate history of North Africa <pluvia
+[577] pl:nablus | town in Samaria
+   vT Q214178 Nablus | city in the West Bank, State of Palestine <city> sl=77
+   vT Q7951237 Shechem | ancient Canaanite and Israelite city in central Samaria in the West Bank <human settl
+   T Q1074138 Nablus Governorate | governorate of the Palestinian National Authority <governorate of the Stat
+   v Q86820188 Nablus |  <human> sl=0
+    Q60348561 /   | article in Otto's encyclopedia <encyclopedia article> sl=1
+[579] pl:champagne-province | region of France
+   v Q134862 champagne | sparkling wine from Champagne, France <> sl=98
+   v Q16865482 Champagne | family name <family name> sl=2
+   vT Q195110 Champagne | commune in Ardèche, France <commune of France> sl=45
+   vT Q1080717 Champagne | commune in Charente-Maritime, France <commune of France> sl=40
+   vT Q52685 Champagne | municipality in the canton of Vaud in Switzerland <municipality of Switzerland> sl=
+[582] pl:shpola | town in Kiev Governorate
+   *vT Q145957 Shpola | city of Ukraine <city in Ukraine> sl=38
+   T Q2347543 Shpola Raion [1923–] | raion in Cherkasy Oblast, Ukraine <former raion of Ukraine> sl=18
+   vT Q13361319 Shpola | railway station in Shpola, Ukraine <railway station> sl=2
+   vT Q35515348 Shpola | spring in Federally Administered Tribal Areas, Pakistan <spring> sl=1
+   T Q47469045 Shpolianska miska hromada [2017–] | urban hromada of Cherkasy Oblast, Ukraine <amalgamated hrom
+[583] pl:szczuczyn | town in Poland (uncertain identification)
+   *vT Q958747 Szczuczyn | town in Poland <city> sl=27
+   T Q431779 Shchuchyn | city in Belarus <city of raion subordinance> sl=33
+   vT Q9351138 Szczuczyn | town in the Greater Poland Voivodeship <village of Poland> sl=8
+    Q943404 Szczuczyn deanery |  <deanery> sl=3
+   T Q30006815 Szczuczyn Ghetto | Nazi ghetto in occupied Poland <ghetto in Nazi-occupied Europe> sl=0
+[584] pl:cherbourg | port in France
+   vT Q3667188 Cherbourg [–2000] | former commune of Manche, France <city, commune of France> sl=18
+   vT Q2962706 Cherbourg | hamlet in Les Méchins, Quebec, Canada <hamlet> sl=1
+   *vT Q160199 Cherbourg-Octeville [2000–2015] | former city in Manche, France <commune of France, delegated c
+   T Q21008210 Cherbourg-en-Cotentin [2016–] | commune in Manche, France <commune of France> sl=44
+   vT Q13363678 Cherbourg | town in Queensland, Australia <town> sl=9
+[586] pl:charlottenburg | city near Berlin
+   *vT Q162049 Charlottenburg [1705–] | locality of Berlin, Germany <locality of Berlin> sl=39
+   T Q158095 Charlottenburg-Wilmersdorf [2001–] | borough of Berlin, Germany <borough of Berlin> sl=50
+   vT Q426004 Charlotenburg [1770–] | village in Timiș County, Romania <village, Rundling> sl=11
+   T Q1067421 Charlottenburg Canal | canal in Mitte, Germany <canal, national waterways in Germany> sl=7
+   T Q853708 Charlottenburg borough [1920–2001] | former borough of Berlin <former entity> sl=6
+[588] pl:tula-russia | city in Russia
+   vT Q2770 Tula | city in the center of European Russia <city or town, big city> sl=102
+   T Q1193547 Tulane University [1834–] | private research university in New Orleans, Louisiana, United State
+   v Q97478881 Tula | female given name <female given name> sl=1
+   vT Q2792 Tula Oblast [1937–] | federal subject of Russia <federal subject of Russia, oblast of Russia> s
+   vT Q157713 Tulle | commune in Corrèze, France <commune of France> sl=71
+[589] pl:tunisia | French protectorate
+   *vT Q948 Tunisia [1956–] | country in North Africa <country, republic> sl=329
+   vT Q2017684 French protectorate of Tunisia [1881–1956] | 1881-1956 monarchy in Northern Africa <protectorat
+    Q27971 Tunisia men's national football team | men's national association football team representing Tu
+    Q1423587 Tunisia men's national handball team | men's national handball team representing Tunisia <men's
+    Q921559 Tunisian Football Federation [1957–] | governing body of association football in Tunisia <assoc
+[594] pl:varshavsky-rail-terminal | Warsaw railway station in St Petersburg
+   T Q50918 Varshavsky rail terminal in Gatchina [1947–] | station building <station building, architectura
+   T Q136745047 Varshavsky Rail Terminal additional buildings |  <building, architectural landmark> sl=1
+[595] pl:zhmerynka | railway junction in Podolia
+   *vT Q956117 Zhmerynka | city of Ukraine <city, city of regional significance of Ukraine> sl=56
+   T Q2996213 Zhmerynka Raion [1923–2020] | former raion in Vinnytsia Oblast, Ukraine <raion of Ukraine> sl=1
+   vT Q12129191 Zhmerynka | railway station <railway station, architectural landmark> sl=7
+    Q23068177 Zhmerynka Directorate of Railway Transportation |  <enterprise> sl=1
+   T Q103812605 Zhmerynka Raion [2020–] | raion in Vinnytsia Oblast, Ukraine (established in 2020) <raion of Uk
+[596] pl:yemen | Ottoman Yemen
+   *vT Q805 Yemen [1990–] | country in West Asia <country, sovereign state> sl=318
+    Q12202700 Yemen General Census of Population, Housing and Establishments 2004 [2004–] | census <census> s
+   vT Q784972 Yemen Vilayet [1872–1918] | Ottoman province <vilayet> sl=21
+    Q326864 Yemen men's national football team | men's national association football team representing Yeme
+    Q3572152 Yemen TV | television channel <television station> sl=5
+[597] pl:tel-aviv | Jewish quarter near Jaffa (founded 1909)
+   *vT Q33935 Tel Aviv [1909–] | city in Israel <city, big city> sl=192
+   T Q2561450 Tel Aviv Sourasky Medical Center [1963–] | hospital in Tel Aviv, Israel <hospital> sl=14
+    Q15755268 Tel Aviv: Journal of the Institute of Archaeology of Tel Aviv [1974–] | academic journal <scien
+   T Q319239 Tel Aviv University [1956–] | University in Tel Aviv, Israel <public university, open-access pu
+   vT Q152406 Kiryat Gat [1954–] | city in the Southern District of Israel <city, city council> sl=47
+[598] pl:thessaly | region of Greece
+   vT Q166919 Thessaly | geographic region of Greece <region, historical region> sl=58
+   vT Q22807284 Thessaly Region | administrative region of Greece <administrative region of Greece> sl=64
+   vT Q1247568 Ancient Thessaly | traditional region of Ancient Greece <historical region> sl=12
+   v Q27916978 Thessaly | fantasy/science fiction trilogy by Jo Walton <trilogy> sl=1
+   v Q113634739 Thessaly | female given name <female given name> sl=0
+[599] pl:obvodny-canal | canal in St Petersburg
+   *vT Q1515754 Obvodny Canal | canal in Saint Petersburg <canal> sl=14
+   vT Q4329087 Obvodny Canal [1785–] | canal in St. Petersburg, Russia <canal, architectural landmark> sl=3
+   T Q21996893 Obvodny Canal Embankment | street <street> sl=2
+[600] pl:tarakanovka-canal | canal/river in St Petersburg
+   vT Q21854015 Tarakanovka | human settlement in Kaluga Oblast, Russia <hamlet> sl=3
+   vT Q4451511 Tarakanovka | river in Moscow, Russia <river> sl=3
+   vT Q4451510 Tarakanovka | river in St. Petersburg, Russia <river> sl=4
+   vT Q19691592 Tarakanovka | village in Kabansky District, Russia <village> sl=7
+   vT Q34934926 Tarakanovka | river in Kirov Oblast, Russia <river> sl=1
+[602] pl:panama-canal | canal
+   *vT Q7350 Panama Canal | large canal in Panama <ship canal> sl=162
+   vT Q42206536 Panama Canal | canal in New Mexico, United States <canal> sl=1
+   T Q498979 Panama Canal Zone [1903–1979] | American concession in Panama between 1903 and 1979 <unincorpor
+   vT Q34735360 Panama Canal | canal in Louisiana, United States <canal> sl=1
+   vT Q34735354 Panama Canal | canal in Florida, United States <canal> sl=1
+[603] pl:thrace | region
+   vT Q41741 Thrace | geographical and historical region in Southeast Europe <historical region, ancient civ
+   vT Q136500712 Thrace | square in Bulgaria <square> sl=0
+   vT Q1192701 Thrace [1920–] | geographic region of Greece <region, historical region> sl=50
+   vT Q1491574 Thrace | Byzantine district (theme) <theme of the Byzantine Empire> sl=15
+   v Q7797097 Thrace | daughter of Oceanus in Greek mythology <Oceanids> sl=5
+[604] pl:valladolid | city in Spain
+   vT Q8356 Valladolid [1072–] | municipality of the Province of Valladolid in Spain <municipality of Spain
+   vT Q195569 Valladolid [1860–] | municipality of the Philippines in the province of Negros Occidental <muni
+   vT Q31925679 Valladolid city | Spanish city, capital of the homonymous municipality in Castilla y León, Spai
+   vT Q71097 Valladolid Province | province of Castile and León, Spain <province of Spain> sl=82
+   vT Q10319 Real Valladolid [1928–] | Spanish football club <association football club, professional sports
+[605] pl:portsmouth | naval port in England
+   vT Q72259 Portsmouth | city in Hampshire, England, United Kingdom <city, port city> sl=111
+   vT Q21683233 City of Portsmouth [1835–] | district of Hampshire, England <unitary authority area, non-metrop
+   vT Q1787188 Portsmouth [1638–] | town in Newport County, Rhode Island, USA <town in the United States> sl=2
+   vT Q19604 Portsmouth F.C. [1898–] | association football club in Portsmouth, England <association footbal
+   vT Q7890709 Portsmouth | lightvessel LV-101 <lightvessel, preserved watercraft> sl=3

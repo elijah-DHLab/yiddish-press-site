@@ -1,0 +1,6104 @@
+{
+ "entities": [
+  {
+   "id": "grp:jews",
+   "he": "יהודים",
+   "en": "Jews",
+   "desc": "Jewish people",
+   "kind": "ethno-religious group",
+   "keys": [
+    "יהודים",
+    "בני ישראל"
+   ],
+   "qid_auto": "Q7325",
+   "qid": "Q7325"
+  },
+  {
+   "id": "grp:muslims",
+   "he": "מוסלמים",
+   "en": "Muslims",
+   "desc": "adherents of Islam",
+   "kind": "religious group",
+   "keys": [
+    "מוסלמים",
+    "מוסלמים/עולם האסלאם",
+    "עמים מוסלמיים",
+    "עמים מוסלמים לוחמניים"
+   ],
+   "qid_auto": "Q47740",
+   "qid": "Q47740"
+  },
+  {
+   "id": "grp:christians",
+   "he": "נוצרים",
+   "en": "Christians",
+   "desc": "adherents of Christianity",
+   "kind": "religious group",
+   "keys": [
+    "נוצרים",
+    "קתולים/נוצרים"
+   ],
+   "qid_auto": "Q106039",
+   "qid": "Q106039"
+  },
+  {
+   "id": "grp:catholics",
+   "he": "קתולים",
+   "en": "Catholic Church",
+   "desc": "Roman Catholics",
+   "kind": "religious group",
+   "en_alt": [
+    "Catholics"
+   ],
+   "parent": "grp:christians",
+   "keys": [
+    "קתולים"
+   ],
+   "qid_auto": "Q9592",
+   "qid": "Q9592"
+  },
+  {
+   "id": "grp:protestants",
+   "he": "פרוטסטנטים",
+   "en": "Protestantism",
+   "desc": "Protestant Christians",
+   "kind": "religious group",
+   "en_alt": [
+    "Protestants"
+   ],
+   "parent": "grp:christians",
+   "keys": [
+    "פרוטסטנטים"
+   ],
+   "qid_auto": "Q23540",
+   "qid": "Q23540"
+  },
+  {
+   "id": "grp:eastern-orthodox-christians",
+   "he": "נוצרים אורתודוקסים",
+   "en": "Eastern Orthodox Church",
+   "desc": "Eastern Orthodox Christians",
+   "kind": "religious group",
+   "parent": "grp:christians",
+   "keys": [
+    "נוצרים אורתודוקסים"
+   ],
+   "qid_auto": "Q35032",
+   "qid": "Q35032"
+  },
+  {
+   "id": "grp:greek-orthodox-christians",
+   "he": "יוונים אורתודוקסים",
+   "en": "Greek Orthodox Church",
+   "desc": "Greek Orthodox Christians (Ottoman Rum millet)",
+   "kind": "religious group",
+   "en_alt": [
+    "Rum millet"
+   ],
+   "parent": "grp:eastern-orthodox-christians",
+   "keys": [
+    "יוונים אורתודוקסים"
+   ],
+   "qid_auto": null,
+   "qid": "Q2382381"
+  },
+  {
+   "id": "grp:french-catholics",
+   "he": "קתולים צרפתים",
+   "en": "Catholic Church in France",
+   "desc": "French Catholics",
+   "kind": "religious group",
+   "parent": "grp:catholics",
+   "country": "pl:france",
+   "keys": [
+    "קתולים צרפתים"
+   ],
+   "qid_auto": "Q795240",
+   "qid": "Q795240"
+  },
+  {
+   "id": "grp:albanian-catholics",
+   "he": "קתולים אלבנים",
+   "en": "Catholic Church in Albania",
+   "desc": "Albanian Catholics (Mirdita region)",
+   "kind": "religious group",
+   "parent": "grp:catholics",
+   "country": "pl:albania",
+   "keys": [
+    "קתולים אלבנים"
+   ],
+   "qid_auto": "Q1108212",
+   "qid": "Q1108212"
+  },
+  {
+   "id": "grp:christians-of-macedonia",
+   "he": "נוצרים במקדוניה",
+   "en": "Christianity in Macedonia",
+   "desc": "Christian population of Ottoman Macedonia",
+   "kind": "religious group",
+   "parent": "grp:christians",
+   "country": "pl:macedonia",
+   "no_wd": true,
+   "keys": [
+    "נוצרים במקדוניה"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:arab-christians",
+   "he": "ערבים נוצרים",
+   "en": "Arab Christians",
+   "desc": "Christian Arabs",
+   "kind": "ethno-religious group",
+   "parent": "grp:christians",
+   "keys": [
+    "ערבים נוצרים"
+   ],
+   "qid_auto": "Q431164",
+   "qid": "Q431164"
+  },
+  {
+   "id": "grp:copts",
+   "he": "קופטים",
+   "en": "Copts",
+   "desc": "Coptic Christians of Egypt",
+   "kind": "ethno-religious group",
+   "parent": "grp:christians",
+   "country": "pl:egypt",
+   "keys": [
+    "קופטים"
+   ],
+   "qid_auto": null,
+   "qid": "Q146744"
+  },
+  {
+   "id": "grp:moroccan-christians",
+   "he": "מורים נוצרים",
+   "en": "Christians in Morocco",
+   "desc": "Christian inhabitants of Morocco",
+   "kind": "religious group",
+   "parent": "grp:christians",
+   "country": "pl:morocco",
+   "no_wd": true,
+   "keys": [
+    "מורים נוצרים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:non-muslims",
+   "he": "בני דתות אחרות",
+   "en": "Non-Muslims",
+   "desc": "non-Muslim peoples / members of other religions",
+   "kind": "religious group",
+   "no_wd": true,
+   "keys": [
+    "בני דתות אחרות",
+    "עמים לא מוסלמים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:shia-muslims",
+   "he": "שיעים",
+   "en": "Shia Islam",
+   "desc": "Shia Muslims",
+   "kind": "religious group",
+   "en_alt": [
+    "Shia Muslims"
+   ],
+   "parent": "grp:muslims",
+   "keys": [
+    "שיעים"
+   ],
+   "qid_auto": "Q9585",
+   "qid": "Q9585"
+  },
+  {
+   "id": "grp:wahhabis",
+   "he": "וואהבים",
+   "en": "Wahhabism",
+   "desc": "Wahhabi Muslims",
+   "kind": "religious group",
+   "parent": "grp:muslims",
+   "keys": [
+    "וואהבים"
+   ],
+   "qid_auto": "Q163140",
+   "qid": "Q163140"
+  },
+  {
+   "id": "grp:druze",
+   "he": "דרוזים",
+   "en": "Druze",
+   "desc": "Druze of Syria and Lebanon",
+   "kind": "ethno-religious group",
+   "country": "pl:syria",
+   "keys": [
+    "דרוזים"
+   ],
+   "qid_auto": "Q163943",
+   "qid": "Q163943"
+  },
+  {
+   "id": "grp:bosnian-muslims",
+   "he": "מוסלמים בוסנים",
+   "en": "Bosniaks",
+   "desc": "Bosnian Muslims",
+   "kind": "ethno-religious group",
+   "parent": "grp:muslims",
+   "country": "pl:bosnia-and-herzegovina",
+   "keys": [
+    "מוסלמים בוסנים"
+   ],
+   "qid_auto": "Q940348",
+   "qid": "Q940348"
+  },
+  {
+   "id": "grp:moroccan-muslims",
+   "he": "מוסלמים מרוקאים",
+   "en": "Islam in Morocco",
+   "desc": "Muslim population of Morocco",
+   "kind": "religious group",
+   "parent": "grp:muslims",
+   "country": "pl:morocco",
+   "keys": [
+    "מוסלמים מרוקאים",
+    "אוכלוסייה מוסלמית מקומית"
+   ],
+   "qid_auto": "Q2566690",
+   "qid": "Q2566690"
+  },
+  {
+   "id": "grp:arab-muslims",
+   "he": "ערבים מוסלמים",
+   "en": "Arab Muslims",
+   "desc": "Muslim Arabs",
+   "kind": "ethno-religious group",
+   "parent": "grp:muslims",
+   "keys": [
+    "ערבים מוסלמים"
+   ],
+   "qid_auto": "Q4783216",
+   "qid": "Q4783216"
+  },
+  {
+   "id": "grp:muslim-women",
+   "he": "נשים מוסלמיות",
+   "en": "Women in Islam",
+   "desc": "Muslim women",
+   "kind": "social group",
+   "parent": "grp:muslims",
+   "keys": [
+    "נשים מוסלמיות"
+   ],
+   "qid_auto": "Q622820",
+   "qid": null
+  },
+  {
+   "id": "grp:muslim-pilgrims",
+   "he": "עולי רגל מוסלמים",
+   "en": "Hajj",
+   "desc": "Muslim pilgrims",
+   "kind": "social group",
+   "en_alt": [
+    "Hajji"
+   ],
+   "parent": "grp:pilgrims",
+   "keys": [
+    "עולי רגל מוסלמים"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "grp:shia-pilgrims",
+   "he": "עולי רגל שיעים",
+   "en": "Ziyarat",
+   "desc": "Shia pilgrims (to Karbala, Najaf, Mashhad)",
+   "kind": "social group",
+   "parent": "grp:pilgrims",
+   "keys": [
+    "עולי רגל שיעים"
+   ],
+   "qid_auto": "Q2906076",
+   "qid": null
+  },
+  {
+   "id": "grp:pilgrims",
+   "he": "עולי רגל",
+   "en": "Pilgrim",
+   "desc": "pilgrims",
+   "kind": "social group",
+   "en_alt": [
+    "Pilgrimage"
+   ],
+   "keys": [
+    "עולי רגל",
+    "עולי רגל ונוסעים"
+   ],
+   "qid_auto": "Q1644573",
+   "qid": "Q542704"
+  },
+  {
+   "id": "grp:mujahideen",
+   "he": "מוג'אהדין",
+   "en": "Mujahideen",
+   "desc": "Muslim holy-war fighters (Morocco)",
+   "kind": "military group",
+   "parent": "grp:muslims",
+   "keys": [
+    "מוגאהדין"
+   ],
+   "qid_auto": "Q42759",
+   "qid": "Q42759"
+  },
+  {
+   "id": "grp:ulama",
+   "he": "עולמא",
+   "en": "Ulama",
+   "desc": "Muslim religious scholars",
+   "kind": "religious class",
+   "parent": "grp:muslims",
+   "keys": [
+    "אולמא ואנשי דת מוסלמים",
+    "אולמות וסופטות"
+   ],
+   "qid_auto": "Q1762047",
+   "qid": "Q189459"
+  },
+  {
+   "id": "grp:softas",
+   "he": "סופטות",
+   "en": "Softa",
+   "desc": "Ottoman madrasa students",
+   "kind": "social group",
+   "parent": "grp:ulama",
+   "keys": [
+    "סופטאס",
+    "תלמידי ישיבה מוסלמיים"
+   ],
+   "qid_auto": null,
+   "qid": "Q11893963"
+  },
+  {
+   "id": "grp:hodjas",
+   "he": "חוג'ות",
+   "en": "Hodja",
+   "desc": "lower Muslim clergy (hodjas)",
+   "kind": "religious class",
+   "parent": "grp:ulama",
+   "keys": [
+    "אנשי דת נמוכים"
+   ],
+   "qid_auto": "Q1262145",
+   "qid": null
+  },
+  {
+   "id": "grp:persian-clergy",
+   "he": "אנשי דת פרסיים",
+   "en": "Shia clergy",
+   "desc": "Persian Shia clergy (mullahs, mujtahids)",
+   "kind": "religious class",
+   "parent": "grp:ulama",
+   "country": "pl:persia",
+   "keys": [
+    "אנשי דת פרסיים"
+   ],
+   "qid_auto": "Q7495966",
+   "qid": "Q7495966"
+  },
+  {
+   "id": "grp:sheikhs",
+   "he": "שייח'ים",
+   "en": "Sheikh",
+   "desc": "tribal sheikhs",
+   "kind": "social group",
+   "keys": [
+    "שייכים"
+   ],
+   "qid_auto": "Q185166",
+   "qid": "Q185166"
+  },
+  {
+   "id": "grp:clergy",
+   "he": "כמורה",
+   "en": "Clergy",
+   "desc": "clergy (general / Christian)",
+   "kind": "religious class",
+   "keys": [
+    "כמורה",
+    "אנשי כמורה",
+    "אנשי דת",
+    "פקידי כמורה/אנשי דת"
+   ],
+   "qid_auto": "Q177826",
+   "qid": "Q177826"
+  },
+  {
+   "id": "grp:priests",
+   "he": "כמרים",
+   "en": "Priest",
+   "desc": "Christian priests",
+   "kind": "religious class",
+   "parent": "grp:clergy",
+   "keys": [
+    "כמרים",
+    "כמרים קתוליים"
+   ],
+   "qid_auto": "Q42603",
+   "qid": "Q42603"
+  },
+  {
+   "id": "grp:orthodox-priests",
+   "he": "כמרים אורתודוקסים",
+   "en": "Priesthood (Orthodox Church)",
+   "desc": "Orthodox Christian priests",
+   "kind": "religious class",
+   "parent": "grp:priests",
+   "keys": [
+    "כמרים אורתודוקסים",
+    "אנשי דת רוסים"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "grp:clergy-of-macedonia",
+   "he": "כמורה במקדוניה",
+   "en": "Clergy in Macedonia",
+   "desc": "Christian (Greek/Bulgarian) clergy in Macedonia",
+   "kind": "religious class",
+   "parent": "grp:clergy",
+   "country": "pl:macedonia",
+   "no_wd": true,
+   "keys": [
+    "כמורה במקדוניה"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:clericals",
+   "he": "קלריקלים",
+   "en": "Clericalism",
+   "desc": "reactionary clerical party / clericals",
+   "kind": "political group",
+   "parent": "grp:conservatives",
+   "keys": [
+    "קלריקלים ריאקציונרים"
+   ],
+   "qid_auto": "Q747439",
+   "qid": null
+  },
+  {
+   "id": "grp:missionaries",
+   "he": "מיסיונרים",
+   "en": "Missionary",
+   "desc": "Christian missionaries",
+   "kind": "religious group",
+   "parent": "grp:clergy",
+   "keys": [
+    "מיסיונרים",
+    "מיסיונרים נוצרים"
+   ],
+   "qid_auto": null,
+   "qid": "Q219477"
+  },
+  {
+   "id": "org:jesuits",
+   "he": "ישועים",
+   "en": "Jesuits",
+   "desc": "Society of Jesus, Catholic religious order",
+   "kind": "religious order",
+   "en_alt": [
+    "Society of Jesus"
+   ],
+   "keys": [
+    "יסואיטים",
+    "ישועים"
+   ],
+   "qid_auto": "Q36380",
+   "qid": "Q36380"
+  },
+  {
+   "id": "org:dominican-order",
+   "he": "המסדר הדומיניקני",
+   "en": "Dominican Order",
+   "desc": "Catholic religious order",
+   "kind": "religious order",
+   "keys": [
+    "דומיניקנים"
+   ],
+   "qid_auto": "Q131479",
+   "qid": "Q131479"
+  },
+  {
+   "id": "grp:sephardi-jews",
+   "he": "יהודים ספרדים",
+   "en": "Sephardic Jews",
+   "desc": "Jews descended from the Jews of Iberia",
+   "kind": "Jewish subgroup",
+   "en_alt": [
+    "Sephardim"
+   ],
+   "parent": "grp:jews",
+   "keys": [
+    "יהודים ספרדים",
+    "יהודים ספרדיים",
+    "יהודי ספרד ופורטוגל",
+    "יהודי ספרד/סלוניקי",
+    "גולי ספרד"
+   ],
+   "qid_auto": "Q102251",
+   "qid": "Q102251"
+  },
+  {
+   "id": "grp:ashkenazi-jews",
+   "he": "אשכנזים",
+   "en": "Ashkenazi Jews",
+   "desc": "Jews of Central and Eastern European descent",
+   "kind": "Jewish subgroup",
+   "en_alt": [
+    "Ashkenazim"
+   ],
+   "parent": "grp:jews",
+   "keys": [
+    "אשכנזים"
+   ],
+   "qid_auto": "Q34069",
+   "qid": "Q34069"
+  },
+  {
+   "id": "grp:mizrahi-jews",
+   "he": "יהודי המזרח",
+   "en": "Mizrahi Jews",
+   "desc": "Jews of the Middle East / the \"Orient\"",
+   "kind": "Jewish subgroup",
+   "parent": "grp:jews",
+   "keys": [
+    "יהודי המזרח",
+    "יהודי ארצות המזרח",
+    "עדות יהודיות"
+   ],
+   "qid_auto": "Q501837",
+   "qid": "Q501837"
+  },
+  {
+   "id": "grp:maghrebi-jews",
+   "he": "מערביים",
+   "en": "Maghrebi Jews",
+   "desc": "North African (Maghrebi) Jews, e.g. in Jerusalem",
+   "kind": "Jewish subgroup",
+   "parent": "grp:mizrahi-jews",
+   "keys": [
+    "מערביים",
+    "יהודי צפון אפריקה"
+   ],
+   "qid_auto": "Q6730438",
+   "qid": "Q6730438"
+  },
+  {
+   "id": "grp:marranos",
+   "he": "אנוסים",
+   "en": "Marrano",
+   "desc": "crypto-Jews / New Christians of Spain and Portugal",
+   "kind": "Jewish subgroup",
+   "en_alt": [
+    "Anusim",
+    "Conversos"
+   ],
+   "parent": "grp:sephardi-jews",
+   "keys": [
+    "אנוסים",
+    "אנוסים ספרדים",
+    "מרנים"
+   ],
+   "qid_auto": null,
+   "qid": "Q312214"
+  },
+  {
+   "id": "grp:karaites",
+   "he": "קראים",
+   "en": "Karaite Jews",
+   "desc": "Karaites",
+   "kind": "religious group",
+   "parent": "grp:jews",
+   "keys": [
+    "קראים"
+   ],
+   "qid_auto": "Q208398",
+   "qid": "Q208398"
+  },
+  {
+   "id": "grp:bukharan-jews",
+   "he": "יהודים בוכרים",
+   "en": "Bukharan Jews",
+   "desc": "Bukharan Jews (in Jerusalem)",
+   "kind": "Jewish subgroup",
+   "parent": "grp:mizrahi-jews",
+   "keys": [
+    "בוכרים"
+   ],
+   "qid_auto": "Q44949",
+   "qid": "Q44949"
+  },
+  {
+   "id": "grp:yemenite-jews",
+   "he": "יהודי תימן",
+   "en": "Yemenite Jews",
+   "desc": "Jews of Yemen and Yemenite Jews in Palestine",
+   "kind": "Jewish subgroup",
+   "parent": "grp:mizrahi-jews",
+   "country": "pl:yemen",
+   "keys": [
+    "יהודי תימן",
+    "תימנים"
+   ],
+   "qid_auto": "Q657993",
+   "qid": "Q657993"
+  },
+  {
+   "id": "grp:moroccan-jews",
+   "he": "יהודי מרוקו",
+   "en": "Moroccan Jews",
+   "desc": "Jews of Morocco",
+   "kind": "Jewish subgroup",
+   "parent": "grp:maghrebi-jews",
+   "country": "pl:morocco",
+   "keys": [
+    "יהודי מרוקו",
+    "יהודים מרוקאים"
+   ],
+   "qid_auto": "Q16152214",
+   "qid": "Q16152214"
+  },
+  {
+   "id": "grp:jews-of-fez",
+   "he": "יהודי פאס",
+   "en": "History of the Jews in Fez",
+   "desc": "Jewish community of Fez",
+   "kind": "Jewish community",
+   "parent": "grp:moroccan-jews",
+   "country": "pl:morocco",
+   "keys": [
+    "יהודי פאס",
+    "יהודי פס"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "grp:jews-of-meknes",
+   "he": "יהודי מקנס",
+   "en": "Jews of Meknes",
+   "desc": "Jewish community of Meknes",
+   "kind": "Jewish community",
+   "parent": "grp:moroccan-jews",
+   "country": "pl:morocco",
+   "no_wd": true,
+   "keys": [
+    "יהודי מקנאס"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:algerian-jews",
+   "he": "יהודי אלג'יריה",
+   "en": "Algerian Jews",
+   "desc": "Jews of Algeria",
+   "kind": "Jewish subgroup",
+   "parent": "grp:maghrebi-jews",
+   "country": "pl:algeria",
+   "keys": [
+    "יהודי אלגיריה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "grp:tunisian-jews",
+   "he": "יהודי תוניסיה",
+   "en": "Tunisian Jews",
+   "desc": "Jews of Tunisia/Tunis",
+   "kind": "Jewish subgroup",
+   "parent": "grp:maghrebi-jews",
+   "country": "pl:tunisia",
+   "keys": [
+    "יהודי תוניס"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "grp:egyptian-jews",
+   "he": "יהודי מצרים",
+   "en": "Egyptian Jews",
+   "desc": "Jews of Egypt",
+   "kind": "Jewish subgroup",
+   "parent": "grp:mizrahi-jews",
+   "country": "pl:egypt",
+   "keys": [
+    "יהודי מצרים"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "grp:jews-of-cairo",
+   "he": "יהודי קהיר",
+   "en": "History of the Jews in Cairo",
+   "desc": "Jewish community of Cairo",
+   "kind": "Jewish community",
+   "parent": "grp:egyptian-jews",
+   "country": "pl:egypt",
+   "no_wd": true,
+   "keys": [
+    "יהודי קהיר"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:jews-of-alexandria",
+   "he": "יהודי אלכסנדריה",
+   "en": "History of the Jews in Alexandria",
+   "desc": "Jewish community of Alexandria",
+   "kind": "Jewish community",
+   "parent": "grp:egyptian-jews",
+   "country": "pl:egypt",
+   "no_wd": true,
+   "keys": [
+    "יהודי אלכסנדריה"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:syrian-jews",
+   "he": "יהודי סוריה",
+   "en": "Syrian Jews",
+   "desc": "Jews of Syria",
+   "kind": "Jewish subgroup",
+   "parent": "grp:mizrahi-jews",
+   "country": "pl:syria",
+   "keys": [
+    "יהודי סוריה",
+    "יהודים סורים",
+    "יהודי סוריה ופלשתינה"
+   ],
+   "qid_auto": "Q1840268",
+   "qid": "Q1840268"
+  },
+  {
+   "id": "grp:jews-of-damascus",
+   "he": "יהודי דמשק",
+   "en": "History of the Jews in Damascus",
+   "desc": "Jewish community of Damascus",
+   "kind": "Jewish community",
+   "parent": "grp:syrian-jews",
+   "country": "pl:syria",
+   "no_wd": true,
+   "keys": [
+    "יהודי דמשק"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:jews-of-aleppo",
+   "he": "יהודי חלב",
+   "en": "History of the Jews in Aleppo",
+   "desc": "Aleppan Jews (Halabim)",
+   "kind": "Jewish community",
+   "parent": "grp:syrian-jews",
+   "country": "pl:syria",
+   "no_wd": true,
+   "keys": [
+    "חלבים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:persian-jews",
+   "he": "יהודי פרס",
+   "en": "Persian Jews",
+   "desc": "Jews of Persia",
+   "kind": "Jewish subgroup",
+   "parent": "grp:mizrahi-jews",
+   "country": "pl:persia",
+   "keys": [
+    "יהודי פרס"
+   ],
+   "qid_auto": "Q2309935",
+   "qid": "Q2309935"
+  },
+  {
+   "id": "grp:indian-jews",
+   "he": "יהודי הודו",
+   "en": "History of the Jews in India",
+   "desc": "Jews of India",
+   "kind": "Jewish subgroup",
+   "en_alt": [
+    "Indian Jews"
+   ],
+   "parent": "grp:jews",
+   "keys": [
+    "יהודי הודו"
+   ],
+   "qid_auto": "Q573598",
+   "qid": null
+  },
+  {
+   "id": "grp:turkish-jews",
+   "he": "יהודי טורקיה",
+   "en": "History of the Jews in Turkey",
+   "desc": "Jews of the Ottoman Empire / Turkey",
+   "kind": "Jewish subgroup",
+   "en_alt": [
+    "Turkish Jews",
+    "Ottoman Jews"
+   ],
+   "parent": "grp:sephardi-jews",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "יהודי טורקיה",
+    "יהודי האימפריה העותמאנית",
+    "יהודים עותמאניים",
+    "יהודים עותמאנים",
+    "יהודים מטורקיה"
+   ],
+   "qid_auto": "Q560816",
+   "qid": null
+  },
+  {
+   "id": "grp:jews-of-thessaloniki",
+   "he": "יהודי סלוניקי",
+   "en": "History of the Jews in Thessaloniki",
+   "desc": "Jewish community of Salonica",
+   "kind": "Jewish community",
+   "parent": "grp:jews",
+   "country": "pl:greece",
+   "keys": [
+    "יהודי סלוניקי",
+    "סלוניקאים יהודים"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "grp:jews-of-constantinople",
+   "he": "יהודי קושטא",
+   "en": "History of the Jews in Istanbul",
+   "desc": "Jewish community of Constantinople",
+   "kind": "Jewish community",
+   "parent": "grp:turkish-jews",
+   "country": "pl:ottoman-empire",
+   "no_wd": true,
+   "keys": [
+    "יהודי קושטא"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:jews-of-smyrna",
+   "he": "יהודי איזמיר",
+   "en": "History of the Jews in Izmir",
+   "desc": "Jewish community of Smyrna",
+   "kind": "Jewish community",
+   "parent": "grp:turkish-jews",
+   "country": "pl:ottoman-empire",
+   "no_wd": true,
+   "keys": [
+    "יהודי סמירנה"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:greek-jews",
+   "he": "יהודי יוון",
+   "en": "Greek Jews",
+   "desc": "Jews of Greece (Romaniotes and Sephardim)",
+   "kind": "Jewish subgroup",
+   "en_alt": [
+    "Romaniote Jews"
+   ],
+   "parent": "grp:jews",
+   "country": "pl:greece",
+   "keys": [
+    "יהודי יוון",
+    "יהודים יוונים"
+   ],
+   "qid_auto": "Q2265699",
+   "qid": null
+  },
+  {
+   "id": "grp:bulgarian-jews",
+   "he": "יהודי בולגריה",
+   "en": "History of the Jews in Bulgaria",
+   "desc": "Jews of Bulgaria",
+   "kind": "Jewish subgroup",
+   "parent": "grp:sephardi-jews",
+   "country": "pl:bulgaria",
+   "keys": [
+    "יהודי בולגריה"
+   ],
+   "qid_auto": "Q583420",
+   "qid": null
+  },
+  {
+   "id": "grp:jews-of-ottoman-palestine",
+   "he": "יהודי ארץ ישראל",
+   "en": "Old Yishuv",
+   "desc": "Jewish population of Ottoman Palestine",
+   "kind": "Jewish subgroup",
+   "en_alt": [
+    "Yishuv"
+   ],
+   "parent": "grp:jews",
+   "country": "pl:ottoman-palestine",
+   "keys": [
+    "יהודי ארץ ישראל",
+    "תושבי הישוב העברי"
+   ],
+   "qid_auto": null,
+   "qid": "Q2845775"
+  },
+  {
+   "id": "grp:jews-of-jerusalem",
+   "he": "יהודי ירושלים",
+   "en": "History of the Jews in Jerusalem",
+   "desc": "Jewish community of Jerusalem",
+   "kind": "Jewish community",
+   "parent": "grp:jews-of-ottoman-palestine",
+   "country": "pl:ottoman-palestine",
+   "no_wd": true,
+   "keys": [
+    "יהודי ירושלים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:perushim",
+   "he": "פרושים",
+   "en": "Perushim",
+   "desc": "Ashkenazi disciples of the Vilna Gaon in Palestine",
+   "kind": "Jewish subgroup",
+   "parent": "grp:jews-of-ottoman-palestine",
+   "keys": [
+    "פרושים"
+   ],
+   "qid_auto": "Q7171119",
+   "qid": "Q7171119"
+  },
+  {
+   "id": "grp:jewish-zealots-jerusalem",
+   "he": "קנאים",
+   "en": "Haredim (zealots)",
+   "desc": "ultra-Orthodox zealots (Jerusalem, Salonica)",
+   "kind": "Jewish subgroup",
+   "parent": "grp:haredi-jews",
+   "no_wd": true,
+   "keys": [
+    "קנאים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:russian-jews",
+   "he": "יהודי רוסיה",
+   "en": "History of the Jews in Russia",
+   "desc": "Jews of the Russian Empire",
+   "kind": "Jewish subgroup",
+   "en_alt": [
+    "Russian Jews"
+   ],
+   "parent": "grp:ashkenazi-jews",
+   "country": "pl:russian-empire",
+   "keys": [
+    "יהודי רוסיה",
+    "יהודים רוסים",
+    "יהודים נתינים רוסים",
+    "נתינים רוסים יהודים",
+    "יהודים רוסים וגליצאים"
+   ],
+   "qid_auto": "Q2031644",
+   "qid": "Q32360797"
+  },
+  {
+   "id": "grp:litvaks",
+   "he": "ליטוואקים",
+   "en": "Litvaks",
+   "desc": "Lithuanian Jews",
+   "kind": "Jewish subgroup",
+   "parent": "grp:russian-jews",
+   "country": "pl:lithuania",
+   "keys": [
+    "ליטוואקים"
+   ],
+   "qid_auto": "Q1421205",
+   "qid": "Q1421205"
+  },
+  {
+   "id": "grp:jews-of-odessa",
+   "he": "יהודי אודסה",
+   "en": "History of the Jews in Odessa",
+   "desc": "Jewish community of Odessa",
+   "kind": "Jewish community",
+   "parent": "grp:russian-jews",
+   "country": "pl:russian-empire",
+   "no_wd": true,
+   "keys": [
+    "יהודי אודסה"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:jews-of-minsk",
+   "he": "יהודי מינסק",
+   "en": "History of the Jews in Minsk",
+   "desc": "Jewish community of Minsk",
+   "kind": "Jewish community",
+   "parent": "grp:russian-jews",
+   "country": "pl:russian-empire",
+   "no_wd": true,
+   "keys": [
+    "יהודי מינסק"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:jews-of-kiev",
+   "he": "יהודי קייב",
+   "en": "History of the Jews in Kyiv",
+   "desc": "Jewish community of Kiev",
+   "kind": "Jewish community",
+   "parent": "grp:russian-jews",
+   "country": "pl:russian-empire",
+   "no_wd": true,
+   "keys": [
+    "יהודי קייב"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:jews-of-saint-petersburg",
+   "he": "יהודי פטרבורג",
+   "en": "History of the Jews in Saint Petersburg",
+   "desc": "Jewish community of St Petersburg",
+   "kind": "Jewish community",
+   "parent": "grp:russian-jews",
+   "country": "pl:russian-empire",
+   "no_wd": true,
+   "keys": [
+    "יהודי פטרבורג"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:jews-of-mykolaiv",
+   "he": "יהודי ניקולאייב",
+   "en": "Jews of Mykolaiv",
+   "desc": "Jewish community of Nikolayev",
+   "kind": "Jewish community",
+   "parent": "grp:russian-jews",
+   "country": "pl:russian-empire",
+   "no_wd": true,
+   "keys": [
+    "יהודי ניקולאייב"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:jews-of-alytus",
+   "he": "יהודי אליטה",
+   "en": "Jews of Alytus",
+   "desc": "Jewish community of Olita (Alytus)",
+   "kind": "Jewish community",
+   "parent": "grp:russian-jews",
+   "country": "pl:russian-empire",
+   "no_wd": true,
+   "keys": [
+    "יהודי אליטה"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:bessarabian-jews",
+   "he": "יהודי בסרביה",
+   "en": "History of the Jews in Bessarabia",
+   "desc": "Jews of Bessarabia",
+   "kind": "Jewish subgroup",
+   "parent": "grp:russian-jews",
+   "country": "pl:russian-empire",
+   "keys": [
+    "יהודי בסרביה"
+   ],
+   "qid_auto": "Q5869624",
+   "qid": null
+  },
+  {
+   "id": "grp:galician-jews",
+   "he": "יהודי גליציה",
+   "en": "History of the Jews in Galicia",
+   "desc": "Jews of Austrian Galicia",
+   "kind": "Jewish subgroup",
+   "en_alt": [
+    "Galician Jews"
+   ],
+   "parent": "grp:ashkenazi-jews",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "יהודי גליציה"
+   ],
+   "qid_auto": "Q2467513",
+   "qid": "Q2467513"
+  },
+  {
+   "id": "grp:romanian-jews",
+   "he": "יהודי רומניה",
+   "en": "History of the Jews in Romania",
+   "desc": "Jews of Romania",
+   "kind": "Jewish subgroup",
+   "en_alt": [
+    "Romanian Jews"
+   ],
+   "parent": "grp:ashkenazi-jews",
+   "country": "pl:romania",
+   "keys": [
+    "יהודי רומניה",
+    "יהודים רומנים"
+   ],
+   "qid_auto": "Q696662",
+   "qid": "Q28195536"
+  },
+  {
+   "id": "grp:german-jews",
+   "he": "יהודי גרמניה",
+   "en": "History of the Jews in Germany",
+   "desc": "Jews of Germany",
+   "kind": "Jewish subgroup",
+   "en_alt": [
+    "German Jews"
+   ],
+   "parent": "grp:ashkenazi-jews",
+   "country": "pl:germany",
+   "keys": [
+    "יהודי גרמניה",
+    "יהודים גרמנים"
+   ],
+   "qid_auto": "Q7330",
+   "qid": null
+  },
+  {
+   "id": "grp:western-european-jews",
+   "he": "יהודי מערב אירופה",
+   "en": "Western European Jews",
+   "desc": "Jews of Western Europe",
+   "kind": "Jewish subgroup",
+   "parent": "grp:jews",
+   "no_wd": true,
+   "keys": [
+    "יהודי מערב אירופה",
+    "יהודים אנגלים, צרפתים וגרמנים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:eastern-european-jews",
+   "he": "יהודי מזרח אירופה",
+   "en": "Eastern European Jews",
+   "desc": "Jews of Eastern Europe",
+   "kind": "Jewish subgroup",
+   "parent": "grp:ashkenazi-jews",
+   "no_wd": true,
+   "keys": [
+    "יהודי מזרח אירופה"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:french-jews",
+   "he": "יהודי צרפת",
+   "en": "History of the Jews in France",
+   "desc": "Jews of France",
+   "kind": "Jewish subgroup",
+   "en_alt": [
+    "French Jews"
+   ],
+   "parent": "grp:jews",
+   "country": "pl:france",
+   "keys": [
+    "יהודי צרפת",
+    "יהודים צרפתים"
+   ],
+   "qid_auto": "Q702758",
+   "qid": "Q124100109"
+  },
+  {
+   "id": "grp:british-jews",
+   "he": "יהודי אנגליה",
+   "en": "British Jews",
+   "desc": "Jews of England/Britain",
+   "kind": "Jewish subgroup",
+   "parent": "grp:jews",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "יהודי אנגליה",
+    "יהודים אנגלים"
+   ],
+   "qid_auto": "Q702718",
+   "qid": "Q702718"
+  },
+  {
+   "id": "grp:italian-jews",
+   "he": "יהודי איטליה",
+   "en": "Italian Jews",
+   "desc": "Jews of Italy",
+   "kind": "Jewish subgroup",
+   "parent": "grp:jews",
+   "country": "pl:italy",
+   "keys": [
+    "יהודי איטליה",
+    "יהודים איטלקים"
+   ],
+   "qid_auto": "Q2605053",
+   "qid": "Q2605053"
+  },
+  {
+   "id": "grp:dutch-jews",
+   "he": "יהודי הולנד",
+   "en": "History of the Jews in the Netherlands",
+   "desc": "Jews of the Netherlands",
+   "kind": "Jewish subgroup",
+   "parent": "grp:jews",
+   "country": "pl:netherlands",
+   "keys": [
+    "יהודי הולנד"
+   ],
+   "qid_auto": "Q2099287",
+   "qid": null
+  },
+  {
+   "id": "grp:gibraltarian-jews",
+   "he": "יהודי גיברלטר",
+   "en": "History of the Jews in Gibraltar",
+   "desc": "Jews of Gibraltar",
+   "kind": "Jewish subgroup",
+   "parent": "grp:sephardi-jews",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "יהודי גיברלטר"
+   ],
+   "qid_auto": "Q2456071",
+   "qid": null
+  },
+  {
+   "id": "grp:american-jews",
+   "he": "יהודי אמריקה",
+   "en": "American Jews",
+   "desc": "Jews of the United States",
+   "kind": "Jewish subgroup",
+   "parent": "grp:jews",
+   "country": "pl:united-states",
+   "keys": [
+    "יהודי אמריקה",
+    "יהודים אמריקאים"
+   ],
+   "qid_auto": "Q678551",
+   "qid": "Q678551"
+  },
+  {
+   "id": "grp:jamaican-jews",
+   "he": "יהודי ג'מייקה",
+   "en": "History of the Jews in Jamaica",
+   "desc": "Jews of Jamaica",
+   "kind": "Jewish subgroup",
+   "parent": "grp:sephardi-jews",
+   "keys": [
+    "יהודי גמייקה"
+   ],
+   "qid_auto": "Q5869672",
+   "qid": null
+  },
+  {
+   "id": "grp:south-african-jews",
+   "he": "יהודי דרום אפריקה",
+   "en": "History of the Jews in South Africa",
+   "desc": "Jews of South Africa",
+   "kind": "Jewish subgroup",
+   "parent": "grp:jews",
+   "keys": [
+    "יהודי דרום אפריקה"
+   ],
+   "qid_auto": "Q1516827",
+   "qid": null
+  },
+  {
+   "id": "grp:arabic-speaking-jews",
+   "he": "יהודים דוברי ערבית",
+   "en": "Arab Jews",
+   "desc": "Arabic-speaking Jews",
+   "kind": "Jewish subgroup",
+   "parent": "grp:mizrahi-jews",
+   "keys": [
+    "יהודים דוברי ערבית"
+   ],
+   "qid_auto": "Q2637729",
+   "qid": "Q2637729"
+  },
+  {
+   "id": "grp:black-jews",
+   "he": "יהודים כושים",
+   "en": "Black Jews",
+   "desc": "\"black Jews\" (as described in a Jerusalem report)",
+   "kind": "Jewish subgroup",
+   "parent": "grp:jews",
+   "no_wd": true,
+   "keys": [
+    "יהודים כתם"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:foreign-jews-in-turkey",
+   "he": "יהודים זרים בתורכיה",
+   "en": "Foreign Jews in the Ottoman Empire",
+   "desc": "Jews of foreign nationality living in Turkey",
+   "kind": "Jewish subgroup",
+   "parent": "grp:jews",
+   "no_wd": true,
+   "keys": [
+    "יהודים זרים בתורכיה",
+    "יהודים נתיני מדינות ההסכמה"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:jewish-sect-cyprus",
+   "he": "כת יהודית כופרת בקפריסין",
+   "en": "Heretical Jewish sect in Cyprus",
+   "desc": "medieval heretical Jewish sect in Cyprus (per Benjamin of Tudela)",
+   "kind": "religious group",
+   "parent": "grp:jews",
+   "no_wd": true,
+   "keys": [
+    "כת יהודית כופרת בקפריסין"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:orthodox-jews",
+   "he": "יהודים אורתודוקסים",
+   "en": "Orthodox Judaism",
+   "desc": "Orthodox Jews",
+   "kind": "religious group",
+   "parent": "grp:jews",
+   "keys": [
+    "יהודים אורתודוקסים",
+    "יהודים דתיים",
+    "חסידים ויהודים אדוקים"
+   ],
+   "qid_auto": "Q80970",
+   "qid": "Q80970"
+  },
+  {
+   "id": "grp:haredi-jews",
+   "he": "יהודים חרדים",
+   "en": "Haredi Judaism",
+   "desc": "ultra-Orthodox Jews",
+   "kind": "religious group",
+   "parent": "grp:orthodox-jews",
+   "keys": [
+    "יהודים חרדים"
+   ],
+   "qid_auto": "Q212912",
+   "qid": "Q212912"
+  },
+  {
+   "id": "grp:hungarian-orthodox-jews",
+   "he": "אורתודוקסים הונגרים",
+   "en": "Orthodox Judaism in Hungary",
+   "desc": "Hungarian Orthodox Jews",
+   "kind": "religious group",
+   "parent": "grp:orthodox-jews",
+   "country": "pl:austria-hungary",
+   "no_wd": true,
+   "keys": [
+    "אורתודוקסים הונגרים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:hasidim",
+   "he": "חסידים",
+   "en": "Hasidic Judaism",
+   "desc": "Hasidim",
+   "kind": "religious group",
+   "en_alt": [
+    "Hasidim"
+   ],
+   "parent": "grp:jews",
+   "keys": [
+    "חסידים"
+   ],
+   "qid_auto": "Q171201",
+   "qid": "Q171201"
+  },
+  {
+   "id": "grp:chortkov-hasidim",
+   "he": "חסידי צ'ורטקוב",
+   "en": "Chortkov (Hasidic dynasty)",
+   "desc": "Chortkov Hasidim",
+   "kind": "Hasidic group",
+   "parent": "grp:hasidim",
+   "keys": [
+    "חסידי צורטקוב"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "grp:husiatyn-hasidim",
+   "he": "חסידי הוסיאטין",
+   "en": "Husiatyn (Hasidic dynasty)",
+   "desc": "Husiatyn Hasidim",
+   "kind": "Hasidic group",
+   "parent": "grp:hasidim",
+   "keys": [
+    "חסידי הוסיאטין"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "grp:reform-jews",
+   "he": "יהודים רפורמים",
+   "en": "Reform Judaism",
+   "desc": "Reform Jews",
+   "kind": "religious group",
+   "parent": "grp:jews",
+   "keys": [
+    "יהודים רפורמים"
+   ],
+   "qid_auto": "Q1133485",
+   "qid": "Q1133485"
+  },
+  {
+   "id": "grp:rabbis",
+   "he": "רבנים",
+   "en": "Rabbi",
+   "desc": "rabbis",
+   "kind": "religious class",
+   "parent": "grp:jews",
+   "keys": [
+    "רבנים",
+    "רבנים אורתודוקסים"
+   ],
+   "qid_auto": null,
+   "qid": "Q133485"
+  },
+  {
+   "id": "grp:reform-rabbis",
+   "he": "רבנים רפורמיים",
+   "en": "Reform Judaism",
+   "desc": "Reform rabbis",
+   "kind": "religious class",
+   "parent": "grp:rabbis",
+   "no_wd": true,
+   "keys": [
+    "רבנים רפורמיים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:rabbis-in-palestine",
+   "he": "רבנים בארץ ישראל",
+   "en": "Rabbis in Ottoman Palestine",
+   "desc": "rabbis of the Old Yishuv",
+   "kind": "religious class",
+   "parent": "grp:rabbis",
+   "country": "pl:ottoman-palestine",
+   "no_wd": true,
+   "keys": [
+    "רבנים בארץ ישראל"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:persian-rabbis",
+   "he": "רבנים פרסים",
+   "en": "Persian rabbis",
+   "desc": "rabbis of Persia",
+   "kind": "religious class",
+   "parent": "grp:rabbis",
+   "country": "pl:persia",
+   "no_wd": true,
+   "keys": [
+    "רבנים פרסים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:moroccan-hakhamim",
+   "he": "חכמים מרוקאים",
+   "en": "Moroccan rabbis",
+   "desc": "Moroccan Jewish sages",
+   "kind": "religious class",
+   "parent": "grp:rabbis",
+   "country": "pl:morocco",
+   "no_wd": true,
+   "keys": [
+    "חכמים מרוקאים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:kohanim",
+   "he": "כוהנים",
+   "en": "Kohen",
+   "desc": "Jewish priestly descendants (Kohanim)",
+   "kind": "Jewish subgroup",
+   "parent": "grp:jews",
+   "keys": [
+    "כוהנים"
+   ],
+   "qid_auto": "Q728973",
+   "qid": "Q728973"
+  },
+  {
+   "id": "grp:maskilim",
+   "he": "משכילים",
+   "en": "Haskalah",
+   "desc": "maskilim, adherents of the Jewish Enlightenment",
+   "kind": "intellectual group",
+   "en_alt": [
+    "Maskilim"
+   ],
+   "parent": "grp:jews",
+   "keys": [
+    "משכילים",
+    "משכילים יהודים",
+    "יהודים משכילים"
+   ],
+   "qid_auto": "Q472670",
+   "qid": null
+  },
+  {
+   "id": "grp:assimilated-jews",
+   "he": "מתבוללים",
+   "en": "Jewish assimilation",
+   "desc": "assimilated Jews",
+   "kind": "social group",
+   "parent": "grp:jews",
+   "keys": [
+    "מתבוללים",
+    "יהודים מתבוללים"
+   ],
+   "qid_auto": "Q12294354",
+   "qid": null
+  },
+  {
+   "id": "grp:apostates",
+   "he": "משומדים",
+   "en": "Conversion from Judaism",
+   "desc": "Jewish converts to Christianity (meshumadim)",
+   "kind": "social group",
+   "parent": "grp:jews",
+   "keys": [
+    "משומדים"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "grp:zionists",
+   "he": "ציונים",
+   "en": "Zionism",
+   "desc": "Zionists",
+   "kind": "political group",
+   "en_alt": [
+    "Zionists"
+   ],
+   "parent": "grp:jews",
+   "keys": [
+    "ציונים",
+    "יהודים ציונים"
+   ],
+   "qid_auto": "Q42388",
+   "qid": "Q42388"
+  },
+  {
+   "id": "grp:german-zionists",
+   "he": "ציונים גרמנים",
+   "en": "Zionism in Germany",
+   "desc": "German Zionists",
+   "kind": "political group",
+   "parent": "grp:zionists",
+   "country": "pl:germany",
+   "no_wd": true,
+   "keys": [
+    "ציונים גרמנים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:hungarian-zionists",
+   "he": "ציונים הונגרים",
+   "en": "Zionism in Hungary",
+   "desc": "Hungarian Zionists",
+   "kind": "political group",
+   "parent": "grp:zionists",
+   "country": "pl:austria-hungary",
+   "no_wd": true,
+   "keys": [
+    "ציונים הונגרים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:anti-zionists",
+   "he": "אנטי ציונים",
+   "en": "Anti-Zionism",
+   "desc": "anti-Zionists",
+   "kind": "political group",
+   "keys": [
+    "אנטי ציונים"
+   ],
+   "qid_auto": "Q584548",
+   "qid": "Q584548"
+  },
+  {
+   "id": "grp:territorialists",
+   "he": "טריטוריאליסטים",
+   "en": "Jewish Territorialism",
+   "desc": "Jewish territorialists",
+   "kind": "political group",
+   "en_alt": [
+    "Jewish Territorial Organization"
+   ],
+   "parent": "grp:jews",
+   "keys": [
+    "טריטוריאליסטים"
+   ],
+   "qid_auto": "Q6189967",
+   "qid": "Q6189967"
+  },
+  {
+   "id": "grp:jewish-nationalists",
+   "he": "לאומנים יהודים",
+   "en": "Jewish nationalism",
+   "desc": "Jewish nationalists",
+   "kind": "political group",
+   "parent": "grp:jews",
+   "keys": [
+    "לאומנים יהודים",
+    "יהודים לאומיים"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:bilu",
+   "he": "ביל\"ו",
+   "en": "Bilu",
+   "desc": "Bilu movement of Jewish pioneers (1882)",
+   "kind": "movement",
+   "en_alt": [
+    "Biluim"
+   ],
+   "country": "pl:russian-empire",
+   "keys": [
+    "בילויים"
+   ],
+   "qid_auto": null,
+   "qid": "Q863392"
+  },
+  {
+   "id": "grp:jewish-free-thinkers",
+   "he": "יהודים חופשיים",
+   "en": "Jewish secularism",
+   "desc": "Jewish free-thinkers (audience)",
+   "kind": "social group",
+   "parent": "grp:jews",
+   "no_wd": true,
+   "keys": [
+    "מאזינים יהודים חופשיים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:jewish-public-figures",
+   "he": "פעילי ציבור יהודים",
+   "en": "Jewish communal leaders",
+   "desc": "Jewish public activists",
+   "kind": "social group",
+   "parent": "grp:jews",
+   "no_wd": true,
+   "keys": [
+    "פעילי ציבור יהודים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:jewish-bourgeoisie",
+   "he": "בורגנים יהודים",
+   "en": "Jewish bourgeoisie",
+   "desc": "Jewish middle class",
+   "kind": "social class",
+   "parent": "grp:jews",
+   "no_wd": true,
+   "keys": [
+    "בורגנים יהודים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:jewish-capitalists",
+   "he": "קפיטליסטים יהודים",
+   "en": "Jewish capitalists",
+   "desc": "Jewish capitalists / financiers",
+   "kind": "social class",
+   "parent": "grp:jews",
+   "no_wd": true,
+   "keys": [
+    "קפיטליסטים יהודים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:jewish-merchants",
+   "he": "סוחרים יהודים",
+   "en": "Jewish merchants",
+   "desc": "Jewish merchants and traders",
+   "kind": "occupational group",
+   "parent": "grp:jews",
+   "no_wd": true,
+   "keys": [
+    "סוחרים יהודים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:jewish-pharmacists",
+   "he": "רוקחים יהודים",
+   "en": "Jewish pharmacists",
+   "desc": "Jewish pharmacists",
+   "kind": "occupational group",
+   "parent": "grp:jews",
+   "no_wd": true,
+   "keys": [
+    "רוקחים יהודים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:jewish-bakers",
+   "he": "אופים יהודים",
+   "en": "Jewish bakers",
+   "desc": "Jewish bakers",
+   "kind": "occupational group",
+   "parent": "grp:jews",
+   "no_wd": true,
+   "keys": [
+    "אופים יהודים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:jewish-lawyers",
+   "he": "עורכי דין יהודים",
+   "en": "Jewish lawyers",
+   "desc": "Jewish lawyers",
+   "kind": "occupational group",
+   "parent": "grp:jews",
+   "no_wd": true,
+   "keys": [
+    "עורכי דין יהודים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:jewish-workers",
+   "he": "פועלים יהודים",
+   "en": "Jewish workers",
+   "desc": "Jewish workers / labor",
+   "kind": "social class",
+   "parent": "grp:jews",
+   "no_wd": true,
+   "keys": [
+    "פועלים יהודים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:jewish-workers-in-america",
+   "he": "פועלים יהודים באמריקה",
+   "en": "Jewish American labor",
+   "desc": "Jewish workers in the United States",
+   "kind": "social class",
+   "parent": "grp:jewish-workers",
+   "country": "pl:united-states",
+   "no_wd": true,
+   "keys": [
+    "פועלים יהודים באמריקה"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:jewish-agricultural-workers",
+   "he": "פועלי אדמה יהודים",
+   "en": "Jewish agricultural workers",
+   "desc": "Jewish farm laborers (Palestine)",
+   "kind": "social class",
+   "parent": "grp:jewish-workers",
+   "no_wd": true,
+   "keys": [
+    "פועלי אדמה יהודים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:jewish-landowners",
+   "he": "יהודים בעלי אדמות",
+   "en": "Jewish landowners",
+   "desc": "Jews owning land",
+   "kind": "social group",
+   "parent": "grp:jews",
+   "no_wd": true,
+   "keys": [
+    "יהודים בבעלות אדמות"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:jewish-agricultural-colonists",
+   "he": "מתיישבים חקלאיים יהודים",
+   "en": "Jewish agricultural colonies",
+   "desc": "Jewish agricultural settlers",
+   "kind": "social group",
+   "parent": "grp:jews",
+   "no_wd": true,
+   "keys": [
+    "מתיישבים חקלאיים יהודים",
+    "מתיישבי המושבות",
+    "מתיישבים במושבות"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:jewish-settlers-in-palestine",
+   "he": "מתיישבים יהודים בארץ ישראל",
+   "en": "First Aliyah",
+   "desc": "Jewish settlers (colonists) in Ottoman Palestine",
+   "kind": "social group",
+   "parent": "grp:jewish-agricultural-colonists",
+   "country": "pl:ottoman-palestine",
+   "keys": [
+    "מתיישבים יהודים בארץ ישראל"
+   ],
+   "qid_auto": "Q933141",
+   "qid": null
+  },
+  {
+   "id": "grp:jewish-colonists-in-argentina",
+   "he": "מתיישבים יהודים בארגנטינה",
+   "en": "Jewish gauchos",
+   "desc": "Jewish agricultural colonists in Argentina (JCA)",
+   "kind": "social group",
+   "parent": "grp:jewish-agricultural-colonists",
+   "keys": [
+    "מתיישבים יהודים בארגנטינה"
+   ],
+   "qid_auto": "Q6190051",
+   "qid": "Q6190051"
+  },
+  {
+   "id": "grp:jewish-students",
+   "he": "סטודנטים יהודים",
+   "en": "Jewish students",
+   "desc": "Jewish university students",
+   "kind": "social group",
+   "parent": "grp:students",
+   "no_wd": true,
+   "keys": [
+    "סטודנטים יהודים",
+    "סטודנטיות יהודיות"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:jewish-nationalist-students",
+   "he": "סטודנטים יהודים לאומיים",
+   "en": "Jewish nationalist students",
+   "desc": "Jewish nationalist student societies",
+   "kind": "social group",
+   "parent": "grp:jewish-students",
+   "no_wd": true,
+   "keys": [
+    "סטודנטים יהודים לאומיים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:jewish-youth",
+   "he": "נוער יהודי",
+   "en": "Jewish youth",
+   "desc": "Jewish youth",
+   "kind": "social group",
+   "parent": "grp:jews",
+   "no_wd": true,
+   "keys": [
+    "נוער יהודי",
+    "ילדים יהודים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:jewish-women",
+   "he": "נשים יהודיות",
+   "en": "Jewish women",
+   "desc": "Jewish women",
+   "kind": "social group",
+   "parent": "grp:jews",
+   "no_wd": true,
+   "keys": [
+    "נשים יהודיות",
+    "נשים וילדות יהודיות"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:jewish-emigrants",
+   "he": "מהגרים יהודים",
+   "en": "Jewish emigration",
+   "desc": "Jewish emigrants",
+   "kind": "social group",
+   "parent": "grp:emigrants",
+   "no_wd": true,
+   "keys": [
+    "מהגרים יהודים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:jewish-emigrants-from-russia",
+   "he": "מהגרים יהודים מרוסיה",
+   "en": "Jewish emigration from the Russian Empire",
+   "desc": "Jewish emigrants from Russia",
+   "kind": "social group",
+   "parent": "grp:jewish-emigrants",
+   "no_wd": true,
+   "keys": [
+    "מהגרים יהודים מרוסיה",
+    "עולי רוסיה"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:jewish-refugees",
+   "he": "פליטים יהודים",
+   "en": "Jewish refugees",
+   "desc": "Jewish refugees",
+   "kind": "social group",
+   "parent": "grp:refugees",
+   "no_wd": true,
+   "keys": [
+    "פליטים יהודים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:jewish-refugees-from-turkey",
+   "he": "פליטים יהודים מטורקיה",
+   "en": "Jewish refugees from Turkey",
+   "desc": "Jewish refugees from the Ottoman Empire (WWI)",
+   "kind": "social group",
+   "parent": "grp:jewish-refugees",
+   "no_wd": true,
+   "keys": [
+    "יהודים פליטים מטורקיה"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:jewish-reservists",
+   "he": "יהודים במילואים",
+   "en": "Jewish reservists",
+   "desc": "Jewish army reservists",
+   "kind": "social group",
+   "parent": "grp:reservists",
+   "no_wd": true,
+   "keys": [
+    "יהודי המילואים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:kishinev-orphans",
+   "he": "יתומי פוגרום קישינב",
+   "en": "Kishinev pogrom orphans",
+   "desc": "orphans of the pogroms (Kishinev)",
+   "kind": "social group",
+   "parent": "grp:orphans",
+   "no_wd": true,
+   "keys": [
+    "ילדי קישינב",
+    "יתומי פוגרום"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:sassoon-family",
+   "he": "משפחת ששון",
+   "en": "Sassoon family",
+   "desc": "Baghdadi Jewish merchant family",
+   "kind": "family",
+   "parent": "grp:jews",
+   "keys": [
+    "משפחת ששון"
+   ],
+   "qid_auto": "Q175926",
+   "qid": "Q175926"
+  },
+  {
+   "id": "grp:slavs",
+   "he": "סלאבים",
+   "en": "Slavs",
+   "desc": "Slavic peoples",
+   "kind": "ethnic group",
+   "keys": [
+    "סלאבים",
+    "עמים סלאביים"
+   ],
+   "qid_auto": "Q40477",
+   "qid": "Q40477"
+  },
+  {
+   "id": "grp:russians",
+   "he": "רוסים",
+   "en": "Russians",
+   "desc": "Russians",
+   "kind": "ethnic group",
+   "parent": "grp:slavs",
+   "country": "pl:russian-empire",
+   "keys": [
+    "רוסים",
+    "מושבות רוסיות",
+    "נופשים רוסים"
+   ],
+   "qid_auto": "Q49542",
+   "qid": "Q49542"
+  },
+  {
+   "id": "grp:russian-subjects",
+   "he": "נתיני רוסיה",
+   "en": "Russian subjects",
+   "desc": "subjects of the Russian Empire",
+   "kind": "legal category",
+   "parent": "grp:foreign-subjects",
+   "country": "pl:russian-empire",
+   "no_wd": true,
+   "keys": [
+    "נתיני רוסיה",
+    "נתינים רוסים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:little-russians",
+   "he": "מלורוסים",
+   "en": "Little Russians",
+   "desc": "Little Russians (Ukrainians)",
+   "kind": "ethnic group",
+   "parent": "grp:ukrainians",
+   "country": "pl:ukraine",
+   "keys": [
+    "מלורוסים"
+   ],
+   "qid_auto": "Q16673845",
+   "qid": "Q16673845"
+  },
+  {
+   "id": "grp:ukrainians",
+   "he": "אוקראינים",
+   "en": "Ukrainians",
+   "desc": "Ukrainians",
+   "kind": "ethnic group",
+   "parent": "grp:slavs",
+   "country": "pl:ukraine",
+   "keys": [],
+   "qid_auto": "Q44806",
+   "qid": "Q44806"
+  },
+  {
+   "id": "grp:ruthenians",
+   "he": "רותנים",
+   "en": "Ruthenians",
+   "desc": "Ruthenians (Ukrainians of Austria-Hungary)",
+   "kind": "ethnic group",
+   "parent": "grp:ukrainians",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "רוסינים"
+   ],
+   "qid_auto": null,
+   "qid": "Q700926"
+  },
+  {
+   "id": "grp:poles",
+   "he": "פולנים",
+   "en": "Poles",
+   "desc": "Poles",
+   "kind": "ethnic group",
+   "parent": "grp:slavs",
+   "country": "pl:poland",
+   "keys": [
+    "פולנים"
+   ],
+   "qid_auto": "Q1026",
+   "qid": "Q1026"
+  },
+  {
+   "id": "grp:polish-nobility",
+   "he": "שלאכטה",
+   "en": "Szlachta",
+   "desc": "Polish nobility",
+   "kind": "social class",
+   "parent": "grp:nobility",
+   "country": "pl:poland",
+   "keys": [
+    "אצילים פולנים"
+   ],
+   "qid_auto": "Q311995",
+   "qid": "Q311995"
+  },
+  {
+   "id": "grp:serbs",
+   "he": "סרבים",
+   "en": "Serbs",
+   "desc": "Serbs",
+   "kind": "ethnic group",
+   "parent": "grp:slavs",
+   "country": "pl:serbia",
+   "keys": [
+    "סרבים"
+   ],
+   "qid_auto": "Q127885",
+   "qid": "Q127885"
+  },
+  {
+   "id": "grp:bulgarians",
+   "he": "בולגרים",
+   "en": "Bulgarians",
+   "desc": "Bulgarians",
+   "kind": "ethnic group",
+   "parent": "grp:slavs",
+   "country": "pl:bulgaria",
+   "keys": [
+    "בולגרים"
+   ],
+   "qid_auto": "Q133255",
+   "qid": "Q133255"
+  },
+  {
+   "id": "grp:montenegrins",
+   "he": "מונטנגרים",
+   "en": "Montenegrins",
+   "desc": "Montenegrins",
+   "kind": "ethnic group",
+   "parent": "grp:slavs",
+   "country": "pl:montenegro",
+   "keys": [
+    "מונטנגרים",
+    "מונטנגרינים"
+   ],
+   "qid_auto": "Q19109",
+   "qid": "Q19109"
+  },
+  {
+   "id": "grp:czechs",
+   "he": "צ'כים",
+   "en": "Czechs",
+   "desc": "Czechs",
+   "kind": "ethnic group",
+   "parent": "grp:slavs",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "צכים"
+   ],
+   "qid_auto": "Q170217",
+   "qid": "Q170217"
+  },
+  {
+   "id": "grp:young-czechs",
+   "he": "הצ'כים הצעירים",
+   "en": "Young Czech Party",
+   "desc": "Young Czechs (Czech liberal nationalists)",
+   "kind": "political group",
+   "parent": "grp:czechs",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "צכים צעירים"
+   ],
+   "qid_auto": "Q1713492",
+   "qid": "Q1713492"
+  },
+  {
+   "id": "grp:slovenes",
+   "he": "סלובנים",
+   "en": "Slovenes",
+   "desc": "Slovenes",
+   "kind": "ethnic group",
+   "parent": "grp:slavs",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "סלובנים"
+   ],
+   "qid_auto": "Q15863",
+   "qid": "Q15863"
+  },
+  {
+   "id": "grp:macedonians",
+   "he": "מקדונים",
+   "en": "Macedonians (ethnic group)",
+   "desc": "inhabitants/Slavs of Ottoman Macedonia",
+   "kind": "ethnic group",
+   "parent": "grp:slavs",
+   "country": "pl:macedonia",
+   "keys": [
+    "מקדונים"
+   ],
+   "qid_auto": "Q2436423",
+   "qid": "Q2436423"
+  },
+  {
+   "id": "grp:germans",
+   "he": "גרמנים",
+   "en": "Germans",
+   "desc": "Germans",
+   "kind": "ethnic group",
+   "country": "pl:germany",
+   "keys": [
+    "גרמנים"
+   ],
+   "qid_auto": "Q42884",
+   "qid": "Q42884"
+  },
+  {
+   "id": "grp:pan-germans",
+   "he": "פאן-גרמנים",
+   "en": "Pan-Germanism",
+   "desc": "Pan-German nationalists (Alldeutsche)",
+   "kind": "political group",
+   "en_alt": [
+    "Pan-German League"
+   ],
+   "parent": "grp:nationalists",
+   "country": "pl:germany",
+   "keys": [
+    "פאן גרמנים",
+    "גרמנים הכלליים"
+   ],
+   "qid_auto": null,
+   "qid": "Q155812"
+  },
+  {
+   "id": "grp:german-patriots",
+   "he": "פטריוטים גרמנים",
+   "en": "German nationalism",
+   "desc": "German patriots/nationalists",
+   "kind": "political group",
+   "parent": "grp:nationalists",
+   "country": "pl:germany",
+   "no_wd": true,
+   "keys": [
+    "פטריוטים גרמנים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:german-nobility",
+   "he": "אצולה גרמנית",
+   "en": "German nobility",
+   "desc": "German nobility",
+   "kind": "social class",
+   "parent": "grp:nobility",
+   "country": "pl:germany",
+   "keys": [
+    "אצולה גרמנית"
+   ],
+   "qid_auto": "Q479867",
+   "qid": "Q479867"
+  },
+  {
+   "id": "grp:junkers",
+   "he": "יונקרים",
+   "en": "Junker (Prussia)",
+   "desc": "Prussian landed nobility",
+   "kind": "social class",
+   "parent": "grp:german-nobility",
+   "country": "pl:germany",
+   "keys": [
+    "יונקרים"
+   ],
+   "qid_auto": null,
+   "qid": "Q170365"
+  },
+  {
+   "id": "grp:agrarians",
+   "he": "אגרריים",
+   "en": "Agrarian League",
+   "desc": "German agrarian conservatives (Bund der Landwirte)",
+   "kind": "political group",
+   "parent": "grp:conservatives",
+   "country": "pl:germany",
+   "keys": [
+    "אגרריים"
+   ],
+   "qid_auto": "Q506591",
+   "qid": null
+  },
+  {
+   "id": "grp:german-colonists",
+   "he": "מתיישבים גרמנים",
+   "en": "German colonists",
+   "desc": "German colonists (Templers, Volga/Black Sea Germans)",
+   "kind": "social group",
+   "parent": "grp:colonists",
+   "no_wd": true,
+   "keys": [
+    "מתיישבים גרמנים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:german-researchers",
+   "he": "חוקרים גרמנים",
+   "en": "German scholars",
+   "desc": "German researchers/explorers",
+   "kind": "occupational group",
+   "parent": "grp:germans",
+   "country": "pl:germany",
+   "no_wd": true,
+   "keys": [
+    "חוקרים גרמנים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:austrians",
+   "he": "אוסטרים",
+   "en": "Austrians",
+   "desc": "Austrians",
+   "kind": "ethnic group",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "אוסטרים",
+    "אוסטרו גרמנים"
+   ],
+   "qid_auto": "Q237534",
+   "qid": "Q237534"
+  },
+  {
+   "id": "grp:hungarians",
+   "he": "הונגרים",
+   "en": "Hungarians",
+   "desc": "Hungarians",
+   "kind": "ethnic group",
+   "en_alt": [
+    "Magyars"
+   ],
+   "country": "pl:austria-hungary",
+   "keys": [
+    "ונגרים"
+   ],
+   "qid_auto": "Q133032",
+   "qid": "Q133032"
+  },
+  {
+   "id": "grp:non-magyar-nationalities",
+   "he": "לאומים לא הונגריים",
+   "en": "Nationalities of Hungary",
+   "desc": "non-Magyar nationalities of the Kingdom of Hungary",
+   "kind": "ethnic group",
+   "parent": "grp:national-minorities",
+   "country": "pl:austria-hungary",
+   "no_wd": true,
+   "keys": [
+    "לאומים לא הונגריים באימפריה"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:population-of-galicia",
+   "he": "אוכלוסיית גליציה",
+   "en": "Galicia (Eastern Europe)",
+   "desc": "population of Austrian Galicia",
+   "kind": "regional population",
+   "country": "pl:austria-hungary",
+   "no_wd": true,
+   "keys": [
+    "אוכלוסיית גליציה"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:alsatians",
+   "he": "אלזסים",
+   "en": "Alsatians",
+   "desc": "inhabitants of Alsace-Lorraine",
+   "kind": "ethnic group",
+   "country": "pl:germany",
+   "keys": [
+    "אלזסים",
+    "תושבי אלזס לורין"
+   ],
+   "qid_auto": "Q4531496",
+   "qid": "Q4531496"
+  },
+  {
+   "id": "grp:french",
+   "he": "צרפתים",
+   "en": "French people",
+   "desc": "French people",
+   "kind": "ethnic group",
+   "country": "pl:france",
+   "keys": [
+    "צרפתים"
+   ],
+   "qid_auto": "Q121842",
+   "qid": "Q121842"
+  },
+  {
+   "id": "grp:parisians",
+   "he": "פריזאים",
+   "en": "Parisians",
+   "desc": "inhabitants of Paris",
+   "kind": "ethnic group",
+   "parent": "grp:french",
+   "country": "pl:france",
+   "keys": [
+    "פריזאים",
+    "תושבי פריז"
+   ],
+   "qid_auto": "Q105740844",
+   "qid": "Q105740844"
+  },
+  {
+   "id": "grp:english",
+   "he": "אנגלים",
+   "en": "English people",
+   "desc": "English people",
+   "kind": "ethnic group",
+   "parent": "grp:british",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "אנגלים"
+   ],
+   "qid_auto": "Q42406",
+   "qid": "Q42406"
+  },
+  {
+   "id": "grp:british",
+   "he": "בריטים",
+   "en": "British people",
+   "desc": "British people",
+   "kind": "ethnic group",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "בריטים"
+   ],
+   "qid_auto": "Q842438",
+   "qid": "Q842438"
+  },
+  {
+   "id": "grp:british-subjects",
+   "he": "נתינים בריטים",
+   "en": "British subject",
+   "desc": "British subjects",
+   "kind": "legal category",
+   "parent": "grp:foreign-subjects",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "נתינים בריטים"
+   ],
+   "qid_auto": "Q4971466",
+   "qid": "Q4971466"
+  },
+  {
+   "id": "grp:irish",
+   "he": "אירים",
+   "en": "Irish people",
+   "desc": "Irish people",
+   "kind": "ethnic group",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "אירים"
+   ],
+   "qid_auto": "Q170826",
+   "qid": "Q170826"
+  },
+  {
+   "id": "grp:irish-nationalists",
+   "he": "לאומנים אירים",
+   "en": "Irish nationalism",
+   "desc": "Irish nationalists (Home Rule)",
+   "kind": "political group",
+   "parent": "grp:irish",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "לאומנים אירים"
+   ],
+   "qid_auto": "Q2021987",
+   "qid": "Q2021987"
+  },
+  {
+   "id": "grp:irish-peasants",
+   "he": "איכרים אירים",
+   "en": "Irish peasantry",
+   "desc": "Irish peasants/tenant farmers",
+   "kind": "social class",
+   "parent": "grp:peasants",
+   "country": "pl:united-kingdom",
+   "no_wd": true,
+   "keys": [
+    "איכרים אירים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:italians",
+   "he": "איטלקים",
+   "en": "Italians",
+   "desc": "Italians",
+   "kind": "ethnic group",
+   "country": "pl:italy",
+   "keys": [
+    "איטלקים"
+   ],
+   "qid_auto": "Q50001",
+   "qid": "Q50001"
+  },
+  {
+   "id": "grp:spaniards",
+   "he": "ספרדים",
+   "en": "Spaniards",
+   "desc": "Spanish people",
+   "kind": "ethnic group",
+   "country": "pl:spain",
+   "keys": [
+    "שפנים"
+   ],
+   "qid_auto": "Q160894",
+   "qid": "Q160894"
+  },
+  {
+   "id": "grp:portuguese",
+   "he": "פורטוגזים",
+   "en": "Portuguese people",
+   "desc": "Portuguese people",
+   "kind": "ethnic group",
+   "country": "pl:portugal",
+   "keys": [
+    "פורטוגזים",
+    "פורטוגלים"
+   ],
+   "qid_auto": "Q178630",
+   "qid": "Q178630"
+  },
+  {
+   "id": "grp:belgians",
+   "he": "בלגים",
+   "en": "Belgians",
+   "desc": "Belgians",
+   "kind": "ethnic group",
+   "country": "pl:belgium",
+   "keys": [
+    "בלגים"
+   ],
+   "qid_auto": "Q1377716",
+   "qid": "Q1377716"
+  },
+  {
+   "id": "grp:dutch",
+   "he": "הולנדים",
+   "en": "Dutch people",
+   "desc": "Dutch people",
+   "kind": "ethnic group",
+   "country": "pl:netherlands",
+   "keys": [
+    "ולנדים"
+   ],
+   "qid_auto": "Q200569",
+   "qid": "Q200569"
+  },
+  {
+   "id": "grp:swiss",
+   "he": "שווייצרים",
+   "en": "Swiss people",
+   "desc": "Swiss people",
+   "kind": "ethnic group",
+   "country": "pl:switzerland",
+   "keys": [
+    "שווייצרים"
+   ],
+   "qid_auto": "Q124216",
+   "qid": "Q124216"
+  },
+  {
+   "id": "grp:swedes",
+   "he": "שוודים",
+   "en": "Swedes",
+   "desc": "Swedes",
+   "kind": "ethnic group",
+   "country": "pl:sweden",
+   "keys": [
+    "שוודים"
+   ],
+   "qid_auto": null,
+   "qid": "Q165192"
+  },
+  {
+   "id": "grp:danes",
+   "he": "דנים",
+   "en": "Danes",
+   "desc": "Danes",
+   "kind": "ethnic group",
+   "country": "pl:denmark",
+   "keys": [
+    "דנים"
+   ],
+   "qid_auto": null,
+   "qid": "Q164714"
+  },
+  {
+   "id": "grp:norwegians",
+   "he": "נורווגים",
+   "en": "Norwegians",
+   "desc": "Norwegians",
+   "kind": "ethnic group",
+   "country": "pl:norway",
+   "keys": [
+    "נורבגים",
+    "נורווגים"
+   ],
+   "qid_auto": "Q188779",
+   "qid": "Q188779"
+  },
+  {
+   "id": "grp:finns",
+   "he": "פינים",
+   "en": "Finns",
+   "desc": "Finns",
+   "kind": "ethnic group",
+   "country": "pl:finland",
+   "keys": [
+    "פינים"
+   ],
+   "qid_auto": "Q170284",
+   "qid": "Q170284"
+  },
+  {
+   "id": "grp:latvians",
+   "he": "לטבים",
+   "en": "Latvians",
+   "desc": "Latvians",
+   "kind": "ethnic group",
+   "country": "pl:russian-empire",
+   "keys": [
+    "לטבים"
+   ],
+   "qid_auto": "Q49540",
+   "qid": "Q49540"
+  },
+  {
+   "id": "grp:lithuanians",
+   "he": "ליטאים",
+   "en": "Lithuanians",
+   "desc": "Lithuanians",
+   "kind": "ethnic group",
+   "country": "pl:lithuania",
+   "keys": [
+    "ליטאים"
+   ],
+   "qid_auto": "Q186192",
+   "qid": "Q186192"
+  },
+  {
+   "id": "grp:greeks",
+   "he": "יוונים",
+   "en": "Greeks",
+   "desc": "Greeks",
+   "kind": "ethnic group",
+   "country": "pl:greece",
+   "keys": [
+    "יוונים"
+   ],
+   "qid_auto": "Q539051",
+   "qid": "Q539051"
+  },
+  {
+   "id": "grp:ottoman-greeks",
+   "he": "יוונים עותמאניים",
+   "en": "Ottoman Greeks",
+   "desc": "Ottoman Greeks",
+   "kind": "ethnic group",
+   "parent": "grp:greeks",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "יוונים נתינים עותמאניים"
+   ],
+   "qid_auto": "Q1467740",
+   "qid": "Q1467740"
+  },
+  {
+   "id": "grp:cretans",
+   "he": "כרתים",
+   "en": "Cretans",
+   "desc": "Cretans",
+   "kind": "ethnic group",
+   "parent": "grp:greeks",
+   "country": "pl:crete",
+   "keys": [
+    "כרתים"
+   ],
+   "qid_auto": "Q12899492",
+   "qid": "Q131841400"
+  },
+  {
+   "id": "grp:icarians",
+   "he": "תושבי איקריה",
+   "en": "Icaria",
+   "desc": "inhabitants of the island of Icaria (1912 revolt)",
+   "kind": "regional population",
+   "parent": "grp:greeks",
+   "country": "pl:ottoman-empire",
+   "no_wd": true,
+   "keys": [
+    "תושבי האי איקריה"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:vlachs",
+   "he": "ולאכים",
+   "en": "Aromanians",
+   "desc": "Vlachs/Aromanians of the Balkans",
+   "kind": "ethnic group",
+   "en_alt": [
+    "Vlachs"
+   ],
+   "country": "pl:macedonia",
+   "keys": [
+    "ולאכים"
+   ],
+   "qid_auto": null,
+   "qid": "Q201111"
+  },
+  {
+   "id": "grp:romanians",
+   "he": "רומנים",
+   "en": "Romanians",
+   "desc": "Romanians",
+   "kind": "ethnic group",
+   "country": "pl:romania",
+   "keys": [
+    "רומנים"
+   ],
+   "qid_auto": "Q485150",
+   "qid": "Q485150"
+  },
+  {
+   "id": "grp:romance-peoples",
+   "he": "עמים רומאניים",
+   "en": "Romance-speaking peoples",
+   "desc": "Romance (Latin) peoples",
+   "kind": "ethnolinguistic group",
+   "en_alt": [
+    "Latin Europe"
+   ],
+   "keys": [
+    "עמים רומאניים"
+   ],
+   "qid_auto": "Q1064023",
+   "qid": null
+  },
+  {
+   "id": "grp:ancient-romans",
+   "he": "רומאים",
+   "en": "Ancient Rome",
+   "desc": "ancient Romans",
+   "kind": "historical people",
+   "en_alt": [
+    "Romans"
+   ],
+   "keys": [
+    "רומאים"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "grp:franks",
+   "he": "פרנקים",
+   "en": "Franks",
+   "desc": "Franks (historical Germanic people)",
+   "kind": "historical people",
+   "keys": [
+    "פרנקים"
+   ],
+   "qid_auto": "Q43482",
+   "qid": "Q43482"
+  },
+  {
+   "id": "grp:albanians",
+   "he": "אלבנים",
+   "en": "Albanians",
+   "desc": "Albanians",
+   "kind": "ethnic group",
+   "en_alt": [
+    "Arnauts"
+   ],
+   "country": "pl:albania",
+   "keys": [
+    "אלבנים",
+    "ארנאוטים"
+   ],
+   "qid_auto": "Q179248",
+   "qid": "Q179248"
+  },
+  {
+   "id": "grp:southern-albanians",
+   "he": "אלבנים דרומיים",
+   "en": "Tosks",
+   "desc": "Tosk (southern) Albanians",
+   "kind": "ethnic group",
+   "parent": "grp:albanians",
+   "country": "pl:albania",
+   "keys": [
+    "אלבנים דרומיים"
+   ],
+   "qid_auto": "Q2067192",
+   "qid": "Q2067192"
+  },
+  {
+   "id": "grp:northern-albanians",
+   "he": "אלבנים צפוניים",
+   "en": "Ghegs",
+   "desc": "Gheg (northern) Albanians",
+   "kind": "ethnic group",
+   "parent": "grp:albanians",
+   "country": "pl:albania",
+   "keys": [
+    "אלבנים צפוניים"
+   ],
+   "qid_auto": "Q1275194",
+   "qid": "Q1275194"
+  },
+  {
+   "id": "grp:malissori",
+   "he": "מליסורים",
+   "en": "Malësia",
+   "desc": "Malissori highland tribes of northern Albania (1911 revolt)",
+   "kind": "tribal group",
+   "en_alt": [
+    "Malissori"
+   ],
+   "parent": "grp:northern-albanians",
+   "country": "pl:albania",
+   "keys": [
+    "מליסורים",
+    "מאלישורים"
+   ],
+   "qid_auto": "Q1762377",
+   "qid": null
+  },
+  {
+   "id": "grp:mirdita",
+   "he": "מירדיטים",
+   "en": "Mirdita",
+   "desc": "Catholic Mirdita tribe of northern Albania",
+   "kind": "tribal group",
+   "parent": "grp:northern-albanians",
+   "country": "pl:albania",
+   "keys": [
+    "מירדיטים"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "grp:albanian-rebels",
+   "he": "מורדים אלבנים",
+   "en": "Albanian revolts of 1910–1912",
+   "desc": "Albanian insurgents 1910–1912",
+   "kind": "military group",
+   "parent": "grp:albanians",
+   "country": "pl:albania",
+   "no_wd": true,
+   "keys": [
+    "מורדים אלבניים",
+    "אלבנים מורדים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:albanian-refugees",
+   "he": "פליטים אלבנים",
+   "en": "Albanian refugees",
+   "desc": "Albanian refugees (1911 revolt)",
+   "kind": "social group",
+   "parent": "grp:refugees",
+   "country": "pl:albania",
+   "no_wd": true,
+   "keys": [
+    "פליטים אלבנים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:turks",
+   "he": "טורקים",
+   "en": "Turkish people",
+   "desc": "Turkish people",
+   "kind": "ethnic group",
+   "en_alt": [
+    "Turks"
+   ],
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "טורקים",
+    "תורכים"
+   ],
+   "qid_auto": "Q84072",
+   "qid": "Q84072"
+  },
+  {
+   "id": "grp:ottomans",
+   "he": "עות'מאנים",
+   "en": "Ottoman Turks",
+   "desc": "Ottomans (subjects/people of the Ottoman Empire)",
+   "kind": "ethnic group",
+   "en_alt": [
+    "Ottomans"
+   ],
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "עותמאנים",
+    "אסמאנים"
+   ],
+   "qid_auto": "Q2359535",
+   "qid": "Q2359535"
+  },
+  {
+   "id": "grp:turkish-subjects",
+   "he": "נתינים טורקים",
+   "en": "Ottoman nationality",
+   "desc": "Ottoman subjects",
+   "kind": "legal category",
+   "parent": "grp:foreign-subjects",
+   "country": "pl:ottoman-empire",
+   "no_wd": true,
+   "keys": [
+    "נתינים טורקים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:turkish-women",
+   "he": "נשים טורקיות",
+   "en": "Women in the Ottoman Empire",
+   "desc": "Turkish/Ottoman women",
+   "kind": "social group",
+   "parent": "grp:women",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "נשים טורקיות"
+   ],
+   "qid_auto": "Q8031557",
+   "qid": "Q8031557"
+  },
+  {
+   "id": "grp:peoples-of-turkey",
+   "he": "עמי טורקיה",
+   "en": "Ethnic groups in the Ottoman Empire",
+   "desc": "the (non-Turkish) peoples of the Ottoman Empire",
+   "kind": "ethnic groups",
+   "country": "pl:ottoman-empire",
+   "no_wd": true,
+   "keys": [
+    "עמי טורקיה",
+    "לאומים לא טורקיים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:young-turks",
+   "he": "טורקים צעירים",
+   "en": "Young Turks",
+   "desc": "Young Turk constitutionalist movement",
+   "kind": "political movement",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "טורקים צעירים",
+    "טורקים הצעירים",
+    "תורכים צעירים",
+    "תורכים הצעירים",
+    "צעירים טורקים",
+    "אוונגרד הטורקים הצעירים"
+   ],
+   "qid_auto": "Q83896",
+   "qid": "Q83896"
+  },
+  {
+   "id": "grp:ottoman-constitutionalists",
+   "he": "חוקתיים",
+   "en": "Constitutionalism",
+   "desc": "constitutionalists (Ottoman/Persian)",
+   "kind": "political group",
+   "parent": "grp:liberals",
+   "no_wd": true,
+   "keys": [
+    "חוקתיים",
+    "קונסטיטוציונליסטים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:armenians",
+   "he": "ארמנים",
+   "en": "Armenians",
+   "desc": "Armenians",
+   "kind": "ethnic group",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "ארמנים"
+   ],
+   "qid_auto": "Q79797",
+   "qid": "Q79797"
+  },
+  {
+   "id": "grp:kurds",
+   "he": "כורדים",
+   "en": "Kurds",
+   "desc": "Kurds",
+   "kind": "ethnic group",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "כורדים"
+   ],
+   "qid_auto": "Q12223",
+   "qid": "Q12223"
+  },
+  {
+   "id": "grp:georgians",
+   "he": "גאורגים",
+   "en": "Georgians",
+   "desc": "Georgians",
+   "kind": "ethnic group",
+   "country": "pl:caucasus",
+   "keys": [
+    "גאורגים",
+    "גרוזינים"
+   ],
+   "qid_auto": "Q18973",
+   "qid": "Q18973"
+  },
+  {
+   "id": "grp:chechens",
+   "he": "צ'צ'נים",
+   "en": "Chechens",
+   "desc": "Chechens",
+   "kind": "ethnic group",
+   "country": "pl:caucasus",
+   "keys": [
+    "צצנים"
+   ],
+   "qid_auto": "Q31230",
+   "qid": "Q31230"
+  },
+  {
+   "id": "grp:circassians",
+   "he": "צ'רקסים",
+   "en": "Circassians",
+   "desc": "Circassians",
+   "kind": "ethnic group",
+   "country": "pl:caucasus",
+   "keys": [
+    "צרקסים"
+   ],
+   "qid_auto": "Q15763",
+   "qid": "Q15763"
+  },
+  {
+   "id": "grp:north-caucasus-population",
+   "he": "אוכלוסיית צפון הקווקז",
+   "en": "North Caucasus",
+   "desc": "local population of the North Caucasus",
+   "kind": "regional population",
+   "country": "pl:caucasus",
+   "no_wd": true,
+   "keys": [
+    "אוכלוסייה מקומית בצפון הקווקז"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:tatars",
+   "he": "טטרים",
+   "en": "Tatars",
+   "desc": "Tatars",
+   "kind": "ethnic group",
+   "country": "pl:russian-empire",
+   "keys": [
+    "טטרים",
+    "טטארים"
+   ],
+   "qid_auto": "Q35565",
+   "qid": "Q35565"
+  },
+  {
+   "id": "grp:bashkirs",
+   "he": "בשקירים",
+   "en": "Bashkirs",
+   "desc": "Bashkirs",
+   "kind": "ethnic group",
+   "country": "pl:russian-empire",
+   "keys": [
+    "באשקירים"
+   ],
+   "qid_auto": "Q485348",
+   "qid": "Q485348"
+  },
+  {
+   "id": "grp:kyrgyz",
+   "he": "קירגיזים",
+   "en": "Kyrgyz people",
+   "desc": "Kirghiz (incl. Kazakhs, as then named)",
+   "kind": "ethnic group",
+   "country": "pl:russian-empire",
+   "keys": [
+    "קירגיזים"
+   ],
+   "qid_auto": "Q484479",
+   "qid": "Q484479"
+  },
+  {
+   "id": "grp:kalmyks",
+   "he": "קלמיקים",
+   "en": "Kalmyks",
+   "desc": "Kalmyks",
+   "kind": "ethnic group",
+   "country": "pl:russian-empire",
+   "keys": [
+    "קלמיקים"
+   ],
+   "qid_auto": "Q190209",
+   "qid": "Q190209"
+  },
+  {
+   "id": "grp:turkmens",
+   "he": "טורקמנים",
+   "en": "Turkmens",
+   "desc": "Turkmens",
+   "kind": "ethnic group",
+   "country": "pl:persia",
+   "keys": [
+    "טורקמנים"
+   ],
+   "qid_auto": "Q484472",
+   "qid": "Q484472"
+  },
+  {
+   "id": "grp:inorodtsy",
+   "he": "אינורודצי",
+   "en": "Inorodtsy",
+   "desc": "non-Russian \"aliens\" of the Russian Empire",
+   "kind": "legal category",
+   "parent": "grp:national-minorities",
+   "country": "pl:russian-empire",
+   "keys": [
+    "אינורודצים",
+    "אינאראדצעס",
+    "לאומים לא רוסים ברוסיה"
+   ],
+   "qid_auto": "Q1996898",
+   "qid": "Q1996898"
+  },
+  {
+   "id": "grp:cossacks",
+   "he": "קוזקים",
+   "en": "Cossacks",
+   "desc": "Cossacks",
+   "kind": "ethnic group",
+   "country": "pl:russian-empire",
+   "keys": [
+    "קוזקים",
+    "קוזאקים"
+   ],
+   "qid_auto": "Q47805",
+   "qid": "Q47805"
+  },
+  {
+   "id": "grp:persian-cossacks",
+   "he": "קוזקים פרסיים",
+   "en": "Persian Cossack Brigade",
+   "desc": "Persian Cossack Brigade",
+   "kind": "military unit",
+   "parent": "grp:cossacks",
+   "country": "pl:persia",
+   "keys": [
+    "קוזאקים פרסיים"
+   ],
+   "qid_auto": "Q1515896",
+   "qid": "Q1515896"
+  },
+  {
+   "id": "grp:persians",
+   "he": "פרסים",
+   "en": "Persians",
+   "desc": "Persians",
+   "kind": "ethnic group",
+   "country": "pl:persia",
+   "keys": [
+    "פרסים"
+   ],
+   "qid_auto": null,
+   "qid": "Q484206"
+  },
+  {
+   "id": "grp:bakhtiari",
+   "he": "בחטיארים",
+   "en": "Bakhtiari people",
+   "desc": "Bakhtiari people",
+   "kind": "tribal group",
+   "parent": "grp:persians",
+   "country": "pl:persia",
+   "keys": [
+    "בחטיארים",
+    "בחתיארים",
+    "בכתיארים"
+   ],
+   "qid_auto": "Q798284",
+   "qid": "Q798284"
+  },
+  {
+   "id": "grp:persian-nobility",
+   "he": "אצילים פרסיים",
+   "en": "Persian nobility",
+   "desc": "Persian aristocracy",
+   "kind": "social class",
+   "parent": "grp:nobility",
+   "country": "pl:persia",
+   "no_wd": true,
+   "keys": [
+    "אצילים פרסיים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:persian-democrats",
+   "he": "דמוקרטים פרסיים",
+   "en": "Democrat Party (Persia)",
+   "desc": "Persian Democrats (Ferqeh-ye Demokrat)",
+   "kind": "political group",
+   "parent": "grp:liberals",
+   "country": "pl:persia",
+   "keys": [
+    "דמוקרטים פרסיים"
+   ],
+   "qid_auto": "Q5960507",
+   "qid": "Q5960507"
+  },
+  {
+   "id": "grp:royalists-persia",
+   "he": "תומכי השאה",
+   "en": "Persian royalists",
+   "desc": "supporters of the Shah (Mohammad Ali Shah) against the constitution",
+   "kind": "political group",
+   "parent": "grp:reactionaries",
+   "country": "pl:persia",
+   "no_wd": true,
+   "keys": [
+    "תומכי השאה"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:fedayeen",
+   "he": "פדאיים",
+   "en": "Fadai (Iranian Constitutional Revolution)",
+   "desc": "fedai fighters of the Persian Constitutional Revolution",
+   "kind": "military group",
+   "en_alt": [
+    "Fedayeen"
+   ],
+   "country": "pl:persia",
+   "keys": [
+    "פידאיים",
+    "שומרי פדאיים"
+   ],
+   "qid_auto": "Q989678",
+   "qid": null
+  },
+  {
+   "id": "grp:arabs",
+   "he": "ערבים",
+   "en": "Arabs",
+   "desc": "Arabs",
+   "kind": "ethnic group",
+   "keys": [
+    "ערבים",
+    "ערביי העיר"
+   ],
+   "qid_auto": "Q35323",
+   "qid": "Q35323"
+  },
+  {
+   "id": "grp:bedouin",
+   "he": "בדואים",
+   "en": "Bedouin",
+   "desc": "Bedouin",
+   "kind": "ethnic group",
+   "parent": "grp:arabs",
+   "keys": [
+    "בדואים",
+    "בדווים"
+   ],
+   "qid_auto": "Q180688",
+   "qid": "Q180688"
+  },
+  {
+   "id": "grp:arab-tribes",
+   "he": "שבטים ערביים",
+   "en": "Arab tribes",
+   "desc": "Arab tribes",
+   "kind": "tribal group",
+   "parent": "grp:arabs",
+   "keys": [
+    "שבטים ערביים",
+    "שבטים ערבים",
+    "שבטים ערביים במדבר"
+   ],
+   "qid_auto": "Q107977936",
+   "qid": null
+  },
+  {
+   "id": "grp:yemeni-arabs",
+   "he": "ערביי תימן",
+   "en": "Yemenis",
+   "desc": "Arabs of Yemen",
+   "kind": "ethnic group",
+   "parent": "grp:arabs",
+   "country": "pl:yemen",
+   "keys": [
+    "ערביי תימן"
+   ],
+   "qid_auto": "Q4205820",
+   "qid": "Q4205820"
+  },
+  {
+   "id": "grp:yemeni-tribes",
+   "he": "שבטי תימן",
+   "en": "Tribes of Yemen",
+   "desc": "Tribes of Yemen",
+   "kind": "tribal group",
+   "parent": "grp:yemeni-arabs",
+   "country": "pl:yemen",
+   "keys": [
+    "שבטי תימן"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "grp:yemeni-rebels",
+   "he": "מורדים ערבים בתימן",
+   "en": "Yemeni rebellion 1904–1911",
+   "desc": "Zaydi Arab rebels of Yemen",
+   "kind": "military group",
+   "parent": "grp:yemeni-arabs",
+   "country": "pl:yemen",
+   "no_wd": true,
+   "keys": [
+    "מורדים ערבים בתימן"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:arabs-of-lebanon",
+   "he": "ערבים בלבנון",
+   "en": "Lebanese people",
+   "desc": "Lebanese people",
+   "kind": "ethnic group",
+   "parent": "grp:arabs",
+   "country": "pl:lebanon",
+   "keys": [
+    "ערבים בלבנון"
+   ],
+   "qid_auto": "Q2606511",
+   "qid": "Q2606511"
+  },
+  {
+   "id": "grp:syrians",
+   "he": "סורים",
+   "en": "Syrians",
+   "desc": "Syrians",
+   "kind": "ethnic group",
+   "parent": "grp:arabs",
+   "country": "pl:syria",
+   "keys": [
+    "סורים",
+    "תושבי סוריה"
+   ],
+   "qid_auto": "Q878607",
+   "qid": "Q878607"
+  },
+  {
+   "id": "grp:egyptians",
+   "he": "מצרים",
+   "en": "Egyptians",
+   "desc": "Egyptians",
+   "kind": "ethnic group",
+   "country": "pl:egypt",
+   "keys": [
+    "מצרים"
+   ],
+   "qid_auto": "Q1061510",
+   "qid": "Q1061510"
+  },
+  {
+   "id": "grp:emigrants-from-egypt",
+   "he": "מהגרים ממצרים",
+   "en": "Emigrants from Egypt",
+   "desc": "Emigrants from Egypt",
+   "kind": "social group",
+   "parent": "grp:emigrants",
+   "country": "pl:egypt",
+   "no_wd": true,
+   "keys": [
+    "מהגרים ממצרים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:tripolitanians",
+   "he": "תושבי טריפולי",
+   "en": "Tripolitania",
+   "desc": "inhabitants of Tripoli/Tripolitania",
+   "kind": "regional population",
+   "country": "pl:tripolitania",
+   "no_wd": true,
+   "keys": [
+    "תושבי טריפולי"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:peoples-around-palestine",
+   "he": "עמים סביב פלסטינה",
+   "en": "Peoples of the ancient Near East",
+   "desc": "(ancient) peoples around Palestine",
+   "kind": "ethnic groups",
+   "no_wd": true,
+   "keys": [
+    "עמים סביב פלסטינה"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:fellahin",
+   "he": "פלאחים",
+   "en": "Fellah",
+   "desc": "Arab/Egyptian peasants",
+   "kind": "social class",
+   "en_alt": [
+    "Fellahin"
+   ],
+   "parent": "grp:peasants",
+   "keys": [
+    "פלאחים"
+   ],
+   "qid_auto": "Q685896",
+   "qid": "Q685896"
+  },
+  {
+   "id": "grp:berbers",
+   "he": "ברברים",
+   "en": "Berbers",
+   "desc": "Berbers",
+   "kind": "ethnic group",
+   "en_alt": [
+    "Amazigh"
+   ],
+   "country": "pl:morocco",
+   "keys": [
+    "ברברים",
+    "ברבריים",
+    "שבטים ברבריים",
+    "שבטים ברברים"
+   ],
+   "qid_auto": null,
+   "qid": "Q45315"
+  },
+  {
+   "id": "grp:kabyles",
+   "he": "קבילים",
+   "en": "Kabyle people",
+   "desc": "Kabyles (as the press called Moroccan Berber tribes)",
+   "kind": "ethnic group",
+   "parent": "grp:berbers",
+   "keys": [
+    "קבילים",
+    "שבטים קבילים"
+   ],
+   "qid_auto": "Q648255",
+   "qid": "Q648255"
+  },
+  {
+   "id": "grp:moroccans",
+   "he": "מרוקאים",
+   "en": "Moroccans",
+   "desc": "Moroccans",
+   "kind": "ethnic group",
+   "country": "pl:morocco",
+   "keys": [
+    "מרוקאים",
+    "מרוקנים",
+    "מרוקאים ילידים",
+    "תושבי מרוקו",
+    "ילידי מרוקו",
+    "תושבים ילידי מרוקו",
+    "אוכלוסייה המקומית במרוקו"
+   ],
+   "qid_auto": "Q1891793",
+   "qid": "Q1891793"
+  },
+  {
+   "id": "grp:moors",
+   "he": "מורים",
+   "en": "Moors",
+   "desc": "Moors (term used for Moroccans)",
+   "kind": "ethnic group",
+   "parent": "grp:moroccans",
+   "country": "pl:morocco",
+   "keys": [
+    "מורים",
+    "מוּרים",
+    "מאורים"
+   ],
+   "qid_auto": "Q169260",
+   "qid": "Q169260"
+  },
+  {
+   "id": "grp:arabs-of-morocco",
+   "he": "ערביי מרוקו",
+   "en": "Moroccan Arabs",
+   "desc": "Moroccan Arabs",
+   "kind": "ethnic group",
+   "parent": "grp:moroccans",
+   "country": "pl:morocco",
+   "keys": [
+    "ערביי מרוקו"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "grp:moroccan-proteges",
+   "he": "מוגנים צרפתיים במרוקו",
+   "en": "Protégé system in Morocco",
+   "desc": "Moroccans under French consular protection",
+   "kind": "legal category",
+   "parent": "grp:moroccans",
+   "country": "pl:morocco",
+   "keys": [
+    "תושבי מרוקו החסויים על ידי צרפת"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "grp:moroccan-tribes",
+   "he": "שבטי מרוקו",
+   "en": "Tribes of Morocco",
+   "desc": "Tribes of Morocco",
+   "kind": "tribal group",
+   "parent": "grp:moroccans",
+   "country": "pl:morocco",
+   "no_wd": true,
+   "keys": [
+    "שבטי מרוקו",
+    "שבטים במרוקו",
+    "שבטים המרוקאים",
+    "שבטים מרוקאיים",
+    "שבטים מרוקאים",
+    "שבטים מקומיים",
+    "שבטי הרים",
+    "מורדים ושבטים מקומיים",
+    "שבטים עניים במרוקו"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:moroccan-rebels",
+   "he": "מורדים מרוקאים",
+   "en": "Moroccan rebels",
+   "desc": "rebel tribes in Morocco (1907–1912)",
+   "kind": "military group",
+   "parent": "grp:moroccan-tribes",
+   "country": "pl:morocco",
+   "no_wd": true,
+   "keys": [
+    "מורדים",
+    "מורדים במרוקו",
+    "מורדים מרוקאים",
+    "מורדים מרוקנים",
+    "שבטים מורדים",
+    "שבטים מרוקנים מורדים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:moroccan-revolutionaries",
+   "he": "מהפכנים מרוקאים",
+   "en": "Moroccan revolutionaries",
+   "desc": "Moroccan revolutionaries",
+   "kind": "political group",
+   "parent": "grp:moroccans",
+   "country": "pl:morocco",
+   "no_wd": true,
+   "keys": [
+    "מהפכנים מרוקנים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:moroccan-bandits",
+   "he": "שודדים מרוקאים",
+   "en": "Moroccan bandits",
+   "desc": "Moroccan bandits",
+   "kind": "social group",
+   "parent": "grp:moroccans",
+   "country": "pl:morocco",
+   "no_wd": true,
+   "keys": [
+    "שודדים מרוקאים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:moroccan-native-troops",
+   "he": "חיילים מקומיים במרוקו",
+   "en": "Moroccan native troops",
+   "desc": "Moroccan (Sultan's / tabor) native soldiers",
+   "kind": "military group",
+   "parent": "grp:soldiers",
+   "country": "pl:morocco",
+   "no_wd": true,
+   "keys": [
+    "חיילים מקומיים במרוקו"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:zemmour",
+   "he": "שבט זמור",
+   "en": "Zemmour",
+   "desc": "Zemmour Berber tribe",
+   "kind": "tribe",
+   "parent": "grp:moroccan-tribes",
+   "country": "pl:morocco",
+   "no_wd": true,
+   "keys": [
+    "שבט זמור"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:beni-hassen",
+   "he": "בני חסן",
+   "en": "Beni Hassen",
+   "desc": "Beni Hassen tribe (Gharb)",
+   "kind": "tribe",
+   "parent": "grp:moroccan-tribes",
+   "country": "pl:morocco",
+   "no_wd": true,
+   "keys": [
+    "שבט בני חסן"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:cherarda",
+   "he": "שבט שררדה",
+   "en": "Cherarda",
+   "desc": "Cherarda tribe near Fez",
+   "kind": "tribe",
+   "parent": "grp:moroccan-tribes",
+   "country": "pl:morocco",
+   "no_wd": true,
+   "keys": [
+    "שבט שררארה"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:beni-mtir",
+   "he": "בני מטיר",
+   "en": "Beni M'Tir",
+   "desc": "Beni M'tir Berber tribe near Meknes",
+   "kind": "tribe",
+   "parent": "grp:moroccan-tribes",
+   "country": "pl:morocco",
+   "no_wd": true,
+   "keys": [
+    "בני מטיר"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:beni-bou-yahi",
+   "he": "בני בו יחיא",
+   "en": "Beni Bou Yahi",
+   "desc": "tribe on the Moroccan–Algerian frontier (Beni-Bouhaz)",
+   "kind": "tribe",
+   "parent": "grp:moroccan-tribes",
+   "country": "pl:morocco",
+   "no_wd": true,
+   "keys": [
+    "שבט בני בואהז"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:doukkala",
+   "he": "שבט דוכאלה",
+   "en": "Doukkala",
+   "desc": "Moroccan tribe (Douara/Doukkala?)",
+   "kind": "tribe",
+   "parent": "grp:moroccan-tribes",
+   "country": "pl:morocco",
+   "no_wd": true,
+   "keys": [
+    "שבט דוארה"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:kaklou-tribe",
+   "he": "שבט קקלו",
+   "en": "Kaklou tribe",
+   "desc": "Moroccan tribe (1912)",
+   "kind": "tribe",
+   "parent": "grp:moroccan-tribes",
+   "country": "pl:morocco",
+   "no_wd": true,
+   "keys": [
+    "שבט קקלו"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:koumam-tribe",
+   "he": "שבט קומאם",
+   "en": "Koumam tribe",
+   "desc": "Moroccan tribe (1907)",
+   "kind": "tribe",
+   "parent": "grp:moroccan-tribes",
+   "country": "pl:morocco",
+   "no_wd": true,
+   "keys": [
+    "שבט קומאם"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:azer-tribe",
+   "he": "שבט אזער",
+   "en": "Azer tribe",
+   "desc": "Moroccan tribe near Casablanca (1907)",
+   "kind": "tribe",
+   "parent": "grp:moroccan-tribes",
+   "country": "pl:morocco",
+   "no_wd": true,
+   "keys": [
+    "שבט אזער"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:ilaedsand-tribe",
+   "he": "שבט אילעדסאנד",
+   "en": "Ilaedsand tribe",
+   "desc": "Moroccan tribe (1907)",
+   "kind": "tribe",
+   "parent": "grp:moroccan-tribes",
+   "country": "pl:morocco",
+   "no_wd": true,
+   "keys": [
+    "בני שבט אילעדסאנד"
+   ],
+   "qid": null
+  },
+  {
+   "id": "org:alaouite-dynasty",
+   "he": "השושלת העלאווית",
+   "en": "Alaouite dynasty",
+   "desc": "ruling dynasty of Morocco",
+   "kind": "dynasty",
+   "country": "pl:morocco",
+   "keys": [
+    "בית המלוכה המרוקאי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "grp:abyssinians",
+   "he": "חבשים",
+   "en": "Ethiopians",
+   "desc": "Abyssinians/Ethiopians",
+   "kind": "ethnic group",
+   "en_alt": [
+    "Abyssinians"
+   ],
+   "keys": [
+    "אבסיניים",
+    "אתיופים"
+   ],
+   "qid_auto": null,
+   "qid": "Q2918061"
+  },
+  {
+   "id": "grp:ethiopian-tribes",
+   "he": "שבטים אתיופיים",
+   "en": "Ethnic groups in Ethiopia",
+   "desc": "Ethnic groups in Ethiopia",
+   "kind": "tribal group",
+   "parent": "grp:abyssinians",
+   "no_wd": true,
+   "keys": [
+    "שבטים אתיופיים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:africans",
+   "he": "אפריקנים",
+   "en": "Black people",
+   "desc": "(black) Africans",
+   "kind": "ethnic group",
+   "en_alt": [
+    "Africans"
+   ],
+   "keys": [
+    "אפריקנים",
+    "שחורי אפריקה",
+    "ילידים באפריקה"
+   ],
+   "qid_auto": "Q817393",
+   "qid": "Q817393"
+  },
+  {
+   "id": "grp:african-americans",
+   "he": "אפרו-אמריקאים",
+   "en": "African Americans",
+   "desc": "African Americans",
+   "kind": "ethnic group",
+   "country": "pl:united-states",
+   "keys": [
+    "שחורים"
+   ],
+   "qid_auto": "Q49085",
+   "qid": "Q49085"
+  },
+  {
+   "id": "grp:congolese",
+   "he": "עמי קונגו",
+   "en": "Congolese people",
+   "desc": "peoples of the Congo Free State",
+   "kind": "ethnic group",
+   "parent": "grp:africans",
+   "keys": [
+    "עמי קונגו",
+    "כושים",
+    "שחורים (אפריקנים) בקונגו"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "grp:cameroon-tribes",
+   "he": "שבטים בקמרון",
+   "en": "Ethnic groups in Cameroon",
+   "desc": "Ethnic groups in Cameroon",
+   "kind": "tribal group",
+   "parent": "grp:africans",
+   "no_wd": true,
+   "keys": [
+    "שבטים בקמרון"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:herero",
+   "he": "הררו",
+   "en": "Herero people",
+   "desc": "Herero people",
+   "kind": "ethnic group",
+   "parent": "grp:africans",
+   "keys": [
+    "ררו"
+   ],
+   "qid_auto": "Q170088",
+   "qid": "Q170088"
+  },
+  {
+   "id": "grp:indians",
+   "he": "הודים",
+   "en": "Indian people",
+   "desc": "people of (British) India",
+   "kind": "ethnic group",
+   "en_alt": [
+    "Indians"
+   ],
+   "keys": [
+    "ודים",
+    "תושבי הודו"
+   ],
+   "qid_auto": null,
+   "qid": "Q862086"
+  },
+  {
+   "id": "grp:native-americans",
+   "he": "אינדיאנים",
+   "en": "Native Americans in the United States",
+   "desc": "American Indians",
+   "kind": "ethnic group",
+   "en_alt": [
+    "Indigenous peoples of the Americas"
+   ],
+   "keys": [
+    "אינדיאנים"
+   ],
+   "qid_auto": "Q36747",
+   "qid": "Q36747"
+  },
+  {
+   "id": "grp:chinese",
+   "he": "סינים",
+   "en": "Chinese people",
+   "desc": "Chinese people",
+   "kind": "ethnic group",
+   "country": "pl:china",
+   "keys": [
+    "סינים"
+   ],
+   "qid_auto": "Q6501380",
+   "qid": "Q6501380"
+  },
+  {
+   "id": "grp:manchus",
+   "he": "מנצ'ורים",
+   "en": "Manchu people",
+   "desc": "Manchu people",
+   "kind": "ethnic group",
+   "en_alt": [
+    "Manchus"
+   ],
+   "country": "pl:china",
+   "keys": [
+    "מנצורים",
+    "מנצוריים"
+   ],
+   "qid_auto": "Q145665",
+   "qid": "Q145665"
+  },
+  {
+   "id": "grp:mongols",
+   "he": "מונגולים",
+   "en": "Mongols",
+   "desc": "Mongols",
+   "kind": "ethnic group",
+   "country": "pl:china",
+   "keys": [
+    "מונגולים"
+   ],
+   "qid_auto": "Q41975",
+   "qid": "Q41975"
+  },
+  {
+   "id": "grp:tibetans",
+   "he": "טיבטים",
+   "en": "Tibetan people",
+   "desc": "Tibetan people",
+   "kind": "ethnic group",
+   "country": "pl:china",
+   "keys": [
+    "טיבטים"
+   ],
+   "qid_auto": "Q187985",
+   "qid": "Q187985"
+  },
+  {
+   "id": "grp:honghuzi",
+   "he": "חונחוזים",
+   "en": "Honghuzi",
+   "desc": "Chinese/Manchurian bandit groups",
+   "kind": "bandit group",
+   "country": "pl:china",
+   "keys": [
+    "חונחוזים",
+    "ונהוזים"
+   ],
+   "qid_auto": "Q1981247",
+   "qid": null
+  },
+  {
+   "id": "grp:boxers",
+   "he": "בוקסרים",
+   "en": "Boxer Rebellion",
+   "desc": "Boxers (Yihetuan movement)",
+   "kind": "movement",
+   "en_alt": [
+    "Yihetuan Movement"
+   ],
+   "country": "pl:china",
+   "keys": [
+    "קוסרים"
+   ],
+   "qid_auto": "Q150229",
+   "qid": "Q1335146"
+  },
+  {
+   "id": "grp:japanese",
+   "he": "יפנים",
+   "en": "Japanese people",
+   "desc": "Japanese people",
+   "kind": "ethnic group",
+   "country": "pl:japan",
+   "keys": [
+    "יפנים"
+   ],
+   "qid_auto": "Q161652",
+   "qid": "Q161652"
+  },
+  {
+   "id": "grp:koreans",
+   "he": "קוריאנים",
+   "en": "Koreans",
+   "desc": "Koreans",
+   "kind": "ethnic group",
+   "keys": [
+    "קוריאנים",
+    "קוראנים"
+   ],
+   "qid_auto": "Q484464",
+   "qid": "Q484464"
+  },
+  {
+   "id": "grp:siamese",
+   "he": "סיאמים",
+   "en": "Thai people",
+   "desc": "Siamese (Thai) people",
+   "kind": "ethnic group",
+   "en_alt": [
+    "Siamese"
+   ],
+   "keys": [
+    "סיאמים"
+   ],
+   "qid_auto": null,
+   "qid": "Q472834"
+  },
+  {
+   "id": "grp:indochina-natives",
+   "he": "ילידי הודו-סין",
+   "en": "French Indochina",
+   "desc": "native inhabitants of French Indochina",
+   "kind": "regional population",
+   "no_wd": true,
+   "keys": [
+    "תושבי אינדו סין הילידים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:americans",
+   "he": "אמריקאים",
+   "en": "Americans",
+   "desc": "Americans",
+   "kind": "ethnic group",
+   "country": "pl:united-states",
+   "keys": [
+    "אמריקאים",
+    "אמריקנים"
+   ],
+   "qid_auto": "Q846570",
+   "qid": "Q846570"
+  },
+  {
+   "id": "grp:canadians",
+   "he": "קנדים",
+   "en": "Canadians",
+   "desc": "Canadians",
+   "kind": "ethnic group",
+   "keys": [
+    "קנדים"
+   ],
+   "qid_auto": "Q1196645",
+   "qid": "Q1196645"
+  },
+  {
+   "id": "grp:brazilians",
+   "he": "ברזילאים",
+   "en": "Brazilians",
+   "desc": "Brazilians",
+   "kind": "ethnic group",
+   "keys": [
+    "ברזילאים"
+   ],
+   "qid_auto": "Q873625",
+   "qid": "Q873625"
+  },
+  {
+   "id": "grp:mexicans",
+   "he": "מקסיקנים",
+   "en": "Mexicans",
+   "desc": "Mexicans",
+   "kind": "ethnic group",
+   "keys": [
+    "מקסיקנים"
+   ],
+   "qid_auto": "Q1209676",
+   "qid": "Q1209676"
+  },
+  {
+   "id": "grp:mexican-revolutionaries",
+   "he": "מהפכנים מקסיקנים",
+   "en": "Mexican Revolution",
+   "desc": "Mexican revolutionaries/rebels (1910–)",
+   "kind": "political group",
+   "parent": "grp:revolutionaries",
+   "no_wd": true,
+   "keys": [
+    "מהפכנים מקסיקנים",
+    "מורדים מקסיקנים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:boers",
+   "he": "בורים",
+   "en": "Boers",
+   "desc": "Boers",
+   "kind": "ethnic group",
+   "keys": [
+    "בורים"
+   ],
+   "qid_auto": null,
+   "qid": "Q188201"
+  },
+  {
+   "id": "grp:europeans",
+   "he": "אירופאים",
+   "en": "Europeans",
+   "desc": "Europeans (esp. foreigners in Morocco, China)",
+   "kind": "ethnic group",
+   "en_alt": [
+    "White Europeans"
+   ],
+   "keys": [
+    "אירופאים",
+    "אירופים"
+   ],
+   "qid_auto": "Q394067",
+   "qid": "Q394067"
+  },
+  {
+   "id": "grp:europeans-in-morocco",
+   "he": "אירופאים במרוקו",
+   "en": "Europeans in Morocco",
+   "desc": "European residents of Morocco/Fez",
+   "kind": "ethnic group",
+   "parent": "grp:europeans",
+   "country": "pl:morocco",
+   "no_wd": true,
+   "keys": [
+    "אירופים במרוקו",
+    "אירופאים (זרים) בפאס"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:europeans-in-china",
+   "he": "אירופאים בסין",
+   "en": "Westerners in China",
+   "desc": "European residents of China",
+   "kind": "ethnic group",
+   "parent": "grp:europeans",
+   "country": "pl:china",
+   "no_wd": true,
+   "keys": [
+    "אירופאים (זרים) בסין"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:foreigners",
+   "he": "זרים",
+   "en": "Foreigners",
+   "desc": "foreigners (in Turkey, Morocco)",
+   "kind": "social group",
+   "no_wd": true,
+   "keys": [
+    "זרים",
+    "זרים בטורקיה"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:foreign-subjects",
+   "he": "נתינים זרים",
+   "en": "Foreign nationals",
+   "desc": "foreign subjects (capitulations)",
+   "kind": "legal category",
+   "no_wd": true,
+   "keys": [
+    "נתינים זרים",
+    "נתינים רוסים, בריטים וצרפתים",
+    "נתינים אוסטריים וגרמנים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:national-minorities",
+   "he": "מיעוטים לאומיים",
+   "en": "National minority",
+   "desc": "national minorities",
+   "kind": "social group",
+   "keys": [
+    "מיעוטים לאומיים"
+   ],
+   "qid_auto": "Q769696",
+   "qid": "Q769696"
+  },
+  {
+   "id": "grp:balkan-rulers",
+   "he": "שליטי הבלקן",
+   "en": "Balkan monarchs",
+   "desc": "rulers of the Balkan states",
+   "kind": "social group",
+   "no_wd": true,
+   "keys": [
+    "שליטי הבלקן"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:former-african-asian-rulers",
+   "he": "שליטים אפריקנים ואסייתים לשעבר",
+   "en": "Deposed monarchs",
+   "desc": "(deposed) African and Asian sultans and kings",
+   "kind": "social group",
+   "no_wd": true,
+   "keys": [
+    "שליטים אפריקנים ואסייתים לשעבר",
+    "סולטאנים ומלכים אפריקאים ואסיאתיים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:local-population",
+   "he": "תושבים צרפתים ומהגרים",
+   "en": "Residents and immigrants in France",
+   "desc": "French residents and foreign immigrants",
+   "kind": "social group",
+   "parent": "grp:emigrants",
+   "no_wd": true,
+   "keys": [
+    "תושבים צרפתיים ומהגרים זרים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:socialists",
+   "he": "סוציאליסטים",
+   "en": "Socialism",
+   "desc": "socialists",
+   "kind": "political group",
+   "en_alt": [
+    "Socialists"
+   ],
+   "keys": [
+    "סוציאליסטים",
+    "סוציאליסטים ורפובליקנים"
+   ],
+   "qid_auto": "Q7272",
+   "qid": "Q7272"
+  },
+  {
+   "id": "grp:social-democrats",
+   "he": "סוציאל-דמוקרטים",
+   "en": "Social democracy",
+   "desc": "social democrats",
+   "kind": "political group",
+   "en_alt": [
+    "Social Democrats"
+   ],
+   "parent": "grp:socialists",
+   "keys": [
+    "סוציאל דמוקרטים"
+   ],
+   "qid_auto": null,
+   "qid": "Q121254"
+  },
+  {
+   "id": "grp:german-social-democrats",
+   "he": "סוציאל-דמוקרטים גרמנים",
+   "en": "Social Democratic Party of Germany",
+   "desc": "German Social Democrats (SPD)",
+   "kind": "political group",
+   "parent": "grp:social-democrats",
+   "country": "pl:germany",
+   "keys": [
+    "סוציאל דמוקרטים גרמנים",
+    "סוציאליסטים גרמנים"
+   ],
+   "qid_auto": "Q49768",
+   "qid": "Q49768"
+  },
+  {
+   "id": "grp:revisionists",
+   "he": "רוויזיוניסטים",
+   "en": "Revisionism (Marxism)",
+   "desc": "revisionist (reformist) socialists, Bernstein school",
+   "kind": "political group",
+   "parent": "grp:social-democrats",
+   "keys": [
+    "רוויזיוניסטים"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "grp:orthodox-marxists",
+   "he": "מרקסיסטים אורתודוקסים",
+   "en": "Orthodox Marxism",
+   "desc": "orthodox Marxists (Kautsky school)",
+   "kind": "political group",
+   "parent": "grp:social-democrats",
+   "keys": [
+    "אורתודוקסים מרקסיסטים"
+   ],
+   "qid_auto": "Q937465",
+   "qid": "Q937465"
+  },
+  {
+   "id": "grp:french-socialists",
+   "he": "סוציאליסטים צרפתים",
+   "en": "French Section of the Workers' International",
+   "desc": "French socialists (SFIO)",
+   "kind": "political group",
+   "parent": "grp:socialists",
+   "country": "pl:france",
+   "keys": [
+    "סוציאליסטים צרפתים"
+   ],
+   "qid_auto": "Q1332068",
+   "qid": "Q1332068"
+  },
+  {
+   "id": "grp:british-socialists",
+   "he": "סוציאליסטים בריטים",
+   "en": "Socialism in the United Kingdom",
+   "desc": "Socialism in the United Kingdom",
+   "kind": "political group",
+   "parent": "grp:socialists",
+   "country": "pl:united-kingdom",
+   "no_wd": true,
+   "keys": [
+    "סוציאליסטים בריטים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:christian-socialists",
+   "he": "סוציאליסטים נוצרים",
+   "en": "Christian socialism",
+   "desc": "Christian socialists",
+   "kind": "political group",
+   "parent": "grp:socialists",
+   "keys": [
+    "סוציאליסטים נוצרים"
+   ],
+   "qid_auto": "Q739609",
+   "qid": "Q739609"
+  },
+  {
+   "id": "org:socialist-revolutionary-party",
+   "he": "מפלגת הסוציאליסטים-המהפכנים",
+   "en": "Socialist Revolutionary Party",
+   "desc": "Russian SR party",
+   "kind": "party",
+   "country": "pl:russian-empire",
+   "keys": [
+    "סוציאליסטים מהפכנים"
+   ],
+   "qid_auto": "Q217009",
+   "qid": "Q217009"
+  },
+  {
+   "id": "org:constitutional-democratic-party",
+   "he": "המפלגה הקונסטיטוציונית-דמוקרטית",
+   "en": "Constitutional Democratic Party",
+   "desc": "Russian liberal party (Kadets)",
+   "kind": "party",
+   "en_alt": [
+    "Kadets"
+   ],
+   "country": "pl:russian-empire",
+   "keys": [
+    "קדטים"
+   ],
+   "qid_auto": null,
+   "qid": "Q155820"
+  },
+  {
+   "id": "org:union-of-17-october",
+   "he": "איגוד 17 באוקטובר",
+   "en": "Union of 17 October",
+   "desc": "Russian Octobrist party",
+   "kind": "party",
+   "en_alt": [
+    "Octobrists"
+   ],
+   "country": "pl:russian-empire",
+   "keys": [
+    "אוקטובריסטים"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:trudoviks",
+   "he": "טרודוביקים",
+   "en": "Trudoviks",
+   "desc": "Russian Labour Group in the Duma",
+   "kind": "party",
+   "country": "pl:russian-empire",
+   "keys": [
+    "טרודוביקים"
+   ],
+   "qid_auto": "Q1570527",
+   "qid": "Q1570527"
+  },
+  {
+   "id": "org:bolsheviks",
+   "he": "בולשביקים",
+   "en": "Bolsheviks",
+   "desc": "Bolshevik faction of the RSDLP",
+   "kind": "party",
+   "country": "pl:russian-empire",
+   "keys": [
+    "בולשביקים"
+   ],
+   "qid_auto": "Q83372",
+   "qid": "Q83372"
+  },
+  {
+   "id": "org:black-hundreds",
+   "he": "המאות השחורות",
+   "en": "Black Hundreds",
+   "desc": "Russian ultra-nationalist movement",
+   "kind": "movement",
+   "country": "pl:russian-empire",
+   "keys": [
+    "מאות שחורות"
+   ],
+   "qid_auto": "Q940855",
+   "qid": "Q940855"
+  },
+  {
+   "id": "org:union-of-the-russian-people",
+   "he": "איגוד העם הרוסי",
+   "en": "Union of the Russian People",
+   "desc": "Russian monarchist-antisemitic organization (Soyuzniki)",
+   "kind": "organization",
+   "parent": "org:black-hundreds",
+   "country": "pl:russian-empire",
+   "keys": [
+    "איגוד העם הרוסי (סויוזניקים) באודסה"
+   ],
+   "qid_auto": "Q580690",
+   "qid": "Q580690"
+  },
+  {
+   "id": "grp:duma-deputies",
+   "he": "חברי הדומה",
+   "en": "State Duma (Russian Empire)",
+   "desc": "members of the Russian State Duma",
+   "kind": "political group",
+   "country": "pl:russian-empire",
+   "no_wd": true,
+   "keys": [
+    "חברי הדומה"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:decembrists",
+   "he": "דקבריסטים",
+   "en": "Decembrists",
+   "desc": "Decembrist revolt participants (1825)",
+   "kind": "political group",
+   "parent": "grp:revolutionaries",
+   "country": "pl:russian-empire",
+   "keys": [
+    "דקבריסטים"
+   ],
+   "qid_auto": null,
+   "qid": "Q8680884"
+  },
+  {
+   "id": "grp:revolutionaries",
+   "he": "מהפכנים",
+   "en": "Revolutionary",
+   "desc": "revolutionaries",
+   "kind": "political group",
+   "keys": [
+    "מהפכנים"
+   ],
+   "qid_auto": null,
+   "qid": "Q3242115"
+  },
+  {
+   "id": "grp:caucasian-revolutionaries",
+   "he": "מהפכנים קווקזים",
+   "en": "Caucasian revolutionaries",
+   "desc": "Caucasian revolutionaries",
+   "kind": "political group",
+   "parent": "grp:revolutionaries",
+   "country": "pl:caucasus",
+   "no_wd": true,
+   "keys": [
+    "מהפכנים קווקזים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:persian-revolutionaries",
+   "he": "מהפכנים פרסיים",
+   "en": "Persian Constitutional Revolution",
+   "desc": "Persian constitutional revolutionaries",
+   "kind": "political group",
+   "parent": "grp:revolutionaries",
+   "country": "pl:persia",
+   "keys": [
+    "מהפכנים פרסיים",
+    "מהפכנים פרסים"
+   ],
+   "qid_auto": "Q1368440",
+   "qid": null
+  },
+  {
+   "id": "grp:chinese-revolutionaries",
+   "he": "מהפכנים סינים",
+   "en": "Xinhai Revolution",
+   "desc": "Chinese republican revolutionaries (1911)",
+   "kind": "political group",
+   "parent": "grp:revolutionaries",
+   "country": "pl:china",
+   "keys": [
+    "מהפכנים סיניים",
+    "מהפכנים סינים"
+   ],
+   "qid_auto": "Q190517",
+   "qid": null
+  },
+  {
+   "id": "grp:anarchists",
+   "he": "אנרכיסטים",
+   "en": "Anarchism",
+   "desc": "anarchists",
+   "kind": "political group",
+   "en_alt": [
+    "Anarchists"
+   ],
+   "keys": [
+    "אנרכיסטים",
+    "אנארכיסטים"
+   ],
+   "qid_auto": "Q6199",
+   "qid": "Q6199"
+  },
+  {
+   "id": "grp:italian-anarchists",
+   "he": "אנרכיסטים איטלקים",
+   "en": "Anarchism in Italy",
+   "desc": "Anarchism in Italy",
+   "kind": "political group",
+   "parent": "grp:anarchists",
+   "country": "pl:italy",
+   "keys": [
+    "אנרכיסטים איטלקים",
+    "אנרכיסטים איטלקיים"
+   ],
+   "qid_auto": "Q4751636",
+   "qid": null
+  },
+  {
+   "id": "grp:anarcho-communists",
+   "he": "אנרכיסטים-קומוניסטים",
+   "en": "Anarcho-communism",
+   "desc": "Anarcho-communism",
+   "kind": "political group",
+   "parent": "grp:anarchists",
+   "keys": [
+    "אנרכיסטים קומוניסטים"
+   ],
+   "qid_auto": "Q188670",
+   "qid": "Q188670"
+  },
+  {
+   "id": "grp:liberals",
+   "he": "ליברלים",
+   "en": "Liberalism",
+   "desc": "liberals",
+   "kind": "political group",
+   "en_alt": [
+    "Liberals"
+   ],
+   "keys": [
+    "ליברלים",
+    "ליברלים ודיסידנטים"
+   ],
+   "qid_auto": "Q6216",
+   "qid": "Q6216"
+  },
+  {
+   "id": "grp:bourgeois-democrats",
+   "he": "דמוקרטים בורגנים",
+   "en": "Bourgeois democracy",
+   "desc": "bourgeois democrats",
+   "kind": "political group",
+   "parent": "grp:liberals",
+   "no_wd": true,
+   "keys": [
+    "דמוקרטים בורגנים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:radicals",
+   "he": "רדיקלים",
+   "en": "Radicalism (historical)",
+   "desc": "radicals (French Radicals etc.)",
+   "kind": "political group",
+   "keys": [
+    "רדיקלים"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "grp:republicans",
+   "he": "רפובליקנים",
+   "en": "Republicanism",
+   "desc": "republicans",
+   "kind": "political group",
+   "en_alt": [
+    "Republicans"
+   ],
+   "keys": [
+    "רפובליקנים",
+    "רפובליקנים וסוציאליסטים",
+    "מתונים"
+   ],
+   "qid_auto": null,
+   "qid": "Q877848"
+  },
+  {
+   "id": "grp:radical-republicans",
+   "he": "רפובליקנים רדיקלים",
+   "en": "Radical Party (France)",
+   "desc": "Radical Party (France)",
+   "kind": "political group",
+   "parent": "grp:republicans",
+   "country": "pl:france",
+   "keys": [
+    "רפובליקנים רדיקלים"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "grp:portuguese-republicans",
+   "he": "רפובליקנים פורטוגזים",
+   "en": "Portuguese Republican Party",
+   "desc": "Portuguese Republican Party",
+   "kind": "political group",
+   "parent": "grp:republicans",
+   "country": "pl:portugal",
+   "keys": [
+    "רפובליקנים פורטוגזים"
+   ],
+   "qid_auto": null,
+   "qid": "Q2054740"
+  },
+  {
+   "id": "grp:monarchists",
+   "he": "מונרכיסטים",
+   "en": "Monarchism",
+   "desc": "monarchists",
+   "kind": "political group",
+   "en_alt": [
+    "Monarchists"
+   ],
+   "keys": [
+    "מונרכיסטים",
+    "מלוכנים"
+   ],
+   "qid_auto": "Q216669",
+   "qid": "Q216669"
+  },
+  {
+   "id": "grp:portuguese-monarchists",
+   "he": "מלוכנים פורטוגזים",
+   "en": "Monarchist incursions in Portugal",
+   "desc": "Portuguese monarchists (1911–1912 incursions)",
+   "kind": "political group",
+   "parent": "grp:monarchists",
+   "country": "pl:portugal",
+   "keys": [
+    "מלוכנים הפורטוגזים"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "grp:conservatives",
+   "he": "שמרנים",
+   "en": "Conservatism",
+   "desc": "conservatives",
+   "kind": "political group",
+   "en_alt": [
+    "Conservatives"
+   ],
+   "keys": [
+    "שמרנים",
+    "שמרנים ורעקציונרים"
+   ],
+   "qid_auto": null,
+   "qid": "Q7169"
+  },
+  {
+   "id": "grp:reactionaries",
+   "he": "ריאקציונרים",
+   "en": "Reactionary",
+   "desc": "reactionaries",
+   "kind": "political group",
+   "parent": "grp:conservatives",
+   "keys": [
+    "ריאקציונרים"
+   ],
+   "qid_auto": "Q3285642",
+   "qid": null
+  },
+  {
+   "id": "grp:political-right",
+   "he": "הימין",
+   "en": "Right-wing politics",
+   "desc": "the (parliamentary) right",
+   "kind": "political group",
+   "keys": [
+    "ימין"
+   ],
+   "qid_auto": "Q76074",
+   "qid": "Q76074"
+  },
+  {
+   "id": "grp:political-left",
+   "he": "השמאל",
+   "en": "Left-wing politics",
+   "desc": "the (parliamentary) left",
+   "kind": "political group",
+   "keys": [
+    "שמאל"
+   ],
+   "qid_auto": "Q164597",
+   "qid": "Q164597"
+  },
+  {
+   "id": "grp:nationalists",
+   "he": "לאומנים",
+   "en": "Nationalism",
+   "desc": "nationalists / chauvinists",
+   "kind": "political group",
+   "en_alt": [
+    "Nationalists"
+   ],
+   "keys": [
+    "לאומנים",
+    "נציונליסטים",
+    "פטריוטים",
+    "שוביניסטים"
+   ],
+   "qid_auto": "Q6235",
+   "qid": "Q6235"
+  },
+  {
+   "id": "grp:russian-nationalists",
+   "he": "לאומנים רוסים",
+   "en": "Russian nationalism",
+   "desc": "Russian nationalism",
+   "kind": "political group",
+   "parent": "grp:nationalists",
+   "country": "pl:russian-empire",
+   "keys": [
+    "לאומנים רוסים",
+    "לאומנים רוסיים"
+   ],
+   "qid_auto": "Q2354258",
+   "qid": "Q2354258"
+  },
+  {
+   "id": "grp:antisemites",
+   "he": "אנטישמים",
+   "en": "Antisemitism",
+   "desc": "antisemites",
+   "kind": "political group",
+   "en_alt": [
+    "Antisemites"
+   ],
+   "keys": [
+    "אנטישמים"
+   ],
+   "qid_auto": "Q22649",
+   "qid": "Q22649"
+  },
+  {
+   "id": "grp:pogromists",
+   "he": "פוגרומצ'יקים",
+   "en": "Pogrom",
+   "desc": "pogrom perpetrators (batyaki)",
+   "kind": "social group",
+   "parent": "grp:antisemites",
+   "country": "pl:russian-empire",
+   "no_wd": true,
+   "keys": [
+    "בעלי פוגרומים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:freemasons",
+   "he": "בונים חופשיים",
+   "en": "Freemasonry",
+   "desc": "Freemasons",
+   "kind": "fraternal group",
+   "en_alt": [
+    "Freemasons"
+   ],
+   "keys": [
+    "פרמסונים"
+   ],
+   "qid_auto": "Q41726",
+   "qid": "Q41726"
+  },
+  {
+   "id": "grp:suffragettes",
+   "he": "סופרג'יסטיות",
+   "en": "Suffragette",
+   "desc": "women's suffrage militants",
+   "kind": "political group",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "סופרגיסטיות"
+   ],
+   "qid_auto": null,
+   "qid": "Q322170"
+  },
+  {
+   "id": "grp:workers",
+   "he": "פועלים",
+   "en": "Working class",
+   "desc": "workers / proletariat",
+   "kind": "social class",
+   "en_alt": [
+    "Proletariat"
+   ],
+   "keys": [
+    "פועלים",
+    "פרולטריון",
+    "פועלים חופשיים",
+    "פועלים עניים"
+   ],
+   "qid_auto": null,
+   "qid": "Q191159"
+  },
+  {
+   "id": "grp:strikers",
+   "he": "שובתים",
+   "en": "Strike action",
+   "desc": "striking workers",
+   "kind": "social group",
+   "parent": "grp:workers",
+   "keys": [
+    "שובתים",
+    "פועלים שובתים",
+    "שובתים ושוברי שביתה"
+   ],
+   "qid_auto": "Q49776",
+   "qid": null
+  },
+  {
+   "id": "grp:miners",
+   "he": "כורים",
+   "en": "Miner",
+   "desc": "miners",
+   "kind": "occupational group",
+   "parent": "grp:workers",
+   "keys": [
+    "כורים",
+    "פועלי מכרות"
+   ],
+   "qid_auto": "Q820037",
+   "qid": "Q820037"
+  },
+  {
+   "id": "grp:railway-workers",
+   "he": "פועלי רכבת",
+   "en": "Railway workers",
+   "desc": "Railway workers",
+   "kind": "occupational group",
+   "parent": "grp:workers",
+   "no_wd": true,
+   "keys": [
+    "פועלי רכבות",
+    "פועלי רכבת"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:dock-workers",
+   "he": "פועלי נמל",
+   "en": "Stevedore",
+   "desc": "dock workers and seamen",
+   "kind": "occupational group",
+   "en_alt": [
+    "Dockworker"
+   ],
+   "parent": "grp:workers",
+   "keys": [
+    "פועלי נמל ומלחים"
+   ],
+   "qid_auto": "Q1537445",
+   "qid": "Q1537445"
+  },
+  {
+   "id": "grp:coolies",
+   "he": "קולים",
+   "en": "Coolie",
+   "desc": "coolies / porters",
+   "kind": "occupational group",
+   "parent": "grp:workers",
+   "keys": [
+    "קולי רגל"
+   ],
+   "qid_auto": null,
+   "qid": "Q548135"
+  },
+  {
+   "id": "grp:stone-breakers",
+   "he": "שוברי אבנים",
+   "en": "Stone breakers",
+   "desc": "Stone breakers",
+   "kind": "occupational group",
+   "parent": "grp:workers",
+   "no_wd": true,
+   "keys": [
+    "שוברי אבנים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:women-and-child-workers",
+   "he": "נשים וילדים עובדים",
+   "en": "Child labour",
+   "desc": "working women and children",
+   "kind": "social group",
+   "parent": "grp:workers",
+   "keys": [
+    "נשים וילדים עובדים"
+   ],
+   "qid_auto": "Q192571",
+   "qid": null
+  },
+  {
+   "id": "grp:german-workers",
+   "he": "פועלים גרמנים",
+   "en": "Labour movement in Germany",
+   "desc": "Labour movement in Germany",
+   "kind": "social class",
+   "parent": "grp:workers",
+   "country": "pl:germany",
+   "no_wd": true,
+   "keys": [
+    "פועלים גרמנים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:english-workers",
+   "he": "פועלים אנגלים",
+   "en": "Labour movement in the United Kingdom",
+   "desc": "Labour movement in the United Kingdom",
+   "kind": "social class",
+   "parent": "grp:workers",
+   "country": "pl:united-kingdom",
+   "no_wd": true,
+   "keys": [
+    "פועלים אנגלים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:french-workers",
+   "he": "פועלים צרפתים",
+   "en": "French workers",
+   "desc": "French workers",
+   "kind": "social class",
+   "parent": "grp:workers",
+   "country": "pl:france",
+   "no_wd": true,
+   "keys": [
+    "פועלים צרפתים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:italian-workers",
+   "he": "פועלים איטלקים",
+   "en": "Italian workers",
+   "desc": "Italian workers",
+   "kind": "social class",
+   "parent": "grp:workers",
+   "country": "pl:italy",
+   "no_wd": true,
+   "keys": [
+    "פועלים איטלקים",
+    "פועלים חקלאים איטלקים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:japanese-workers",
+   "he": "פועלים יפנים",
+   "en": "Japanese workers",
+   "desc": "Japanese workers",
+   "kind": "social class",
+   "parent": "grp:workers",
+   "country": "pl:japan",
+   "no_wd": true,
+   "keys": [
+    "פועלים יפנים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:arab-workers",
+   "he": "פועלים ערבים",
+   "en": "Arab workers",
+   "desc": "Arab/local workers (Palestine)",
+   "kind": "social class",
+   "parent": "grp:workers",
+   "no_wd": true,
+   "keys": [
+    "פועלים ערבים",
+    "פועלים ערבים/מקומיים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:christian-workers",
+   "he": "פועלים נוצרים",
+   "en": "Christian workers",
+   "desc": "Christian / non-Jewish workers",
+   "kind": "social class",
+   "parent": "grp:workers",
+   "no_wd": true,
+   "keys": [
+    "פועלים נוצרים",
+    "פועלים לא יהודים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:peasants",
+   "he": "איכרים",
+   "en": "Peasant",
+   "desc": "peasants",
+   "kind": "social class",
+   "en_alt": [
+    "Peasants"
+   ],
+   "keys": [
+    "איכרים",
+    "אכרים",
+    "איכרים עניים"
+   ],
+   "qid_auto": "Q838811",
+   "qid": "Q838811"
+  },
+  {
+   "id": "grp:polish-peasants",
+   "he": "איכרים פולנים",
+   "en": "Polish peasants",
+   "desc": "Polish peasants",
+   "kind": "social class",
+   "parent": "grp:peasants",
+   "country": "pl:poland",
+   "no_wd": true,
+   "keys": [
+    "איכרים פולנים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:romanian-peasants",
+   "he": "איכרים רומנים",
+   "en": "1907 Romanian peasants' revolt",
+   "desc": "Romanian peasants (1907 revolt)",
+   "kind": "social class",
+   "parent": "grp:peasants",
+   "country": "pl:romania",
+   "keys": [
+    "איכרים רומנים"
+   ],
+   "qid_auto": "Q811241",
+   "qid": null
+  },
+  {
+   "id": "grp:ruthenian-peasants",
+   "he": "איכרים רותנים",
+   "en": "Ruthenian peasants",
+   "desc": "Ruthenian peasants",
+   "kind": "social class",
+   "parent": "grp:peasants",
+   "country": "pl:austria-hungary",
+   "no_wd": true,
+   "keys": [
+    "איכרים רותנים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:emigrant-peasants",
+   "he": "איכרים מהגרים",
+   "en": "Peasant migration",
+   "desc": "emigrating/resettled peasants",
+   "kind": "social group",
+   "parent": "grp:peasants",
+   "no_wd": true,
+   "keys": [
+    "איכרים מהגרים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:winegrowers",
+   "he": "כורמים",
+   "en": "Winegrower",
+   "desc": "winegrowers (1907 Languedoc revolt)",
+   "kind": "occupational group",
+   "en_alt": [
+    "Revolt of the Languedoc winegrowers"
+   ],
+   "parent": "grp:peasants",
+   "keys": [
+    "איכרי יין",
+    "יצרני יין"
+   ],
+   "qid_auto": null,
+   "qid": "Q897317"
+  },
+  {
+   "id": "grp:landowners",
+   "he": "בעלי אחוזות",
+   "en": "Landed gentry",
+   "desc": "landowners",
+   "kind": "social class",
+   "keys": [
+    "בעלי אחוזות",
+    "אצילים בעלי אחוזות"
+   ],
+   "qid_auto": "Q56304279",
+   "qid": "Q56304279"
+  },
+  {
+   "id": "grp:romanian-landowners",
+   "he": "בעלי אחוזות רומנים",
+   "en": "Boyars of Moldavia and Wallachia",
+   "desc": "Romanian (boyar) landowners",
+   "kind": "social class",
+   "parent": "grp:landowners",
+   "country": "pl:romania",
+   "keys": [
+    "בעלי אחוזות רומנים"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "grp:nobility",
+   "he": "אצולה",
+   "en": "Nobility",
+   "desc": "nobility, aristocracy",
+   "kind": "social class",
+   "keys": [],
+   "qid_auto": "Q134737",
+   "qid": "Q134737"
+  },
+  {
+   "id": "grp:russian-nobility",
+   "he": "דבוריאנים",
+   "en": "Russian nobility",
+   "desc": "Russian nobility (dvoryanstvo)",
+   "kind": "social class",
+   "parent": "grp:nobility",
+   "country": "pl:russian-empire",
+   "keys": [
+    "אצילים רוסים"
+   ],
+   "qid_auto": "Q971558",
+   "qid": "Q971558"
+  },
+  {
+   "id": "grp:bourgeoisie",
+   "he": "בורגנות",
+   "en": "Bourgeoisie",
+   "desc": "bourgeoisie",
+   "kind": "social class",
+   "keys": [
+    "בורגנות",
+    "בורגנות וקפיטליסטים"
+   ],
+   "qid_auto": "Q52090",
+   "qid": "Q52090"
+  },
+  {
+   "id": "grp:petite-bourgeoisie",
+   "he": "בורגנות קטנה",
+   "en": "Petite bourgeoisie",
+   "desc": "Petite bourgeoisie",
+   "kind": "social class",
+   "parent": "grp:bourgeoisie",
+   "keys": [
+    "בורגנות קטנה"
+   ],
+   "qid_auto": "Q75617",
+   "qid": "Q75617"
+  },
+  {
+   "id": "grp:capitalists",
+   "he": "קפיטליסטים",
+   "en": "Capitalism",
+   "desc": "capitalists",
+   "kind": "social class",
+   "en_alt": [
+    "Capitalists"
+   ],
+   "parent": "grp:bourgeoisie",
+   "keys": [
+    "קפיטליסטים",
+    "קפיטליסטים קולוניאליים"
+   ],
+   "qid_auto": "Q6206",
+   "qid": null
+  },
+  {
+   "id": "grp:european-capitalists",
+   "he": "קפיטליסטים אירופאים",
+   "en": "European capitalists",
+   "desc": "European capitalists",
+   "kind": "social class",
+   "parent": "grp:capitalists",
+   "no_wd": true,
+   "keys": [
+    "קפיטליסטים אירופאים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:industrialists",
+   "he": "תעשיינים",
+   "en": "Industrialist",
+   "desc": "industrialists / factory owners",
+   "kind": "occupational group",
+   "parent": "grp:bourgeoisie",
+   "keys": [
+    "תעשיינים",
+    "פבריקנטים מלודז",
+    "יצרנים ובעלי מפעלים אנגלים"
+   ],
+   "qid_auto": "Q6606110",
+   "qid": "Q6606110"
+  },
+  {
+   "id": "grp:bankers",
+   "he": "בנקאים",
+   "en": "Banker",
+   "desc": "Banker",
+   "kind": "occupational group",
+   "parent": "grp:bourgeoisie",
+   "keys": [
+    "בנקאים"
+   ],
+   "qid_auto": "Q806798",
+   "qid": "Q806798"
+  },
+  {
+   "id": "grp:merchants",
+   "he": "סוחרים",
+   "en": "Merchant",
+   "desc": "merchants, traders",
+   "kind": "occupational group",
+   "keys": [
+    "סוחרים"
+   ],
+   "qid_auto": null,
+   "qid": "Q215536"
+  },
+  {
+   "id": "grp:foreign-merchants",
+   "he": "סוחרים זרים",
+   "en": "Foreign merchants",
+   "desc": "foreign merchants (Morocco)",
+   "kind": "occupational group",
+   "parent": "grp:merchants",
+   "no_wd": true,
+   "keys": [
+    "סוחרים זרים",
+    "סוחרי קזבלנקה"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:german-merchants",
+   "he": "סוחרים ותעשיינים גרמנים",
+   "en": "German merchants",
+   "desc": "German merchants",
+   "kind": "occupational group",
+   "parent": "grp:merchants",
+   "country": "pl:germany",
+   "no_wd": true,
+   "keys": [
+    "סוחרים ותעשיינים גרמנים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:chinese-merchants",
+   "he": "סוחרים סינים",
+   "en": "Chinese merchants",
+   "desc": "Chinese merchants",
+   "kind": "occupational group",
+   "parent": "grp:merchants",
+   "country": "pl:china",
+   "no_wd": true,
+   "keys": [
+    "סוחרים סינים",
+    "סוחרים סיניים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:etrog-merchants",
+   "he": "סוחרי אתרוגים",
+   "en": "Etrog trade",
+   "desc": "etrog merchants (Corfu/Palestine)",
+   "kind": "occupational group",
+   "parent": "grp:merchants",
+   "no_wd": true,
+   "keys": [
+    "סוחרי אתרוגים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:meat-and-grain-merchants",
+   "he": "סוחרי בשר ותבואה",
+   "en": "Meat and grain merchants",
+   "desc": "Meat and grain merchants",
+   "kind": "occupational group",
+   "parent": "grp:merchants",
+   "no_wd": true,
+   "keys": [
+    "סוחרי בשר ותבואה"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:butchers",
+   "he": "קצבים",
+   "en": "Butcher",
+   "desc": "Butcher",
+   "kind": "occupational group",
+   "keys": [
+    "קצבים"
+   ],
+   "qid_auto": "Q329737",
+   "qid": "Q329737"
+  },
+  {
+   "id": "grp:artisans",
+   "he": "בעלי מלאכה",
+   "en": "Artisan",
+   "desc": "artisans / craftsmen",
+   "kind": "occupational group",
+   "keys": [
+    "בעלי מלאכה"
+   ],
+   "qid_auto": "Q1294787",
+   "qid": "Q1294787"
+  },
+  {
+   "id": "grp:tailors",
+   "he": "חייטים",
+   "en": "Tailor",
+   "desc": "Tailor",
+   "kind": "occupational group",
+   "parent": "grp:artisans",
+   "keys": [
+    "חייטים"
+   ],
+   "qid_auto": null,
+   "qid": "Q242468"
+  },
+  {
+   "id": "grp:lawyers",
+   "he": "עורכי דין",
+   "en": "Lawyer",
+   "desc": "Lawyer",
+   "kind": "occupational group",
+   "keys": [
+    "עורכי דין"
+   ],
+   "qid_auto": null,
+   "qid": "Q40348"
+  },
+  {
+   "id": "grp:christian-lawyers",
+   "he": "עורכי דין נוצרים",
+   "en": "Christian lawyers",
+   "desc": "Christian lawyers",
+   "kind": "occupational group",
+   "parent": "grp:lawyers",
+   "no_wd": true,
+   "keys": [
+    "עורכי דין נוצרים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:journalists",
+   "he": "עיתונאים",
+   "en": "Journalist",
+   "desc": "Journalist",
+   "kind": "occupational group",
+   "keys": [
+    "עיתונאים"
+   ],
+   "qid_auto": "Q1930187",
+   "qid": "Q1930187"
+  },
+  {
+   "id": "grp:diplomats",
+   "he": "דיפלומטים",
+   "en": "Diplomat",
+   "desc": "Diplomat",
+   "kind": "occupational group",
+   "keys": [
+    "דיפלומטים",
+    "דיפלומטים זרים"
+   ],
+   "qid_auto": "Q193391",
+   "qid": "Q193391"
+  },
+  {
+   "id": "grp:psychologists",
+   "he": "פסיכולוגים",
+   "en": "Psychologist",
+   "desc": "Psychologist",
+   "kind": "occupational group",
+   "keys": [
+    "פסיכולוגים"
+   ],
+   "qid_auto": "Q212980",
+   "qid": "Q212980"
+  },
+  {
+   "id": "grp:intelligentsia",
+   "he": "אינטליגנציה",
+   "en": "Intelligentsia",
+   "desc": "Intelligentsia",
+   "kind": "social class",
+   "keys": [
+    "אינטליגנציה"
+   ],
+   "qid_auto": null,
+   "qid": "Q381142"
+  },
+  {
+   "id": "grp:greek-officials",
+   "he": "פקידים יוונים",
+   "en": "Greek officials",
+   "desc": "Greek officials (in Salonica)",
+   "kind": "occupational group",
+   "country": "pl:greece",
+   "no_wd": true,
+   "keys": [
+    "פקידים יוונים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:police",
+   "he": "שוטרים",
+   "en": "Police officer",
+   "desc": "policemen",
+   "kind": "occupational group",
+   "keys": [
+    "שוטרים"
+   ],
+   "qid_auto": "Q384593",
+   "qid": "Q384593"
+  },
+  {
+   "id": "grp:students",
+   "he": "סטודנטים",
+   "en": "Student",
+   "desc": "university students",
+   "kind": "social group",
+   "keys": [
+    "סטודנטים",
+    "תלמידים ומורים"
+   ],
+   "qid_auto": "Q48282",
+   "qid": "Q48282"
+  },
+  {
+   "id": "grp:russian-students",
+   "he": "סטודנטים רוסים",
+   "en": "Student movement in the Russian Empire",
+   "desc": "Student movement in the Russian Empire",
+   "kind": "social group",
+   "parent": "grp:students",
+   "country": "pl:russian-empire",
+   "no_wd": true,
+   "keys": [
+    "סטודנטים רוסים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:german-students",
+   "he": "סטודנטים גרמנים",
+   "en": "German Student Corps",
+   "desc": "German Student Corps",
+   "kind": "social group",
+   "parent": "grp:students",
+   "country": "pl:germany",
+   "no_wd": true,
+   "keys": [
+    "סטודנטים גרמנים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:italian-students",
+   "he": "סטודנטים איטלקים",
+   "en": "Italian students",
+   "desc": "Italian students",
+   "kind": "social group",
+   "parent": "grp:students",
+   "country": "pl:italy",
+   "no_wd": true,
+   "keys": [
+    "סטודנטים איטלקים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:swiss-students",
+   "he": "סטודנטים שווייצים",
+   "en": "Swiss students",
+   "desc": "Swiss students",
+   "kind": "social group",
+   "parent": "grp:students",
+   "country": "pl:switzerland",
+   "no_wd": true,
+   "keys": [
+    "סטודנטים שווייצים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:ruthenian-students",
+   "he": "סטודנטים רותנים",
+   "en": "Ruthenian students",
+   "desc": "Ruthenian (Ukrainian) students in Galicia/Vienna",
+   "kind": "social group",
+   "parent": "grp:students",
+   "country": "pl:austria-hungary",
+   "no_wd": true,
+   "keys": [
+    "סטודנטים רותנים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:women",
+   "he": "נשים",
+   "en": "Women",
+   "desc": "women",
+   "kind": "social group",
+   "keys": [
+    "נשים",
+    "נשים חברות מפלגה",
+    "נשים וורשאיות"
+   ],
+   "qid_auto": "Q467",
+   "qid": "Q467"
+  },
+  {
+   "id": "grp:women-and-children",
+   "he": "נשים וילדים",
+   "en": "Women and children",
+   "desc": "women and children / widows and orphans",
+   "kind": "social group",
+   "no_wd": true,
+   "keys": [
+    "נשים וילדים",
+    "יתומים ואלמנות"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:orphans",
+   "he": "יתומים",
+   "en": "Orphan",
+   "desc": "Orphan",
+   "kind": "social group",
+   "keys": [],
+   "qid_auto": "Q193279",
+   "qid": "Q193279"
+  },
+  {
+   "id": "grp:prisoners",
+   "he": "אסירים",
+   "en": "Prisoner",
+   "desc": "Prisoner",
+   "kind": "social group",
+   "keys": [
+    "אסירים"
+   ],
+   "qid_auto": "Q1862087",
+   "qid": "Q1862087"
+  },
+  {
+   "id": "grp:prisoners-of-war",
+   "he": "שבויי מלחמה",
+   "en": "Prisoner of war",
+   "desc": "Prisoner of war",
+   "kind": "social group",
+   "parent": "grp:prisoners",
+   "keys": [
+    "שבויי מלחמה"
+   ],
+   "qid_auto": "Q179637",
+   "qid": "Q179637"
+  },
+  {
+   "id": "grp:slaves",
+   "he": "עבדים",
+   "en": "Slavery",
+   "desc": "slaves (black and white slave trade)",
+   "kind": "social group",
+   "en_alt": [
+    "Slaves"
+   ],
+   "keys": [
+    "עבדים שחורים ולבנים"
+   ],
+   "qid_auto": "Q8463",
+   "qid": null
+  },
+  {
+   "id": "grp:emigrants",
+   "he": "מהגרים",
+   "en": "Emigration",
+   "desc": "emigrants / immigrants",
+   "kind": "social group",
+   "en_alt": [
+    "Immigration"
+   ],
+   "keys": [
+    "מהגרים",
+    "מהגרים מרוסיה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "grp:refugees",
+   "he": "פליטים",
+   "en": "Refugee",
+   "desc": "Refugee",
+   "kind": "social group",
+   "keys": [
+    "פליטים"
+   ],
+   "qid_auto": "Q131572",
+   "qid": "Q131572"
+  },
+  {
+   "id": "grp:colonists",
+   "he": "מתיישבים",
+   "en": "Settler colonialism",
+   "desc": "colonists / settlers",
+   "kind": "social group",
+   "en_alt": [
+    "Settler"
+   ],
+   "keys": [
+    "מתיישבים",
+    "קולוניסטים"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "grp:bandits",
+   "he": "שודדים",
+   "en": "Banditry",
+   "desc": "bandits, robbers",
+   "kind": "social group",
+   "en_alt": [
+    "Bandit"
+   ],
+   "keys": [
+    "שודדים"
+   ],
+   "qid_auto": null,
+   "qid": "Q16144978"
+  },
+  {
+   "id": "grp:demonstrators",
+   "he": "מפגינים",
+   "en": "Demonstration (political)",
+   "desc": "demonstrators / protesters",
+   "kind": "social group",
+   "en_alt": [
+    "Protest"
+   ],
+   "keys": [
+    "מפגינים"
+   ],
+   "qid_auto": "Q273120",
+   "qid": null
+  },
+  {
+   "id": "grp:volunteers",
+   "he": "מתנדבים",
+   "en": "Volunteer military",
+   "desc": "volunteers (military)",
+   "kind": "military group",
+   "keys": [
+    "מתנדבים"
+   ],
+   "qid_auto": "Q828787",
+   "qid": null
+  },
+  {
+   "id": "grp:soldiers",
+   "he": "חיילים",
+   "en": "Soldier",
+   "desc": "soldiers",
+   "kind": "military group",
+   "keys": [
+    "חיילים",
+    "חיילים וקצינים"
+   ],
+   "qid_auto": "Q4991371",
+   "qid": "Q4991371"
+  },
+  {
+   "id": "grp:wounded-soldiers",
+   "he": "חיילים פצועים",
+   "en": "Wounded soldiers",
+   "desc": "wounded (soldiers)",
+   "kind": "military group",
+   "parent": "grp:soldiers",
+   "no_wd": true,
+   "keys": [
+    "חיילים פצועים",
+    "פצועים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:turkish-soldiers",
+   "he": "חיילים טורקים",
+   "en": "Ottoman Army",
+   "desc": "Ottoman soldiers",
+   "kind": "military group",
+   "parent": "grp:soldiers",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "חיילים טורקים",
+    "קצינים וחיילים תורכים"
+   ],
+   "qid_auto": "Q6025264",
+   "qid": null
+  },
+  {
+   "id": "grp:french-soldiers",
+   "he": "חיילים צרפתים",
+   "en": "French Army",
+   "desc": "French soldiers",
+   "kind": "military group",
+   "parent": "grp:soldiers",
+   "country": "pl:france",
+   "keys": [
+    "חיילים צרפתים"
+   ],
+   "qid_auto": "Q1076619",
+   "qid": "Q1076619"
+  },
+  {
+   "id": "grp:russian-soldiers",
+   "he": "חיילים רוסים",
+   "en": "Imperial Russian Army",
+   "desc": "Russian soldiers",
+   "kind": "military group",
+   "parent": "grp:soldiers",
+   "country": "pl:russian-empire",
+   "keys": [
+    "חיילים רוסים"
+   ],
+   "qid_auto": "Q1078222",
+   "qid": "Q1078222"
+  },
+  {
+   "id": "grp:officers",
+   "he": "קצינים",
+   "en": "Officer (armed forces)",
+   "desc": "military officers",
+   "kind": "military group",
+   "parent": "grp:soldiers",
+   "keys": [
+    "קצינים"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "grp:french-officers",
+   "he": "קציני צבא צרפתים",
+   "en": "French Army officers",
+   "desc": "French Army officers",
+   "kind": "military group",
+   "parent": "grp:officers",
+   "country": "pl:france",
+   "no_wd": true,
+   "keys": [
+    "קציני צבא צרפתים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "grp:reservists",
+   "he": "מילואימניקים",
+   "en": "Military reserve force",
+   "desc": "army reservists",
+   "kind": "military group",
+   "parent": "grp:soldiers",
+   "keys": [
+    "מילואימניקים"
+   ],
+   "qid_auto": "Q1144991",
+   "qid": "Q1144991"
+  },
+  {
+   "id": "grp:ottoman-reservists",
+   "he": "חיילי מילואים עות'מאנים",
+   "en": "Redif",
+   "desc": "Ottoman reservists (redif)",
+   "kind": "military group",
+   "parent": "grp:reservists",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "חיילי מילואים עותמאנים"
+   ],
+   "qid_auto": "Q2136264",
+   "qid": "Q2136264"
+  },
+  {
+   "id": "grp:cavalry",
+   "he": "פרשים",
+   "en": "Cavalry",
+   "desc": "cavalrymen",
+   "kind": "military group",
+   "parent": "grp:soldiers",
+   "keys": [
+    "פרשים"
+   ],
+   "qid_auto": "Q47315",
+   "qid": "Q47315"
+  },
+  {
+   "id": "grp:sailors",
+   "he": "מלחים",
+   "en": "Sailor",
+   "desc": "sailors, seamen",
+   "kind": "occupational group",
+   "keys": [
+    "מלחים"
+   ],
+   "qid_auto": "Q45199",
+   "qid": "Q45199"
+  },
+  {
+   "id": "grp:mutinous-sailors",
+   "he": "מלחים מורדים",
+   "en": "Naval mutiny",
+   "desc": "mutinous sailors",
+   "kind": "military group",
+   "parent": "grp:sailors",
+   "keys": [
+    "מלחים מורדים"
+   ],
+   "qid_auto": "Q133800469",
+   "qid": null
+  },
+  {
+   "id": "grp:russian-sailors",
+   "he": "מלחים רוסים",
+   "en": "Imperial Russian Navy",
+   "desc": "Russian sailors",
+   "kind": "military group",
+   "parent": "grp:sailors",
+   "country": "pl:russian-empire",
+   "keys": [
+    "מלחים רוסים"
+   ],
+   "qid_auto": "Q583941",
+   "qid": "Q583941"
+  },
+  {
+   "id": "ppl:jacob-meir",
+   "he": "יעקב מאיר",
+   "en": "Jacob Meir",
+   "desc": "Sephardi Chief Rabbi of Salonica, later of Palestine (1856–1939)",
+   "kind": "rabbi",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "רב סלוניקאי"
+   ],
+   "qid_auto": "Q6119001",
+   "qid": "Q6119001"
+  }
+ ],
+ "contextual": [
+  {
+   "key": "ספרדים",
+   "articles": {
+    "dfr19051004-01.2.15": "grp:spaniards",
+    "dfr19060223-01.2.9": "grp:spaniards",
+    "dfr19060320-01.2.4": "grp:spaniards",
+    "dfr19061101-01.2.4": "grp:spaniards",
+    "dfr19061204-01.2.6": "grp:spaniards",
+    "dfr19070802-01.2.10": "grp:spaniards",
+    "dfr19070807-01.2.13": "grp:spaniards",
+    "dfr19070808-01.2.5": "grp:spaniards",
+    "dfr19070809-01.2.14": "grp:spaniards",
+    "dfr19070811-01.2.17": "grp:spaniards",
+    "dfr19070811-01.2.2": "grp:spaniards",
+    "dfr19070813-01.2.15": "grp:spaniards",
+    "dfr19070815-01.2.2": "grp:spaniards",
+    "dfr19070816-01.2.2": "grp:spaniards",
+    "dfr19070916-01.2.2": "grp:spaniards",
+    "dfr19071007-01.2.20": "grp:spaniards",
+    "dfr19071016-01.2.4": "grp:spaniards",
+    "dfr19071020-01.2.15": "grp:spaniards",
+    "dfr19071022-01.2.2": "grp:spaniards",
+    "unzerleben19080802-01.2.7": "grp:sephardi-jews",
+    "unzerleben19090531-01.2.10": "grp:sephardi-jews",
+    "unzerleben19100318-01.2.8": "grp:sephardi-jews",
+    "unzerleben19100706-01.2.10": "grp:sephardi-jews",
+    "unzerleben19100714-01.2.16": "grp:sephardi-jews",
+    "hyt19100718-01.2.7": "grp:spaniards",
+    "unzerleben19100807-01.2.15": "grp:sephardi-jews",
+    "hyt19100810-01.2.8": "grp:spaniards",
+    "unzerleben19100913-01.2.8": "grp:sephardi-jews",
+    "hyt19101101-01.2.6": "grp:sephardi-jews",
+    "hyt19101118-01.2.21": "grp:spaniards",
+    "hyt19101211-01.2.15": "grp:spaniards",
+    "hyt19110206-01.2.9": "grp:spaniards",
+    "hyt19110516-01.2.25": "grp:spaniards",
+    "hyt19110522-01.2.1": "grp:spaniards",
+    "hyt19110525-01.2.14": "grp:spaniards",
+    "hyt19110612-01.2.15": "grp:spaniards",
+    "unzerleben19110613-01.2.3": "grp:spaniards",
+    "unzerleben19110614-01.2.3": "grp:spaniards",
+    "hyt19110615-01.2.16": "grp:spaniards",
+    "hyt19110623-01.2.10": "grp:spaniards",
+    "hyt19110630-01.2.27": "grp:spaniards",
+    "hyt19110702-01.2.14": "grp:spaniards",
+    "hyt19110703-01.2.16": "grp:spaniards",
+    "hyt19110705-01.2.14": "grp:spaniards",
+    "hyt19110706-01.2.17": "grp:spaniards",
+    "hyt19110712-01.2.14": "grp:spaniards",
+    "hyt19110714-01.2.9": "grp:spaniards",
+    "hyt19110720-01.2.13": "grp:spaniards",
+    "hyt19110724-01.2.9": "grp:spaniards",
+    "hyt19110810-01.2.13": "grp:spaniards",
+    "hyt19110828-01.2.13": "grp:spaniards",
+    "unzerleben19110831-01.2.13": "grp:sephardi-jews",
+    "hyt19110908-01.2.5": "grp:spaniards",
+    "hyt19110910-01.2.11": "grp:spaniards",
+    "hyt19110915-01.2.24": "grp:spaniards",
+    "hyt19111016-01.2.13": "grp:spaniards",
+    "hyt19111017-01.2.13": "grp:spaniards",
+    "hyt19111228-01.2.15": "grp:spaniards",
+    "unzerleben19120126-01.2.11": "grp:sephardi-jews",
+    "hyt19120502-01.2.18": "grp:spaniards",
+    "hyt19120516-01.2.11": "grp:spaniards",
+    "hyt19120524-01.2.11": "grp:sephardi-jews",
+    "hyt19120802-01.2.12": "grp:sephardi-jews",
+    "hyt19120916-01.2.14": "grp:spaniards",
+    "unzerleben19130430-01.2.6": "grp:sephardi-jews",
+    "unzerleben19130521-01.2.3": "grp:sephardi-jews",
+    "unzerleben19130526-01.2.3": "grp:spaniards",
+    "unzerleben19130626-01.2.2": "grp:spaniards",
+    "unzerleben19170108-01.2.13": "grp:spaniards"
+   }
+  },
+  {
+   "key": "חכם באשי",
+   "articles": {
+    "hyt19110710-01.2.16": null
+   }
+  }
+ ],
+ "drop": [
+  {
+   "key": "סדרים",
+   "why": "unidentifiable (OCR/extraction noise: \"orders/arrangements\")"
+  },
+  {
+   "key": "חוואדשים",
+   "why": "unidentifiable form in a 1909 Ottoman/Persian telegram column"
+  }
+ ]
+}

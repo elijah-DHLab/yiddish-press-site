@@ -1,0 +1,4324 @@
+{
+ "concepts": [
+  {
+   "id": "top:jewish-persecution",
+   "he": "רדיפות יהודים, פוגרומים והגבלות",
+   "en": "Persecution of Jews, pogroms and restrictions",
+   "broader": null,
+   "scope": "רדיפת יהודים, אלימות נגדם, עלילות, גזירות והגבלות חוקיות, ואנטישמיות פוליטית בכל הארצות.",
+   "related": [
+    "pl:russian-empire",
+    "pl:romania"
+   ]
+  },
+  {
+   "id": "top:pogroms",
+   "he": "פוגרומים ופרעות ביהודים",
+   "en": "Pogroms and anti-Jewish violence",
+   "broader": "top:jewish-persecution",
+   "scope": "פוגרומים, פרעות, חשש מפוגרום, משפטי פורעים, פיצויים וסיוע לנפגעים – בעיקר באימפריה הרוסית ובאירופה (פגיעות ביהודי מרוקו – תחת יהודי מרוקו).",
+   "related": [
+    "pl:russian-empire",
+    "top:moroccan-jews",
+    "top:jewish-philanthropy-relief"
+   ]
+  },
+  {
+   "id": "top:blood-libels",
+   "he": "עלילות דם",
+   "en": "Blood libels",
+   "broader": "top:jewish-persecution",
+   "scope": "עלילות דם ופרשיותיהן: פרשת בייליס ורצח יושצינסקי, עלילת דמשק (1840), פרשת הילזנר ועלילות במזרח.",
+   "related": [
+    "pl:kiev",
+    "pl:damascus",
+    "top:trials"
+   ]
+  },
+  {
+   "id": "top:anti-jewish-restrictions-russia",
+   "he": "הגבלות על יהודים ברוסיה",
+   "en": "Anti-Jewish restrictions in Russia",
+   "broader": "top:jewish-persecution",
+   "scope": "תחום המושב, הגבלות מגורים, מסחר, מקצועות, קניין והשתתפות בבחירות, ומדיניות הממשל הרוסי כלפי היהודים.",
+   "related": [
+    "pl:russian-empire",
+    "pl:kiev"
+   ]
+  },
+  {
+   "id": "top:numerus-clausus",
+   "he": "מכסות יהודים בחינוך (הנורמה האחוזית)",
+   "en": "Numerus clausus for Jews",
+   "broader": "top:anti-jewish-restrictions-russia",
+   "scope": "מכסות אחוזים ליהודים בגימנסיות ובאוניברסיטאות, הדרת סטודנטים ותלמידים יהודים ומאבקים בעניין.",
+   "related": [
+    "pl:russian-empire",
+    "top:students-universities"
+   ]
+  },
+  {
+   "id": "top:expulsions-of-jews",
+   "he": "גירושי יהודים",
+   "en": "Expulsions of Jews",
+   "broader": "top:jewish-persecution",
+   "scope": "גירוש יהודים מערים ומאזורים (קייב, מוסקבה, פרוסיה, רומניה, סלוניקי ועוד) וגירוש נתינים יהודים זרים.",
+   "related": [
+    "pl:russian-empire",
+    "pl:germany",
+    "pl:romania"
+   ]
+  },
+  {
+   "id": "top:antisemitism-politics-press",
+   "he": "אנטישמיות פוליטית ותעמולה אנטישמית",
+   "en": "Political antisemitism and antisemitic propaganda",
+   "broader": "top:jewish-persecution",
+   "scope": "מפלגות ותנועות אנטישמיות, תעמולה ועיתונות אנטישמית, חרם כלכלי על יהודים ואפליה – בגרמניה, אוסטריה, הונגריה, צרפת, יוון, רוסיה ועוד.",
+   "related": [
+    "pl:germany",
+    "pl:austria-hungary",
+    "pl:russian-empire",
+    "top:press-opinion-polemics"
+   ]
+  },
+  {
+   "id": "top:jewish-rights-emancipation",
+   "he": "המאבק לשוויון זכויות ליהודים",
+   "en": "Jewish civil rights and emancipation",
+   "broader": "top:jewish-persecution",
+   "scope": "מאבקים לשוויון זכויות אזרחיות ופוליטיות ליהודים, שאלת היהודים ברומניה וברוסיה, וסכסוך הדרכונים בין רוסיה לארה\"ב.",
+   "related": [
+    "pl:romania",
+    "pl:russian-empire",
+    "pl:united-states"
+   ]
+  },
+  {
+   "id": "top:jewish-communities",
+   "he": "קהילות יהודיות בעולם",
+   "en": "Jewish communities worldwide",
+   "broader": null,
+   "scope": "חיי הקהילות היהודיות, מוסדותיהן, הנהגתן ומצבן החברתי, הכלכלי והפוליטי ברחבי העולם.",
+   "related": []
+  },
+  {
+   "id": "top:sephardi-mizrahi-jewry",
+   "he": "יהדות ספרד וארצות האסלאם",
+   "en": "Sephardi and Mizrahi Jewry",
+   "broader": "top:jewish-communities",
+   "scope": "קהילות ספרדיות ויהודי ארצות האסלאם בכלל (פרס, תימן, מצרים, צפון אפריקה מחוץ למרוקו), המורשת הספרדית ויחס ספרד ליהודים ספרדים.",
+   "related": [
+    "pl:persia",
+    "pl:egypt",
+    "pl:spain",
+    "top:moroccan-jews",
+    "top:salonica-jewry"
+   ]
+  },
+  {
+   "id": "top:moroccan-jews",
+   "he": "יהודי מרוקו",
+   "en": "Moroccan Jews",
+   "broader": "top:jewish-communities",
+   "scope": "מצבם של יהודי מרוקו: חיי המלאח, פרעות ופגיעות ביהודים (קזבלנקה 1907, פאס 1912 ועוד), בתי ספר של אליאנס, מנהגים, זכויות, הגירה וסיוע.",
+   "related": [
+    "pl:morocco",
+    "pl:fez",
+    "pl:casablanca",
+    "top:morocco-question",
+    "top:pogroms",
+    "top:alliance-israelite-schools"
+   ]
+  },
+  {
+   "id": "top:salonica-jewry",
+   "he": "יהודי סלוניקי",
+   "en": "Jews of Salonica",
+   "broader": "top:jewish-communities",
+   "scope": "קהילת סלוניקי: מוסדותיה, כלכלתה, עיתונותה ורבניה, יחסה לטורקים הצעירים, וגורלה תחת השלטון היווני אחרי מלחמות הבלקן.",
+   "related": [
+    "pl:thessaloniki",
+    "top:balkan-wars",
+    "top:young-turk-revolution"
+   ]
+  },
+  {
+   "id": "top:ottoman-jewry",
+   "he": "יהודי האימפריה העות'מאנית",
+   "en": "Ottoman Jewry",
+   "broader": "top:jewish-communities",
+   "scope": "יהודי האימפריה העות'מאנית וקושטא: מעמדם, יחסם לשלטון ולמהפכת הטורקים הצעירים, צירים ופקידים יהודים וגיוס יהודים לצבא העות'מאני.",
+   "related": [
+    "pl:ottoman-empire",
+    "pl:istanbul",
+    "top:ottoman-politics"
+   ]
+  },
+  {
+   "id": "top:syrian-jewry",
+   "he": "יהודי סוריה ודמשק",
+   "en": "Jews of Syria and Damascus",
+   "broader": "top:jewish-communities",
+   "scope": "קהילות דמשק, ביירות ושאר סוריה העות'מאנית: מצבן, התבוללותן ויחסיהן עם השכנים (עלילת דמשק – תחת עלילות דם).",
+   "related": [
+    "pl:damascus",
+    "pl:syria",
+    "top:blood-libels"
+   ]
+  },
+  {
+   "id": "top:chief-rabbinate",
+   "he": "החכם באשי והרבנות הראשית",
+   "en": "Hakham Bashi and chief rabbinates",
+   "broader": "top:jewish-communities",
+   "scope": "מינוי חכמים באשי ורבנים ראשיים (ירושלים, סלוניקי, קושטא, צרפת), בחירות רבנים ומחלוקות על הרבנות.",
+   "related": [
+    "pl:istanbul",
+    "pl:thessaloniki",
+    "pl:ottoman-palestine"
+   ]
+  },
+  {
+   "id": "top:russian-polish-jewry",
+   "he": "חיי הקהילה ביהדות רוסיה ופולין",
+   "en": "Jewish community life in Russia and Poland",
+   "broader": "top:jewish-communities",
+   "scope": "חיי הקהילה היהודית באודסה, ורשה ושאר רוסיה ופולין: מוסדות, מסים, בחירות קהילתיות, עוני ופרנסה וחיי היומיום.",
+   "related": [
+    "pl:russian-empire",
+    "pl:warsaw"
+   ]
+  },
+  {
+   "id": "top:western-jewry",
+   "he": "יהדות מערב ומרכז אירופה",
+   "en": "Jews of Western and Central Europe",
+   "broader": "top:jewish-communities",
+   "scope": "קהילות גרמניה, אוסטריה-הונגריה וגליציה, אנגליה, צרפת, איטליה, הולנד ופורטוגל – מצבן, מוסדותיהן וחייהן.",
+   "related": [
+    "pl:germany",
+    "pl:austria-hungary",
+    "pl:united-kingdom",
+    "pl:france",
+    "pl:italy"
+   ]
+  },
+  {
+   "id": "top:jewish-politics-advocacy",
+   "he": "פוליטיקה ולאומיות יהודית ושתדלנות",
+   "en": "Jewish politics, nationalism and advocacy",
+   "broader": "top:jewish-communities",
+   "scope": "ארגון פוליטי יהודי, לאומיות יהודית בגולה, שתדלנות ודיפלומטיה יהודית, סולידריות יהודית בינלאומית ויהודים בתפקידים ציבוריים.",
+   "related": [
+    "top:zionist-movement",
+    "top:jewish-rights-emancipation"
+   ]
+  },
+  {
+   "id": "top:jewish-philanthropy-relief",
+   "he": "צדקה, סעד ופילנתרופיה יהודית",
+   "en": "Jewish philanthropy and relief",
+   "broader": "top:jewish-communities",
+   "scope": "מוסדות צדקה וסעד, ארגוני עזרה בינלאומיים (הילפספראיין, אליאנס, בני ברית), איסוף תרומות וסיוע לנפגעי פוגרומים, שריפות ומלחמה.",
+   "related": [
+    "top:pogroms",
+    "top:wwi-jews"
+   ]
+  },
+  {
+   "id": "top:jewish-economic-life",
+   "he": "כלכלה ופרנסה של יהודים",
+   "en": "Jewish economic life",
+   "broader": "top:jewish-communities",
+   "scope": "סוחרים, בעלי מלאכה ובנקאים יהודים, מצבם הכלכלי והמקצועי של היהודים, עוני, תחרות כלכלית ויחסי הון ועבודה בקרב יהודים.",
+   "related": [
+    "top:trade-tariffs",
+    "top:antisemitism-politics-press"
+   ]
+  },
+  {
+   "id": "top:jews-in-military",
+   "he": "יהודים בצבא ובשירות הצבאי",
+   "en": "Jews in military service",
+   "broader": "top:jewish-communities",
+   "scope": "גיוס יהודים לצבאות רוסיה, טורקיה ואחרים, גבורת חיילים יהודים, ומוסדות לחיילים יהודים (מלחמת העולם – תחת היהודים במלחמה).",
+   "related": [
+    "top:militarism-conscription",
+    "top:ottoman-military",
+    "top:wwi-jews"
+   ]
+  },
+  {
+   "id": "top:zionism-eretz-israel",
+   "he": "ציונות וארץ ישראל",
+   "en": "Zionism and the Land of Israel",
+   "broader": null,
+   "scope": "התנועה הציונית ויריבותיה, היישוב היהודי בארץ ישראל וענייני ארץ ישראל תחת השלטון העות'מאני.",
+   "related": [
+    "pl:ottoman-palestine"
+   ]
+  },
+  {
+   "id": "top:zionist-movement",
+   "he": "התנועה הציונית ומוסדותיה",
+   "en": "Zionist movement",
+   "broader": "top:zionism-eretz-israel",
+   "scope": "קונגרסים ואסיפות ציוניות, הקרן הקיימת וגיוס כספים, הנהגה ופולמוסים, ציונות מול התבוללות, וציונות בטורקיה ובארצות שונות.",
+   "related": [
+    "top:jewish-politics-advocacy"
+   ]
+  },
+  {
+   "id": "top:territorialism",
+   "he": "טריטוריאליזם",
+   "en": "Jewish territorialism",
+   "broader": "top:zionism-eretz-israel",
+   "scope": "התנועה הטריטוריאליסטית ותוכניות למקלט יהודי מחוץ לארץ ישראל (אנגולה, מושבה בפורטוגל ועוד).",
+   "related": [
+    "top:jewish-agricultural-colonization"
+   ]
+  },
+  {
+   "id": "top:yishuv-settlement",
+   "he": "היישוב וההתיישבות בארץ ישראל",
+   "en": "Jewish settlement in the Land of Israel",
+   "broader": "top:zionism-eretz-israel",
+   "scope": "המושבות, רכישת קרקעות, עבודה ושמירה עברית, פועלים ומתיישבים (כולל יהודי תימן), היישוב הישן והחלוקה, וחינוך ומוסדות בארץ.",
+   "related": [
+    "pl:ottoman-palestine"
+   ]
+  },
+  {
+   "id": "top:ottoman-palestine",
+   "he": "ארץ ישראל תחת השלטון העות'מאני",
+   "en": "Ottoman Palestine",
+   "broader": "top:zionism-eretz-israel",
+   "scope": "ענייני ארץ ישראל וירושלים: מדיניות השלטון העות'מאני כלפי העלייה והציונים, כלכלה, מסחר ותשתיות, מקומות קדושים ונסיעות לארץ.",
+   "related": [
+    "pl:ottoman-palestine",
+    "top:ottoman-politics"
+   ]
+  },
+  {
+   "id": "top:jewish-arab-relations",
+   "he": "יחסי יהודים וערבים",
+   "en": "Jewish–Arab relations",
+   "broader": "top:zionism-eretz-israel",
+   "scope": "יחסי יהודים וערבים בארץ ישראל ובמזרח, יחס העיתונות הערבית ליהודים ולציונות.",
+   "related": [
+    "pl:ottoman-palestine",
+    "top:arab-egyptian-nationalism"
+   ]
+  },
+  {
+   "id": "top:migration",
+   "he": "הגירה ופליטים",
+   "en": "Migration and refugees",
+   "broader": null,
+   "scope": "הגירת יהודים ואחרים, מדיניות הגירה, התיישבות מחוץ לארץ ישראל ופליטים.",
+   "related": [
+    "pl:united-states"
+   ]
+  },
+  {
+   "id": "top:jewish-emigration-americas",
+   "he": "הגירה יהודית לאמריקה ויהדות העולם החדש",
+   "en": "Jewish emigration to the Americas",
+   "broader": "top:migration",
+   "scope": "הגירה יהודית לארצות הברית, קנדה ודרום אמריקה (כולל תוכנית גלווסטון), מצוקת מהגרים בדרך, וחיי היהודים באמריקה.",
+   "related": [
+    "pl:united-states"
+   ]
+  },
+  {
+   "id": "top:jewish-agricultural-colonization",
+   "he": "התיישבות יהודית מחוץ לארץ ישראל",
+   "en": "Jewish agricultural colonization outside Palestine",
+   "broader": "top:migration",
+   "scope": "התיישבות חקלאית יהודית בארגנטינה, באפריקה ובמקומות אחרים, ופעילות יק\"א.",
+   "related": [
+    "top:territorialism"
+   ]
+  },
+  {
+   "id": "top:immigration-restrictions",
+   "he": "מדיניות הגירה והגבלות הגירה",
+   "en": "Immigration policy and restrictions",
+   "broader": "top:migration",
+   "scope": "חוקי הגירה והגבלות כניסה (חוק הזרים באנגליה, הגבלות באמריקה ובארץ ישראל), הגירת יפנים ועמים אחרים.",
+   "related": [
+    "pl:united-kingdom",
+    "pl:united-states"
+   ]
+  },
+  {
+   "id": "top:refugees",
+   "he": "פליטים",
+   "en": "Refugees",
+   "broader": "top:migration",
+   "scope": "פליטי מלחמה ופרעות: פליטים יהודים מטורקיה, מסלוניקי, מקזבלנקה ומרוסיה, ופליטים מוסלמים ויוונים מהבלקן.",
+   "related": [
+    "top:balkan-wars",
+    "top:wwi-home-front"
+   ]
+  },
+  {
+   "id": "top:jewish-religion-culture",
+   "he": "דת, תרבות וחינוך יהודיים",
+   "en": "Jewish religion, culture and education",
+   "broader": null,
+   "scope": "החיים הדתיים, החינוך, השפות, ההיסטוריה והזהות התרבותית של היהודים.",
+   "related": []
+  },
+  {
+   "id": "top:jewish-education",
+   "he": "חינוך יהודי",
+   "en": "Jewish education",
+   "broader": "top:jewish-religion-culture",
+   "scope": "חדרים ומלמדים, בתי ספר וגימנסיות עבריים, טכניון, גני ילדים, ספריות וחברות השכלה, ושאלת שפת ההוראה.",
+   "related": [
+    "top:jewish-languages"
+   ]
+  },
+  {
+   "id": "top:alliance-israelite-schools",
+   "he": "אליאנס (כל ישראל חברים) ובתי הספר שלה",
+   "en": "Alliance Israélite Universelle and its schools",
+   "broader": "top:jewish-education",
+   "scope": "פעילות כל ישראל חברים: רשת בתי הספר במרוקו, בסלוניקי ובמזרח, הסיוע שהגישה, מצבה הכספי ודוחותיה.",
+   "related": [
+    "top:moroccan-jews",
+    "top:salonica-jewry",
+    "pl:morocco"
+   ]
+  },
+  {
+   "id": "top:jewish-religious-life",
+   "he": "חיים דתיים, הלכה ומנהגים",
+   "en": "Jewish religious life and customs",
+   "broader": "top:jewish-religion-culture",
+   "scope": "שבת וחגים, כשרות ושחיטה, סחר האתרוגים, עלייה לרגל לקברי צדיקים, מחלוקות רבניות ושאלות הלכה, ומנהגי עדות.",
+   "related": [
+    "top:chief-rabbinate"
+   ]
+  },
+  {
+   "id": "top:jewish-languages",
+   "he": "שפות יהודיות: עברית, יידיש ולדינו",
+   "en": "Jewish languages",
+   "broader": "top:jewish-religion-culture",
+   "scope": "תחיית העברית והפצתה, מעמד היידיש (כולל במפקדים ובמשפט), הלדינו, ומלחמת השפות.",
+   "related": [
+    "top:jewish-press"
+   ]
+  },
+  {
+   "id": "top:jewish-history-memory",
+   "he": "היסטוריה וזיכרון יהודיים",
+   "en": "Jewish history and memory",
+   "broader": "top:jewish-religion-culture",
+   "scope": "תקופת בית שני והחשמונאים, גירוש ספרד והאינקוויזיציה, אנוסים, דמויות עבר (מונטיפיורי) ומרטירולוגיה יהודית.",
+   "related": []
+  },
+  {
+   "id": "top:assimilation-conversion",
+   "he": "התבוללות והמרת דת",
+   "en": "Assimilation and conversion",
+   "broader": "top:jewish-religion-culture",
+   "scope": "התבוללות יהודים בסביבה האירופית והערבית, המרות דת (כולל של ילדים), נישואי תערובת וניתוק מהדת.",
+   "related": []
+  },
+  {
+   "id": "top:morocco-question",
+   "he": "שאלת מרוקו והמשברים המרוקאיים",
+   "en": "Moroccan question",
+   "broader": null,
+   "scope": "המאבק הבינלאומי על מרוקו 1905–1912 והשתלטות צרפת וספרד עליה, על היבטיו הצבאיים, המדיניים, הכלכליים והפנימיים.",
+   "related": [
+    "pl:morocco",
+    "pl:france",
+    "pl:germany",
+    "pl:spain"
+   ]
+  },
+  {
+   "id": "top:france-in-morocco",
+   "he": "צרפת במרוקו: התערבות, כיבוש וחסות",
+   "en": "French conquest of Morocco",
+   "broader": "top:morocco-question",
+   "scope": "כל מעורבותה הישירה של צרפת במרוקו: ההתערבות הצבאית (אוג'דה, קזבלנקה, המסע לפאס), הדיפלומטיה הצרפתית מול הסולטאן, והקמת הפרוטקטורט בהסכם פאס (1912).",
+   "related": [
+    "pl:france",
+    "pl:morocco"
+   ]
+  },
+  {
+   "id": "top:french-intervention-morocco",
+   "he": "ההתערבות הצבאית הצרפתית במרוקו",
+   "en": "French military intervention in Morocco",
+   "broader": "top:france-in-morocco",
+   "scope": "פעולות צבאיות צרפתיות וכיבוש מרוקו: כיבוש אוג'דה, הפגזת קזבלנקה ומסע השאוויה, קרבות בגבול אלג'יריה, מסע פאס 1911 והקרבות שאחריו.",
+   "related": [
+    "pl:france",
+    "pl:morocco",
+    "pl:casablanca",
+    "pl:fez",
+    "pl:algeria",
+    "top:french-colonial-empire"
+   ]
+  },
+  {
+   "id": "top:french-protectorate-morocco",
+   "he": "הפרוטקטורט הצרפתי במרוקו",
+   "en": "French protectorate in Morocco",
+   "broader": "top:france-in-morocco",
+   "scope": "הסכם פאס והשלטון הצרפתי במרוקו מ-1912: ארגון הפרוטקטורט, ליוטה, המהומות בפאס והמרד נגד הצרפתים, ורפורמות צרפתיות.",
+   "related": [
+    "pl:france",
+    "pl:morocco",
+    "pl:fez",
+    "top:french-colonial-empire"
+   ]
+  },
+  {
+   "id": "top:franco-german-rivalry-morocco",
+   "he": "היריבות הצרפתית-גרמנית על מרוקו",
+   "en": "Franco-German rivalry over Morocco",
+   "broader": "top:morocco-question",
+   "scope": "המשבר המרוקאי הראשון והשני, ביקור הקייזר בטנג'יר, משבר אגאדיר, סכנת המלחמה והמשא ומתן וההסכמים הצרפתיים-גרמניים בעניין מרוקו וקונגו.",
+   "related": [
+    "pl:france",
+    "pl:germany",
+    "pl:agadir",
+    "pl:tangier",
+    "top:franco-german-relations"
+   ]
+  },
+  {
+   "id": "top:spanish-intervention-morocco",
+   "he": "ההתערבות הספרדית והיריבות הצרפתית-ספרדית במרוקו",
+   "en": "Spanish intervention and Franco-Spanish rivalry in Morocco",
+   "broader": "top:morocco-question",
+   "scope": "מלחמת מלייה והרי הריף, הכיבוש הספרדי בלאראש ובאלקסאר, הסכסוך וההסכמים בין צרפת לספרד על מרוקו, וההתנגדות בספרד למלחמה.",
+   "related": [
+    "pl:spain",
+    "pl:france",
+    "pl:morocco",
+    "top:iberian-politics"
+   ]
+  },
+  {
+   "id": "top:morocco-international-diplomacy",
+   "he": "ועידות, הסכמים ורפורמות בינלאומיות במרוקו",
+   "en": "International conferences and reforms in Morocco",
+   "broader": "top:morocco-question",
+   "scope": "ועידת אלחסיראס והסכמיה, רפורמת המשטרה, הבנק הממלכתי ועקרון הדלת הפתוחה, ומעורבות בריטניה, רוסיה, איטליה וארה\"ב בשאלת מרוקו.",
+   "related": [
+    "pl:spain",
+    "pl:united-kingdom",
+    "pl:russian-empire",
+    "top:alliances-ententes"
+   ]
+  },
+  {
+   "id": "top:moroccan-internal-politics",
+   "he": "השלטון במרוקו ומאבקי הסולטנות",
+   "en": "Moroccan government and succession struggles",
+   "broader": "top:morocco-question",
+   "scope": "הסולטאנים עבד אל-עזיז, עבד אל-חפיט ויוסף, החפיטיה ומאבקי הירושה, החצר והמִחזן, התפטרות הסולטאן והשלטון המרוקאי.",
+   "related": [
+    "pl:morocco",
+    "pl:fez",
+    "pl:marrakesh"
+   ]
+  },
+  {
+   "id": "top:moroccan-tribal-revolts",
+   "he": "מרידות שבטים וג'יהאד במרוקו",
+   "en": "Tribal revolts and jihad in Morocco",
+   "broader": "top:morocco-question",
+   "scope": "מרידות שבטים נגד הסולטאן ונגד האירופים, מצור המורדים על פאס, רייסולי, קריאות לג'יהאד, מרד חיילים ואי-שקט ואנרכיה במרוקו.",
+   "related": [
+    "pl:morocco",
+    "pl:fez",
+    "top:pan-islamism"
+   ]
+  },
+  {
+   "id": "top:european-economic-interests-morocco",
+   "he": "אינטרסים כלכליים אירופיים במרוקו",
+   "en": "European economic interests in Morocco",
+   "broader": "top:morocco-question",
+   "scope": "הלוואות וחובות מרוקו לבנקאים אירופיים, סחר חוץ, זיכיונות, סחר נשק, נמלים והתחרות הכלכלית בין המעצמות במרוקו.",
+   "related": [
+    "pl:france",
+    "pl:germany",
+    "top:finance-banking"
+   ]
+  },
+  {
+   "id": "top:ottoman-empire",
+   "he": "האימפריה העות'מאנית והטורקים הצעירים",
+   "en": "Ottoman Empire and the Young Turks",
+   "broader": null,
+   "scope": "הפוליטיקה הפנימית, החברה, הצבא והפרובינציות של האימפריה העות'מאנית ויחסיה עם המעצמות.",
+   "related": [
+    "pl:ottoman-empire",
+    "pl:istanbul"
+   ]
+  },
+  {
+   "id": "top:young-turk-revolution",
+   "he": "מהפכת הטורקים הצעירים והמשטר החוקתי",
+   "en": "Young Turk Revolution and constitutional regime",
+   "broader": "top:ottoman-empire",
+   "scope": "מהפכת 1908 והשבת החוקה, ועד 'איחוד וקידמה', ההפיכה הנגדית של 1909, צבא הפעולה והדחת עבדול חמיד, ורפורמות הטורקים הצעירים.",
+   "related": [
+    "pl:thessaloniki",
+    "pl:istanbul",
+    "top:salonica-jewry"
+   ]
+  },
+  {
+   "id": "top:ottoman-politics",
+   "he": "הפוליטיקה העות'מאנית: פרלמנט, ממשלה וסולטנות",
+   "en": "Ottoman politics: parliament, government and sultanate",
+   "broader": "top:ottoman-empire",
+   "scope": "הפרלמנט והבחירות לו, משברי ממשלה, מפלגות ואופוזיציה, הסולטאנים עבדול חמיד ומחמד החמישי, הפיכת 1913 וחקיקה עות'מאנית.",
+   "related": [
+    "pl:istanbul"
+   ]
+  },
+  {
+   "id": "top:ottoman-military",
+   "he": "הצבא העות'מאני והגיוס",
+   "en": "Ottoman military and conscription",
+   "broader": "top:ottoman-empire",
+   "scope": "ארגון הצבא והצי העות'מאני, גיוס (כולל של לא-מוסלמים), משמעת ותבוסות, ההשפעה הצבאית הגרמנית ותפקיד הצבא בפוליטיקה.",
+   "related": [
+    "top:jews-in-military"
+   ]
+  },
+  {
+   "id": "top:albanian-question",
+   "he": "המרידות האלבניות והשאלה האלבנית",
+   "en": "Albanian revolts and the Albanian question",
+   "broader": "top:ottoman-empire",
+   "scope": "מרידות האלבנים בשלטון העות'מאני (1910–1912), דיכוין ותוצאותיהן, עצמאות אלבניה, וחוסר היציבות באלבניה אחריה.",
+   "related": [
+    "pl:albania",
+    "pl:montenegro",
+    "top:balkan-wars"
+   ]
+  },
+  {
+   "id": "top:arab-provinces-revolts",
+   "he": "מרידות ואי-שקט בפרובינציות הערביות",
+   "en": "Revolts in the Arab provinces",
+   "broader": "top:ottoman-empire",
+   "scope": "המרד בתימן ובעסיר, מרד הדרוזים בחוראן, אי-שקט בסוריה, בעיראק ובחצי האי ערב, ויחס השלטון העות'מאני לערבים.",
+   "related": [
+    "pl:syria",
+    "pl:damascus",
+    "top:arab-egyptian-nationalism"
+   ]
+  },
+  {
+   "id": "top:armenian-question",
+   "he": "השאלה הארמנית ואלימות נגד נוצרים",
+   "en": "Armenian question and anti-Christian violence",
+   "broader": "top:ottoman-empire",
+   "scope": "טבח אדנה, מתיחות ואלימות בין מוסלמים, כורדים וארמנים, ואלימות נגד נוצרים ויוונים באסיה הקטנה.",
+   "related": []
+  },
+  {
+   "id": "top:ottoman-nationalities",
+   "he": "יחסי לאומים ודתות באימפריה העות'מאנית",
+   "en": "Nationalities and religions in the Ottoman Empire",
+   "broader": "top:ottoman-empire",
+   "scope": "רעיון העות'מאניות ואחוות העמים, זכויות לאומיות, יוונים ובולגרים באימפריה, ולאומיות טורקית מול דת.",
+   "related": [
+    "top:interreligious-relations-orient"
+   ]
+  },
+  {
+   "id": "top:ottoman-foreign-relations",
+   "he": "יחסי החוץ של האימפריה העות'מאנית והתערבות המעצמות",
+   "en": "Ottoman foreign relations and great-power intervention",
+   "broader": "top:ottoman-empire",
+   "scope": "יחסי טורקיה עם המעצמות ועם שכנותיה (פרס, יוון, רוסיה, בולגריה), הקפיטולציות, השקעות זרות, סכסוכי גבול וחרמות כלכליים.",
+   "related": [
+    "pl:persia",
+    "pl:greece",
+    "pl:russian-empire",
+    "top:great-power-diplomacy"
+   ]
+  },
+  {
+   "id": "top:balkans-eastern-question",
+   "he": "הבלקן והשאלה המזרחית",
+   "en": "The Balkans and the Eastern question",
+   "broader": null,
+   "scope": "המאבק על השטחים האירופיים של האימפריה העות'מאנית, מדינות הבלקן, מלחמות הבלקן ושאלת המיצרים.",
+   "related": [
+    "pl:balkans"
+   ]
+  },
+  {
+   "id": "top:macedonian-question",
+   "he": "השאלה המקדונית",
+   "en": "Macedonian question",
+   "broader": "top:balkans-eastern-question",
+   "scope": "מקדוניה: רפורמות, אוטונומיה, כנופיות וטרור, סכסוכים לאומיים בין בולגרים, יוונים וסרבים ואי-שקט צבאי.",
+   "related": [
+    "pl:macedonia",
+    "pl:thessaloniki",
+    "pl:bulgaria",
+    "pl:greece",
+    "pl:serbia"
+   ]
+  },
+  {
+   "id": "top:cretan-question",
+   "he": "שאלת כרתים",
+   "en": "Cretan question",
+   "broader": "top:balkans-eastern-question",
+   "scope": "מעמד כרתים, תנועת האיחוד עם יוון, משבר שבועת הצירים והסכסוך הטורקי-יווני על האי.",
+   "related": [
+    "pl:crete",
+    "pl:greece"
+   ]
+  },
+  {
+   "id": "top:straits-question",
+   "he": "שאלת המיצרים והדרדנלים",
+   "en": "Straits question",
+   "broader": "top:balkans-eastern-question",
+   "scope": "מעמד הבוספורוס והדרדנלים, סגירתם ופתיחתם והשפעתם על הסחר והספנות, ותביעות רוסיה במיצרים.",
+   "related": [
+    "pl:istanbul",
+    "pl:russian-empire",
+    "top:railways-shipping"
+   ]
+  },
+  {
+   "id": "top:austria-hungary-balkans",
+   "he": "מדיניות אוסטרו-הונגריה בבלקן ומשבר בוסניה",
+   "en": "Austro-Hungarian Balkan policy and the Bosnian crisis",
+   "broader": "top:balkans-eastern-question",
+   "scope": "סיפוח בוסניה-הרצגובינה והחרם העות'מאני על אוסטריה, המתיחות האוסטרית-סרבית, והיריבות האוסטרית-רוסית בבלקן.",
+   "related": [
+    "pl:austria-hungary",
+    "pl:serbia",
+    "pl:russian-empire"
+   ]
+  },
+  {
+   "id": "top:balkan-wars",
+   "he": "מלחמות הבלקן",
+   "en": "Balkan Wars",
+   "broader": "top:balkans-eastern-question",
+   "scope": "הברית הבלקנית, מלחמת הבלקן הראשונה והשנייה, המצורים, משא ומתן השלום וחלוקת השטחים, וגורל סלוניקי ואלבניה.",
+   "related": [
+    "pl:bulgaria",
+    "pl:serbia",
+    "pl:greece",
+    "pl:montenegro",
+    "pl:thessaloniki",
+    "top:salonica-jewry"
+   ]
+  },
+  {
+   "id": "top:balkan-states-politics",
+   "he": "פוליטיקה ויחסים בין מדינות הבלקן",
+   "en": "Politics of the Balkan states",
+   "broader": "top:balkans-eastern-question",
+   "scope": "הפוליטיקה הפנימית של יוון, בולגריה, סרביה, רומניה ומונטנגרו, עצמאות בולגריה, רצח המלך גאורגיוס והמתיחות בין מדינות הבלקן.",
+   "related": [
+    "pl:greece",
+    "pl:bulgaria",
+    "pl:serbia",
+    "pl:romania",
+    "pl:montenegro"
+   ]
+  },
+  {
+   "id": "top:italo-turkish-war",
+   "he": "המלחמה האיטלקית-טורקית",
+   "en": "Italo-Turkish War",
+   "broader": null,
+   "scope": "מלחמת איטליה והאימפריה העות'מאנית על טריפוליטניה וקירנאיקה (1911–1912), על חזיתותיה, השלכותיה והדיפלומטיה שסביבה.",
+   "related": [
+    "pl:italy",
+    "pl:ottoman-empire",
+    "pl:libya",
+    "pl:tripolitania"
+   ]
+  },
+  {
+   "id": "top:libya-campaign",
+   "he": "הלחימה בטריפולי ובקירנאיקה",
+   "en": "Fighting in Tripolitania and Cyrenaica",
+   "broader": "top:italo-turkish-war",
+   "scope": "הנחיתה האיטלקית, הקרבות והאלימות נגד האוכלוסייה בלוב, וסיפוח טריפולי וקירנאיקה.",
+   "related": [
+    "pl:libya",
+    "pl:tripolitania"
+   ]
+  },
+  {
+   "id": "top:italo-turkish-naval-war",
+   "he": "המלחמה הימית בים האגאי ובדרדנלים",
+   "en": "Naval war in the Aegean and the Dardanelles",
+   "broader": "top:italo-turkish-war",
+   "scope": "פעולות הצי האיטלקי: הפגזת בירות ונמלים, הדרדנלים, חיוס ואיי הדודקאנס.",
+   "related": [
+    "top:straits-question"
+   ]
+  },
+  {
+   "id": "top:italo-turkish-war-diplomacy",
+   "he": "הדיפלומטיה של המלחמה האיטלקית-טורקית",
+   "en": "Diplomacy of the Italo-Turkish War",
+   "broader": "top:italo-turkish-war",
+   "scope": "עמדות המעצמות, החרם הטורקי על איטליה, משא ומתן השלום והסכם אושי.",
+   "related": [
+    "top:great-power-diplomacy"
+   ]
+  },
+  {
+   "id": "top:russian-politics",
+   "he": "פוליטיקה רוסית ומהפכה",
+   "en": "Russian politics and revolution",
+   "broader": null,
+   "scope": "הפוליטיקה הפנימית של האימפריה הרוסית: מהפכה, דומה, ממשל, דיכוי ושאלת הלאומים.",
+   "related": [
+    "pl:russian-empire",
+    "pl:saint-petersburg"
+   ]
+  },
+  {
+   "id": "top:russian-revolution-1905",
+   "he": "מהפכת 1905",
+   "en": "Russian Revolution of 1905",
+   "broader": "top:russian-politics",
+   "scope": "יום ראשון העקוב מדם, השביתות וההפגנות, מרידות (פוטיומקין, מוסקבה, סבסטופול), מניפסט אוקטובר והאלימות המהפכנית של 1905–1907.",
+   "related": [
+    "pl:saint-petersburg"
+   ]
+  },
+  {
+   "id": "top:state-duma",
+   "he": "הדומה הממלכתית והבחירות לה",
+   "en": "State Duma and elections",
+   "broader": "top:russian-politics",
+   "scope": "הבחירות לדומה, מפלגות (קדטים, ימין), דיוני הדומה, פיזורה, צירים יהודים ושאלת היהודים בדומה.",
+   "related": [
+    "top:jewish-rights-emancipation"
+   ]
+  },
+  {
+   "id": "top:russian-reaction-repression",
+   "he": "ריאקציה ודיכוי פוליטי ברוסיה",
+   "en": "Reaction and political repression in Russia",
+   "broader": "top:russian-politics",
+   "scope": "הריאקציה אחרי 1905: מעצרים פוליטיים, בתי דין צבאיים, אוחרנה ופרובוקציה, רדיפת מהפכנים ואסירים פוליטיים, ושרירות הממשל המקומי.",
+   "related": [
+    "top:death-penalty-punishment",
+    "top:press-censorship"
+   ]
+  },
+  {
+   "id": "top:russian-government",
+   "he": "הממשל, המינהל והכספים ברוסיה",
+   "en": "Russian government, administration and finances",
+   "broader": "top:russian-politics",
+   "scope": "הצאר והחצר, ממשלות ושרים (סטוליפין, ויטה), מינויים, תקציב וכספים, מדיניות חינוך ומדיניות פנים.",
+   "related": [
+    "top:finance-banking"
+   ]
+  },
+  {
+   "id": "top:russian-nationalities",
+   "he": "שאלת הלאומים באימפריה הרוסית",
+   "en": "Nationalities question in the Russian Empire",
+   "broader": "top:russian-politics",
+   "scope": "רוסיפיקציה ודיכוי פינלנד, שאלת פולין והשלטון העצמי בה, הקווקז ומיעוטים לאומיים אחרים.",
+   "related": [
+    "pl:warsaw"
+   ]
+  },
+  {
+   "id": "top:russian-revolution-1917",
+   "he": "מהפכות 1917",
+   "en": "Russian Revolutions of 1917",
+   "broader": "top:russian-politics",
+   "scope": "מהפכת פברואר, הממשלה הזמנית, הבחירות לאסיפה המכוננת, מהפכת אוקטובר ותגובת בעלות הברית לשלטון הבולשביקי.",
+   "related": [
+    "top:wwi"
+   ]
+  },
+  {
+   "id": "top:russian-foreign-policy",
+   "he": "מדיניות החוץ של רוסיה",
+   "en": "Russian foreign policy",
+   "broader": "top:russian-politics",
+   "scope": "מדיניות החוץ הרוסית באסיה, במזרח התיכון ובאירופה, יחסי רוסיה עם סין, טורקיה וארה\"ב ומשלחות דיפלומטיות.",
+   "related": [
+    "top:great-power-diplomacy",
+    "top:foreign-intervention-persia"
+   ]
+  },
+  {
+   "id": "top:wwi",
+   "he": "מלחמת העולם הראשונה",
+   "en": "World War I",
+   "broader": null,
+   "scope": "מלחמת העולם הראשונה 1914–1918: פרוצה, החזיתות, הדיפלומטיה, העורף והשלכותיה על היהודים; סקירות מלחמה כלליות.",
+   "related": []
+  },
+  {
+   "id": "top:wwi-outbreak-diplomacy",
+   "he": "פרוץ המלחמה, דיפלומטיה ונייטרליות",
+   "en": "Outbreak, diplomacy and neutrality in WWI",
+   "broader": "top:wwi",
+   "scope": "משבר יולי ופרוץ המלחמה, נייטרליות והצטרפות מדינות (טורקיה, בולגריה, רומניה, יוון, ארה\"ב), שיחות שלום ושלום נפרד.",
+   "related": [
+    "pl:bulgaria",
+    "pl:romania",
+    "pl:greece",
+    "top:great-power-diplomacy"
+   ]
+  },
+  {
+   "id": "top:wwi-eastern-front",
+   "he": "החזית המזרחית",
+   "en": "Eastern Front",
+   "broader": "top:wwi",
+   "scope": "הקרבות בין רוסיה לגרמניה ואוסטרו-הונגריה בפולין, גליציה ובוקובינה, כולל כיבוש לודז' וצ'רנוביץ.",
+   "related": [
+    "pl:russian-empire",
+    "pl:germany",
+    "pl:austria-hungary"
+   ]
+  },
+  {
+   "id": "top:wwi-balkan-fronts",
+   "he": "חזיתות הבלקן, סלוניקי ורומניה",
+   "en": "Balkan, Salonica and Romanian fronts",
+   "broader": "top:wwi",
+   "scope": "החזית הסרבית, חזית סלוניקי (המקדונית), החזית הרומנית, והפילוג הלאומי ביוון.",
+   "related": [
+    "pl:thessaloniki",
+    "pl:serbia",
+    "pl:romania",
+    "pl:greece"
+   ]
+  },
+  {
+   "id": "top:wwi-ottoman-fronts",
+   "he": "החזיתות העות'מאניות",
+   "en": "Ottoman fronts of WWI",
+   "broader": "top:wwi",
+   "scope": "החזית הקווקזית, מערכת גליפולי והדרדנלים, ההתקפה על תעלת סואץ ומצרים, וארץ ישראל וסוריה במלחמה.",
+   "related": [
+    "pl:ottoman-empire",
+    "pl:egypt",
+    "pl:ottoman-palestine"
+   ]
+  },
+  {
+   "id": "top:wwi-western-italian-fronts",
+   "he": "החזית המערבית והחזית האיטלקית",
+   "en": "Western and Italian fronts",
+   "broader": "top:wwi",
+   "scope": "הקרבות בצרפת ובבלגיה ובחזית האיטלקית-אוסטרית.",
+   "related": [
+    "pl:france",
+    "pl:italy"
+   ]
+  },
+  {
+   "id": "top:wwi-naval-air-war",
+   "he": "המלחמה בים ובאוויר",
+   "en": "Naval and air war in WWI",
+   "broader": "top:wwi",
+   "scope": "מלחמת הצוללות, ההסגר הימי, המוקשים, קרבות ימיים והתקפות אוויריות.",
+   "related": [
+    "pl:united-kingdom",
+    "pl:germany"
+   ]
+  },
+  {
+   "id": "top:wwi-home-front",
+   "he": "העורף, השבויים והסיוע במלחמה",
+   "en": "Home front, prisoners and war relief",
+   "broader": "top:wwi",
+   "scope": "החיים בעורף (כולל אודסה), כלכלה ומחסור, גיוס, פצועים ושבויי מלחמה, וסיוע לחיילים ולמשפחותיהם.",
+   "related": [
+    "top:refugees"
+   ]
+  },
+  {
+   "id": "top:wwi-jews",
+   "he": "היהודים במלחמת העולם הראשונה",
+   "en": "Jews in World War I",
+   "broader": "top:wwi",
+   "scope": "השפעת המלחמה על היהודים: פליטים ומגורשים, חיילים יהודים והגדוד העברי, רדיפת היישוב בארץ ישראל, ויחס המדינות הלוחמות ליהודים.",
+   "related": [
+    "top:jewish-philanthropy-relief",
+    "top:yishuv-settlement"
+   ]
+  },
+  {
+   "id": "top:great-power-diplomacy",
+   "he": "דיפלומטיה של המעצמות ובריתות",
+   "en": "Great-power diplomacy and alliances",
+   "broader": null,
+   "scope": "היחסים בין המעצמות האירופיות, בריתות, יריבויות, משברים בינלאומיים ומאמצי שלום (לפני 1914).",
+   "related": []
+  },
+  {
+   "id": "top:alliances-ententes",
+   "he": "בריתות והסכמים בין המעצמות",
+   "en": "Alliances and ententes",
+   "broader": "top:great-power-diplomacy",
+   "scope": "הברית המשולשת וההסכמה המשולשת, ההסכמה הלבבית, הברית הצרפתית-רוסית, ההסכם האנגלו-רוסי, הברית האנגלו-יפנית ומאזן הכוחות.",
+   "related": [
+    "pl:france",
+    "pl:united-kingdom",
+    "pl:russian-empire",
+    "pl:germany"
+   ]
+  },
+  {
+   "id": "top:franco-german-relations",
+   "he": "יחסי צרפת וגרמניה",
+   "en": "Franco-German relations",
+   "broader": "top:great-power-diplomacy",
+   "scope": "היחסים והמתיחות בין צרפת לגרמניה מעבר לשאלת מרוקו: אלזס-לורין, זיכרון מלחמת 1870, פטריוטיזם וסכנת מלחמה ביניהן.",
+   "related": [
+    "pl:france",
+    "pl:germany",
+    "top:franco-german-rivalry-morocco"
+   ]
+  },
+  {
+   "id": "top:anglo-german-rivalry",
+   "he": "היריבות האנגלו-גרמנית ומירוץ החימוש הימי",
+   "en": "Anglo-German rivalry and naval race",
+   "broader": "top:great-power-diplomacy",
+   "scope": "היחסים בין בריטניה לגרמניה, מירוץ החימוש הימי, כוח ימי מול כוח יבשתי.",
+   "related": [
+    "pl:united-kingdom",
+    "pl:germany"
+   ]
+  },
+  {
+   "id": "top:war-scares",
+   "he": "סכנת מלחמה ומשברים בינלאומיים",
+   "en": "War scares and international crises",
+   "broader": "top:great-power-diplomacy",
+   "scope": "חשש ממלחמה אירופית כללית, שמועות מלחמה, פאניקה בבורסות ומתיחות בינלאומית כללית.",
+   "related": [
+    "top:finance-banking"
+   ]
+  },
+  {
+   "id": "top:royal-visits-summits",
+   "he": "ביקורי מלכים ופגישות פסגה",
+   "en": "Royal visits and summits",
+   "broader": "top:great-power-diplomacy",
+   "scope": "ביקורי מלכים, קיסרים ונשיאים זה אצל זה, פגישות פסגה ומשמעותן המדינית.",
+   "related": []
+  },
+  {
+   "id": "top:peace-movement-arbitration",
+   "he": "תנועת השלום, ועידות האג ובוררות",
+   "en": "Peace movement and arbitration",
+   "broader": "top:great-power-diplomacy",
+   "scope": "ועידות השלום בהאג, הגבלת חימוש, הסכמי בוררות, תנועת השלום ופרס נובל לשלום.",
+   "related": [
+    "top:socialism"
+   ]
+  },
+  {
+   "id": "top:persia-asia",
+   "he": "פרס, אסיה והמזרח הרחוק",
+   "en": "Persia, Asia and the Far East",
+   "broader": null,
+   "scope": "אירועים ומדיניות בפרס, בסין, ביפן ובקוריאה, כולל המלחמה הרוסית-יפנית.",
+   "related": [
+    "pl:persia",
+    "pl:china",
+    "pl:japan"
+   ]
+  },
+  {
+   "id": "top:russo-japanese-war",
+   "he": "המלחמה הרוסית-יפנית",
+   "en": "Russo-Japanese War",
+   "broader": "top:persia-asia",
+   "scope": "המלחמה בין רוסיה ליפן 1904–1905: הקרבות, תנועות הצי הרוסי, מימון המלחמה, שיחות השלום בפורטסמות והשלכותיה.",
+   "related": [
+    "pl:russian-empire",
+    "pl:japan"
+   ]
+  },
+  {
+   "id": "top:persian-revolution",
+   "he": "המהפכה החוקתית בפרס",
+   "en": "Persian Constitutional Revolution",
+   "broader": "top:persia-asia",
+   "scope": "המהפכה החוקתית, המאבק בשאה מוחמד עלי, המצור על תבריז, משברי ממשל ואי-שקט, ומצב יהודי פרס בעקבותיה.",
+   "related": [
+    "pl:persia"
+   ]
+  },
+  {
+   "id": "top:foreign-intervention-persia",
+   "he": "התערבות המעצמות בפרס",
+   "en": "Great-power intervention in Persia",
+   "broader": "top:persia-asia",
+   "scope": "ההתערבות הרוסית והבריטית בפרס, ההסכם האנגלו-רוסי ואזורי ההשפעה, ההסכם הרוסי-גרמני, הלוואות וסכסוכי הגבול הטורקי-פרסי.",
+   "related": [
+    "pl:persia",
+    "pl:russian-empire",
+    "pl:united-kingdom",
+    "top:ottoman-foreign-relations"
+   ]
+  },
+  {
+   "id": "top:china",
+   "he": "סין והמהפכה הסינית",
+   "en": "China and the Chinese Revolution",
+   "broader": "top:persia-asia",
+   "scope": "המהפכה הסינית והרפובליקה, אי-שקט בסין, התערבות המעצמות, הלוואות, והסכסוכים עם רוסיה ויפן.",
+   "related": [
+    "pl:china"
+   ]
+  },
+  {
+   "id": "top:japan-korea",
+   "he": "יפן, קוריאה והתפשטות יפן",
+   "en": "Japan, Korea and Japanese expansion",
+   "broader": "top:persia-asia",
+   "scope": "כיבוש קוריאה וסיפוחה, יחסי יפן עם ארה\"ב וסין, והפוליטיקה היפנית.",
+   "related": [
+    "pl:japan",
+    "pl:united-states"
+   ]
+  },
+  {
+   "id": "top:domestic-politics",
+   "he": "פוליטיקה פנימית במדינות אירופה ואמריקה",
+   "en": "Domestic politics of European and American states",
+   "broader": null,
+   "scope": "הפוליטיקה הפנימית של המדינות (פרלמנטים, ממשלות, בחירות, חוקות, חצרות מלוכה); רוסיה, האימפריה העות'מאנית ומדינות הבלקן – תחת נושאיהן.",
+   "related": []
+  },
+  {
+   "id": "top:french-domestic-politics",
+   "he": "פוליטיקה פנימית בצרפת",
+   "en": "French domestic politics",
+   "broader": "top:domestic-politics",
+   "scope": "ממשלות ומשברי ממשלה בצרפת, הפרלמנט והבחירות, רפורמת הבחירות, הצבא והפוליטיקה, שערוריות ודעת הקהל הצרפתית (כולל ויכוחי מרוקו בפרלמנט).",
+   "related": [
+    "pl:france",
+    "top:morocco-question"
+   ]
+  },
+  {
+   "id": "top:church-state-france",
+   "he": "הפרדת הדת והמדינה בצרפת",
+   "en": "Separation of church and state in France",
+   "broader": "top:french-domestic-politics",
+   "scope": "חוק ההפרדה של 1905, הסכסוך עם הוותיקן, הקתולים בצרפת ופנסיות לאנשי דת.",
+   "related": [
+    "pl:france"
+   ]
+  },
+  {
+   "id": "top:german-domestic-politics",
+   "he": "פוליטיקה פנימית בגרמניה",
+   "en": "German domestic politics",
+   "broader": "top:domestic-politics",
+   "scope": "הקייזר והחצר, הרייכסטאג והבחירות לו, זכות הבחירה בפרוסיה, אלזס-לורין, מדיניות כלפי הפולנים והדיכוי המשטרתי.",
+   "related": [
+    "pl:germany"
+   ]
+  },
+  {
+   "id": "top:british-domestic-politics",
+   "he": "פוליטיקה פנימית בבריטניה",
+   "en": "British domestic politics",
+   "broader": "top:domestic-politics",
+   "scope": "הממשלה והפרלמנט הבריטיים, הבחירות, משבר התקציב ובית הלורדים, אירלנד ורפורמת הבחירות.",
+   "related": [
+    "pl:united-kingdom"
+   ]
+  },
+  {
+   "id": "top:austro-hungarian-domestic-politics",
+   "he": "פוליטיקה פנימית באוסטרו-הונגריה",
+   "en": "Austro-Hungarian domestic politics",
+   "broader": "top:domestic-politics",
+   "scope": "הפרלמנט האוסטרי והבחירות, זכות הבחירה הכללית, המשבר ההונגרי, משברי שרים ומתיחות בין הלאומים בקיסרות.",
+   "related": [
+    "pl:austria-hungary"
+   ]
+  },
+  {
+   "id": "top:italian-domestic-politics",
+   "he": "פוליטיקה פנימית באיטליה",
+   "en": "Italian domestic politics",
+   "broader": "top:domestic-politics",
+   "scope": "ממשלות ומשברים באיטליה, תסיסה אנטי-קלריקלית ומהומות.",
+   "related": [
+    "pl:italy"
+   ]
+  },
+  {
+   "id": "top:iberian-politics",
+   "he": "פוליטיקה בספרד ובפורטוגל",
+   "en": "Spanish and Portuguese politics",
+   "broader": "top:domestic-politics",
+   "scope": "משברי ממשלה ומהומות בספרד, רצח מלך פורטוגל, המהפכה הפורטוגלית והרפובליקה וקשרים מלוכניים נגדה.",
+   "related": [
+    "pl:spain"
+   ]
+  },
+  {
+   "id": "top:smaller-european-states",
+   "he": "פוליטיקה במדינות אירופה הקטנות",
+   "en": "Politics of smaller European states",
+   "broader": "top:domestic-politics",
+   "scope": "פירוק האיחוד בין נורווגיה לשוודיה, הפוליטיקה בשוודיה, בהולנד, בבלגיה, בדנמרק ובשווייץ.",
+   "related": []
+  },
+  {
+   "id": "top:americas-politics",
+   "he": "פוליטיקה ביבשת אמריקה",
+   "en": "Politics in the Americas",
+   "broader": "top:domestic-politics",
+   "scope": "הפוליטיקה בארצות הברית (בחירות, מדיניות אנטי-טראסט), המהפכה במקסיקו ואירועים באמריקה הלטינית.",
+   "related": [
+    "pl:united-states"
+   ]
+  },
+  {
+   "id": "top:catholic-church-papacy",
+   "he": "האפיפיורות והכנסייה הקתולית",
+   "en": "Papacy and the Catholic Church",
+   "broader": "top:domestic-politics",
+   "scope": "האפיפיור והוותיקן, הישועים והכנסייה הקתולית ויחסיהן עם המדינות.",
+   "related": [
+    "pl:italy",
+    "top:church-state-france"
+   ]
+  },
+  {
+   "id": "top:colonialism",
+   "he": "קולוניאליזם ואימפריאליזם",
+   "en": "Colonialism and imperialism",
+   "broader": null,
+   "scope": "ההתפשטות הקולוניאלית של המעצמות, התחרות ביניהן, השלטון במושבות והביקורת עליו (מרוקו – תחת שאלת מרוקו).",
+   "related": []
+  },
+  {
+   "id": "top:colonial-rivalry",
+   "he": "התחרות הקולוניאלית בין המעצמות",
+   "en": "Colonial rivalry among the powers",
+   "broader": "top:colonialism",
+   "scope": "חלוקת אפריקה והעולם בין המעצמות, פיצויים קולוניאליים (קונגו), חלוקת 'ירושת' העולם המוסלמי והתפשטות על חשבון האימפריה העות'מאנית.",
+   "related": [
+    "top:morocco-question",
+    "top:great-power-diplomacy"
+   ]
+  },
+  {
+   "id": "top:french-colonial-empire",
+   "he": "האימפריה הקולוניאלית הצרפתית",
+   "en": "French colonial empire",
+   "broader": "top:colonialism",
+   "scope": "השלטון הצרפתי באלג'יריה, תוניסיה, הודו-סין, מדגסקר ואפריקה, המדיניות הצרפתית בצפון אפריקה ומרידות נגד צרפת מחוץ למרוקו.",
+   "related": [
+    "pl:france",
+    "pl:algeria",
+    "top:french-intervention-morocco"
+   ]
+  },
+  {
+   "id": "top:british-empire",
+   "he": "האימפריה הבריטית: הודו, מצרים ותעלת סואץ",
+   "en": "British Empire: India, Egypt and Suez",
+   "broader": "top:colonialism",
+   "scope": "השלטון הבריטי בהודו ובמצרים, התסיסה נגדו, תעלת סואץ והמדיניות הבריטית בעדן ובערב.",
+   "related": [
+    "pl:united-kingdom",
+    "pl:egypt"
+   ]
+  },
+  {
+   "id": "top:other-colonial-empires",
+   "he": "מושבות גרמניה, בלגיה, פורטוגל ואחרות",
+   "en": "German, Belgian, Portuguese and other colonies",
+   "broader": "top:colonialism",
+   "scope": "המושבות הגרמניות באפריקה, קונגו הבלגית, מושבות פורטוגל ואיטליה ומושבות נוספות.",
+   "related": [
+    "pl:germany"
+   ]
+  },
+  {
+   "id": "top:anti-colonial-critique",
+   "he": "ביקורת הקולוניאליזם והצדקותיו",
+   "en": "Critique and justifications of colonialism",
+   "broader": "top:colonialism",
+   "scope": "'המשימה התרבותית', ניצול ודיכוי עמים במושבות, ביקורת על הציוויליזציה האירופית והפגנות סוציאליסטיות נגד קולוניאליזם.",
+   "related": [
+    "top:socialism"
+   ]
+  },
+  {
+   "id": "top:economy",
+   "he": "כלכלה, מסחר ותחבורה",
+   "en": "Economy, trade and transport",
+   "broader": null,
+   "scope": "מסחר, כספים, תעשייה, תחבורה ויוקר המחיה.",
+   "related": []
+  },
+  {
+   "id": "top:trade-tariffs",
+   "he": "מסחר, מכסים וחרמות כלכליים",
+   "en": "Trade, tariffs and boycotts",
+   "broader": "top:economy",
+   "scope": "סחר בינלאומי ומקומי, הסכמי סחר ומכסים, מונופולים, מחירי שוק וחרמות כלכליים בין מדינות.",
+   "related": []
+  },
+  {
+   "id": "top:finance-banking",
+   "he": "בנקאות, הלוואות ובורסה",
+   "en": "Finance, banking and loans",
+   "broader": "top:economy",
+   "scope": "הלוואות ממלכתיות (למשל הלוואות צרפת לרוסיה), בנקים, בית רוטשילד, בורסות ופאניקות פיננסיות.",
+   "related": [
+    "pl:france",
+    "pl:russian-empire"
+   ]
+  },
+  {
+   "id": "top:railways-shipping",
+   "he": "מסילות ברזל, ספנות ותעלות",
+   "en": "Railways, shipping and canals",
+   "broader": "top:economy",
+   "scope": "מסילת בגדאד ומסילות בארץ ישראל ובאימפריה, ספנות בים השחור ובבלקן, תעלת פנמה ונמלים.",
+   "related": [
+    "top:straits-question"
+   ]
+  },
+  {
+   "id": "top:cost-of-living",
+   "he": "יוקר המחיה ומשברים כלכליים",
+   "en": "Cost of living and economic crises",
+   "broader": "top:economy",
+   "scope": "התייקרות מזון ומחירים, הפגנות נגד יוקר המחיה, מחסור, משברים כלכליים ואבטלה.",
+   "related": [
+    "top:labour-strikes"
+   ]
+  },
+  {
+   "id": "top:industry-concessions",
+   "he": "תעשייה, משאבים וזיכיונות",
+   "en": "Industry, resources and concessions",
+   "broader": "top:economy",
+   "scope": "פיתוח כלכלי ותעשייה, תעשיות שונות, משאבי טבע וזיכיונות לחברות זרות.",
+   "related": []
+  },
+  {
+   "id": "top:disasters-health",
+   "he": "אסונות, מגפות ובריאות",
+   "en": "Disasters, epidemics and health",
+   "broader": null,
+   "scope": "אסונות טבע ואסונות מעשה ידי אדם, מגפות ובריאות הציבור.",
+   "related": []
+  },
+  {
+   "id": "top:epidemics",
+   "he": "מגפות",
+   "en": "Epidemics",
+   "broader": "top:disasters-health",
+   "scope": "כולרה, דבר, אבעבועות ומחלות מדבקות אחרות, הסגר ובידוד בנמלים.",
+   "related": []
+  },
+  {
+   "id": "top:natural-disasters",
+   "he": "אסונות טבע ורעב",
+   "en": "Natural disasters and famine",
+   "broader": "top:disasters-health",
+   "scope": "רעידות אדמה, שיטפונות, סערות, גלי חום ורעב.",
+   "related": []
+  },
+  {
+   "id": "top:fires",
+   "he": "שריפות",
+   "en": "Fires",
+   "broader": "top:disasters-health",
+   "scope": "שריפות בערים, ברובעים יהודיים, בבתי כנסת ובבתי קולנוע, וסיוע לנפגעיהן.",
+   "related": [
+    "top:jewish-philanthropy-relief"
+   ]
+  },
+  {
+   "id": "top:accidents",
+   "he": "תאונות ואסונות תחבורה",
+   "en": "Accidents and transport disasters",
+   "broader": "top:disasters-health",
+   "scope": "אסונות ימיים (טיטניק), תאונות רכבת, תעופה וצפלינים, ואסונות מכרות.",
+   "related": [
+    "top:aviation"
+   ]
+  },
+  {
+   "id": "top:medicine-public-health",
+   "he": "רפואה ובריאות הציבור",
+   "en": "Medicine and public health",
+   "broader": "top:disasters-health",
+   "scope": "חידושים ברפואה (תרופת 606), שחפת, חיסונים, תברואה ובריאות בקהילות.",
+   "related": []
+  },
+  {
+   "id": "top:press-culture-science",
+   "he": "עיתונות, תרבות ומדע",
+   "en": "Press, culture and science",
+   "broader": null,
+   "scope": "העיתונות ומדוריה, ספרות, תיאטרון, בידור, הנצחה, מדע וטכנולוגיה.",
+   "related": []
+  },
+  {
+   "id": "top:press-censorship",
+   "he": "חופש העיתונות וצנזורה",
+   "en": "Press freedom and censorship",
+   "broader": "top:press-culture-science",
+   "scope": "צנזורה, עיקולים, קנסות ומשפטים נגד עיתונים ועיתונאים, וחוקי עיתונות.",
+   "related": [
+    "top:russian-reaction-repression"
+   ]
+  },
+  {
+   "id": "top:jewish-press",
+   "he": "העיתונות היהודית",
+   "en": "Jewish press",
+   "broader": "top:press-culture-science",
+   "scope": "עיתונות ביידיש, בעברית ובלדינו, העיתונות היהודית בטורקיה ובסלוניקי, ומסעות ומשלחות של העיתון.",
+   "related": [
+    "top:jewish-languages"
+   ]
+  },
+  {
+   "id": "top:press-opinion-polemics",
+   "he": "דעת קהל, תגובות העיתונות ופולמוסים",
+   "en": "Public opinion, press reactions and polemics",
+   "broader": "top:press-culture-science",
+   "scope": "תגובות העיתונות האירופית והרוסית, פולמוסים עיתונאיים, הכחשות רשמיות, עיתונות ודיפלומטיה ועיתונות לאומנית.",
+   "related": []
+  },
+  {
+   "id": "top:news-digests",
+   "he": "מדורי מברקים וידיעות קצרות",
+   "en": "Telegram columns and news digests",
+   "broader": "top:press-culture-science",
+   "scope": "מדורי מברקים, כותרות וידיעות קצרות מעורבות שאין להם נושא מרכזי אחד.",
+   "related": []
+  },
+  {
+   "id": "top:literature-serials",
+   "he": "ספרות, רומנים בהמשכים וביקורת",
+   "en": "Literature, serialized novels and criticism",
+   "broader": "top:press-culture-science",
+   "scope": "רומנים היסטוריים בהמשכים, סיפורת מתורגמת, יצירות סופרים (שלום עליכם), ביקורת ספרות ודרמה.",
+   "related": []
+  },
+  {
+   "id": "top:satire-humour",
+   "he": "סאטירה והומור",
+   "en": "Satire and humour",
+   "broader": "top:press-culture-science",
+   "scope": "סאטירה פוליטית וחברתית, פרודיות, הומור ומברקים הומוריסטיים.",
+   "related": []
+  },
+  {
+   "id": "top:arts-entertainment",
+   "he": "תיאטרון, בידור, ספורט ותערוכות",
+   "en": "Theatre, entertainment, sport and exhibitions",
+   "broader": "top:press-culture-science",
+   "scope": "תיאטרון (כולל יידי), שחמט וספורט, אופנה, תערוכות עולמיות וחיי חברה גבוהה.",
+   "related": []
+  },
+  {
+   "id": "top:ads-notices",
+   "he": "מודעות ופרסומות",
+   "en": "Advertisements and notices",
+   "broader": "top:press-culture-science",
+   "scope": "פרסומות מסחריות, מודעות מנוי, הגרלות וקופוני טיול לארץ ישראל, מודעות אבל וברכה.",
+   "related": []
+  },
+  {
+   "id": "top:commemorations",
+   "he": "יובלות, הנצחה והספדים",
+   "en": "Jubilees, commemorations and obituaries",
+   "broader": "top:press-culture-science",
+   "scope": "חגיגות יובל, הנצחת אישים ואירועים, הספדים ופטירת אישים.",
+   "related": []
+  },
+  {
+   "id": "top:aviation",
+   "he": "תעופה",
+   "en": "Aviation",
+   "broader": "top:press-culture-science",
+   "scope": "טיסות ותחרויות טיסה, התפתחות התעופה וצפלינים (אסונות אוויר – גם תחת תאונות).",
+   "related": [
+    "top:accidents"
+   ]
+  },
+  {
+   "id": "top:science-archaeology",
+   "he": "מדע, ארכאולוגיה וטכנולוגיה",
+   "en": "Science, archaeology and technology",
+   "broader": "top:press-culture-science",
+   "scope": "תגליות ותופעות מדעיות (שביט האלי), חפירות ארכאולוגיות, תחזיות טכנולוגיות והמצאות.",
+   "related": []
+  },
+  {
+   "id": "top:society-labour",
+   "he": "חברה, עבודה וסוציאליזם",
+   "en": "Society, labour and socialism",
+   "broader": null,
+   "scope": "תנועת הפועלים והסוציאליזם, שביתות, מעמד האישה, סטודנטים, מיליטריזם, לאומיות וחיי חברה.",
+   "related": []
+  },
+  {
+   "id": "top:labour-strikes",
+   "he": "שביתות ותנאי עבודה",
+   "en": "Strikes and working conditions",
+   "broader": "top:society-labour",
+   "scope": "שביתות והפגנות פועלים, שביתות כלליות, סכסוכי עבודה, תנאי שכר ואבטלה.",
+   "related": []
+  },
+  {
+   "id": "top:socialism",
+   "he": "סוציאליזם ותנועת הפועלים",
+   "en": "Socialism and the labour movement",
+   "broader": "top:society-labour",
+   "scope": "מפלגות סוציאליסטיות וסוציאל-דמוקרטיות, האינטרנציונל וקונגרסיו, סולידריות פועלים, אנטי-מיליטריזם סוציאליסטי ואנרכיזם.",
+   "related": [
+    "top:peace-movement-arbitration"
+   ]
+  },
+  {
+   "id": "top:women-family",
+   "he": "נשים, משפחה ונישואין",
+   "en": "Women, family and marriage",
+   "broader": "top:society-labour",
+   "scope": "זכות הבחירה לנשים וזכויות נשים, השכלת נשים, לבוש ומעמד האישה, שידוכים, נישואין ושערוריות משפחתיות.",
+   "related": []
+  },
+  {
+   "id": "top:prostitution-trafficking",
+   "he": "זנות וסחר בנשים",
+   "en": "Prostitution and trafficking in women",
+   "broader": "top:society-labour",
+   "scope": "סחר בנשים ('העבדות הלבנה'), זנות ובתי בושת והמאבק בהם.",
+   "related": []
+  },
+  {
+   "id": "top:students-universities",
+   "he": "סטודנטים, אוניברסיטאות וחופש אקדמי",
+   "en": "Students and universities",
+   "broader": "top:society-labour",
+   "scope": "תסיסת סטודנטים, חופש אקדמי, רפורמות באוניברסיטאות ופיקוח עליהן.",
+   "related": [
+    "top:numerus-clausus"
+   ]
+  },
+  {
+   "id": "top:militarism-conscription",
+   "he": "מיליטריזם, צבא וגיוס",
+   "en": "Militarism, armies and conscription",
+   "broader": "top:society-labour",
+   "scope": "מיליטריזם ופטריוטיזם, גיוס ושירות צבאי, הכנות ותמרונים צבאיים, אסטרטגיה וחימוש (צבא עות'מאני ויהודים בצבא – בנפרד).",
+   "related": []
+  },
+  {
+   "id": "top:nationalism",
+   "he": "לאומיות ותנועות לאומיות",
+   "en": "Nationalism and national movements",
+   "broader": "top:society-labour",
+   "scope": "לאומיות ולאומנות כתופעה כללית, תנועות לאומיות באירופה ומתיחויות לאומיות (גרמנים וסלאבים, לגיונות פולניים).",
+   "related": []
+  },
+  {
+   "id": "top:daily-life-leisure",
+   "he": "חיי יומיום, פנאי ונופש",
+   "en": "Daily life, leisure and travel",
+   "broader": "top:society-labour",
+   "scope": "נופש בבתי מרפא, טיולים ונסיעות, רכילות חברתית ותיאורי חיי יומיום.",
+   "related": []
+  },
+  {
+   "id": "top:crime-law",
+   "he": "פשיעה, משפט וענישה",
+   "en": "Crime, law and punishment",
+   "broader": null,
+   "scope": "פשיעה, משפטים, אלימות פוליטית, ענישה, ריגול ושחיתות.",
+   "related": []
+  },
+  {
+   "id": "top:crime-robbery",
+   "he": "פשיעה ושוד",
+   "en": "Crime and robbery",
+   "broader": "top:crime-law",
+   "scope": "שוד, רצח, הונאות, גניבות, כנופיות ושוד מזוין (בעיקר ברוסיה ובפולין).",
+   "related": [
+    "pl:russian-empire",
+    "pl:warsaw"
+   ]
+  },
+  {
+   "id": "top:trials",
+   "he": "משפטים ופרשות משפטיות",
+   "en": "Trials and court cases",
+   "broader": "top:crime-law",
+   "scope": "משפטים פליליים, פוליטיים וצבאיים ופרשות משפטיות בולטות, ומערכת המשפט.",
+   "related": [
+    "top:blood-libels"
+   ]
+  },
+  {
+   "id": "top:political-violence",
+   "he": "אלימות פוליטית, טרור והתנקשויות",
+   "en": "Political violence, terrorism and assassinations",
+   "broader": "top:crime-law",
+   "scope": "התנקשויות ברשמים ובמלכים, פיגועי פצצות, טרור מהפכני ואנרכיסטי ורציחות פוליטיות.",
+   "related": []
+  },
+  {
+   "id": "top:death-penalty-punishment",
+   "he": "עונש מוות, ענישה ובתי כלא",
+   "en": "Death penalty, punishment and prisons",
+   "broader": "top:crime-law",
+   "scope": "עונש המוות והוצאות להורג, ביטולו, עונשי גוף, בתי כלא ובריחת אסירים, חנינות.",
+   "related": []
+  },
+  {
+   "id": "top:espionage",
+   "he": "ריגול",
+   "en": "Espionage",
+   "broader": "top:crime-law",
+   "scope": "פרשיות ריגול ופעילות חתרנית.",
+   "related": []
+  },
+  {
+   "id": "top:corruption-scandals",
+   "he": "שחיתות ושערוריות ציבוריות",
+   "en": "Corruption and public scandals",
+   "broader": "top:crime-law",
+   "scope": "שוחד ושחיתות בממשל ובצבא, שערוריות ציבוריות (פרשת מרקוני) ושרירות פקידים.",
+   "related": []
+  },
+  {
+   "id": "top:islam-middle-east",
+   "he": "האסלאם והעולם המוסלמי",
+   "en": "Islam and the Muslim world",
+   "broader": null,
+   "scope": "דת, חברה, תרבות ותנועות פוליטיות בעולם המוסלמי והערבי, ויחסים בין דתות במזרח.",
+   "related": []
+  },
+  {
+   "id": "top:pan-islamism",
+   "he": "פאן-אסלאמיזם והתעוררות העולם המוסלמי",
+   "en": "Pan-Islamism and Muslim awakening",
+   "broader": "top:islam-middle-east",
+   "scope": "פאן-אסלאמיזם וסולידריות מוסלמית, התעוררות העולם המוסלמי, ח'ליפות, רפורמות חוקתיות במדינות מוסלמיות ורגשות אנטי-אירופיים.",
+   "related": [
+    "top:moroccan-tribal-revolts"
+   ]
+  },
+  {
+   "id": "top:muslim-religious-life",
+   "he": "דת ופולחן מוסלמיים",
+   "en": "Muslim religious life",
+   "broader": "top:islam-middle-east",
+   "scope": "עלייה לרגל למכה, חגים, אמונות עממיות ופולחן קדושים, אנשי דת מוסלמים ומקומות קדושים.",
+   "related": []
+  },
+  {
+   "id": "top:arab-egyptian-nationalism",
+   "he": "לאומיות ערבית ומצרית",
+   "en": "Arab and Egyptian nationalism",
+   "broader": "top:islam-middle-east",
+   "scope": "התנועה הלאומית הערבית, הלאומיות המצרית והעיתונות הערבית.",
+   "related": [
+    "pl:egypt",
+    "pl:syria",
+    "top:arab-provinces-revolts"
+   ]
+  },
+  {
+   "id": "top:ethnography-orient",
+   "he": "תיאורים אתנוגרפיים של המזרח",
+   "en": "Ethnographic depictions of the Orient",
+   "broader": "top:islam-middle-east",
+   "scope": "תיאורי חיי בדואים, דרוזים, כורדים ושבטי מרוקו, תרבות מרוקאית וערבית, נוף וחיי יומיום במזרח ודימויים של עמי המזרח.",
+   "related": [
+    "pl:morocco",
+    "pl:syria"
+   ]
+  },
+  {
+   "id": "top:interreligious-relations-orient",
+   "he": "יחסים בין-דתיים במזרח",
+   "en": "Interreligious relations in the Orient",
+   "broader": "top:islam-middle-east",
+   "scope": "יחסי מוסלמים, נוצרים, דרוזים ויהודים, מתיחות בין-דתית וחשש ממלחמת קודש.",
+   "related": [
+    "top:ottoman-nationalities"
+   ]
+  }
+ ],
+ "events": [
+  {
+   "id": "ev:first-moroccan-crisis",
+   "he": "המשבר המרוקאי הראשון",
+   "en": "First Moroccan Crisis",
+   "en_alt": [
+    "Tangier Crisis"
+   ],
+   "date": "1905-03-31",
+   "end": "1906-04-07",
+   "broader": "top:franco-german-rivalry-morocco",
+   "place": "pl:morocco",
+   "participants": [
+    "pl:germany",
+    "pl:france",
+    "pl:morocco"
+   ],
+   "desc": "Franco-German crisis over Morocco triggered by the Kaiser's Tangier visit",
+   "qid_auto": "Q167455",
+   "qid": "Q167455"
+  },
+  {
+   "id": "ev:kaiser-visit-tangier",
+   "he": "ביקור הקייזר בטנג'יר",
+   "en": "Kaiser Wilhelm II's visit to Tangier",
+   "en_alt": [
+    "Tangier Crisis"
+   ],
+   "date": "1905-03-31",
+   "end": null,
+   "broader": "top:franco-german-rivalry-morocco",
+   "place": "pl:tangier",
+   "participants": [
+    "pl:germany",
+    "pl:morocco"
+   ],
+   "desc": "Wilhelm II landed at Tangier and declared support for Moroccan independence",
+   "qid_auto": "Q167455",
+   "qid": null
+  },
+  {
+   "id": "ev:delcasse-resignation",
+   "he": "התפטרות דלקאסה",
+   "en": "Resignation of Théophile Delcassé",
+   "en_alt": [
+    "Théophile Delcassé"
+   ],
+   "date": "1905-06-06",
+   "end": null,
+   "broader": "top:franco-german-rivalry-morocco",
+   "place": "pl:france",
+   "participants": [
+    "pl:france",
+    "pl:germany"
+   ],
+   "desc": "French foreign minister Delcassé forced to resign under German pressure over Morocco",
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:algeciras-conference",
+   "he": "ועידת אלחסיראס",
+   "en": "Algeciras Conference",
+   "en_alt": [
+    "Act of Algeciras",
+    "Algeciras Act"
+   ],
+   "date": "1906-01-16",
+   "end": "1906-04-07",
+   "broader": "top:morocco-international-diplomacy",
+   "place": "pl:spain",
+   "participants": [
+    "pl:france",
+    "pl:germany",
+    "pl:spain",
+    "pl:united-kingdom",
+    "pl:russian-empire",
+    "pl:italy",
+    "pl:austria-hungary",
+    "pl:united-states",
+    "pl:morocco"
+   ],
+   "desc": "international conference on Morocco; Act of Algeciras on police, state bank and open door",
+   "qid_auto": "Q163573",
+   "qid": "Q163573"
+  },
+  {
+   "id": "ev:mauchamp-murder",
+   "he": "רצח הרופא מושאן במרקש",
+   "en": "Murder of Émile Mauchamp",
+   "en_alt": [
+    "Émile Mauchamp"
+   ],
+   "date": "1907-03-19",
+   "end": null,
+   "broader": "top:french-intervention-morocco",
+   "place": "pl:marrakesh",
+   "participants": [
+    "pl:france",
+    "pl:morocco"
+   ],
+   "desc": "murder of French doctor Émile Mauchamp in Marrakesh, pretext for occupation of Oujda",
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:occupation-of-oujda",
+   "he": "כיבוש אוג'דה",
+   "en": "French occupation of Oujda",
+   "en_alt": [
+    "Occupation of Oujda (1907)"
+   ],
+   "date": "1907-03-29",
+   "end": null,
+   "broader": "top:french-intervention-morocco",
+   "place": "pl:morocco",
+   "participants": [
+    "pl:france",
+    "pl:morocco"
+   ],
+   "desc": "French troops from Algeria occupied Oujda",
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:maclean-kidnapping",
+   "he": "חטיפת קאיד מקלין בידי רייסולי",
+   "en": "Kidnapping of Kaid Maclean",
+   "en_alt": [
+    "Harry Maclean",
+    "Mulai Ahmed er Raisuni"
+   ],
+   "date": "1907-07-03",
+   "end": "1908-02",
+   "broader": "top:moroccan-tribal-revolts",
+   "place": "pl:morocco",
+   "participants": [
+    "pl:morocco",
+    "pl:united-kingdom"
+   ],
+   "desc": "Raisuli kidnapped the Sultan's British military adviser Kaid Harry Maclean",
+   "qid_auto": "Q17314235",
+   "qid": null
+  },
+  {
+   "id": "ev:casablanca-riots-1907",
+   "he": "המהומות בקזבלנקה 1907",
+   "en": "1907 Casablanca riots",
+   "en_alt": [
+    "Bombardment of Casablanca (1907)"
+   ],
+   "date": "1907-07-30",
+   "end": null,
+   "broader": "top:moroccan-tribal-revolts",
+   "place": "pl:casablanca",
+   "participants": [
+    "pl:morocco",
+    "pl:france"
+   ],
+   "desc": "killing of European workers at the Casablanca port works, prelude to the French bombardment",
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:bombardment-of-casablanca",
+   "he": "הפגזת קזבלנקה",
+   "en": "Bombardment of Casablanca",
+   "en_alt": [
+    "Bombardment of Casablanca (1907)"
+   ],
+   "date": "1907-08-05",
+   "end": "1907-08-07",
+   "broader": "top:french-intervention-morocco",
+   "place": "pl:casablanca",
+   "participants": [
+    "pl:france",
+    "pl:spain",
+    "pl:morocco"
+   ],
+   "desc": "French naval bombardment and landing at Casablanca",
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:casablanca-mellah-pogrom-1907",
+   "he": "פרעות במלאח של קזבלנקה",
+   "en": "Casablanca mellah pogrom (1907)",
+   "en_alt": [],
+   "date": "1907-08-05",
+   "end": "1907-08-07",
+   "broader": "top:moroccan-jews",
+   "place": "pl:casablanca",
+   "participants": [
+    "pl:morocco"
+   ],
+   "desc": "looting and killing in the Jewish quarter of Casablanca during the bombardment",
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:chaouia-campaign",
+   "he": "מסע השאוויה",
+   "en": "Chaouia campaign",
+   "en_alt": [
+    "French conquest of Morocco"
+   ],
+   "date": "1907-08",
+   "end": "1908-05",
+   "broader": "top:french-intervention-morocco",
+   "place": "pl:casablanca",
+   "participants": [
+    "pl:france",
+    "pl:morocco"
+   ],
+   "desc": "French military campaign in the Chaouia hinterland of Casablanca",
+   "qid_auto": "Q2935421",
+   "qid": "Q86676273"
+  },
+  {
+   "id": "ev:hafidiya",
+   "he": "החפיטיה (מלחמת האחים על הסולטנות)",
+   "en": "Hafidiya",
+   "en_alt": [
+    "Hafidiya revolution"
+   ],
+   "date": "1907-08-16",
+   "end": "1908-08-23",
+   "broader": "top:moroccan-internal-politics",
+   "place": "pl:marrakesh",
+   "participants": [
+    "pl:morocco"
+   ],
+   "desc": "civil war in which Abd al-Hafid overthrew his brother Sultan Abd al-Aziz",
+   "qid_auto": "Q97358280",
+   "qid": "Q97358280"
+  },
+  {
+   "id": "ev:franco-german-accord-1909",
+   "he": "ההסכם הצרפתי-גרמני על מרוקו 1909",
+   "en": "Franco-German Agreement on Morocco (1909)",
+   "en_alt": [],
+   "date": "1909-02-09",
+   "end": null,
+   "broader": "top:franco-german-rivalry-morocco",
+   "place": null,
+   "participants": [
+    "pl:france",
+    "pl:germany"
+   ],
+   "desc": "accord recognizing French political interests in Morocco in return for German economic equality",
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:melilla-war-1909",
+   "he": "מלחמת מלייה 1909",
+   "en": "Second Melillan campaign",
+   "en_alt": [
+    "Melilla War",
+    "Rif War of 1909"
+   ],
+   "date": "1909-07-09",
+   "end": "1910-01-27",
+   "broader": "top:spanish-intervention-morocco",
+   "place": "pl:morocco",
+   "participants": [
+    "pl:spain",
+    "pl:morocco"
+   ],
+   "desc": "Spanish war against Rif tribes around Melilla",
+   "qid_auto": "Q2032554",
+   "qid": "Q2032554"
+  },
+  {
+   "id": "ev:tragic-week",
+   "he": "השבוע הטרגי בברצלונה",
+   "en": "Tragic Week (Spain)",
+   "en_alt": [
+    "Setmana Tràgica"
+   ],
+   "date": "1909-07-26",
+   "end": "1909-08-02",
+   "broader": "top:spanish-intervention-morocco",
+   "place": "pl:spain",
+   "participants": [
+    "pl:spain"
+   ],
+   "desc": "riots in Barcelona against call-up of reservists for the Melilla war",
+   "qid_auto": null,
+   "qid": "Q1142553"
+  },
+  {
+   "id": "ev:siege-of-fez-1911",
+   "he": "מצור המורדים על פאס 1911",
+   "en": "Siege of Fez (1911)",
+   "en_alt": [],
+   "date": "1911-03",
+   "end": "1911-05-21",
+   "broader": "top:moroccan-tribal-revolts",
+   "place": "pl:fez",
+   "participants": [
+    "pl:morocco"
+   ],
+   "desc": "rebel tribes besieged Sultan Abd al-Hafid in Fez",
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:fez-expedition-1911",
+   "he": "מסע פאס הצרפתי",
+   "en": "French expedition to Fez (1911)",
+   "en_alt": [
+    "Fez expedition"
+   ],
+   "date": "1911-04",
+   "end": "1911-06",
+   "broader": "top:french-intervention-morocco",
+   "place": "pl:fez",
+   "participants": [
+    "pl:france",
+    "pl:morocco"
+   ],
+   "desc": "French relief column under Moinier entered Fez on 21 May 1911",
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:spanish-landing-larache",
+   "he": "הנחיתה הספרדית בלאראש",
+   "en": "Spanish occupation of Larache",
+   "en_alt": [
+    "Larache"
+   ],
+   "date": "1911-06-08",
+   "end": null,
+   "broader": "top:spanish-intervention-morocco",
+   "place": "pl:morocco",
+   "participants": [
+    "pl:spain",
+    "pl:morocco"
+   ],
+   "desc": "Spain occupied Larache and Ksar el-Kebir in response to the French Fez expedition",
+   "qid_auto": "Q606775",
+   "qid": null
+  },
+  {
+   "id": "ev:agadir-crisis",
+   "he": "משבר אגאדיר",
+   "en": "Agadir Crisis",
+   "en_alt": [
+    "Second Moroccan Crisis",
+    "Panthersprung nach Agadir"
+   ],
+   "date": "1911-07-01",
+   "end": "1911-11-04",
+   "broader": "top:franco-german-rivalry-morocco",
+   "place": "pl:agadir",
+   "participants": [
+    "pl:germany",
+    "pl:france",
+    "pl:united-kingdom"
+   ],
+   "desc": "German gunboat Panther sent to Agadir; Second Moroccan Crisis",
+   "qid_auto": "Q164771",
+   "qid": "Q164771"
+  },
+  {
+   "id": "ev:kert-campaign",
+   "he": "מסע הקרט",
+   "en": "Kert campaign",
+   "en_alt": [],
+   "date": "1911-08-24",
+   "end": "1912-05-15",
+   "broader": "top:spanish-intervention-morocco",
+   "place": "pl:morocco",
+   "participants": [
+    "pl:spain",
+    "pl:morocco"
+   ],
+   "desc": "Spanish campaign against Rif tribes along the Kert river",
+   "qid_auto": "Q20102483",
+   "qid": "Q20102483"
+  },
+  {
+   "id": "ev:morocco-congo-treaty",
+   "he": "ההסכם הצרפתי-גרמני (מרוקו-קונגו) 1911",
+   "en": "Morocco–Congo Treaty",
+   "en_alt": [
+    "Franco-German Treaty of 1911",
+    "Treaty of Berlin (1911)"
+   ],
+   "date": "1911-11-04",
+   "end": null,
+   "broader": "top:franco-german-rivalry-morocco",
+   "place": null,
+   "participants": [
+    "pl:france",
+    "pl:germany"
+   ],
+   "desc": "Germany accepted French protectorate over Morocco in exchange for part of French Congo",
+   "qid_auto": "Q884132",
+   "qid": "Q884132"
+  },
+  {
+   "id": "ev:treaty-of-fez",
+   "he": "הסכם פאס",
+   "en": "Treaty of Fes",
+   "en_alt": [
+    "Treaty of Fez"
+   ],
+   "date": "1912-03-30",
+   "end": null,
+   "broader": "top:french-protectorate-morocco",
+   "place": "pl:fez",
+   "participants": [
+    "pl:france",
+    "pl:morocco"
+   ],
+   "desc": "treaty making Morocco a French protectorate",
+   "qid_auto": "Q931982",
+   "qid": "Q931982"
+  },
+  {
+   "id": "ev:fez-riots-1912",
+   "he": "מהומות פאס 1912 (טְרִיטֶל)",
+   "en": "1912 Fez riots",
+   "en_alt": [
+    "Tritel",
+    "Fez mutiny"
+   ],
+   "date": "1912-04-17",
+   "end": "1912-04-19",
+   "broader": "top:french-protectorate-morocco",
+   "place": "pl:fez",
+   "participants": [
+    "pl:france",
+    "pl:morocco"
+   ],
+   "desc": "mutiny of Moroccan troops and riots in Fez against the protectorate, including sack of the mellah",
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:abdication-abd-al-hafid",
+   "he": "התפטרות הסולטאן עבד אל-חפיט",
+   "en": "Abdication of Abd al-Hafid",
+   "en_alt": [
+    "Abd al-Hafid of Morocco"
+   ],
+   "date": "1912-08-12",
+   "end": null,
+   "broader": "top:moroccan-internal-politics",
+   "place": "pl:morocco",
+   "participants": [
+    "pl:morocco",
+    "pl:france"
+   ],
+   "desc": "abdication of Sultan Abd al-Hafid and accession of Yusuf",
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:battle-of-sidi-bou-othman",
+   "he": "קרב סידי בו עות'מאן",
+   "en": "Battle of Sidi Bou Othman",
+   "en_alt": [
+    "El Hiba uprising"
+   ],
+   "date": "1912-09-06",
+   "end": null,
+   "broader": "top:french-intervention-morocco",
+   "place": "pl:marrakesh",
+   "participants": [
+    "pl:france",
+    "pl:morocco"
+   ],
+   "desc": "French defeat of Ahmed al-Hiba's uprising and entry into Marrakesh",
+   "qid_auto": "Q4872375",
+   "qid": "Q4872375"
+  },
+  {
+   "id": "ev:franco-spanish-treaty-1912",
+   "he": "ההסכם הצרפתי-ספרדי על מרוקו 1912",
+   "en": "Treaty Between France and Spain Regarding Morocco",
+   "en_alt": [
+    "Franco-Spanish Treaty (1912)"
+   ],
+   "date": "1912-11-27",
+   "end": null,
+   "broader": "top:spanish-intervention-morocco",
+   "place": "pl:spain",
+   "participants": [
+    "pl:france",
+    "pl:spain",
+    "pl:morocco"
+   ],
+   "desc": "treaty establishing the Spanish protectorate zone in northern Morocco",
+   "qid_auto": "Q15294337",
+   "qid": "Q15294337"
+  },
+  {
+   "id": "ev:entente-cordiale",
+   "he": "ההסכמה הלבבית",
+   "en": "Entente Cordiale",
+   "en_alt": [],
+   "date": "1904-04-08",
+   "end": null,
+   "broader": "top:alliances-ententes",
+   "place": null,
+   "participants": [
+    "pl:france",
+    "pl:united-kingdom"
+   ],
+   "desc": "Anglo-French agreements incl. free hand for France in Morocco",
+   "qid_auto": "Q464399",
+   "qid": "Q464399"
+  },
+  {
+   "id": "ev:franco-italian-agreement-1902",
+   "he": "ההסכם הצרפתי-איטלקי על טריפולי ומרוקו",
+   "en": "Prinetti–Barrère Accord",
+   "en_alt": [
+    "Franco-Italian Agreement (1902)"
+   ],
+   "date": "1902-11-01",
+   "end": null,
+   "broader": "top:alliances-ententes",
+   "place": null,
+   "participants": [
+    "pl:france",
+    "pl:italy"
+   ],
+   "desc": "secret Franco-Italian accord: Italian free hand in Tripoli, French in Morocco",
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:young-turk-revolution",
+   "he": "מהפכת הטורקים הצעירים",
+   "en": "Young Turk Revolution",
+   "en_alt": [],
+   "date": "1908-07-03",
+   "end": "1908-07-24",
+   "broader": "top:young-turk-revolution",
+   "place": "pl:thessaloniki",
+   "participants": [
+    "pl:ottoman-empire"
+   ],
+   "desc": "constitutional revolution restoring the 1876 Ottoman constitution",
+   "qid_auto": null,
+   "qid": "Q4298662"
+  },
+  {
+   "id": "ev:ottoman-election-1908",
+   "he": "הבחירות לפרלמנט העות'מאני 1908",
+   "en": "1908 Ottoman general election",
+   "en_alt": [],
+   "date": "1908-11",
+   "end": "1908-12",
+   "broader": "top:ottoman-politics",
+   "place": "pl:ottoman-empire",
+   "participants": [
+    "pl:ottoman-empire"
+   ],
+   "desc": "first elections after the revolution; parliament opened 17 Dec 1908",
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:31-march-incident",
+   "he": "ההפיכה הנגדית (אירוע 31 במרץ)",
+   "en": "31 March incident",
+   "en_alt": [
+    "Action Army"
+   ],
+   "date": "1909-04-13",
+   "end": "1909-04-24",
+   "broader": "top:young-turk-revolution",
+   "place": "pl:istanbul",
+   "participants": [
+    "pl:ottoman-empire"
+   ],
+   "desc": "counter-revolutionary uprising in Istanbul suppressed by the Action Army",
+   "qid_auto": null,
+   "qid": "Q2073490"
+  },
+  {
+   "id": "ev:deposition-abdul-hamid",
+   "he": "הדחת הסולטאן עבדול חמיד השני",
+   "en": "Deposition of Abdul Hamid II",
+   "en_alt": [
+    "Abdul Hamid II"
+   ],
+   "date": "1909-04-27",
+   "end": null,
+   "broader": "top:young-turk-revolution",
+   "place": "pl:istanbul",
+   "participants": [
+    "pl:ottoman-empire"
+   ],
+   "desc": "deposition of Abdul Hamid II, exile to Salonica and accession of Mehmed V",
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:adana-massacre",
+   "he": "טבח אדנה",
+   "en": "Adana massacre",
+   "en_alt": [],
+   "date": "1909-04",
+   "end": null,
+   "broader": "top:armenian-question",
+   "place": null,
+   "participants": [
+    "pl:ottoman-empire"
+   ],
+   "desc": "massacre of Armenians in Adana province",
+   "qid_auto": "Q2087792",
+   "qid": "Q2087792"
+  },
+  {
+   "id": "ev:hauran-druze-rebellion",
+   "he": "מרד הדרוזים בחוראן",
+   "en": "Hauran Druze Rebellion",
+   "en_alt": [],
+   "date": "1909-05",
+   "end": "1910-11",
+   "broader": "top:arab-provinces-revolts",
+   "place": "pl:syria",
+   "participants": [
+    "pl:ottoman-empire"
+   ],
+   "desc": "Druze revolt in the Hauran suppressed by Sami Pasha al-Farouqi; executions in Damascus",
+   "qid_auto": "Q5682791",
+   "qid": "Q5682791"
+  },
+  {
+   "id": "ev:albanian-revolt-1910",
+   "he": "המרד האלבני 1910",
+   "en": "Albanian revolt of 1910",
+   "en_alt": [],
+   "date": "1910-04",
+   "end": "1910-06",
+   "broader": "top:albanian-question",
+   "place": "pl:albania",
+   "participants": [
+    "pl:ottoman-empire",
+    "pl:albania"
+   ],
+   "desc": "Albanian uprising in Kosovo vilayet",
+   "qid_auto": "Q4709163",
+   "qid": "Q4709163"
+  },
+  {
+   "id": "ev:albanian-revolt-1911",
+   "he": "המרד האלבני 1911",
+   "en": "Malissori uprising",
+   "en_alt": [
+    "Albanian revolt of 1911"
+   ],
+   "date": "1911-03",
+   "end": "1911-08",
+   "broader": "top:albanian-question",
+   "place": "pl:albania",
+   "participants": [
+    "pl:ottoman-empire",
+    "pl:albania",
+    "pl:montenegro"
+   ],
+   "desc": "Malësori uprising in northern Albania",
+   "qid_auto": "Q4709161",
+   "qid": "Q4709161"
+  },
+  {
+   "id": "ev:albanian-revolt-1912",
+   "he": "המרד האלבני 1912",
+   "en": "Albanian revolt of 1912",
+   "en_alt": [],
+   "date": "1912-01",
+   "end": "1912-08",
+   "broader": "top:albanian-question",
+   "place": "pl:albania",
+   "participants": [
+    "pl:ottoman-empire",
+    "pl:albania"
+   ],
+   "desc": "last Albanian revolt against Ottoman rule",
+   "qid_auto": "Q1280245",
+   "qid": "Q1280245"
+  },
+  {
+   "id": "ev:albanian-independence",
+   "he": "הכרזת העצמאות של אלבניה",
+   "en": "Albanian Declaration of Independence",
+   "en_alt": [],
+   "date": "1912-11-28",
+   "end": null,
+   "broader": "top:albanian-question",
+   "place": "pl:albania",
+   "participants": [
+    "pl:albania"
+   ],
+   "desc": "Albanian independence proclaimed at Vlorë",
+   "qid_auto": "Q281097",
+   "qid": "Q281097"
+  },
+  {
+   "id": "ev:yemen-revolt-1911",
+   "he": "המרד בתימן 1911",
+   "en": "Treaty of Daan",
+   "en_alt": [
+    "Yemeni revolt 1904–1911"
+   ],
+   "date": "1911",
+   "end": "1911-10",
+   "broader": "top:arab-provinces-revolts",
+   "place": null,
+   "participants": [
+    "pl:ottoman-empire"
+   ],
+   "desc": "Zaydi revolt under Imam Yahya ended by the Treaty of Daan",
+   "qid_auto": "Q7837030",
+   "qid": null
+  },
+  {
+   "id": "ev:raid-on-sublime-porte",
+   "he": "הפשיטה על הפורטה הנשגבה (הפיכת 1913)",
+   "en": "1913 Ottoman coup d'état",
+   "en_alt": [
+    "Raid on the Sublime Porte"
+   ],
+   "date": "1913-01-23",
+   "end": null,
+   "broader": "top:ottoman-politics",
+   "place": "pl:istanbul",
+   "participants": [
+    "pl:ottoman-empire"
+   ],
+   "desc": "CUP coup bringing the Three Pashas to power",
+   "qid_auto": "Q4559693",
+   "qid": "Q4559693"
+  },
+  {
+   "id": "ev:bulgarian-independence",
+   "he": "הכרזת העצמאות של בולגריה",
+   "en": "Bulgarian Declaration of Independence",
+   "en_alt": [],
+   "date": "1908-10-05",
+   "end": null,
+   "broader": "top:balkan-states-politics",
+   "place": "pl:bulgaria",
+   "participants": [
+    "pl:bulgaria",
+    "pl:ottoman-empire"
+   ],
+   "desc": "Ferdinand proclaimed Bulgarian independence",
+   "qid_auto": "Q1628090",
+   "qid": "Q1628090"
+  },
+  {
+   "id": "ev:bosnian-crisis",
+   "he": "משבר בוסניה",
+   "en": "Bosnian Crisis",
+   "en_alt": [
+    "Annexation crisis"
+   ],
+   "date": "1908-10-06",
+   "end": "1909-03-31",
+   "broader": "top:austria-hungary-balkans",
+   "place": "pl:balkans",
+   "participants": [
+    "pl:austria-hungary",
+    "pl:serbia",
+    "pl:russian-empire",
+    "pl:ottoman-empire"
+   ],
+   "desc": "Austro-Hungarian annexation of Bosnia-Herzegovina and the ensuing crisis",
+   "qid_auto": "Q167246",
+   "qid": "Q167246"
+  },
+  {
+   "id": "ev:ottoman-boycott-austria-1908",
+   "he": "החרם העות'מאני על סחורות אוסטריות",
+   "en": "1908 Ottoman boycott of Austria-Hungary",
+   "en_alt": [],
+   "date": "1908-10",
+   "end": "1909-02",
+   "broader": "top:austria-hungary-balkans",
+   "place": "pl:ottoman-empire",
+   "participants": [
+    "pl:ottoman-empire",
+    "pl:austria-hungary"
+   ],
+   "desc": "boycott of Austrian goods after annexation of Bosnia",
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:cretan-union-1908",
+   "he": "הכרזת איחוד כרתים עם יוון",
+   "en": "Cretan State",
+   "en_alt": [
+    "Union of Crete with Greece"
+   ],
+   "date": "1908-10-07",
+   "end": null,
+   "broader": "top:cretan-question",
+   "place": "pl:crete",
+   "participants": [
+    "pl:greece",
+    "pl:crete",
+    "pl:ottoman-empire"
+   ],
+   "desc": "Cretan assembly declared union with Greece",
+   "qid_auto": "Q72785",
+   "qid": null
+  },
+  {
+   "id": "ev:goudi-coup",
+   "he": "הפיכת גודי",
+   "en": "Goudi coup",
+   "en_alt": [],
+   "date": "1909-08-28",
+   "end": null,
+   "broader": "top:balkan-states-politics",
+   "place": "pl:greece",
+   "participants": [
+    "pl:greece"
+   ],
+   "desc": "Greek military coup leading to Venizelos' rise",
+   "qid_auto": "Q760023",
+   "qid": "Q760023"
+  },
+  {
+   "id": "ev:balkan-league",
+   "he": "הקמת הברית הבלקנית",
+   "en": "Balkan League",
+   "en_alt": [],
+   "date": "1912-03-13",
+   "end": "1912-10",
+   "broader": "top:balkan-wars",
+   "place": "pl:balkans",
+   "participants": [
+    "pl:serbia",
+    "pl:bulgaria",
+    "pl:greece",
+    "pl:montenegro"
+   ],
+   "desc": "alliance of Balkan states against the Ottoman Empire",
+   "qid_auto": "Q239225",
+   "qid": "Q239225"
+  },
+  {
+   "id": "ev:first-balkan-war",
+   "he": "מלחמת הבלקן הראשונה",
+   "en": "First Balkan War",
+   "en_alt": [],
+   "date": "1912-10-08",
+   "end": "1913-05-30",
+   "broader": "top:balkan-wars",
+   "place": "pl:balkans",
+   "participants": [
+    "pl:bulgaria",
+    "pl:serbia",
+    "pl:greece",
+    "pl:montenegro",
+    "pl:ottoman-empire"
+   ],
+   "desc": "Balkan League war against the Ottoman Empire",
+   "qid_auto": "Q177918",
+   "qid": "Q177918"
+  },
+  {
+   "id": "ev:capture-of-thessaloniki-1912",
+   "he": "כיבוש סלוניקי בידי יוון",
+   "en": "Greek capture of Thessaloniki",
+   "en_alt": [
+    "Battle of Yenidje",
+    "Liberation of Thessaloniki"
+   ],
+   "date": "1912-11-08",
+   "end": null,
+   "broader": "top:balkan-wars",
+   "place": "pl:thessaloniki",
+   "participants": [
+    "pl:greece",
+    "pl:ottoman-empire",
+    "pl:bulgaria"
+   ],
+   "desc": "surrender of Salonica to the Greek army",
+   "qid_auto": "Q765175",
+   "qid": "Q84026604"
+  },
+  {
+   "id": "ev:siege-of-scutari",
+   "he": "המצור על סקוטרי",
+   "en": "Siege of Scutari (1912–1913)",
+   "en_alt": [
+    "Scutari crisis"
+   ],
+   "date": "1912-10-28",
+   "end": "1913-04-23",
+   "broader": "top:balkan-wars",
+   "place": "pl:albania",
+   "participants": [
+    "pl:montenegro",
+    "pl:serbia",
+    "pl:ottoman-empire"
+   ],
+   "desc": "Montenegrin siege of Shkodër; Scutari crisis with the powers",
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:siege-of-adrianople",
+   "he": "המצור על אדריאנופול",
+   "en": "Siege of Adrianople (1912–1913)",
+   "en_alt": [],
+   "date": "1912-11-03",
+   "end": "1913-03-26",
+   "broader": "top:balkan-wars",
+   "place": null,
+   "participants": [
+    "pl:bulgaria",
+    "pl:serbia",
+    "pl:ottoman-empire"
+   ],
+   "desc": "Bulgarian-Serbian siege and capture of Edirne",
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:london-conference-1912",
+   "he": "ועידת לונדון (השלום והשגרירים) 1912–1913",
+   "en": "London Conference of 1912–1913",
+   "en_alt": [
+    "Treaty of London (1913)"
+   ],
+   "date": "1912-12-16",
+   "end": "1913-08-11",
+   "broader": "top:balkan-wars",
+   "place": "pl:united-kingdom",
+   "participants": [
+    "pl:united-kingdom",
+    "pl:ottoman-empire",
+    "pl:bulgaria",
+    "pl:serbia",
+    "pl:greece",
+    "pl:montenegro"
+   ],
+   "desc": "peace talks and ambassadors' conference on the Balkan settlement and Albania",
+   "qid_auto": "Q59491",
+   "qid": "Q59491"
+  },
+  {
+   "id": "ev:second-balkan-war",
+   "he": "מלחמת הבלקן השנייה",
+   "en": "Second Balkan War",
+   "en_alt": [],
+   "date": "1913-06-29",
+   "end": "1913-08-10",
+   "broader": "top:balkan-wars",
+   "place": "pl:macedonia",
+   "participants": [
+    "pl:bulgaria",
+    "pl:serbia",
+    "pl:greece",
+    "pl:romania",
+    "pl:ottoman-empire",
+    "pl:montenegro"
+   ],
+   "desc": "war of Bulgaria against its former allies",
+   "qid_auto": "Q184183",
+   "qid": "Q184183"
+  },
+  {
+   "id": "ev:treaty-of-bucharest-1913",
+   "he": "הסכם בוקרשט 1913",
+   "en": "Treaty of Bucharest (1913)",
+   "en_alt": [],
+   "date": "1913-08-10",
+   "end": null,
+   "broader": "top:balkan-wars",
+   "place": null,
+   "participants": [
+    "pl:bulgaria",
+    "pl:serbia",
+    "pl:greece",
+    "pl:romania",
+    "pl:montenegro"
+   ],
+   "desc": "peace treaty ending the Second Balkan War",
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:assassination-george-i",
+   "he": "רצח המלך גאורגיוס הראשון",
+   "en": "Assassination of George I of Greece",
+   "en_alt": [
+    "George I of Greece"
+   ],
+   "date": "1913-03-18",
+   "end": null,
+   "broader": "top:balkan-states-politics",
+   "place": "pl:thessaloniki",
+   "participants": [
+    "pl:greece"
+   ],
+   "desc": "assassination of King George I of Greece in Salonica",
+   "qid_auto": "Q124079910",
+   "qid": "Q124079910"
+  },
+  {
+   "id": "ev:italo-turkish-war",
+   "he": "המלחמה האיטלקית-טורקית",
+   "en": "Italo-Turkish War",
+   "en_alt": [
+    "Turco-Italian War",
+    "Tripolitanian War"
+   ],
+   "date": "1911-09-29",
+   "end": "1912-10-18",
+   "broader": "top:italo-turkish-war",
+   "place": "pl:libya",
+   "participants": [
+    "pl:italy",
+    "pl:ottoman-empire"
+   ],
+   "desc": "Italian war to seize Tripolitania and Cyrenaica",
+   "qid_auto": "Q203824",
+   "qid": "Q203824"
+  },
+  {
+   "id": "ev:battle-of-tripoli-1911",
+   "he": "כיבוש טריפולי",
+   "en": "Battle of Tripoli (1911)",
+   "en_alt": [],
+   "date": "1911-10-03",
+   "end": "1911-10-10",
+   "broader": "top:libya-campaign",
+   "place": "pl:tripolitania",
+   "participants": [
+    "pl:italy",
+    "pl:ottoman-empire"
+   ],
+   "desc": "Italian bombardment and landing at Tripoli",
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:battle-of-shar-al-shatt",
+   "he": "קרב שארע א-שט והטבח בטריפולי",
+   "en": "Battle of Shar al-Shatt",
+   "en_alt": [],
+   "date": "1911-10-23",
+   "end": "1911-10-26",
+   "broader": "top:libya-campaign",
+   "place": "pl:tripolitania",
+   "participants": [
+    "pl:italy",
+    "pl:ottoman-empire"
+   ],
+   "desc": "Ottoman-Arab attack near Tripoli followed by Italian reprisals",
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:annexation-of-libya",
+   "he": "סיפוח טריפולי וקירנאיקה לאיטליה",
+   "en": "Italian Libya",
+   "en_alt": [],
+   "date": "1911-11-05",
+   "end": null,
+   "broader": "top:libya-campaign",
+   "place": "pl:libya",
+   "participants": [
+    "pl:italy"
+   ],
+   "desc": "royal decree annexing Tripolitania and Cyrenaica",
+   "qid_auto": "Q284568",
+   "qid": null
+  },
+  {
+   "id": "ev:battle-of-beirut-1912",
+   "he": "הפגזת בירות",
+   "en": "Battle of Beirut (1912)",
+   "en_alt": [],
+   "date": "1912-02-24",
+   "end": null,
+   "broader": "top:italo-turkish-naval-war",
+   "place": null,
+   "participants": [
+    "pl:italy",
+    "pl:ottoman-empire"
+   ],
+   "desc": "Italian cruisers sank Ottoman ships at Beirut",
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:dardanelles-1912",
+   "he": "ההתקפה האיטלקית על הדרדנלים וסגירתם",
+   "en": "Italian attack on the Dardanelles (1912)",
+   "en_alt": [],
+   "date": "1912-04-18",
+   "end": "1912-05",
+   "broader": "top:italo-turkish-naval-war",
+   "place": null,
+   "participants": [
+    "pl:italy",
+    "pl:ottoman-empire"
+   ],
+   "desc": "Italian naval attack and Ottoman closure of the Straits",
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:dodecanese-occupation",
+   "he": "כיבוש איי הדודקאנס",
+   "en": "Italian occupation of the Dodecanese",
+   "en_alt": [],
+   "date": "1912-04",
+   "end": "1912-05",
+   "broader": "top:italo-turkish-naval-war",
+   "place": null,
+   "participants": [
+    "pl:italy",
+    "pl:ottoman-empire"
+   ],
+   "desc": "Italy occupied Rhodes and the Dodecanese",
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:treaty-of-ouchy",
+   "he": "הסכם אושי (לוזאן 1912)",
+   "en": "Treaty of Ouchy",
+   "en_alt": [
+    "First Treaty of Lausanne"
+   ],
+   "date": "1912-10-18",
+   "end": null,
+   "broader": "top:italo-turkish-war-diplomacy",
+   "place": null,
+   "participants": [
+    "pl:italy",
+    "pl:ottoman-empire"
+   ],
+   "desc": "peace treaty ending the Italo-Turkish War",
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:russo-japanese-war",
+   "he": "המלחמה הרוסית-יפנית",
+   "en": "Russo-Japanese War",
+   "en_alt": [],
+   "date": "1904-02-08",
+   "end": "1905-09-05",
+   "broader": "top:russo-japanese-war",
+   "place": null,
+   "participants": [
+    "pl:russian-empire",
+    "pl:japan"
+   ],
+   "desc": "war between Russia and Japan over Manchuria and Korea",
+   "qid_auto": "Q159950",
+   "qid": "Q159950"
+  },
+  {
+   "id": "ev:siege-of-port-arthur",
+   "he": "נפילת פורט ארתור",
+   "en": "Siege of Port Arthur",
+   "en_alt": [],
+   "date": "1904-08-01",
+   "end": "1905-01-02",
+   "broader": "top:russo-japanese-war",
+   "place": "pl:china",
+   "participants": [
+    "pl:russian-empire",
+    "pl:japan"
+   ],
+   "desc": "Japanese siege and capture of Port Arthur",
+   "qid_auto": "Q210800",
+   "qid": "Q210800"
+  },
+  {
+   "id": "ev:battle-of-mukden",
+   "he": "קרב מוקדן",
+   "en": "Battle of Mukden",
+   "en_alt": [],
+   "date": "1905-02-20",
+   "end": "1905-03-10",
+   "broader": "top:russo-japanese-war",
+   "place": "pl:china",
+   "participants": [
+    "pl:russian-empire",
+    "pl:japan"
+   ],
+   "desc": "major land battle of the war",
+   "qid_auto": "Q384091",
+   "qid": "Q384091"
+  },
+  {
+   "id": "ev:battle-of-tsushima",
+   "he": "קרב צושימה",
+   "en": "Battle of Tsushima",
+   "en_alt": [],
+   "date": "1905-05-27",
+   "end": "1905-05-28",
+   "broader": "top:russo-japanese-war",
+   "place": null,
+   "participants": [
+    "pl:russian-empire",
+    "pl:japan"
+   ],
+   "desc": "destruction of the Russian Baltic Fleet",
+   "qid_auto": "Q208127",
+   "qid": "Q208127"
+  },
+  {
+   "id": "ev:treaty-of-portsmouth",
+   "he": "הסכם פורטסמות",
+   "en": "Treaty of Portsmouth",
+   "en_alt": [
+    "Portsmouth Peace Conference"
+   ],
+   "date": "1905-09-05",
+   "end": null,
+   "broader": "top:russo-japanese-war",
+   "place": "pl:united-states",
+   "participants": [
+    "pl:russian-empire",
+    "pl:japan",
+    "pl:united-states"
+   ],
+   "desc": "peace treaty ending the Russo-Japanese War",
+   "qid_auto": "Q548067",
+   "qid": "Q548067"
+  },
+  {
+   "id": "ev:russian-revolution-1905",
+   "he": "המהפכה הרוסית של 1905",
+   "en": "Russian Revolution of 1905",
+   "en_alt": [],
+   "date": "1905-01-22",
+   "end": "1907-06-16",
+   "broader": "top:russian-revolution-1905",
+   "place": "pl:russian-empire",
+   "participants": [
+    "pl:russian-empire"
+   ],
+   "desc": "wave of revolutionary unrest in the Russian Empire",
+   "qid_auto": "Q184928",
+   "qid": "Q184928"
+  },
+  {
+   "id": "ev:bloody-sunday-1905",
+   "he": "יום ראשון העקוב מדם",
+   "en": "Bloody Sunday (1905)",
+   "en_alt": [],
+   "date": "1905-01-22",
+   "end": null,
+   "broader": "top:russian-revolution-1905",
+   "place": "pl:saint-petersburg",
+   "participants": [
+    "pl:russian-empire"
+   ],
+   "desc": "troops fired on Gapon's procession of workers",
+   "qid_auto": null,
+   "qid": "Q185642"
+  },
+  {
+   "id": "ev:potemkin-mutiny",
+   "he": "מרד המלחים בפוטיומקין",
+   "en": "Russian battleship Potemkin",
+   "en_alt": [
+    "Potemkin mutiny",
+    "Potemkin uprising"
+   ],
+   "date": "1905-06-27",
+   "end": "1905-07-08",
+   "broader": "top:russian-revolution-1905",
+   "place": null,
+   "participants": [
+    "pl:russian-empire"
+   ],
+   "desc": "mutiny on the battleship Potemkin off Odessa",
+   "qid_auto": "Q4126381",
+   "qid": "Q4126381"
+  },
+  {
+   "id": "ev:october-manifesto",
+   "he": "מניפסט אוקטובר",
+   "en": "October Manifesto",
+   "en_alt": [],
+   "date": "1905-10-30",
+   "end": null,
+   "broader": "top:russian-revolution-1905",
+   "place": "pl:saint-petersburg",
+   "participants": [
+    "pl:russian-empire"
+   ],
+   "desc": "Nicholas II granted civil liberties and an elected Duma",
+   "qid_auto": "Q109878",
+   "qid": "Q109878"
+  },
+  {
+   "id": "ev:odessa-pogrom-1905",
+   "he": "פוגרום אודסה 1905",
+   "en": "1905 Odessa pogrom",
+   "en_alt": [
+    "Odessa pogroms"
+   ],
+   "date": "1905-10-31",
+   "end": "1905-11-03",
+   "broader": "top:pogroms",
+   "place": null,
+   "participants": [
+    "pl:russian-empire"
+   ],
+   "desc": "anti-Jewish pogrom in Odessa after the October Manifesto",
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:sevastopol-uprising-1905",
+   "he": "מרד סבסטופול ופרשת שמידט",
+   "en": "Sevastopol uprising (1905)",
+   "en_alt": [],
+   "date": "1905-11-24",
+   "end": "1905-11-28",
+   "broader": "top:russian-revolution-1905",
+   "place": null,
+   "participants": [
+    "pl:russian-empire"
+   ],
+   "desc": "naval uprising led by Lt. Pyotr Schmidt, executed 1906",
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:moscow-uprising-1905",
+   "he": "מרד דצמבר במוסקבה",
+   "en": "Moscow uprising of 1905",
+   "en_alt": [
+    "December Uprising"
+   ],
+   "date": "1905-12-07",
+   "end": "1905-12-18",
+   "broader": "top:russian-revolution-1905",
+   "place": null,
+   "participants": [
+    "pl:russian-empire"
+   ],
+   "desc": "armed workers' uprising in Moscow",
+   "qid_auto": "Q4156944",
+   "qid": "Q4156944"
+  },
+  {
+   "id": "ev:russian-election-1906",
+   "he": "הבחירות לדומה הראשונה",
+   "en": "1906 Russian legislative election",
+   "en_alt": [],
+   "date": "1906-03",
+   "end": "1906-04",
+   "broader": "top:state-duma",
+   "place": "pl:russian-empire",
+   "participants": [
+    "pl:russian-empire"
+   ],
+   "desc": "elections to the First Duma",
+   "qid_auto": "Q2472389",
+   "qid": "Q2472389"
+  },
+  {
+   "id": "ev:first-duma",
+   "he": "הדומה הראשונה ופיזורה",
+   "en": "1st State Duma of the Russian Empire",
+   "en_alt": [
+    "State Duma (Russian Empire)"
+   ],
+   "date": "1906-05-10",
+   "end": "1906-07-21",
+   "broader": "top:state-duma",
+   "place": "pl:saint-petersburg",
+   "participants": [
+    "pl:russian-empire"
+   ],
+   "desc": "first Russian parliament, dissolved after 72 days",
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:vyborg-manifesto",
+   "he": "מניפסט ויבורג",
+   "en": "Vyborg Manifesto",
+   "en_alt": [],
+   "date": "1906-07-23",
+   "end": null,
+   "broader": "top:state-duma",
+   "place": null,
+   "participants": [
+    "pl:russian-empire"
+   ],
+   "desc": "appeal of dissolved Duma deputies; signatories prosecuted",
+   "qid_auto": "Q1984156",
+   "qid": "Q1984156"
+  },
+  {
+   "id": "ev:bialystok-pogrom",
+   "he": "פוגרום ביאליסטוק",
+   "en": "Białystok pogrom",
+   "en_alt": [],
+   "date": "1906-06-14",
+   "end": "1906-06-16",
+   "broader": "top:pogroms",
+   "place": null,
+   "participants": [
+    "pl:russian-empire"
+   ],
+   "desc": "anti-Jewish pogrom in Białystok",
+   "qid_auto": "Q4082818",
+   "qid": "Q4082818"
+  },
+  {
+   "id": "ev:siedlce-pogrom",
+   "he": "פוגרום שדלץ",
+   "en": "Siedlce pogrom",
+   "en_alt": [],
+   "date": "1906-09-08",
+   "end": "1906-09-10",
+   "broader": "top:pogroms",
+   "place": null,
+   "participants": [
+    "pl:russian-empire"
+   ],
+   "desc": "army-led pogrom in Siedlce",
+   "qid_auto": "Q7509607",
+   "qid": "Q7509607"
+  },
+  {
+   "id": "ev:russian-election-1907-jan",
+   "he": "הבחירות לדומה השנייה",
+   "en": "January 1907 Russian legislative election",
+   "en_alt": [],
+   "date": "1907-01",
+   "end": "1907-02",
+   "broader": "top:state-duma",
+   "place": "pl:russian-empire",
+   "participants": [
+    "pl:russian-empire"
+   ],
+   "desc": "elections to the Second Duma",
+   "qid_auto": "Q4128661",
+   "qid": "Q4128661"
+  },
+  {
+   "id": "ev:second-duma",
+   "he": "הדומה השנייה",
+   "en": "2nd State Duma of the Russian Empire",
+   "en_alt": [
+    "State Duma (Russian Empire)"
+   ],
+   "date": "1907-03-05",
+   "end": "1907-06-16",
+   "broader": "top:state-duma",
+   "place": "pl:saint-petersburg",
+   "participants": [
+    "pl:russian-empire"
+   ],
+   "desc": "second Duma, dissolved by Stolypin",
+   "qid_auto": null,
+   "qid": "Q4146578"
+  },
+  {
+   "id": "ev:june-coup-1907",
+   "he": "הפיכת יוני 1907",
+   "en": "Coup of June 1907",
+   "en_alt": [
+    "Third of June Coup"
+   ],
+   "date": "1907-06-16",
+   "end": null,
+   "broader": "top:state-duma",
+   "place": "pl:saint-petersburg",
+   "participants": [
+    "pl:russian-empire"
+   ],
+   "desc": "dissolution of the Second Duma and new restrictive electoral law",
+   "qid_auto": "Q4462585",
+   "qid": "Q4462585"
+  },
+  {
+   "id": "ev:russian-election-1907-sep",
+   "he": "הבחירות לדומה השלישית",
+   "en": "September 1907 Russian legislative election",
+   "en_alt": [],
+   "date": "1907-09",
+   "end": "1907-10",
+   "broader": "top:state-duma",
+   "place": "pl:russian-empire",
+   "participants": [
+    "pl:russian-empire"
+   ],
+   "desc": "elections to the Third Duma",
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:russian-election-1912",
+   "he": "הבחירות לדומה הרביעית",
+   "en": "1912 Russian legislative election",
+   "en_alt": [],
+   "date": "1912-09",
+   "end": "1912-10",
+   "broader": "top:state-duma",
+   "place": "pl:russian-empire",
+   "participants": [
+    "pl:russian-empire"
+   ],
+   "desc": "elections to the Fourth Duma",
+   "qid_auto": "Q4128592",
+   "qid": "Q4128592"
+  },
+  {
+   "id": "ev:stolypin-assassination",
+   "he": "רצח סטוליפין",
+   "en": "Assassination of Pyotr Stolypin",
+   "en_alt": [
+    "Pyotr Stolypin"
+   ],
+   "date": "1911-09-14",
+   "end": null,
+   "broader": "top:political-violence",
+   "place": "pl:kiev",
+   "participants": [
+    "pl:russian-empire"
+   ],
+   "desc": "Stolypin shot by Dmitry Bogrov at the Kiev opera during the Tsar's visit",
+   "qid_auto": "Q4468601",
+   "qid": "Q4468601"
+  },
+  {
+   "id": "ev:beilis-affair",
+   "he": "פרשת בייליס",
+   "en": "Beilis affair",
+   "en_alt": [
+    "Menahem Mendel Beilis",
+    "Beilis trial",
+    "Andrei Yushchinsky"
+   ],
+   "date": "1911-03-20",
+   "end": "1913-11-10",
+   "broader": "top:blood-libels",
+   "place": "pl:kiev",
+   "participants": [
+    "pl:russian-empire"
+   ],
+   "desc": "blood libel after the murder of Andrei Yushchinsky; trial and acquittal of Menahem Mendel Beilis",
+   "qid_auto": "Q6795210",
+   "qid": "Q6795210"
+  },
+  {
+   "id": "ev:lena-massacre",
+   "he": "טבח לנה",
+   "en": "Lena massacre",
+   "en_alt": [
+    "Lena Goldfields massacre"
+   ],
+   "date": "1912-04-17",
+   "end": null,
+   "broader": "top:labour-strikes",
+   "place": "pl:russian-empire",
+   "participants": [
+    "pl:russian-empire"
+   ],
+   "desc": "troops shot striking gold miners on the Lena river",
+   "qid_auto": "Q578858",
+   "qid": "Q578858"
+  },
+  {
+   "id": "ev:february-revolution",
+   "he": "מהפכת פברואר",
+   "en": "February Revolution",
+   "en_alt": [],
+   "date": "1917-03-08",
+   "end": "1917-03-16",
+   "broader": "top:russian-revolution-1917",
+   "place": "pl:saint-petersburg",
+   "participants": [
+    "pl:russian-empire"
+   ],
+   "desc": "overthrow of the Tsar and formation of the Provisional Government",
+   "qid_auto": null,
+   "qid": "Q101534"
+  },
+  {
+   "id": "ev:october-revolution",
+   "he": "מהפכת אוקטובר",
+   "en": "October Revolution",
+   "en_alt": [
+    "Bolshevik Revolution"
+   ],
+   "date": "1917-11-07",
+   "end": null,
+   "broader": "top:russian-revolution-1917",
+   "place": "pl:saint-petersburg",
+   "participants": [
+    "pl:russian-empire"
+   ],
+   "desc": "Bolshevik seizure of power",
+   "qid_auto": "Q42976",
+   "qid": "Q42976"
+  },
+  {
+   "id": "ev:kishinev-pogrom",
+   "he": "פוגרום קישינב",
+   "en": "Kishinev pogrom",
+   "en_alt": [],
+   "date": "1903-04-19",
+   "end": "1903-04-20",
+   "broader": "top:pogroms",
+   "place": null,
+   "participants": [
+    "pl:russian-empire"
+   ],
+   "desc": "anti-Jewish pogrom in Kishinev (remembered and invoked in the corpus)",
+   "qid_auto": "Q1814439",
+   "qid": "Q1814439"
+  },
+  {
+   "id": "ev:damascus-affair",
+   "he": "עלילת דמשק",
+   "en": "Damascus affair",
+   "en_alt": [],
+   "date": "1840-02-05",
+   "end": null,
+   "broader": "top:blood-libels",
+   "place": "pl:damascus",
+   "participants": [
+    "pl:syria"
+   ],
+   "desc": "1840 blood libel against the Jews of Damascus",
+   "qid_auto": "Q1158270",
+   "qid": "Q1158270"
+  },
+  {
+   "id": "ev:hilsner-affair",
+   "he": "פרשת הילזנר",
+   "en": "Hilsner affair",
+   "en_alt": [],
+   "date": "1899-04",
+   "end": "1900",
+   "broader": "top:blood-libels",
+   "place": null,
+   "participants": [
+    "pl:austria-hungary"
+   ],
+   "desc": "blood libel trial of Leopold Hilsner in Bohemia",
+   "qid_auto": "Q691887",
+   "qid": "Q691887"
+  },
+  {
+   "id": "ev:persian-constitutional-revolution",
+   "he": "המהפכה החוקתית בפרס",
+   "en": "Persian Constitutional Revolution",
+   "en_alt": [],
+   "date": "1905-12",
+   "end": "1911-12",
+   "broader": "top:persian-revolution",
+   "place": "pl:persia",
+   "participants": [
+    "pl:persia"
+   ],
+   "desc": "establishment of a parliament and constitution in Persia",
+   "qid_auto": "Q1368440",
+   "qid": "Q1368440"
+  },
+  {
+   "id": "ev:siege-of-tabriz",
+   "he": "המצור על תבריז",
+   "en": "Siege of Tabriz",
+   "en_alt": [],
+   "date": "1908-06",
+   "end": "1909-04",
+   "broader": "top:persian-revolution",
+   "place": "pl:persia",
+   "participants": [
+    "pl:persia",
+    "pl:russian-empire"
+   ],
+   "desc": "royalist siege of constitutionalist Tabriz, ended by Russian intervention",
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:triumph-of-tehran",
+   "he": "כיבוש טהראן בידי החוקתיים והדחת השאה",
+   "en": "Triumph of Tehran",
+   "en_alt": [],
+   "date": "1909-07-13",
+   "end": "1909-07-16",
+   "broader": "top:persian-revolution",
+   "place": "pl:persia",
+   "participants": [
+    "pl:persia"
+   ],
+   "desc": "constitutionalists took Tehran and deposed Mohammad Ali Shah",
+   "qid_auto": "Q3943931",
+   "qid": "Q3943931"
+  },
+  {
+   "id": "ev:anglo-russian-convention",
+   "he": "ההסכם האנגלו-רוסי",
+   "en": "Anglo-Russian Convention",
+   "en_alt": [],
+   "date": "1907-08-31",
+   "end": null,
+   "broader": "top:foreign-intervention-persia",
+   "place": null,
+   "participants": [
+    "pl:united-kingdom",
+    "pl:russian-empire",
+    "pl:persia"
+   ],
+   "desc": "division of Persia into spheres of influence",
+   "qid_auto": null,
+   "qid": "Q1129893"
+  },
+  {
+   "id": "ev:potsdam-agreement-1911",
+   "he": "ההסכם הרוסי-גרמני בפוטסדאם",
+   "en": "Potsdam Agreement (1911)",
+   "en_alt": [],
+   "date": "1911-08-19",
+   "end": null,
+   "broader": "top:foreign-intervention-persia",
+   "place": null,
+   "participants": [
+    "pl:russian-empire",
+    "pl:germany",
+    "pl:persia"
+   ],
+   "desc": "Russo-German agreement on Persia and the Baghdad railway",
+   "qid_auto": "Q4374955",
+   "qid": "Q4374955"
+  },
+  {
+   "id": "ev:russian-ultimatum-persia-1911",
+   "he": "האולטימטום הרוסי לפרס 1911",
+   "en": "Russian ultimatum to Persia (1911)",
+   "en_alt": [
+    "William Morgan Shuster"
+   ],
+   "date": "1911-11-29",
+   "end": "1911-12-24",
+   "broader": "top:foreign-intervention-persia",
+   "place": "pl:persia",
+   "participants": [
+    "pl:russian-empire",
+    "pl:persia"
+   ],
+   "desc": "Russian ultimatum forcing Shuster's dismissal and closure of the Majlis",
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:xinhai-revolution",
+   "he": "המהפכה הסינית (שינהאי)",
+   "en": "1911 Revolution",
+   "en_alt": [
+    "Xinhai Revolution",
+    "Chinese Revolution of 1911"
+   ],
+   "date": "1911-10-10",
+   "end": "1912-02-12",
+   "broader": "top:china",
+   "place": "pl:china",
+   "participants": [
+    "pl:china"
+   ],
+   "desc": "overthrow of the Qing dynasty and founding of the Republic of China",
+   "qid_auto": "Q190517",
+   "qid": "Q190517"
+  },
+  {
+   "id": "ev:manchurian-plague",
+   "he": "מגפת הדבר במנצ'וריה",
+   "en": "Manchurian plague",
+   "en_alt": [
+    "1910–1911 Manchurian plague"
+   ],
+   "date": "1910-10",
+   "end": "1911-03",
+   "broader": "top:epidemics",
+   "place": "pl:china",
+   "participants": [
+    "pl:china",
+    "pl:russian-empire"
+   ],
+   "desc": "pneumonic plague epidemic in Manchuria",
+   "qid_auto": "Q91900320",
+   "qid": "Q91900320"
+  },
+  {
+   "id": "ev:japan-korea-annexation",
+   "he": "סיפוח קוריאה ליפן",
+   "en": "Japan–Korea Treaty of 1910",
+   "en_alt": [
+    "Korea under Japanese rule"
+   ],
+   "date": "1910-08-22",
+   "end": null,
+   "broader": "top:japan-korea",
+   "place": null,
+   "participants": [
+    "pl:japan"
+   ],
+   "desc": "Japanese annexation of Korea",
+   "qid_auto": null,
+   "qid": "Q495558"
+  },
+  {
+   "id": "ev:anglo-japanese-alliance-1905",
+   "he": "חידוש הברית האנגלית-יפנית",
+   "en": "Anglo-Japanese Alliance",
+   "en_alt": [],
+   "date": "1905-08-12",
+   "end": null,
+   "broader": "top:alliances-ententes",
+   "place": null,
+   "participants": [
+    "pl:united-kingdom",
+    "pl:japan"
+   ],
+   "desc": "renewal and extension of the Anglo-Japanese Alliance",
+   "qid_auto": "Q541195",
+   "qid": "Q541195"
+  },
+  {
+   "id": "ev:mexican-revolution",
+   "he": "המהפכה המקסיקנית",
+   "en": "Mexican Revolution",
+   "en_alt": [],
+   "date": "1910-11-20",
+   "end": null,
+   "broader": "top:americas-politics",
+   "place": null,
+   "participants": [],
+   "desc": "revolution against Porfirio Díaz",
+   "qid_auto": "Q214426",
+   "qid": "Q214426"
+  },
+  {
+   "id": "ev:treaty-of-bjorko",
+   "he": "הסכם ביורקה",
+   "en": "Treaty of Björkö",
+   "en_alt": [],
+   "date": "1905-07-24",
+   "end": null,
+   "broader": "top:alliances-ententes",
+   "place": null,
+   "participants": [
+    "pl:germany",
+    "pl:russian-empire"
+   ],
+   "desc": "abortive Russo-German defensive treaty",
+   "qid_auto": "Q2721131",
+   "qid": "Q2721131"
+  },
+  {
+   "id": "ev:russian-loan-1906",
+   "he": "ההלוואה הצרפתית לרוסיה 1906",
+   "en": "Russian loan of 1906",
+   "en_alt": [],
+   "date": "1906-04",
+   "end": null,
+   "broader": "top:finance-banking",
+   "place": "pl:france",
+   "participants": [
+    "pl:france",
+    "pl:russian-empire"
+   ],
+   "desc": "large French-led international loan to Russia after Algeciras",
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:hague-conference-1907",
+   "he": "ועידת השלום השנייה בהאג",
+   "en": "Hague Conventions of 1899 and 1907",
+   "en_alt": [
+    "Second Hague Conference"
+   ],
+   "date": "1907-06-15",
+   "end": "1907-10-18",
+   "broader": "top:peace-movement-arbitration",
+   "place": null,
+   "participants": [],
+   "desc": "Second Hague Peace Conference",
+   "qid_auto": "Q1566316",
+   "qid": "Q123010375"
+  },
+  {
+   "id": "ev:swinemunde-meeting-1907",
+   "he": "פגישת הקיסרים בסווינמינדה",
+   "en": "Swinemünde meeting (1907)",
+   "en_alt": [],
+   "date": "1907-08-03",
+   "end": "1907-08-06",
+   "broader": "top:royal-visits-summits",
+   "place": "pl:germany",
+   "participants": [
+    "pl:germany",
+    "pl:russian-empire"
+   ],
+   "desc": "meeting of Wilhelm II and Nicholas II at Swinemünde",
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:assassination-franz-ferdinand",
+   "he": "רצח פרנץ פרדיננד בסרייבו",
+   "en": "Assassination of Archduke Franz Ferdinand",
+   "en_alt": [],
+   "date": "1914-06-28",
+   "end": null,
+   "broader": "top:wwi-outbreak-diplomacy",
+   "place": "pl:austria-hungary",
+   "participants": [
+    "pl:austria-hungary",
+    "pl:serbia"
+   ],
+   "desc": "assassination in Sarajevo triggering the July Crisis",
+   "qid_auto": "Q192050",
+   "qid": "Q192050"
+  },
+  {
+   "id": "ev:july-crisis",
+   "he": "משבר יולי ופרוץ מלחמת העולם",
+   "en": "July Crisis",
+   "en_alt": [
+    "Outbreak of World War I"
+   ],
+   "date": "1914-06-28",
+   "end": "1914-08-06",
+   "broader": "top:wwi-outbreak-diplomacy",
+   "place": null,
+   "participants": [
+    "pl:austria-hungary",
+    "pl:serbia",
+    "pl:russian-empire",
+    "pl:germany",
+    "pl:france",
+    "pl:united-kingdom"
+   ],
+   "desc": "diplomatic crisis leading to the outbreak of WWI",
+   "qid_auto": "Q917435",
+   "qid": "Q917435"
+  },
+  {
+   "id": "ev:world-war-i",
+   "he": "מלחמת העולם הראשונה",
+   "en": "World War I",
+   "en_alt": [
+    "First World War",
+    "Great War"
+   ],
+   "date": "1914-07-28",
+   "end": "1918-11-11",
+   "broader": "top:wwi",
+   "place": null,
+   "participants": [],
+   "desc": "global war 1914–1918",
+   "qid_auto": "Q361",
+   "qid": "Q361"
+  },
+  {
+   "id": "ev:ottoman-entry-wwi",
+   "he": "כניסת האימפריה העות'מאנית למלחמה",
+   "en": "Ottoman entry into World War I",
+   "en_alt": [
+    "Black Sea raid"
+   ],
+   "date": "1914-10-29",
+   "end": "1914-11-14",
+   "broader": "top:wwi-outbreak-diplomacy",
+   "place": "pl:ottoman-empire",
+   "participants": [
+    "pl:ottoman-empire",
+    "pl:russian-empire",
+    "pl:germany"
+   ],
+   "desc": "Black Sea raid and Ottoman declaration of war",
+   "qid_auto": null,
+   "qid": "Q1328496"
+  },
+  {
+   "id": "ev:battle-of-lodz-1914",
+   "he": "הקרב על לודז'",
+   "en": "Battle of Łódź (1914)",
+   "en_alt": [],
+   "date": "1914-11-11",
+   "end": "1914-12-06",
+   "broader": "top:wwi-eastern-front",
+   "place": null,
+   "participants": [
+    "pl:russian-empire",
+    "pl:germany"
+   ],
+   "desc": "battle on the Eastern Front in Russian Poland",
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:battle-of-sarikamish",
+   "he": "קרב סאריקאמיש",
+   "en": "Battle of Sarikamish",
+   "en_alt": [],
+   "date": "1914-12-22",
+   "end": "1915-01-17",
+   "broader": "top:wwi-ottoman-fronts",
+   "place": null,
+   "participants": [
+    "pl:russian-empire",
+    "pl:ottoman-empire"
+   ],
+   "desc": "Ottoman offensive defeated in the Caucasus",
+   "qid_auto": "Q250652",
+   "qid": "Q250652"
+  },
+  {
+   "id": "ev:raid-on-suez-canal",
+   "he": "ההתקפה העות'מאנית על תעלת סואץ",
+   "en": "Raid on the Suez Canal",
+   "en_alt": [],
+   "date": "1915-01-26",
+   "end": "1915-02-04",
+   "broader": "top:wwi-ottoman-fronts",
+   "place": "pl:egypt",
+   "participants": [
+    "pl:ottoman-empire",
+    "pl:united-kingdom",
+    "pl:germany"
+   ],
+   "desc": "first Ottoman offensive against the Suez Canal",
+   "qid_auto": "Q2382729",
+   "qid": "Q2382729"
+  },
+  {
+   "id": "ev:gallipoli-campaign",
+   "he": "מערכת גליפולי והדרדנלים",
+   "en": "Gallipoli campaign",
+   "en_alt": [
+    "Dardanelles campaign"
+   ],
+   "date": "1915-02-19",
+   "end": "1916-01-09",
+   "broader": "top:wwi-ottoman-fronts",
+   "place": null,
+   "participants": [
+    "pl:ottoman-empire",
+    "pl:united-kingdom",
+    "pl:france"
+   ],
+   "desc": "Allied naval and land campaign at the Dardanelles",
+   "qid_auto": "Q164983",
+   "qid": "Q164983"
+  },
+  {
+   "id": "ev:bulgaria-enters-wwi",
+   "he": "כניסת בולגריה למלחמה",
+   "en": "Bulgaria during World War I",
+   "en_alt": [],
+   "date": "1915-10-14",
+   "end": null,
+   "broader": "top:wwi-outbreak-diplomacy",
+   "place": "pl:bulgaria",
+   "participants": [
+    "pl:bulgaria",
+    "pl:serbia"
+   ],
+   "desc": "Bulgaria joined the Central Powers",
+   "qid_auto": "Q2587247",
+   "qid": "Q2587247"
+  },
+  {
+   "id": "ev:macedonian-front",
+   "he": "חזית סלוניקי",
+   "en": "Macedonian front",
+   "en_alt": [
+    "Salonika front"
+   ],
+   "date": "1915-10-05",
+   "end": "1918-09-30",
+   "broader": "top:wwi-balkan-fronts",
+   "place": "pl:thessaloniki",
+   "participants": [
+    "pl:france",
+    "pl:united-kingdom",
+    "pl:serbia",
+    "pl:greece",
+    "pl:bulgaria",
+    "pl:germany"
+   ],
+   "desc": "Allied front based at Salonica",
+   "qid_auto": "Q1262377",
+   "qid": "Q1262377"
+  },
+  {
+   "id": "ev:national-schism",
+   "he": "הפילוג הלאומי ביוון וממשלת סלוניקי",
+   "en": "National Schism",
+   "en_alt": [],
+   "date": "1916-08",
+   "end": "1917-06",
+   "broader": "top:wwi-balkan-fronts",
+   "place": "pl:thessaloniki",
+   "participants": [
+    "pl:greece"
+   ],
+   "desc": "split between King Constantine and Venizelos' government in Salonica",
+   "qid_auto": "Q1346487",
+   "qid": "Q1346487"
+  },
+  {
+   "id": "ev:romania-enters-wwi",
+   "he": "כניסת רומניה למלחמה והמערכה הרומנית",
+   "en": "Romanian campaign (1916)",
+   "en_alt": [
+    "Romania in World War I"
+   ],
+   "date": "1916-08-27",
+   "end": "1916-12",
+   "broader": "top:wwi-balkan-fronts",
+   "place": "pl:romania",
+   "participants": [
+    "pl:romania",
+    "pl:germany",
+    "pl:austria-hungary",
+    "pl:bulgaria"
+   ],
+   "desc": "Romania's entry into the war and the Central Powers' counter-offensive",
+   "qid_auto": "Q553157",
+   "qid": "Q553157"
+  },
+  {
+   "id": "ev:unrestricted-submarine-warfare-1917",
+   "he": "מלחמת הצוללות הבלתי מוגבלת",
+   "en": "Unrestricted submarine warfare",
+   "en_alt": [
+    "U-boat campaign (World War I)"
+   ],
+   "date": "1917-02-01",
+   "end": null,
+   "broader": "top:wwi-naval-air-war",
+   "place": null,
+   "participants": [
+    "pl:germany",
+    "pl:united-kingdom"
+   ],
+   "desc": "German declaration of unrestricted U-boat warfare",
+   "qid_auto": "Q1119089",
+   "qid": null
+  },
+  {
+   "id": "ev:us-entry-wwi",
+   "he": "כניסת ארה\"ב למלחמה",
+   "en": "American entry into World War I",
+   "en_alt": [],
+   "date": "1917-04-06",
+   "end": null,
+   "broader": "top:wwi-outbreak-diplomacy",
+   "place": "pl:united-states",
+   "participants": [
+    "pl:united-states",
+    "pl:germany"
+   ],
+   "desc": "US declaration of war on Germany",
+   "qid_auto": "Q4745451",
+   "qid": "Q4745451"
+  },
+  {
+   "id": "ev:jaffa-deportation-1917",
+   "he": "גירוש תל אביב ויפו",
+   "en": "1917 Jaffa deportation",
+   "en_alt": [],
+   "date": "1917-04-06",
+   "end": null,
+   "broader": "top:wwi-jews",
+   "place": "pl:ottoman-palestine",
+   "participants": [
+    "pl:ottoman-empire"
+   ],
+   "desc": "Ottoman expulsion of the civilian population of Jaffa and Tel Aviv",
+   "qid_auto": "Q7695557",
+   "qid": "Q7695557"
+  },
+  {
+   "id": "ev:jewish-legion",
+   "he": "הגדוד העברי",
+   "en": "Jewish Legion",
+   "en_alt": [],
+   "date": "1917-08",
+   "end": null,
+   "broader": "top:wwi-jews",
+   "place": null,
+   "participants": [
+    "pl:united-kingdom"
+   ],
+   "desc": "Jewish battalions of the British army",
+   "qid_auto": "Q198954",
+   "qid": "Q198954"
+  },
+  {
+   "id": "ev:balfour-declaration",
+   "he": "הצהרת בלפור",
+   "en": "Balfour Declaration",
+   "en_alt": [],
+   "date": "1917-11-02",
+   "end": null,
+   "broader": "top:zionist-movement",
+   "place": "pl:united-kingdom",
+   "participants": [
+    "pl:united-kingdom"
+   ],
+   "desc": "British declaration supporting a Jewish national home in Palestine",
+   "qid_auto": "Q187152",
+   "qid": "Q187152"
+  },
+  {
+   "id": "ev:tenth-zionist-congress",
+   "he": "הקונגרס הציוני העשירי",
+   "en": "10th Zionist Congress",
+   "en_alt": [],
+   "date": "1911-08-09",
+   "end": "1911-08-15",
+   "broader": "top:zionist-movement",
+   "place": null,
+   "participants": [],
+   "desc": "Zionist Congress in Basel",
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:galveston-movement",
+   "he": "תוכנית גלווסטון",
+   "en": "Galveston Movement",
+   "en_alt": [],
+   "date": "1907",
+   "end": "1914",
+   "broader": "top:jewish-emigration-americas",
+   "place": "pl:united-states",
+   "participants": [
+    "pl:united-states"
+   ],
+   "desc": "scheme diverting Jewish immigrants to Galveston, Texas",
+   "qid_auto": "Q5519425",
+   "qid": "Q5519425"
+  },
+  {
+   "id": "ev:aliens-act-1905",
+   "he": "חוק הזרים הבריטי",
+   "en": "Aliens Act 1905",
+   "en_alt": [],
+   "date": "1905-08-11",
+   "end": null,
+   "broader": "top:immigration-restrictions",
+   "place": "pl:united-kingdom",
+   "participants": [
+    "pl:united-kingdom"
+   ],
+   "desc": "British law restricting immigration, aimed largely at East European Jews",
+   "qid_auto": "Q4726525",
+   "qid": "Q4726525"
+  },
+  {
+   "id": "ev:war-of-the-languages",
+   "he": "מלחמת השפות (פרשת הטכניון)",
+   "en": "War of the Languages",
+   "en_alt": [
+    "Language war"
+   ],
+   "date": "1913-10",
+   "end": "1914-02",
+   "broader": "top:jewish-languages",
+   "place": "pl:ottoman-palestine",
+   "participants": [
+    "pl:ottoman-palestine"
+   ],
+   "desc": "conflict over German vs Hebrew as language of instruction at the Technion",
+   "qid_auto": "Q2891554",
+   "qid": "Q2891554"
+  },
+  {
+   "id": "ev:french-separation-law-1905",
+   "he": "חוק הפרדת הדת והמדינה בצרפת",
+   "en": "1905 French law on the Separation of the Churches and the State",
+   "en_alt": [],
+   "date": "1905-12-09",
+   "end": null,
+   "broader": "top:church-state-france",
+   "place": "pl:france",
+   "participants": [
+    "pl:france"
+   ],
+   "desc": "law separating church and state in France",
+   "qid_auto": "Q1518944",
+   "qid": "Q1518944"
+  },
+  {
+   "id": "ev:norway-sweden-dissolution",
+   "he": "פירוק האיחוד בין נורווגיה לשוודיה",
+   "en": "Dissolution of the union between Norway and Sweden",
+   "en_alt": [],
+   "date": "1905-06-07",
+   "end": null,
+   "broader": "top:smaller-european-states",
+   "place": null,
+   "participants": [],
+   "desc": "Norway's separation from Sweden",
+   "qid_auto": "Q2264910",
+   "qid": "Q2264910"
+  },
+  {
+   "id": "ev:hungarian-crisis-1905",
+   "he": "המשבר ההונגרי 1905–1906",
+   "en": "Hungarian crisis of 1905–1906",
+   "en_alt": [],
+   "date": "1905",
+   "end": "1906-04",
+   "broader": "top:austro-hungarian-domestic-politics",
+   "place": "pl:austria-hungary",
+   "participants": [
+    "pl:austria-hungary"
+   ],
+   "desc": "constitutional crisis between Hungarian coalition and the Crown; universal suffrage debate",
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:cisleithanian-election-1907",
+   "he": "הבחירות באוסטריה 1907 (זכות בחירה כללית)",
+   "en": "1907 Cisleithanian legislative election",
+   "en_alt": [],
+   "date": "1907-05-14",
+   "end": null,
+   "broader": "top:austro-hungarian-domestic-politics",
+   "place": "pl:austria-hungary",
+   "participants": [
+    "pl:austria-hungary"
+   ],
+   "desc": "first Austrian election under universal male suffrage",
+   "qid_auto": "Q1259539",
+   "qid": "Q1259539"
+  },
+  {
+   "id": "ev:german-election-1907",
+   "he": "בחירות 'ההוטנטוטים' לרייכסטאג 1907",
+   "en": "1907 German federal election",
+   "en_alt": [],
+   "date": "1907-01-25",
+   "end": null,
+   "broader": "top:german-domestic-politics",
+   "place": "pl:germany",
+   "participants": [
+    "pl:germany"
+   ],
+   "desc": "Reichstag election fought over colonial policy",
+   "qid_auto": "Q317035",
+   "qid": "Q317035"
+  },
+  {
+   "id": "ev:german-election-1912",
+   "he": "הבחירות לרייכסטאג 1912",
+   "en": "1912 German federal election",
+   "en_alt": [],
+   "date": "1912-01-12",
+   "end": null,
+   "broader": "top:german-domestic-politics",
+   "place": "pl:germany",
+   "participants": [
+    "pl:germany"
+   ],
+   "desc": "SPD became largest party; antisemitic parties defeated",
+   "qid_auto": "Q462740",
+   "qid": "Q462740"
+  },
+  {
+   "id": "ev:peoples-budget",
+   "he": "תקציב העם ומשבר בית הלורדים",
+   "en": "People's Budget",
+   "en_alt": [],
+   "date": "1909-04-29",
+   "end": "1910-04",
+   "broader": "top:british-domestic-politics",
+   "place": "pl:united-kingdom",
+   "participants": [
+    "pl:united-kingdom"
+   ],
+   "desc": "Lloyd George budget and constitutional crisis",
+   "qid_auto": "Q3374979",
+   "qid": "Q3374979"
+  },
+  {
+   "id": "ev:lisbon-regicide",
+   "he": "רצח מלך פורטוגל",
+   "en": "Lisbon Regicide",
+   "en_alt": [],
+   "date": "1908-02-01",
+   "end": null,
+   "broader": "top:iberian-politics",
+   "place": null,
+   "participants": [],
+   "desc": "assassination of King Carlos I of Portugal and his heir",
+   "qid_auto": "Q2665185",
+   "qid": "Q2665185"
+  },
+  {
+   "id": "ev:portuguese-revolution-1910",
+   "he": "המהפכה בפורטוגל",
+   "en": "5 October 1910 revolution",
+   "en_alt": [],
+   "date": "1910-10-05",
+   "end": null,
+   "broader": "top:iberian-politics",
+   "place": null,
+   "participants": [],
+   "desc": "overthrow of the Portuguese monarchy and proclamation of the republic",
+   "qid_auto": "Q638903",
+   "qid": "Q638903"
+  },
+  {
+   "id": "ev:french-railway-strike-1910",
+   "he": "שביתת הרכבות בצרפת",
+   "en": "1910 French railway strike",
+   "en_alt": [],
+   "date": "1910-10-10",
+   "end": "1910-10-18",
+   "broader": "top:labour-strikes",
+   "place": "pl:france",
+   "participants": [
+    "pl:france"
+   ],
+   "desc": "railway strike broken by Briand's mobilization of workers",
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ev:british-railway-strike-1911",
+   "he": "שביתת הרכבות באנגליה 1911",
+   "en": "National railway strike of 1911",
+   "en_alt": [
+    "Great Unrest"
+   ],
+   "date": "1911-08-17",
+   "end": "1911-08-19",
+   "broader": "top:labour-strikes",
+   "place": "pl:united-kingdom",
+   "participants": [
+    "pl:united-kingdom"
+   ],
+   "desc": "first national railway strike in Britain amid the Great Unrest",
+   "qid_auto": null,
+   "qid": "Q16998516"
+  },
+  {
+   "id": "ev:belfast-strike-1907",
+   "he": "שביתת הנמל והשוטרים בבלפסט",
+   "en": "1907 Belfast Dock strike",
+   "en_alt": [],
+   "date": "1907-05",
+   "end": "1907-08",
+   "broader": "top:labour-strikes",
+   "place": "pl:united-kingdom",
+   "participants": [
+    "pl:united-kingdom"
+   ],
+   "desc": "dock strike in Belfast that drew in police mutiny",
+   "qid_auto": "Q4558653",
+   "qid": "Q4558653"
+  },
+  {
+   "id": "ev:stuttgart-congress-1907",
+   "he": "הקונגרס הסוציאליסטי הבינלאומי בשטוטגרט",
+   "en": "Stuttgart International Socialist Congress (1907)",
+   "en_alt": [
+    "International Socialist Congress, Stuttgart 1907"
+   ],
+   "date": "1907-08-18",
+   "end": "1907-08-24",
+   "broader": "top:socialism",
+   "place": "pl:germany",
+   "participants": [
+    "pl:germany"
+   ],
+   "desc": "Second International congress on militarism and colonialism",
+   "qid_auto": "Q1667647",
+   "qid": "Q1667647"
+  },
+  {
+   "id": "ev:marconi-scandal",
+   "he": "פרשת מרקוני",
+   "en": "Marconi scandal",
+   "en_alt": [],
+   "date": "1912",
+   "end": "1913",
+   "broader": "top:corruption-scandals",
+   "place": "pl:united-kingdom",
+   "participants": [
+    "pl:united-kingdom"
+   ],
+   "desc": "insider-trading scandal involving British ministers incl. Herbert Samuel",
+   "qid_auto": "Q1894011",
+   "qid": "Q1894011"
+  },
+  {
+   "id": "ev:courrieres-mine-disaster",
+   "he": "אסון המכרה בקורייר",
+   "en": "Courrières mine disaster",
+   "en_alt": [],
+   "date": "1906-03-10",
+   "end": null,
+   "broader": "top:accidents",
+   "place": "pl:france",
+   "participants": [
+    "pl:france"
+   ],
+   "desc": "Europe's worst mining disaster",
+   "qid_auto": "Q1550228",
+   "qid": "Q1550228"
+  },
+  {
+   "id": "ev:messina-earthquake",
+   "he": "רעידת האדמה במסינה",
+   "en": "1908 Messina earthquake",
+   "en_alt": [],
+   "date": "1908-12-28",
+   "end": null,
+   "broader": "top:natural-disasters",
+   "place": "pl:italy",
+   "participants": [
+    "pl:italy"
+   ],
+   "desc": "earthquake and tsunami destroying Messina and Reggio",
+   "qid_auto": "Q1348910",
+   "qid": "Q1348910"
+  },
+  {
+   "id": "ev:sinking-of-titanic",
+   "he": "טביעת הטיטניק",
+   "en": "Sinking of the Titanic",
+   "en_alt": [
+    "Titanic"
+   ],
+   "date": "1912-04-15",
+   "end": null,
+   "broader": "top:accidents",
+   "place": null,
+   "participants": [
+    "pl:united-kingdom",
+    "pl:united-states"
+   ],
+   "desc": "sinking of RMS Titanic",
+   "qid_auto": "Q25173",
+   "qid": "Q2577588"
+  },
+  {
+   "id": "ev:paris-madrid-air-race",
+   "he": "תחרות הטיסה פריז–מדריד ומות שר המלחמה ברטו",
+   "en": "1911 Paris to Madrid air race",
+   "en_alt": [],
+   "date": "1911-05-21",
+   "end": "1911-05-26",
+   "broader": "top:aviation",
+   "place": "pl:france",
+   "participants": [
+    "pl:france",
+    "pl:spain"
+   ],
+   "desc": "air race whose start crash killed French war minister Maurice Berteaux",
+   "qid_auto": "Q3001411",
+   "qid": "Q3001411"
+  },
+  {
+   "id": "ev:halleys-comet-1910",
+   "he": "הופעת שביט האלי",
+   "en": "Halley's Comet",
+   "en_alt": [],
+   "date": "1910-05",
+   "end": null,
+   "broader": "top:science-archaeology",
+   "place": null,
+   "participants": [],
+   "desc": "1910 apparition of Halley's Comet",
+   "qid_auto": "Q23054",
+   "qid": "Q23054"
+  },
+  {
+   "id": "ev:sixth-cholera-pandemic",
+   "he": "מגפת הכולרה (1899–1923)",
+   "en": "1899–1923 cholera pandemic",
+   "en_alt": [
+    "Sixth cholera pandemic"
+   ],
+   "date": "1899",
+   "end": "1923",
+   "broader": "top:epidemics",
+   "place": null,
+   "participants": [
+    "pl:russian-empire",
+    "pl:ottoman-empire",
+    "pl:italy"
+   ],
+   "desc": "sixth cholera pandemic; major outbreaks in Russia 1908–1910 and among Ottoman troops 1911–1913",
+   "qid_auto": "Q7533201",
+   "qid": "Q7533201"
+  },
+  {
+   "id": "ev:brussels-exposition-1910",
+   "he": "התערוכה העולמית בבריסל",
+   "en": "Brussels International Exposition (1910)",
+   "en_alt": [],
+   "date": "1910-04-23",
+   "end": "1910-11-01",
+   "broader": "top:arts-entertainment",
+   "place": null,
+   "participants": [],
+   "desc": "world's fair in Brussels",
+   "qid_auto": null,
+   "qid": null
+  }
+ ]
+}

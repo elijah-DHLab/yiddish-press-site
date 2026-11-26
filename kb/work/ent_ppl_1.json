@@ -1,0 +1,8072 @@
+{
+ "entities": [
+  {
+   "id": "ppl:wilhelm-ii-german-emperor",
+   "he": "וילהלם השני",
+   "en": "Wilhelm II",
+   "desc": "German Emperor and King of Prussia 1888–1918",
+   "kind": "emperor",
+   "country": "pl:germany",
+   "en_alt": [
+    "Kaiser Wilhelm II"
+   ],
+   "keys": [
+    "וילהלם (הקייזר)",
+    "וילהלם (הקיסר)",
+    "קייזר גרמניה",
+    "וילהלם השני, הקייזר הגרמני",
+    "קייזר הגרמני",
+    "קיסר הגרמני",
+    "וילהלם (הקיסר הגרמני)",
+    "וילהלם הקיסר",
+    "וילהלם השני",
+    "קייזר וילהלם השני",
+    "קיסר וילהלם השני"
+   ],
+   "qid_auto": "Q2677",
+   "qid": "Q2677"
+  },
+  {
+   "id": "ppl:nicholas-ii-of-russia",
+   "he": "ניקולאי השני",
+   "en": "Nicholas II of Russia",
+   "desc": "Emperor of Russia 1894–1917",
+   "kind": "emperor",
+   "country": "pl:russian-empire",
+   "keys": [
+    "צאר (הקיסר)",
+    "קיסר הרוסי",
+    "צאר ניקולאי השני",
+    "קיסר ניקולאי השני"
+   ],
+   "qid_auto": "Q40787",
+   "qid": "Q40787"
+  },
+  {
+   "id": "ppl:edward-vii",
+   "he": "אדוארד השביעי",
+   "en": "Edward VII",
+   "desc": "King of the United Kingdom 1901–1910",
+   "kind": "king",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "מלך אדוארד",
+    "מלך האנגלי",
+    "מלך אדוארד השביעי"
+   ],
+   "qid_auto": "Q20875",
+   "qid": "Q20875"
+  },
+  {
+   "id": "ppl:george-v",
+   "he": "ג׳ורג׳ החמישי",
+   "en": "George V",
+   "desc": "King of the United Kingdom 1910–1936",
+   "kind": "king",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "מלך גורג",
+    "גורג החמישי"
+   ],
+   "qid_auto": "Q269412",
+   "qid": "Q269412"
+  },
+  {
+   "id": "ppl:oscar-ii",
+   "he": "אוסקר השני",
+   "en": "Oscar II",
+   "desc": "King of Sweden (1872–1907) and Norway (to 1905)",
+   "kind": "king",
+   "country": "pl:sweden",
+   "keys": [
+    "אוסקר (המלך)",
+    "מלך אוסקר"
+   ],
+   "qid_auto": "Q52924",
+   "qid": "Q52924"
+  },
+  {
+   "id": "ppl:alfonso-xiii",
+   "he": "אלפונסו השלושה עשר",
+   "en": "Alfonso XIII",
+   "desc": "King of Spain 1886–1931",
+   "kind": "king",
+   "country": "pl:spain",
+   "keys": [
+    "אלפונסו (המלך)",
+    "אלפונסו",
+    "מלך אלפונסו"
+   ],
+   "qid_auto": "Q18363",
+   "qid": "Q18363"
+  },
+  {
+   "id": "ppl:victor-emmanuel-iii",
+   "he": "ויטוריו אמנואלה השלישי",
+   "en": "Victor Emmanuel III",
+   "desc": "King of Italy 1900–1946",
+   "kind": "king",
+   "country": "pl:italy",
+   "keys": [
+    "מלך איטליה"
+   ],
+   "qid_auto": "Q150642",
+   "qid": "Q150642"
+  },
+  {
+   "id": "ppl:elena-of-montenegro",
+   "he": "אלנה ממונטנגרו",
+   "en": "Elena of Montenegro",
+   "desc": "Queen consort of Italy, wife of Victor Emmanuel III",
+   "kind": "queen",
+   "country": "pl:italy",
+   "keys": [
+    "מלכה אלנה"
+   ],
+   "qid_auto": "Q181530",
+   "qid": "Q181530"
+  },
+  {
+   "id": "ppl:albert-i-of-belgium",
+   "he": "אלבר הראשון, מלך בלגיה",
+   "en": "Albert I of Belgium",
+   "desc": "King of the Belgians 1909–1934",
+   "kind": "king",
+   "country": "pl:belgium",
+   "keys": [
+    "מלך אלברט"
+   ],
+   "qid_auto": "Q55008046",
+   "qid": "Q55008046"
+  },
+  {
+   "id": "ppl:frederick-augustus-iii-of-saxony",
+   "he": "פרידריך אוגוסט השלישי, מלך סקסוניה",
+   "en": "Frederick Augustus III of Saxony",
+   "desc": "last King of Saxony 1904–1918",
+   "kind": "king",
+   "country": "pl:germany",
+   "keys": [
+    "פרידריך אוגוסט"
+   ],
+   "qid_auto": null,
+   "qid": "Q57320"
+  },
+  {
+   "id": "ppl:gustaf-v",
+   "he": "גוסטב החמישי",
+   "en": "Gustaf V",
+   "desc": "King of Sweden 1907–1950",
+   "kind": "king",
+   "country": "pl:sweden",
+   "keys": [
+    "מלך גוסטב"
+   ],
+   "qid_auto": null,
+   "qid": "Q52890"
+  },
+  {
+   "id": "ppl:haakon-vii",
+   "he": "הוקון השביעי",
+   "en": "Haakon VII",
+   "desc": "King of Norway 1905–1957",
+   "kind": "king",
+   "country": "pl:norway",
+   "keys": [
+    "מלך האקון"
+   ],
+   "qid_auto": null,
+   "qid": "Q154927"
+  },
+  {
+   "id": "ppl:george-i-of-greece",
+   "he": "גאורגיוס הראשון, מלך יוון",
+   "en": "George I of Greece",
+   "desc": "King of Greece 1863–1913, assassinated in Salonica March 1913",
+   "kind": "king",
+   "country": "pl:greece",
+   "keys": [
+    "מלך גאורג",
+    "מלך גאורגיוס",
+    "מלך גאורגיוס הראשון"
+   ],
+   "qid_auto": "Q17142",
+   "qid": "Q17142"
+  },
+  {
+   "id": "ppl:prince-george-of-greece-and-denmark",
+   "he": "הנסיך גאורגיוס מיוון",
+   "en": "Prince George of Greece and Denmark",
+   "desc": "Greek prince, High Commissioner of Crete 1898–1906",
+   "kind": "prince",
+   "country": "pl:greece",
+   "keys": [
+    "נסיך גאורג",
+    "נסיך גאורגיוס"
+   ],
+   "qid_auto": "Q170396",
+   "qid": "Q170396"
+  },
+  {
+   "id": "ppl:grand-duchess-elena-vladimirovna-of-russia",
+   "he": "הדוכסית הגדולה ילנה ולדימירובנה",
+   "en": "Grand Duchess Elena Vladimirovna of Russia",
+   "desc": "Russian grand duchess, wife of Prince Nicholas of Greece",
+   "kind": "grand duchess",
+   "country": "pl:greece",
+   "keys": [
+    "נסיכה הגדולה אלנה"
+   ],
+   "qid_auto": "Q232483",
+   "qid": "Q232483"
+  },
+  {
+   "id": "ppl:ferdinand-i-of-bulgaria",
+   "he": "פרדיננד הראשון, צאר בולגריה",
+   "en": "Ferdinand I of Bulgaria",
+   "desc": "Prince (1887) and Tsar of Bulgaria 1908–1918",
+   "kind": "king",
+   "country": "pl:bulgaria",
+   "keys": [
+    "מלך בולגריה",
+    "פרדיננד הבולגרי"
+   ],
+   "qid_auto": "Q151667",
+   "qid": "Q151667"
+  },
+  {
+   "id": "ppl:boris-iii-of-bulgaria",
+   "he": "בוריס השלישי",
+   "en": "Boris III of Bulgaria",
+   "desc": "Crown prince of Bulgaria, later Tsar 1918–1943",
+   "kind": "prince",
+   "country": "pl:bulgaria",
+   "keys": [
+    "בוריס, הנסיך הבולגרי"
+   ],
+   "qid_auto": "Q159585",
+   "qid": "Q159585"
+  },
+  {
+   "id": "ppl:franz-joseph-i-of-austria",
+   "he": "פרנץ יוזף הראשון",
+   "en": "Franz Joseph I of Austria",
+   "desc": "Emperor of Austria and King of Hungary 1848–1916",
+   "kind": "emperor",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "קיסר האוסטרי"
+   ],
+   "qid_auto": "Q51056",
+   "qid": "Q51056"
+  },
+  {
+   "id": "ppl:archduke-franz-ferdinand-of-austria",
+   "he": "פרנץ פרדיננד, הארכידוכס של אוסטריה",
+   "en": "Archduke Franz Ferdinand of Austria",
+   "desc": "heir presumptive to the Austro-Hungarian throne, assassinated 1914",
+   "kind": "archduke",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "נסיך היורש האוסטרי"
+   ],
+   "qid_auto": null,
+   "qid": "Q43063"
+  },
+  {
+   "id": "ppl:princess-auguste-of-bavaria-1875-1964",
+   "he": "הארכידוכסית אוגוסטה",
+   "en": "Princess Auguste of Bavaria",
+   "desc": "Bavarian princess, Archduchess of Austria (wife of Archduke Joseph August)",
+   "kind": "archduchess",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "ארכידוכסית אוגוסטה"
+   ],
+   "qid_auto": "Q62267",
+   "qid": "Q62267"
+  },
+  {
+   "id": "ppl:wilhelm-german-crown-prince",
+   "he": "וילהלם, נסיך הכתר של גרמניה",
+   "en": "Wilhelm, German Crown Prince",
+   "desc": "German and Prussian crown prince 1888–1918",
+   "kind": "crown prince",
+   "country": "pl:germany",
+   "keys": [
+    "יורש העצר הגרמני",
+    "קרוןפרינץ הגרמני",
+    "נסיך וילהלם (יורש העצר הגרמני)",
+    "יורש העצר"
+   ],
+   "qid_auto": "Q57621",
+   "qid": "Q57621"
+  },
+  {
+   "id": "ppl:prince-adalbert-of-prussia-1884-1948",
+   "he": "הנסיך אדלברט מפרוסיה",
+   "en": "Prince Adalbert of Prussia",
+   "desc": "third son of Wilhelm II, naval officer",
+   "kind": "prince",
+   "country": "pl:germany",
+   "keys": [
+    "נסיך אדלברט"
+   ],
+   "qid_auto": null,
+   "qid": "Q50998"
+  },
+  {
+   "id": "ppl:prince-oskar-of-prussia",
+   "he": "הנסיך אוסקר מפרוסיה",
+   "en": "Prince Oskar of Prussia",
+   "desc": "fifth son of Wilhelm II, officer in WWI",
+   "kind": "prince",
+   "country": "pl:germany",
+   "keys": [
+    "אוסקר"
+   ],
+   "qid_auto": "Q61242",
+   "qid": "Q61242"
+  },
+  {
+   "id": "ppl:prince-henry-of-prussia",
+   "he": "הנסיך היינריך מפרוסיה",
+   "en": "Prince Henry of Prussia",
+   "desc": "brother of Wilhelm II, grand admiral",
+   "kind": "prince",
+   "country": "pl:germany",
+   "keys": [
+    "נסיך היינריך"
+   ],
+   "qid_auto": null,
+   "qid": "Q57569"
+  },
+  {
+   "id": "ppl:prince-albert-of-prussia-1837-1906",
+   "he": "הנסיך אלברכט מפרוסיה",
+   "en": "Prince Albert of Prussia (1837–1906)",
+   "desc": "Prussian field marshal, regent of Brunswick, died 1906",
+   "kind": "prince",
+   "country": "pl:germany",
+   "keys": [
+    "נסיך אלברכט"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:frederick-i-grand-duke-of-baden",
+   "he": "פרידריך הראשון, הדוכס הגדול של באדן",
+   "en": "Frederick I, Grand Duke of Baden",
+   "desc": "Grand Duke of Baden 1856–1907",
+   "kind": "grand duke",
+   "country": "pl:germany",
+   "keys": [
+    "פרידריך, הדוכס הגדול של באדן"
+   ],
+   "qid_auto": "Q57483",
+   "qid": "Q57483"
+  },
+  {
+   "id": "ppl:wilhelm-i",
+   "he": "וילהלם הראשון",
+   "en": "Wilhelm I",
+   "desc": "German Emperor 1871–1888",
+   "kind": "emperor",
+   "country": "pl:germany",
+   "keys": [
+    "קיסר וילהלם הראשון"
+   ],
+   "qid_auto": "Q150652",
+   "qid": "Q150652"
+  },
+  {
+   "id": "ppl:alexandra-feodorovna-alix-of-hesse",
+   "he": "אלכסנדרה פיודורובנה",
+   "en": "Alexandra Feodorovna (Alix of Hesse)",
+   "desc": "Empress consort of Russia, wife of Nicholas II",
+   "kind": "empress",
+   "country": "pl:russian-empire",
+   "keys": [
+    "קיסרית אלכסנדרה"
+   ],
+   "qid_auto": "Q152094",
+   "qid": "Q152094"
+  },
+  {
+   "id": "ppl:empress-dowager-cixi",
+   "he": "הקיסרית האלמנה צישי",
+   "en": "Empress Dowager Cixi",
+   "desc": "Empress Dowager of China, de facto ruler until 1908",
+   "kind": "empress",
+   "country": "pl:china",
+   "keys": [
+    "קיסרית האלמנה"
+   ],
+   "qid_auto": "Q47842",
+   "qid": "Q47842"
+  },
+  {
+   "id": "ppl:grand-duke-alexei-alexandrovich-of-russia",
+   "he": "הדוכס הגדול אלכסיי אלכסנדרוביץ׳",
+   "en": "Grand Duke Alexei Alexandrovich of Russia",
+   "desc": "Russian grand duke and admiral (d. 1908)",
+   "kind": "grand duke",
+   "country": "pl:russian-empire",
+   "keys": [
+    "דוכס הגדול אלכסיי אלכסנדרוביץ"
+   ],
+   "qid_auto": "Q315726",
+   "qid": "Q315726"
+  },
+  {
+   "id": "ppl:grand-duke-michael-alexandrovich-of-russia",
+   "he": "הדוכס הגדול מיכאיל אלכסנדרוביץ׳",
+   "en": "Grand Duke Michael Alexandrovich of Russia",
+   "desc": "younger brother of Nicholas II",
+   "kind": "grand duke",
+   "country": "pl:russian-empire",
+   "keys": [
+    "דוכס הגדול מיכאיל אלכסנדרוביץ"
+   ],
+   "qid_auto": "Q154444",
+   "qid": "Q154444"
+  },
+  {
+   "id": "ppl:grand-duke-sergei-alexandrovich-of-russia",
+   "he": "הדוכס הגדול סרגיי אלכסנדרוביץ׳",
+   "en": "Grand Duke Sergei Alexandrovich of Russia",
+   "desc": "governor-general of Moscow, assassinated Feb 1905",
+   "kind": "grand duke",
+   "country": "pl:russian-empire",
+   "keys": [
+    "נסיך הגדול סרגיי אלכסנדרוביץ"
+   ],
+   "qid_auto": "Q248900",
+   "qid": "Q248900"
+  },
+  {
+   "id": "ppl:grand-duchess-xenia-alexandrovna-of-russia",
+   "he": "הדוכסית הגדולה קסניה אלכסנדרובנה",
+   "en": "Grand Duchess Xenia Alexandrovna of Russia",
+   "desc": "sister of Nicholas II",
+   "kind": "grand duchess",
+   "country": "pl:russian-empire",
+   "keys": [
+    "דוכסית הגדולה קסניה אלכסנדרובנה"
+   ],
+   "qid_auto": "Q165113",
+   "qid": "Q165113"
+  },
+  {
+   "id": "ppl:alexei-petrovich-tsarevich-of-russia",
+   "he": "אלכסיי פטרוביץ׳",
+   "en": "Alexei Petrovich, Tsarevich of Russia",
+   "desc": "son of Peter the Great, died in the Peter and Paul Fortress 1718",
+   "kind": "tsarevich",
+   "country": "pl:russian-empire",
+   "keys": [
+    "צארביץ אלכסיי"
+   ],
+   "qid_auto": null,
+   "qid": "Q313319"
+  },
+  {
+   "id": "ppl:princess-helen-of-serbia",
+   "he": "הנסיכה ילנה מסרביה",
+   "en": "Princess Helen of Serbia",
+   "desc": "Serbian princess, married Prince Ioann Konstantinovich of Russia 1911",
+   "kind": "princess",
+   "country": "pl:serbia",
+   "keys": [
+    "נסיכה הלנה"
+   ],
+   "qid_auto": "Q242284",
+   "qid": "Q242284"
+  },
+  {
+   "id": "ppl:alexander-i-of-yugoslavia",
+   "he": "אלכסנדר הראשון, מלך יוגוסלביה",
+   "en": "Alexander I of Yugoslavia",
+   "desc": "Crown Prince Alexander Karađorđević of Serbia (from 1909), later king",
+   "kind": "crown prince",
+   "country": "pl:serbia",
+   "keys": [
+    "אלכסנדר קארה גאורגייביץ",
+    "קארה גאורגייביץ"
+   ],
+   "qid_auto": "Q207384",
+   "qid": "Q207384"
+  },
+  {
+   "id": "ppl:karadorde",
+   "he": "קרה גאורגי",
+   "en": "Karađorđe",
+   "desc": "Karađorđe Petrović, leader of the First Serbian Uprising (1804)",
+   "kind": "revolutionary leader",
+   "country": "pl:serbia",
+   "keys": [
+    "קרא גאורגביץ",
+    "קרא גאורגי (גאורגי השחור)"
+   ],
+   "qid_auto": null,
+   "qid": "Q315172"
+  },
+  {
+   "id": "ppl:milos-obrenovic",
+   "he": "מילוש אוברנוביץ׳",
+   "en": "Miloš Obrenović",
+   "desc": "Prince of Serbia 1815–1839 and 1858–1860",
+   "kind": "prince",
+   "country": "pl:serbia",
+   "keys": [
+    "מילוש אברנוביץ"
+   ],
+   "qid_auto": "Q12755452",
+   "qid": null
+  },
+  {
+   "id": "ppl:danilo-crown-prince-of-montenegro",
+   "he": "דנילו, נסיך הכתר של מונטנגרו",
+   "en": "Danilo, Crown Prince of Montenegro",
+   "desc": "crown prince of Montenegro",
+   "kind": "crown prince",
+   "country": "pl:montenegro",
+   "keys": [
+    "נסיך דנילו"
+   ],
+   "qid_auto": "Q721995",
+   "qid": "Q721995"
+  },
+  {
+   "id": "ppl:prince-wilhelm-duke-of-sodermanland",
+   "he": "הנסיך וילהלם, דוכס סודרמנלנד",
+   "en": "Prince Wilhelm, Duke of Södermanland",
+   "desc": "Swedish prince, son of Gustaf V",
+   "kind": "prince",
+   "country": "pl:sweden",
+   "keys": [
+    "נסיך וילהלם השוודי"
+   ],
+   "qid_auto": "Q435739",
+   "qid": "Q435739"
+  },
+  {
+   "id": "ppl:umberto-i-of-italy",
+   "he": "אומברטו הראשון",
+   "en": "Umberto I of Italy",
+   "desc": "King of Italy 1878–1900",
+   "kind": "king",
+   "country": "pl:italy",
+   "keys": [
+    "ומברטו הראשון"
+   ],
+   "qid_auto": "Q153688",
+   "qid": "Q153688"
+  },
+  {
+   "id": "ppl:emperor-meiji",
+   "he": "הקיסר מייג׳י",
+   "en": "Emperor Meiji",
+   "desc": "Emperor of Japan 1867–1912",
+   "kind": "emperor",
+   "country": "pl:japan",
+   "keys": [
+    "קיסר היפני"
+   ],
+   "qid_auto": "Q174231",
+   "qid": "Q174231"
+  },
+  {
+   "id": "ppl:prince-arisugawa-takehito",
+   "he": "הנסיך אריסוגאווה טאקהיטו",
+   "en": "Prince Arisugawa Takehito",
+   "desc": "Japanese prince and admiral, visited Europe 1905",
+   "kind": "prince",
+   "country": "pl:japan",
+   "keys": [
+    "נסיך אריסוגאווה"
+   ],
+   "qid_auto": "Q875481",
+   "qid": "Q875481"
+  },
+  {
+   "id": "ppl:abbas-ii-of-egypt",
+   "he": "עבאס חילמי השני",
+   "en": "Abbas II of Egypt",
+   "desc": "Khedive of Egypt 1892–1914",
+   "kind": "khedive",
+   "country": "pl:egypt",
+   "keys": [
+    "חדיב המצרי",
+    "חדיו המצרי"
+   ],
+   "qid_auto": "Q157159",
+   "qid": "Q157159"
+  },
+  {
+   "id": "ppl:abdulahad-khan",
+   "he": "עבד אל-אחד חאן",
+   "en": "Abdulahad Khan",
+   "desc": "Emir of Bukhara 1885–1910",
+   "kind": "emir",
+   "keys": [
+    "אמיר בוכרה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:lij-iyasu",
+   "he": "לי׳ג׳ איאסו",
+   "en": "Lij Iyasu",
+   "desc": "designated heir and uncrowned Emperor of Ethiopia 1913–1916",
+   "kind": "emperor",
+   "keys": [
+    "ליג יאסו (נגוס)"
+   ],
+   "qid_auto": "Q379889",
+   "qid": "Q379889"
+  },
+  {
+   "id": "ppl:behanzin",
+   "he": "בהנזין",
+   "en": "Béhanzin",
+   "desc": "last King of Dahomey, exiled by France",
+   "kind": "king",
+   "keys": [
+    "בהאנזין"
+   ],
+   "qid_auto": "Q2366953",
+   "qid": "Q2366953"
+  },
+  {
+   "id": "ppl:mohammad-ali-shah-qajar",
+   "he": "מוחמד עלי שאה",
+   "en": "Mohammad Ali Shah Qajar",
+   "desc": "Shah of Persia 1907–1909",
+   "kind": "shah",
+   "country": "pl:persia",
+   "keys": [
+    "שאה הפרסי",
+    "שאה (שאה הפרסי)"
+   ],
+   "qid_auto": "Q355603",
+   "qid": "Q355603"
+  },
+  {
+   "id": "ppl:malek-mansur-mirza-shoa-os-saltaneh",
+   "he": "שעאע א-סלטנה",
+   "en": "Malek Mansur Mirza Shoa os-Saltaneh",
+   "desc": "Qajar prince, brother of Mohammad Ali Shah",
+   "kind": "prince",
+   "country": "pl:persia",
+   "keys": [
+    "שעאע אס סלטנה, אחי השאה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:abdul-hamid-ii",
+   "he": "עבדול חמיד השני",
+   "en": "Abdul Hamid II",
+   "desc": "Ottoman Sultan 1876–1909",
+   "kind": "sultan",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "סולטאן הטורקי",
+    "סולטאן העותמאני",
+    "סולטאן עבדול חמיד השני"
+   ],
+   "qid_auto": "Q134817",
+   "qid": "Q134817"
+  },
+  {
+   "id": "ppl:mehmed-v",
+   "he": "מהמט החמישי",
+   "en": "Mehmed V",
+   "desc": "Ottoman Sultan 1909–1918 (Mehmed Reşad)",
+   "kind": "sultan",
+   "country": "pl:ottoman-empire",
+   "en_alt": [
+    "Mehmed Reşad"
+   ],
+   "keys": [
+    "רשאד אפנדי",
+    "סולטאן החדש",
+    "מחמד (הסולטאן החדש)",
+    "מחמד החמישי",
+    "סולטאן מחמד החמישי",
+    "רשיד (אחי הסולטאן)"
+   ],
+   "qid_auto": "Q151494",
+   "qid": "Q151494"
+  },
+  {
+   "id": "ppl:burhaneddin-efendi",
+   "he": "בורהאנדין אפנדי",
+   "en": "Burhaneddin Efendi",
+   "desc": "Ottoman prince, son of Abdul Hamid II",
+   "kind": "prince",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "בורהאן א דין"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:prince-sabahaddin",
+   "he": "הנסיך סבאחדין",
+   "en": "Prince Sabahaddin",
+   "desc": "Ottoman prince and Young Turk liberal leader",
+   "kind": "prince",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "נסיך סבאח א דין"
+   ],
+   "qid_auto": "Q2110643",
+   "qid": "Q2110643"
+  },
+  {
+   "id": "ppl:abdelaziz-of-morocco",
+   "he": "עבד אל-עזיז",
+   "en": "Abdelaziz of Morocco",
+   "desc": "Sultan of Morocco 1894–1908",
+   "kind": "sultan",
+   "country": "pl:morocco",
+   "keys": [],
+   "qid_auto": "Q307132",
+   "qid": "Q307132"
+  },
+  {
+   "id": "ppl:abd-al-hafid",
+   "he": "עבד אל-חפיד",
+   "en": "Abd al-Hafid of Morocco",
+   "desc": "Sultan of Morocco 1908–1912",
+   "kind": "sultan",
+   "country": "pl:morocco",
+   "keys": [],
+   "qid_auto": "Q276936",
+   "qid": "Q276936"
+  },
+  {
+   "id": "ppl:moulay-al-amin",
+   "he": "מולאי אל-אמין",
+   "en": "Moulay al-Amin",
+   "desc": "Moroccan sharif, uncle of Sultan Abdelaziz, khalifa in the Chaouia 1907",
+   "kind": "sharif",
+   "country": "pl:morocco",
+   "keys": [
+    "מולאי אל עין (השריף)",
+    "מולאי אל אמין"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:moulay-ismail-1911-claimant",
+   "he": "מולאי אסמאעיל",
+   "en": "Moulay Ismail (1911)",
+   "desc": "Moroccan prince, brother of Sultan Abd al-Hafid, named as rebel candidate for the throne in 1911",
+   "kind": "prince",
+   "country": "pl:morocco",
+   "keys": [
+    "מולאי אסמאעיל",
+    "שמעאל (אחי הסולטאן)"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:ba-ahmed",
+   "he": "בא אחמד",
+   "en": "Ba Ahmed",
+   "desc": "Ahmad ibn Musa, grand vizier and regent of Morocco (d. 1900)",
+   "kind": "grand vizier",
+   "country": "pl:morocco",
+   "keys": [
+    "בו אחמד (הווזיר הגדול)"
+   ],
+   "qid_auto": "Q125829",
+   "qid": "Q125829"
+  },
+  {
+   "id": "ppl:pope-pius-x",
+   "he": "האפיפיור פיוס העשירי",
+   "en": "Pope Pius X",
+   "desc": "Pope 1903–1914",
+   "kind": "pope",
+   "country": "pl:vatican-city",
+   "keys": [
+    "אפיפיור",
+    "אפיפיור פיוס העשירי",
+    "פאפא (פיוס העשירי)"
+   ],
+   "qid_auto": null,
+   "qid": "Q43739"
+  },
+  {
+   "id": "ppl:rafael-merry-del-val",
+   "he": "רפאל מרי דל ואל",
+   "en": "Rafael Merry del Val",
+   "desc": "cardinal, Vatican Secretary of State 1903–1914",
+   "kind": "cardinal",
+   "country": "pl:vatican-city",
+   "keys": [
+    "קרדינל דל ואל"
+   ],
+   "qid_auto": "Q507540",
+   "qid": "Q507540"
+  },
+  {
+   "id": "ppl:pope-sixtus-iv",
+   "he": "האפיפיור סיקסטוס הרביעי",
+   "en": "Pope Sixtus IV",
+   "desc": "Pope 1471–1484",
+   "kind": "pope",
+   "country": "pl:vatican-city",
+   "keys": [
+    "אפיפיור סיקסטוס הרביעי"
+   ],
+   "qid_auto": null,
+   "qid": "Q163514"
+  },
+  {
+   "id": "ppl:louis-xvi",
+   "he": "לואי השישה עשר",
+   "en": "Louis XVI",
+   "desc": "King of France 1774–1792",
+   "kind": "king",
+   "country": "pl:france",
+   "keys": [
+    "לואי ה 16"
+   ],
+   "qid_auto": "Q11044717",
+   "qid": "Q7732"
+  },
+  {
+   "id": "ppl:peter-the-great",
+   "he": "פטר הגדול",
+   "en": "Peter the Great",
+   "desc": "Tsar and Emperor of Russia 1682–1725",
+   "kind": "emperor",
+   "country": "pl:russian-empire",
+   "keys": [
+    "פטר הגדול",
+    "פיוטר הראשון"
+   ],
+   "qid_auto": null,
+   "qid": "Q8479"
+  },
+  {
+   "id": "ppl:catherine-i-of-russia",
+   "he": "יקטרינה הראשונה",
+   "en": "Catherine I of Russia",
+   "desc": "Empress of Russia 1725–1727",
+   "kind": "empress",
+   "country": "pl:russian-empire",
+   "keys": [
+    "צארית קתרינה הראשונה",
+    "קתרינה הראשונה"
+   ],
+   "qid_auto": null,
+   "qid": "Q15208"
+  },
+  {
+   "id": "ppl:catherine-the-great",
+   "he": "יקטרינה הגדולה",
+   "en": "Catherine the Great",
+   "desc": "Empress of Russia 1762–1796",
+   "kind": "empress",
+   "country": "pl:russian-empire",
+   "keys": [
+    "קתרין השנייה",
+    "קתרינה השנייה"
+   ],
+   "qid_auto": null,
+   "qid": "Q36450"
+  },
+  {
+   "id": "ppl:nicholas-i-of-russia",
+   "he": "ניקולאי הראשון",
+   "en": "Nicholas I of Russia",
+   "desc": "Emperor of Russia 1825–1855",
+   "kind": "emperor",
+   "country": "pl:russian-empire",
+   "keys": [
+    "ניקולאי הראשון"
+   ],
+   "qid_auto": "Q130734",
+   "qid": "Q130734"
+  },
+  {
+   "id": "ppl:alexander-ii-of-russia",
+   "he": "אלכסנדר השני",
+   "en": "Alexander II of Russia",
+   "desc": "Emperor of Russia 1855–1881",
+   "kind": "emperor",
+   "country": "pl:russian-empire",
+   "keys": [
+    "אלכסנדר השני",
+    "קיסר אלכסנדר השני"
+   ],
+   "qid_auto": "Q83171",
+   "qid": "Q83171"
+  },
+  {
+   "id": "ppl:alexander-iii-of-russia",
+   "he": "אלכסנדר השלישי",
+   "en": "Alexander III of Russia",
+   "desc": "Emperor of Russia 1881–1894",
+   "kind": "emperor",
+   "country": "pl:russian-empire",
+   "keys": [
+    "אלכסנדר השלישי",
+    "צאר אלכסנדר השלישי",
+    "קיסר אלכסנדר השלישי"
+   ],
+   "qid_auto": "Q120180",
+   "qid": "Q120180"
+  },
+  {
+   "id": "ppl:napoleon",
+   "he": "נפוליאון בונפרטה",
+   "en": "Napoleon",
+   "desc": "Napoleon I, Emperor of the French",
+   "kind": "emperor",
+   "country": "pl:france",
+   "keys": [
+    "נפוליאון הראשון"
+   ],
+   "qid_auto": null,
+   "qid": "Q517"
+  },
+  {
+   "id": "ppl:napoleon-iii",
+   "he": "נפוליאון השלישי",
+   "en": "Napoleon III",
+   "desc": "Emperor of the French 1852–1870",
+   "kind": "emperor",
+   "country": "pl:france",
+   "keys": [
+    "נפוליאון השלישי"
+   ],
+   "qid_auto": "Q7721",
+   "qid": "Q7721"
+  },
+  {
+   "id": "ppl:joseph-ii-holy-roman-emperor",
+   "he": "יוזף השני",
+   "en": "Joseph II, Holy Roman Emperor",
+   "desc": "Holy Roman Emperor 1765–1790",
+   "kind": "emperor",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "יוזף השני"
+   ],
+   "qid_auto": null,
+   "qid": "Q76555"
+  },
+  {
+   "id": "ppl:charles-vi-holy-roman-emperor",
+   "he": "קרל השישי",
+   "en": "Charles VI, Holy Roman Emperor",
+   "desc": "Holy Roman Emperor 1711–1740",
+   "kind": "emperor",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "קיסר קארל השישי"
+   ],
+   "qid_auto": null,
+   "qid": "Q150665"
+  },
+  {
+   "id": "ppl:charlemagne",
+   "he": "קרל הגדול",
+   "en": "Charlemagne",
+   "desc": "King of the Franks, Emperor (d. 814)",
+   "kind": "emperor",
+   "keys": [
+    "קרל הגדול"
+   ],
+   "qid_auto": null,
+   "qid": "Q3044"
+  },
+  {
+   "id": "ppl:casimir-iii-the-great",
+   "he": "קז׳ימייז׳ השלישי הגדול",
+   "en": "Casimir III the Great",
+   "desc": "King of Poland 1333–1370",
+   "kind": "king",
+   "country": "pl:poland",
+   "keys": [
+    "קזימיר הגדול"
+   ],
+   "qid_auto": null,
+   "qid": "Q53457"
+  },
+  {
+   "id": "ppl:alfonso-vi-of-leon-and-castile",
+   "he": "אלפונסו השישי",
+   "en": "Alfonso VI of León and Castile",
+   "desc": "King of León and Castile (11th c.)",
+   "kind": "king",
+   "country": "pl:spain",
+   "keys": [
+    "אלפונסו השישי"
+   ],
+   "qid_auto": null,
+   "qid": "Q235080"
+  },
+  {
+   "id": "ppl:selim-ii",
+   "he": "סלים השני",
+   "en": "Selim II",
+   "desc": "Ottoman Sultan 1566–1574",
+   "kind": "sultan",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "סולטאן סלים השני"
+   ],
+   "qid_auto": null,
+   "qid": "Q161872"
+  },
+  {
+   "id": "ppl:saladin",
+   "he": "צלאח א-דין",
+   "en": "Saladin",
+   "desc": "Ayyubid sultan of Egypt and Syria (d. 1193), buried in Damascus",
+   "kind": "sultan",
+   "keys": [
+    "צלאח א דין"
+   ],
+   "qid_auto": null,
+   "qid": "Q8581"
+  },
+  {
+   "id": "ppl:gregory-the-illuminator",
+   "he": "גריגוריוס המאיר",
+   "en": "Gregory the Illuminator",
+   "desc": "patron saint of the Armenian Church",
+   "kind": "saint",
+   "keys": [
+    "גריגורי המאיר של ארמניה"
+   ],
+   "qid_auto": null,
+   "qid": "Q309953"
+  },
+  {
+   "id": "ppl:joan-of-arc",
+   "he": "ז׳אן ד׳ארק",
+   "en": "Joan of Arc",
+   "desc": "French national heroine (d. 1431)",
+   "kind": "saint",
+   "country": "pl:france",
+   "keys": [
+    "זאן דארק"
+   ],
+   "qid_auto": null,
+   "qid": "Q7226"
+  },
+  {
+   "id": "ppl:ahasuerus",
+   "he": "אחשוורוש",
+   "en": "Ahasuerus",
+   "desc": "king of Persia in the Book of Esther",
+   "kind": "biblical figure",
+   "keys": [
+    "אחשורוש"
+   ],
+   "qid_auto": "Q19668304",
+   "qid": null
+  },
+  {
+   "id": "ppl:abraham",
+   "he": "אברהם אבינו",
+   "en": "Abraham",
+   "desc": "biblical patriarch",
+   "kind": "biblical figure",
+   "keys": [
+    "אברהם"
+   ],
+   "qid_auto": null,
+   "qid": "Q9181"
+  },
+  {
+   "id": "ppl:rachel",
+   "he": "רחל אמנו",
+   "en": "Rachel",
+   "desc": "biblical matriarch",
+   "kind": "biblical figure",
+   "keys": [
+    "רחל אמנו"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:solomon",
+   "he": "שלמה המלך",
+   "en": "Solomon",
+   "desc": "biblical King of Israel",
+   "kind": "biblical figure",
+   "keys": [
+    "שלמה המלך"
+   ],
+   "qid_auto": null,
+   "qid": "Q37085"
+  },
+  {
+   "id": "ppl:elijah",
+   "he": "אליהו הנביא",
+   "en": "Elijah",
+   "desc": "biblical prophet",
+   "kind": "biblical figure",
+   "keys": [
+    "אליהו הנביא"
+   ],
+   "qid_auto": null,
+   "qid": "Q133507"
+  },
+  {
+   "id": "ppl:laban-biblical-figure",
+   "he": "לבן הארמי",
+   "en": "Laban (Bible)",
+   "desc": "biblical figure, father of Rachel and Leah",
+   "kind": "biblical figure",
+   "keys": [
+    "לבן הארמי"
+   ],
+   "qid_auto": null,
+   "qid": "Q840401"
+  },
+  {
+   "id": "ppl:antigonus-ii-mattathias",
+   "he": "מתתיהו אנטיגונוס",
+   "en": "Antigonus II Mattathias",
+   "desc": "last Hasmonean king (d. 37 BCE); character in M. M. Dolitzky’s serialized novel",
+   "kind": "king",
+   "keys": [
+    "אנטיגנוס"
+   ],
+   "qid_auto": null,
+   "qid": "Q359687"
+  },
+  {
+   "id": "ppl:antiochus-iv-epiphanes",
+   "he": "אנטיוכוס הרביעי",
+   "en": "Antiochus IV Epiphanes",
+   "desc": "Seleucid king; figure in a serialized Hasmonean-era novel (1917)",
+   "kind": "king",
+   "keys": [
+    "אנטיוכוס"
+   ],
+   "qid_auto": null,
+   "qid": "Q3356"
+  },
+  {
+   "id": "ppl:isaac-abravanel",
+   "he": "יצחק אברבנאל",
+   "en": "Isaac Abravanel",
+   "desc": "Jewish statesman and biblical commentator (1437–1508)",
+   "kind": "scholar",
+   "keys": [
+    "אברבנאל"
+   ],
+   "qid_auto": null,
+   "qid": "Q319902"
+  },
+  {
+   "id": "ppl:judah-halevi",
+   "he": "יהודה הלוי",
+   "en": "Judah Halevi",
+   "desc": "medieval Hebrew poet and philosopher",
+   "kind": "poet",
+   "keys": [
+    "יהודה הלוי"
+   ],
+   "qid_auto": null,
+   "qid": "Q299200"
+  },
+  {
+   "id": "ppl:uriel-da-costa",
+   "he": "אוריאל דה קוסטה",
+   "en": "Uriel da Costa",
+   "desc": "Portuguese-Dutch Jewish freethinker (d. 1640)",
+   "kind": "philosopher",
+   "country": "pl:netherlands",
+   "keys": [
+    "אוריאל אקוסטה"
+   ],
+   "qid_auto": null,
+   "qid": "Q347893"
+  },
+  {
+   "id": "ppl:alexei-grigoryevich-orlov",
+   "he": "אלכסיי גריגוריביץ׳ אורלוב",
+   "en": "Alexei Grigoryevich Orlov",
+   "desc": "Russian count and admiral under Catherine II",
+   "kind": "count",
+   "country": "pl:russian-empire",
+   "keys": [
+    "אלכסיי אורלוב"
+   ],
+   "qid_auto": null,
+   "qid": "Q454884"
+  },
+  {
+   "id": "ppl:father-thomas-damascus",
+   "he": "האב תומאס",
+   "en": "Father Thomas (Damascus)",
+   "desc": "Capuchin friar whose disappearance triggered the 1840 Damascus blood libel",
+   "kind": "priest",
+   "country": "pl:syria",
+   "keys": [
+    "תומאס (הכומר הקתולי)"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:armand-fallieres",
+   "he": "ארמן פאלייר",
+   "en": "Armand Fallières",
+   "desc": "President of France 1906–1913",
+   "kind": "president",
+   "country": "pl:france",
+   "keys": [
+    "פוליאה (פואנקרה)",
+    "פאליֶר (פליאר)",
+    "פאליֶר (ארמן פאליֶר), נשיא הרפובליקה הצרפתית"
+   ],
+   "qid_auto": "Q296673",
+   "qid": "Q296673"
+  },
+  {
+   "id": "ppl:theophile-delcasse",
+   "he": "תאופיל דלקאסה",
+   "en": "Théophile Delcassé",
+   "desc": "French foreign minister 1898–1905, naval minister 1911–13",
+   "kind": "minister",
+   "country": "pl:france",
+   "keys": [
+    "דלקאסה",
+    "דלקסה"
+   ],
+   "qid_auto": "Q503827",
+   "qid": "Q503827"
+  },
+  {
+   "id": "ppl:aristide-briand",
+   "he": "אריסטיד בריאן",
+   "en": "Aristide Briand",
+   "desc": "French statesman, prime minister 1909–1911, 1913, 1915–1917",
+   "kind": "prime minister",
+   "country": "pl:france",
+   "keys": [
+    "בריאן"
+   ],
+   "qid_auto": "Q179888",
+   "qid": "Q179888"
+  },
+  {
+   "id": "ppl:leon-bourgeois",
+   "he": "לאון בורז׳ואה",
+   "en": "Léon Bourgeois",
+   "desc": "French statesman, foreign minister 1906",
+   "kind": "minister",
+   "country": "pl:france",
+   "keys": [
+    "בורזואה"
+   ],
+   "qid_auto": "Q217706",
+   "qid": "Q217706"
+  },
+  {
+   "id": "ppl:henri-brisson",
+   "he": "אנרי בריסון",
+   "en": "Henri Brisson",
+   "desc": "French politician, President of the Chamber of Deputies",
+   "kind": "politician",
+   "country": "pl:france",
+   "keys": [
+    "בריסון"
+   ],
+   "qid_auto": "Q669725",
+   "qid": "Q669725"
+  },
+  {
+   "id": "ppl:maurice-berteaux",
+   "he": "מוריס ברטו",
+   "en": "Maurice Berteaux",
+   "desc": "French war minister, killed in an air accident 21 May 1911",
+   "kind": "minister",
+   "country": "pl:france",
+   "keys": [
+    "ברתו",
+    "ברטו (שר המלחמה)"
+   ],
+   "qid_auto": "Q3300415",
+   "qid": "Q3300415"
+  },
+  {
+   "id": "ppl:georges-picquart",
+   "he": "ז׳ורז׳ פיקאר",
+   "en": "Georges Picquart",
+   "desc": "French general, war minister 1906–1909",
+   "kind": "minister",
+   "country": "pl:france",
+   "keys": [
+    "פיקאר (שר המלחמה)"
+   ],
+   "qid_auto": "Q717539",
+   "qid": "Q717539"
+  },
+  {
+   "id": "ppl:paul-deschanel",
+   "he": "פול דשנל",
+   "en": "Paul Deschanel",
+   "desc": "French politician, President of the Chamber of Deputies",
+   "kind": "politician",
+   "country": "pl:france",
+   "keys": [
+    "דשאנל"
+   ],
+   "qid_auto": "Q309995",
+   "qid": "Q309995"
+  },
+  {
+   "id": "ppl:gabriel-hanotaux",
+   "he": "גבריאל אנוטו",
+   "en": "Gabriel Hanotaux",
+   "desc": "French historian and former foreign minister",
+   "kind": "politician",
+   "country": "pl:france",
+   "keys": [
+    "אנוטו"
+   ],
+   "qid_auto": "Q956253",
+   "qid": "Q956253"
+  },
+  {
+   "id": "ppl:leon-gambetta",
+   "he": "לאון גמבטה",
+   "en": "Léon Gambetta",
+   "desc": "French republican statesman (d. 1882)",
+   "kind": "politician",
+   "country": "pl:france",
+   "keys": [
+    "גמבטה"
+   ],
+   "qid_auto": "Q295090",
+   "qid": "Q295090"
+  },
+  {
+   "id": "ppl:louis-andre",
+   "he": "לואי אנדרה",
+   "en": "Louis André",
+   "desc": "French general, former war minister",
+   "kind": "general",
+   "country": "pl:france",
+   "keys": [
+    "גנרל אנדרה"
+   ],
+   "qid_auto": "Q666579",
+   "qid": "Q666579"
+  },
+  {
+   "id": "ppl:paul-henri-balluet-destournelles-de-constant",
+   "he": "פול ד'אסטורנל דה קונסטן",
+   "en": "Paul Henri Balluet d’Estournelles de Constant",
+   "desc": "French diplomat and senator, Nobel Peace laureate 1909",
+   "kind": "politician",
+   "country": "pl:france",
+   "keys": [
+    "דסטורנל"
+   ],
+   "qid_auto": null,
+   "qid": "Q238731"
+  },
+  {
+   "id": "ppl:edouard-vaillant",
+   "he": "אדואר ויאן",
+   "en": "Édouard Vaillant",
+   "desc": "French socialist deputy",
+   "kind": "socialist",
+   "country": "pl:france",
+   "keys": [
+    "וויאן"
+   ],
+   "qid_auto": "Q274464",
+   "qid": "Q274464"
+  },
+  {
+   "id": "ppl:gustave-herve",
+   "he": "גוסטב ארווה",
+   "en": "Gustave Hervé",
+   "desc": "French antimilitarist socialist journalist",
+   "kind": "journalist",
+   "country": "pl:france",
+   "keys": [
+    "גוסטב ארווה"
+   ],
+   "qid_auto": "Q764182",
+   "qid": "Q764182"
+  },
+  {
+   "id": "ppl:jean-dupuy-politician",
+   "he": "ז׳אן דופי",
+   "en": "Jean Dupuy",
+   "desc": "French senator and owner of Le Petit Parisien",
+   "kind": "politician",
+   "country": "pl:france",
+   "keys": [
+    "דופי",
+    "זאן דופי"
+   ],
+   "qid_auto": "Q3171883",
+   "qid": "Q3171883"
+  },
+  {
+   "id": "ppl:maurice-bompard",
+   "he": "מוריס בומפאר",
+   "en": "Maurice Bompard",
+   "desc": "French ambassador in Constantinople 1909–1914",
+   "kind": "diplomat",
+   "country": "pl:france",
+   "keys": [
+    "בומפאר"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:francis-bertie-1st-viscount-bertie-of-thame",
+   "he": "פרנסיס ברטי",
+   "en": "Francis Bertie, 1st Viscount Bertie of Thame",
+   "desc": "British ambassador in Paris 1905–1918",
+   "kind": "diplomat",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "ברטי",
+    "פרנסיס ברטי"
+   ],
+   "qid_auto": "Q5480230",
+   "qid": "Q5480230"
+  },
+  {
+   "id": "ppl:antoine-drude",
+   "he": "אנטואן דרוד",
+   "en": "Antoine Drude",
+   "desc": "French general commanding at Casablanca 1907",
+   "kind": "general",
+   "country": "pl:france",
+   "keys": [
+    "גנרל דרוד",
+    "גנרל דריד",
+    "גנרל דריוד"
+   ],
+   "qid_auto": "Q27038657",
+   "qid": "Q27038657"
+  },
+  {
+   "id": "ppl:albert-damade",
+   "he": "אלבר ד'אמאד",
+   "en": "Albert d’Amade",
+   "desc": "French general, commander in Morocco 1908",
+   "kind": "general",
+   "country": "pl:france",
+   "keys": [
+    "גנרל דאמאד"
+   ],
+   "qid_auto": null,
+   "qid": "Q2478026"
+  },
+  {
+   "id": "ppl:edouard-bremond",
+   "he": "אדואר ברמון",
+   "en": "Édouard Brémond",
+   "desc": "French major, instructor of the Sharifian army at Fez 1911",
+   "kind": "officer",
+   "country": "pl:france",
+   "keys": [
+    "מייגור ברטנד",
+    "מייגור ברמונד",
+    "מאיור ברמן"
+   ],
+   "qid_auto": "Q3579761",
+   "qid": "Q3579761"
+  },
+  {
+   "id": "ppl:colonel-brulard",
+   "he": "קולונל ברולר",
+   "en": "Colonel Brulard",
+   "desc": "French colonel sent to relieve Meknes/Fez in 1911",
+   "kind": "officer",
+   "country": "pl:france",
+   "keys": [
+    "קולונל ברולר"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:henri-mathias-berthelot",
+   "he": "אנרי ברתלו",
+   "en": "Henri Mathias Berthelot",
+   "desc": "French general, head of the military mission to Romania 1916–1918",
+   "kind": "general",
+   "country": "pl:france",
+   "keys": [
+    "גנרל ברתלו"
+   ],
+   "qid_auto": "Q2585708",
+   "qid": "Q2585708"
+  },
+  {
+   "id": "ppl:alfred-dreyfus",
+   "he": "אלפרד דרייפוס",
+   "en": "Alfred Dreyfus",
+   "desc": "French Jewish army officer of the Dreyfus affair",
+   "kind": "officer",
+   "country": "pl:france",
+   "keys": [],
+   "qid_auto": "Q171826",
+   "qid": "Q171826"
+  },
+  {
+   "id": "ppl:charles-benjamin-ullmo",
+   "he": "שארל אולמו",
+   "en": "Charles Benjamin Ullmo",
+   "desc": "French naval officer arrested for espionage 1907",
+   "kind": "officer",
+   "country": "pl:france",
+   "keys": [
+    "אילמא"
+   ],
+   "qid_auto": "Q105625209",
+   "qid": "Q105625209"
+  },
+  {
+   "id": "ppl:pierre-savorgnan-de-brazza",
+   "he": "פייר סבורניאן דה ברזה",
+   "en": "Pierre Savorgnan de Brazza",
+   "desc": "French explorer of the Congo (d. 1905)",
+   "kind": "explorer",
+   "country": "pl:france",
+   "keys": [
+    "דה ברצה"
+   ],
+   "qid_auto": "Q319834",
+   "qid": "Q319834"
+  },
+  {
+   "id": "ppl:therese-de-brazza",
+   "he": "תרז דה ברזה",
+   "en": "Thérèse de Brazza",
+   "desc": "widow of Pierre Savorgnan de Brazza",
+   "kind": "person",
+   "country": "pl:france",
+   "keys": [
+    "גברת דה ברצה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:bernhard-von-bulow",
+   "he": "ברנהרד פון בילו",
+   "en": "Bernhard von Bülow",
+   "desc": "Chancellor of Germany 1900–1909",
+   "kind": "chancellor",
+   "country": "pl:germany",
+   "keys": [
+    "בולוב",
+    "נסיך פון בולוב",
+    "ביולוב",
+    "רוזן ביולוב",
+    "בילו",
+    "נסיך בילו",
+    "פון בילו",
+    "בילוב",
+    "ברנהרד פון בילוב",
+    "נסיך בילוב"
+   ],
+   "qid_auto": "Q60113",
+   "qid": "Q60113"
+  },
+  {
+   "id": "ppl:theobald-von-bethmann-hollweg",
+   "he": "תאובלד פון בתמן הולווג",
+   "en": "Theobald von Bethmann Hollweg",
+   "desc": "Chancellor of Germany 1909–1917",
+   "kind": "chancellor",
+   "country": "pl:germany",
+   "keys": [
+    "בטמן הולווג",
+    "פון בטמן הולווג"
+   ],
+   "qid_auto": "Q77113",
+   "qid": "Q77113"
+  },
+  {
+   "id": "ppl:otto-von-bismarck",
+   "he": "אוטו פון ביסמרק",
+   "en": "Otto von Bismarck",
+   "desc": "first Chancellor of the German Empire",
+   "kind": "chancellor",
+   "country": "pl:germany",
+   "keys": [
+    "ביסמרק"
+   ],
+   "qid_auto": "Q8442",
+   "qid": "Q8442"
+  },
+  {
+   "id": "ppl:adolf-marschall-von-bieberstein",
+   "he": "אדולף מרשל פון ביברשטיין",
+   "en": "Adolf Marschall von Bieberstein",
+   "desc": "German ambassador in Constantinople, then London (1912)",
+   "kind": "diplomat",
+   "country": "pl:germany",
+   "keys": [
+    "מרשל בברשטיין"
+   ],
+   "qid_auto": "Q213755",
+   "qid": "Q213755"
+  },
+  {
+   "id": "ppl:hans-freiherr-von-wangenheim",
+   "he": "הנס פון ונגנהיים",
+   "en": "Hans Freiherr von Wangenheim",
+   "desc": "German ambassador in Constantinople 1912–1915",
+   "kind": "diplomat",
+   "country": "pl:germany",
+   "keys": [
+    "וגנהיים (השגריר הגרמני)"
+   ],
+   "qid_auto": "Q214421",
+   "qid": "Q214421"
+  },
+  {
+   "id": "ppl:johann-heinrich-von-bernstorff",
+   "he": "יוהאן היינריך פון ברנסטורף",
+   "en": "Johann Heinrich von Bernstorff",
+   "desc": "German ambassador to the United States 1908–1917",
+   "kind": "diplomat",
+   "country": "pl:germany",
+   "keys": [
+    "ברנסטורף",
+    "ברנשטורף",
+    "רוזן ברנשטורף"
+   ],
+   "qid_auto": "Q215939",
+   "qid": "Q215939"
+  },
+  {
+   "id": "ppl:colmar-von-der-goltz",
+   "he": "קולמר פון דר גולץ",
+   "en": "Colmar von der Goltz",
+   "desc": "German field marshal, adviser to the Ottoman army",
+   "kind": "general",
+   "country": "pl:germany",
+   "keys": [
+    "גנרל גולץ"
+   ],
+   "qid_auto": "Q94852538",
+   "qid": null
+  },
+  {
+   "id": "ppl:philipp-zu-eulenburg",
+   "he": "פיליפ צו אוילנבורג",
+   "en": "Philipp, Prince of Eulenburg",
+   "desc": "German diplomat, confidant of Wilhelm II, tried in the Eulenburg affair 1908",
+   "kind": "diplomat",
+   "country": "pl:germany",
+   "keys": [
+    "פירשט (הנסיך)",
+    "נסיך אולנבורג",
+    "אייפלנבורג",
+    "נסיך אילנבורג"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:jakob-ernst",
+   "he": "יעקב ארנסט",
+   "en": "Jakob Ernst",
+   "desc": "Starnberg fisherman, witness in the Eulenburg trial 1908",
+   "kind": "witness",
+   "country": "pl:germany",
+   "keys": [
+    "ארנסט"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:bernhard-dernburg",
+   "he": "ברנהרד דרנבורג",
+   "en": "Bernhard Dernburg",
+   "desc": "German colonial secretary 1906–1910",
+   "kind": "minister",
+   "country": "pl:germany",
+   "keys": [
+    "דרנבורג"
+   ],
+   "qid_auto": "Q70071",
+   "qid": "Q70071"
+  },
+  {
+   "id": "ppl:hugo-zorn-von-bulach",
+   "he": "הוגו צורן פון בולאך",
+   "en": "Hugo Zorn von Bulach",
+   "desc": "State secretary of Alsace-Lorraine 1908–1914",
+   "kind": "official",
+   "country": "pl:germany",
+   "keys": [
+    "ברון בולבאך"
+   ],
+   "qid_auto": "Q91091",
+   "qid": "Q91091"
+  },
+  {
+   "id": "ppl:august-bebel",
+   "he": "אוגוסט בבל",
+   "en": "August Bebel",
+   "desc": "leader of the German Social Democratic Party",
+   "kind": "socialist",
+   "country": "pl:germany",
+   "keys": [
+    "אוגוסט בבל",
+    "בבל"
+   ],
+   "qid_auto": "Q76520",
+   "qid": "Q76520"
+  },
+  {
+   "id": "ppl:eduard-bernstein",
+   "he": "אדוארד ברנשטיין",
+   "en": "Eduard Bernstein",
+   "desc": "German Social Democratic theorist (revisionism)",
+   "kind": "socialist",
+   "country": "pl:germany",
+   "keys": [
+    "אדוארד ברנשטיין"
+   ],
+   "qid_auto": "Q75786",
+   "qid": "Q75786"
+  },
+  {
+   "id": "ppl:hugo-haase",
+   "he": "הוגו האזה",
+   "en": "Hugo Haase",
+   "desc": "German Social Democratic leader",
+   "kind": "socialist",
+   "country": "pl:germany",
+   "keys": [
+    "גאאזה"
+   ],
+   "qid_auto": "Q438913",
+   "qid": "Q438913"
+  },
+  {
+   "id": "ppl:maximilian-harden",
+   "he": "מקסימיליאן הרדן",
+   "en": "Maximilian Harden",
+   "desc": "German journalist, editor of Die Zukunft",
+   "kind": "journalist",
+   "country": "pl:germany",
+   "keys": [
+    "מקסימיליאן הארדן"
+   ],
+   "qid_auto": "Q63411",
+   "qid": "Q63411"
+  },
+  {
+   "id": "ppl:hermann-ahlwardt",
+   "he": "הרמן אלווארדט",
+   "en": "Hermann Ahlwardt",
+   "desc": "German antisemitic politician",
+   "kind": "politician",
+   "country": "pl:germany",
+   "keys": [
+    "אהלוורדט"
+   ],
+   "qid_auto": "Q72042",
+   "qid": "Q72042"
+  },
+  {
+   "id": "ppl:eugen-duhring",
+   "he": "אויגן דיהרינג",
+   "en": "Eugen Dühring",
+   "desc": "German philosopher and antisemitic writer",
+   "kind": "philosopher",
+   "country": "pl:germany",
+   "keys": [
+    "דיהרינג"
+   ],
+   "qid_auto": "Q76583",
+   "qid": "Q76583"
+  },
+  {
+   "id": "ppl:guido-henckel-von-donnersmarck",
+   "he": "גואידו הנקל פון דונרסמרק",
+   "en": "Guido Henckel von Donnersmarck",
+   "desc": "Silesian industrial magnate",
+   "kind": "industrialist",
+   "country": "pl:germany",
+   "keys": [
+    "נקל פון דונרסמרק"
+   ],
+   "qid_auto": "Q68362",
+   "qid": "Q68362"
+  },
+  {
+   "id": "ppl:albert-ballin",
+   "he": "אלברט באלין",
+   "en": "Albert Ballin",
+   "desc": "German-Jewish shipping magnate (HAPAG)",
+   "kind": "businessman",
+   "country": "pl:germany",
+   "keys": [
+    "בלין"
+   ],
+   "qid_auto": "Q66133",
+   "qid": "Q66133"
+  },
+  {
+   "id": "ppl:ernst-haeckel",
+   "he": "ארנסט הקל",
+   "en": "Ernst Haeckel",
+   "desc": "German biologist",
+   "kind": "scientist",
+   "country": "pl:germany",
+   "keys": [
+    "ארנסט הקל"
+   ],
+   "qid_auto": "Q48246",
+   "qid": "Q48246"
+  },
+  {
+   "id": "ppl:ernst-abbe",
+   "he": "ארנסט אבה",
+   "en": "Ernst Abbe",
+   "desc": "German physicist, co-owner of Carl Zeiss in Jena",
+   "kind": "scientist",
+   "country": "pl:germany",
+   "keys": [
+    "ארנסט אבה"
+   ],
+   "qid_auto": null,
+   "qid": "Q76359"
+  },
+  {
+   "id": "ppl:paul-ehrlich",
+   "he": "פאול ארליך",
+   "en": "Paul Ehrlich",
+   "desc": "German-Jewish physician, Nobel laureate, developer of Salvarsan",
+   "kind": "scientist",
+   "country": "pl:germany",
+   "keys": [
+    "פאול ארליך",
+    "פרופ ארליך"
+   ],
+   "qid_auto": "Q57089",
+   "qid": "Q57089"
+  },
+  {
+   "id": "ppl:ernst-von-bergmann",
+   "he": "ארנסט פון ברגמן",
+   "en": "Ernst von Bergmann",
+   "desc": "Berlin surgeon, summoned to treat the Ottoman sultan 1906",
+   "kind": "physician",
+   "country": "pl:germany",
+   "keys": [
+    "פרופסור ברגמן"
+   ],
+   "qid_auto": "Q688128",
+   "qid": "Q688128"
+  },
+  {
+   "id": "ppl:gerhart-hauptmann",
+   "he": "גרהרט האופטמן",
+   "en": "Gerhart Hauptmann",
+   "desc": "German dramatist",
+   "kind": "writer",
+   "country": "pl:germany",
+   "keys": [
+    "גרהרט האופטמן"
+   ],
+   "qid_auto": "Q43523",
+   "qid": "Q43523"
+  },
+  {
+   "id": "ppl:senna-hoy",
+   "he": "סנה הוי",
+   "en": "Senna Hoy",
+   "desc": "Johannes Holzmann, German anarchist writer, arrested in Russia",
+   "kind": "anarchist",
+   "country": "pl:germany",
+   "keys": [
+    "סנה האי",
+    "יוהנס הולצמן"
+   ],
+   "qid_auto": "Q92343",
+   "qid": "Q92343"
+  },
+  {
+   "id": "ppl:alois-lexa-von-aehrenthal",
+   "he": "אלואיס פון ארנטל",
+   "en": "Alois Lexa von Aehrenthal",
+   "desc": "Austro-Hungarian foreign minister 1906–1912",
+   "kind": "minister",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "ברון אהרנטל",
+    "רוזן אהרנטל"
+   ],
+   "qid_auto": null,
+   "qid": "Q542902"
+  },
+  {
+   "id": "ppl:leopold-berchtold",
+   "he": "לאופולד ברכטולד",
+   "en": "Leopold Berchtold",
+   "desc": "Austro-Hungarian foreign minister 1912–1915",
+   "kind": "minister",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "ברכטולד",
+    "רוזן ברכטולד"
+   ],
+   "qid_auto": null,
+   "qid": "Q93371"
+  },
+  {
+   "id": "ppl:stephan-burian-von-rajecz",
+   "he": "איסטוון בוריאן",
+   "en": "Stephan Burián von Rajecz",
+   "desc": "Austro-Hungarian foreign minister from 1915",
+   "kind": "minister",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "סטפן בוריאן"
+   ],
+   "qid_auto": "Q522120",
+   "qid": "Q522120"
+  },
+  {
+   "id": "ppl:agenor-maria-goluchowski",
+   "he": "אגנור גולוחובסקי",
+   "en": "Agenor Maria Gołuchowski",
+   "desc": "Austro-Hungarian foreign minister 1895–1906",
+   "kind": "minister",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "גולוחובסקי"
+   ],
+   "qid_auto": "Q392632",
+   "qid": "Q392632"
+  },
+  {
+   "id": "ppl:richard-von-bienerth-schmerling",
+   "he": "ריכרד פון בינרט",
+   "en": "Richard von Bienerth-Schmerling",
+   "desc": "Prime Minister of Austria 1908–1911",
+   "kind": "prime minister",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "ביינרט",
+    "בינרט",
+    "ברון בינרט"
+   ],
+   "qid_auto": null,
+   "qid": "Q79052"
+  },
+  {
+   "id": "ppl:paul-gautsch-von-frankenthurn",
+   "he": "פאול גאוטש",
+   "en": "Paul Gautsch von Frankenthurn",
+   "desc": "Prime Minister of Austria (1911)",
+   "kind": "prime minister",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "גאוטש"
+   ],
+   "qid_auto": "Q241524",
+   "qid": "Q241524"
+  },
+  {
+   "id": "ppl:max-wladimir-von-beck",
+   "he": "מקס ולדימיר פון בק",
+   "en": "Max Wladimir von Beck",
+   "desc": "Prime Minister of Austria 1906–1908",
+   "kind": "prime minister",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "בק"
+   ],
+   "qid_auto": null,
+   "qid": "Q78741"
+  },
+  {
+   "id": "ppl:leon-bilinski",
+   "he": "לאון בילינסקי",
+   "en": "Leon Biliński",
+   "desc": "Austro-Hungarian joint finance minister",
+   "kind": "minister",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "בילנר"
+   ],
+   "qid_auto": "Q688332",
+   "qid": "Q688332"
+  },
+  {
+   "id": "ppl:gyula-andrassy",
+   "he": "גיולה אנדראשי",
+   "en": "Gyula Andrássy",
+   "desc": "Austro-Hungarian foreign minister 1871–1879",
+   "kind": "minister",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "אנדראשי"
+   ],
+   "qid_auto": null,
+   "qid": "Q313557"
+  },
+  {
+   "id": "ppl:heinrich-gabel",
+   "he": "היינריך גאבל",
+   "en": "Heinrich Gabel",
+   "desc": "Galician Jewish Zionist deputy in the Austrian Reichsrat",
+   "kind": "politician",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "דר גאבל",
+    "דר גבל"
+   ],
+   "qid_auto": "Q16515438",
+   "qid": "Q16515438"
+  },
+  {
+   "id": "ppl:ludwig-wahrmund",
+   "he": "לודוויג וארמונד",
+   "en": "Ludwig Wahrmund",
+   "desc": "Austrian professor of canon law (Wahrmund affair 1908)",
+   "kind": "professor",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "וארמונד"
+   ],
+   "qid_auto": "Q1875145",
+   "qid": "Q1875145"
+  },
+  {
+   "id": "ppl:moritz-gudemann",
+   "he": "משה גידמן",
+   "en": "Moritz Güdemann",
+   "desc": "Chief Rabbi of Vienna",
+   "kind": "rabbi",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "דר גידמן"
+   ],
+   "qid_auto": "Q876134",
+   "qid": "Q876134"
+  },
+  {
+   "id": "ppl:h-h-asquith",
+   "he": "הרברט אסקווית׳",
+   "en": "H. H. Asquith",
+   "desc": "Prime Minister of the United Kingdom 1908–1916",
+   "kind": "prime minister",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "אסקוויט",
+    "רברט אסקוויט",
+    "אסקוויית",
+    "אסקווית"
+   ],
+   "qid_auto": "Q166714",
+   "qid": "Q166714"
+  },
+  {
+   "id": "ppl:edward-grey-1st-viscount-grey-of-fallodon",
+   "he": "אדוארד גריי",
+   "en": "Edward Grey, 1st Viscount Grey of Fallodon",
+   "desc": "British foreign secretary 1905–1916",
+   "kind": "minister",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "אדוארד גריי",
+    "גריי",
+    "סר אדוארד גריי"
+   ],
+   "qid_auto": "Q335187",
+   "qid": "Q335187"
+  },
+  {
+   "id": "ppl:david-lloyd-george",
+   "he": "דייוויד לויד ג׳ורג׳",
+   "en": "David Lloyd George",
+   "desc": "British Chancellor of the Exchequer 1908–1915",
+   "kind": "minister",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "דייוויד לויד גורג",
+    "לויד גורג"
+   ],
+   "qid_auto": "Q134982",
+   "qid": "Q134982"
+  },
+  {
+   "id": "ppl:arthur-balfour",
+   "he": "ארתור בלפור",
+   "en": "Arthur Balfour",
+   "desc": "British Prime Minister 1902–1905, Conservative leader",
+   "kind": "prime minister",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "בלפור"
+   ],
+   "qid_auto": "Q19008",
+   "qid": "Q19008"
+  },
+  {
+   "id": "ppl:henry-campbell-bannerman",
+   "he": "הנרי קמפבל-בנרמן",
+   "en": "Henry Campbell-Bannerman",
+   "desc": "British Prime Minister 1905–1908",
+   "kind": "prime minister",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "קמפבל בנרמן"
+   ],
+   "qid_auto": "Q106618",
+   "qid": "Q106618"
+  },
+  {
+   "id": "ppl:richard-haldane-1st-viscount-haldane",
+   "he": "ריצ׳רד הולדיין",
+   "en": "Richard Haldane, 1st Viscount Haldane",
+   "desc": "British war secretary, Berlin mission 1912",
+   "kind": "minister",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "לורד הולדיין"
+   ],
+   "qid_auto": "Q334078",
+   "qid": "Q334078"
+  },
+  {
+   "id": "ppl:william-ewart-gladstone",
+   "he": "ויליאם גלדסטון",
+   "en": "William Ewart Gladstone",
+   "desc": "British Prime Minister (d. 1898)",
+   "kind": "prime minister",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "גלדסטון"
+   ],
+   "qid_auto": "Q160852",
+   "qid": "Q160852"
+  },
+  {
+   "id": "ppl:benjamin-disraeli",
+   "he": "בנג׳מין דיזרעלי",
+   "en": "Benjamin Disraeli",
+   "desc": "British Prime Minister (d. 1881)",
+   "kind": "prime minister",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "דיזראלי"
+   ],
+   "qid_auto": "Q82006",
+   "qid": "Q82006"
+  },
+  {
+   "id": "ppl:keir-hardie",
+   "he": "קיר הארדי",
+   "en": "Keir Hardie",
+   "desc": "British Labour leader",
+   "kind": "socialist",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "קיר הארדי"
+   ],
+   "qid_auto": "Q332460",
+   "qid": "Q332460"
+  },
+  {
+   "id": "ppl:george-buchanan-diplomat",
+   "he": "ג׳ורג׳ ביוקנן",
+   "en": "George Buchanan (diplomat)",
+   "desc": "British ambassador in St Petersburg 1910–1918",
+   "kind": "diplomat",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "סר גורג ביוקנן"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:rufus-isaacs-1st-marquess-of-reading",
+   "he": "רופוס אייזקס",
+   "en": "Rufus Isaacs, 1st Marquess of Reading",
+   "desc": "British Jewish lawyer, Attorney General 1910–1913",
+   "kind": "lawyer",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "רופוס אייזיק",
+    "רופוס אייזיקס"
+   ],
+   "qid_auto": "Q336036",
+   "qid": "Q336036"
+  },
+  {
+   "id": "ppl:albert-goldsmid",
+   "he": "אלברט גולדסמיד",
+   "en": "Albert Goldsmid",
+   "desc": "British Jewish colonel, founder of the Jewish Lads’ Brigade",
+   "kind": "officer",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "פלקוביץ גולדסמיד"
+   ],
+   "qid_auto": "Q4710321",
+   "qid": "Q4710321"
+  },
+  {
+   "id": "ppl:michael-adler",
+   "he": "מיכאל אדלר",
+   "en": "Michael Adler",
+   "desc": "British rabbi and Jewish military chaplain",
+   "kind": "rabbi",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "רב מיכאל אדלר"
+   ],
+   "qid_auto": null,
+   "qid": "Q62132583"
+  },
+  {
+   "id": "ppl:emily-davies",
+   "he": "אמילי דייוויס",
+   "en": "Emily Davies",
+   "desc": "British suffragist and educator",
+   "kind": "suffragist",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "אמילי דיוויס"
+   ],
+   "qid_auto": "Q2748528",
+   "qid": "Q2748528"
+  },
+  {
+   "id": "ppl:a-g-gardiner",
+   "he": "א. ג. גרדינר",
+   "en": "A. G. Gardiner",
+   "desc": "editor of the Daily News",
+   "kind": "journalist",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "א. ג. ג."
+   ],
+   "qid_auto": "Q4722720",
+   "qid": "Q4722720"
+  },
+  {
+   "id": "ppl:giovanni-giolitti",
+   "he": "ג׳ובאני ג׳וליטי",
+   "en": "Giovanni Giolitti",
+   "desc": "Prime Minister of Italy 1911–1914",
+   "kind": "prime minister",
+   "country": "pl:italy",
+   "keys": [
+    "גוליטי",
+    "גולייטי"
+   ],
+   "qid_auto": "Q297190",
+   "qid": "Q297190"
+  },
+  {
+   "id": "ppl:antonino-paterno-castello-6th-marquis-of-san-giuliano",
+   "he": "אנטונינו די סן ג׳וליאנו",
+   "en": "Antonino Paternò Castello, 6th Marquis of San Giuliano",
+   "desc": "Italian foreign minister 1910–1914",
+   "kind": "minister",
+   "country": "pl:italy",
+   "keys": [
+    "מרקיז די סן גוליאנו"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:giovanni-ameglio",
+   "he": "ג׳ובאני אמליו",
+   "en": "Giovanni Ameglio",
+   "desc": "Italian general, governor of occupied Rhodes 1912",
+   "kind": "general",
+   "country": "pl:italy",
+   "keys": [
+    "גנרל אמליה",
+    "גנרל אמליו"
+   ],
+   "qid_auto": "Q3766384",
+   "qid": "Q3766384"
+  },
+  {
+   "id": "ppl:ricciotti-garibaldi",
+   "he": "ריצ׳וטי גריבלדי",
+   "en": "Ricciotti Garibaldi",
+   "desc": "Italian volunteer leader in the Albanian revolt 1911",
+   "kind": "general",
+   "country": "pl:italy",
+   "keys": [
+    "גריבלדי"
+   ],
+   "qid_auto": "Q1236827",
+   "qid": "Q1236827"
+  },
+  {
+   "id": "ppl:giuseppe-garibaldi",
+   "he": "ג׳וזפה גריבלדי",
+   "en": "Giuseppe Garibaldi",
+   "desc": "Italian national hero (d. 1882)",
+   "kind": "general",
+   "country": "pl:italy",
+   "keys": [
+    "גריבלדי הגדול"
+   ],
+   "qid_auto": "Q539",
+   "qid": "Q539"
+  },
+  {
+   "id": "ppl:isacco-artom",
+   "he": "יצחק ארטום",
+   "en": "Isacco Artom",
+   "desc": "Italian Jewish diplomat, secretary of Cavour",
+   "kind": "diplomat",
+   "country": "pl:italy",
+   "keys": [
+    "יצחק ארטום"
+   ],
+   "qid_auto": "Q514738",
+   "qid": "Q514738"
+  },
+  {
+   "id": "ppl:pablo-iglesias-posse",
+   "he": "פבלו איגלסיאס",
+   "en": "Pablo Iglesias Posse",
+   "desc": "founder of the Spanish Socialist Workers’ Party",
+   "kind": "socialist",
+   "country": "pl:spain",
+   "keys": [
+    "פבלו איגלסיאס"
+   ],
+   "qid_auto": "Q450299",
+   "qid": "Q450299"
+  },
+  {
+   "id": "ppl:manuel-de-arriaga",
+   "he": "מנואל דה אריאגה",
+   "en": "Manuel de Arriaga",
+   "desc": "first President of Portugal 1911–1915",
+   "kind": "president",
+   "country": "pl:portugal",
+   "keys": [
+    "אריאגה"
+   ],
+   "qid_auto": "Q286764",
+   "qid": "Q286764"
+  },
+  {
+   "id": "ppl:alfredo-bensaude",
+   "he": "אלפרדו בנסאודה",
+   "en": "Alfredo Bensaúde",
+   "desc": "Portuguese Jewish geologist and educator in Lisbon",
+   "kind": "scientist",
+   "country": "pl:portugal",
+   "keys": [
+    "אלפרד בנסעד"
+   ],
+   "qid_auto": "Q1528489",
+   "qid": "Q1528489"
+  },
+  {
+   "id": "ppl:ion-i-c-bratianu",
+   "he": "יון בראטיאנו",
+   "en": "Ion I. C. Brătianu",
+   "desc": "Prime Minister of Romania",
+   "kind": "prime minister",
+   "country": "pl:romania",
+   "keys": [
+    "בראטיאנו"
+   ],
+   "qid_auto": "Q462175",
+   "qid": "Q462175"
+  },
+  {
+   "id": "ppl:constantin-diamandy",
+   "he": "קונסטנטין דיאמנדי",
+   "en": "Constantin Diamandy",
+   "desc": "Romanian envoy in St Petersburg",
+   "kind": "diplomat",
+   "country": "pl:romania",
+   "keys": [
+    "דיאמנדי"
+   ],
+   "qid_auto": "Q28734055",
+   "qid": "Q28734055"
+  },
+  {
+   "id": "ppl:albert-ghica",
+   "he": "אלברט גיקה",
+   "en": "Albert Ghica",
+   "desc": "Romanian-Albanian prince, claimant in Albanian affairs 1910",
+   "kind": "prince",
+   "country": "pl:albania",
+   "keys": [
+    "אלברט גיקה"
+   ],
+   "qid_auto": "Q4710302",
+   "qid": "Q4710302"
+  },
+  {
+   "id": "ppl:panagiotis-danglis",
+   "he": "פנאיוטיס דנגליס",
+   "en": "Panagiotis Danglis",
+   "desc": "Greek general, member of the 1916 Thessaloniki provisional government",
+   "kind": "general",
+   "country": "pl:greece",
+   "keys": [
+    "דנגליס"
+   ],
+   "qid_auto": "Q1247258",
+   "qid": "Q1247258"
+  },
+  {
+   "id": "ppl:ioannes-gennadius",
+   "he": "יואניס גנדיוס",
+   "en": "Ioannes Gennadius",
+   "desc": "Greek minister in London, delegate at the 1913 peace talks",
+   "kind": "diplomat",
+   "country": "pl:greece",
+   "keys": [
+    "גנאדיוס"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:stoyan-danev",
+   "he": "סטויאן דנב",
+   "en": "Stoyan Danev",
+   "desc": "Prime Minister of Bulgaria 1913",
+   "kind": "prime minister",
+   "country": "pl:bulgaria",
+   "keys": [
+    "דאנייב",
+    "דנוכי",
+    "דנייב"
+   ],
+   "qid_auto": "Q713517",
+   "qid": "Q713517"
+  },
+  {
+   "id": "ppl:radko-dimitriev",
+   "he": "רדקו דימיטרייב",
+   "en": "Radko Dimitriev",
+   "desc": "Bulgarian general, later in Russian service",
+   "kind": "general",
+   "country": "pl:bulgaria",
+   "keys": [
+    "רדקו דימיטריייב",
+    "ראדקו דמיטריייב"
+   ],
+   "qid_auto": "Q2620533",
+   "qid": "Q2620533"
+  },
+  {
+   "id": "ppl:nicholas-hartwig",
+   "he": "ניקולאי הרטוויג",
+   "en": "Nicholas Hartwig",
+   "desc": "Russian minister in Persia, then in Belgrade 1909–1914",
+   "kind": "diplomat",
+   "country": "pl:russian-empire",
+   "keys": [
+    "ארטוויג"
+   ],
+   "qid_auto": "Q1699621",
+   "qid": "Q1699621"
+  },
+  {
+   "id": "ppl:isa-boletini",
+   "he": "עיסא בולטיני",
+   "en": "Isa Boletini",
+   "desc": "Albanian rebel leader",
+   "kind": "rebel leader",
+   "country": "pl:albania",
+   "keys": [
+    "איסא בולטינאץ",
+    "בולטינאץ"
+   ],
+   "qid_auto": "Q1280502",
+   "qid": "Q1280502"
+  },
+  {
+   "id": "ppl:ismail-qemali",
+   "he": "איסמעיל קמאל",
+   "en": "Ismail Qemali",
+   "desc": "Albanian leader, Ottoman deputy, head of independent Albania 1912–1914",
+   "kind": "politician",
+   "country": "pl:albania",
+   "keys": [
+    "איסמעיל קמאל בי",
+    "איסמעיל קמאל בק"
+   ],
+   "qid_auto": "Q46932",
+   "qid": "Q46932"
+  },
+  {
+   "id": "ppl:mufid-libohova",
+   "he": "מופיד ליבוהובה",
+   "en": "Mufid Libohova",
+   "desc": "Albanian politician",
+   "kind": "politician",
+   "country": "pl:albania",
+   "keys": [
+    "מופיד בי"
+   ],
+   "qid_auto": null,
+   "qid": "Q1051859"
+  },
+  {
+   "id": "ppl:sulejman-delvina",
+   "he": "סולימאן דלווינה",
+   "en": "Sulejman Delvina",
+   "desc": "Albanian politician",
+   "kind": "politician",
+   "country": "pl:albania",
+   "keys": [
+    "דלווינה"
+   ],
+   "qid_auto": "Q1051864",
+   "qid": "Q1051864"
+  },
+  {
+   "id": "ppl:enver-pasha",
+   "he": "אנוור פאשה",
+   "en": "Enver Pasha",
+   "desc": "Young Turk officer and leader, Ottoman war minister from 1914",
+   "kind": "officer",
+   "country": "pl:ottoman-empire",
+   "en_alt": [
+    "Enver Bey"
+   ],
+   "keys": [
+    "אנוור בֶּי",
+    "אנוור בי",
+    "אנואר ביי",
+    "אנוור ביי",
+    "אנוור בק"
+   ],
+   "qid_auto": "Q153899",
+   "qid": "Q153899"
+  },
+  {
+   "id": "ppl:talaat-pasha",
+   "he": "טלעת פאשה",
+   "en": "Talaat Pasha",
+   "desc": "Young Turk leader, Ottoman interior minister and grand vizier",
+   "kind": "politician",
+   "country": "pl:ottoman-empire",
+   "en_alt": [
+    "Talat Bey"
+   ],
+   "keys": [
+    "טלעאת בי",
+    "טלעת ביי"
+   ],
+   "qid_auto": null,
+   "qid": "Q315888"
+  },
+  {
+   "id": "ppl:mehmed-cavid-bey",
+   "he": "מהמט ג׳אוויד ביי",
+   "en": "Mehmed Cavid Bey",
+   "desc": "Young Turk economist, Ottoman finance minister, of Dönme origin",
+   "kind": "minister",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "גאוויד בey",
+    "גאוויד ביי",
+    "גאויד ביי",
+    "גאוויד בק"
+   ],
+   "qid_auto": null,
+   "qid": "Q4808954"
+  },
+  {
+   "id": "ppl:ahmed-niyazi-bey",
+   "he": "אחמד ניאזי ביי",
+   "en": "Ahmed Niyazi Bey",
+   "desc": "Ottoman major, hero of the 1908 Young Turk revolution",
+   "kind": "officer",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "רוזן ניאצי (מאיור)",
+    "ניאזי בי",
+    "ניאזי ביי"
+   ],
+   "qid_auto": "Q401421",
+   "qid": "Q401421"
+  },
+  {
+   "id": "ppl:mehmed-nazim-bey",
+   "he": "דוקטור נאזים",
+   "en": "Mehmed Nazım Bey",
+   "desc": "Young Turk (CUP) leader, physician from Salonica",
+   "kind": "politician",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "נאזים בֶּי",
+    "נאזום ביי",
+    "נאזים בק"
+   ],
+   "qid_auto": "Q3135377",
+   "qid": "Q3135377"
+  },
+  {
+   "id": "ppl:ahmet-tevfik-pasha",
+   "he": "אחמד תופיק פאשה",
+   "en": "Ahmet Tevfik Pasha",
+   "desc": "Ottoman grand vizier (April–May 1909)",
+   "kind": "grand vizier",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "טעוופיק (הווזיר הגדול)"
+   ],
+   "qid_auto": null,
+   "qid": "Q276098"
+  },
+  {
+   "id": "ppl:huseyin-cahit-yalcin",
+   "he": "חוסיין ג׳אהיט",
+   "en": "Hüseyin Cahit Yalçın",
+   "desc": "Young Turk journalist, editor of Tanin",
+   "kind": "journalist",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "חוסיין גאהיד"
+   ],
+   "qid_auto": "Q3777214",
+   "qid": "Q3777214"
+  },
+  {
+   "id": "ppl:babanzade-ismail-hakki",
+   "he": "באבאנזאדה איסמעיל חקי",
+   "en": "Babanzade İsmail Hakkı",
+   "desc": "Ottoman deputy and journalist",
+   "kind": "politician",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "איסמאעיל באבאנזאדה"
+   ],
+   "qid_auto": "Q6024802",
+   "qid": "Q6024802"
+  },
+  {
+   "id": "ppl:sulayman-al-bustani",
+   "he": "סולימאן אל-בוסתאני",
+   "en": "Sulayman al-Bustani",
+   "desc": "Ottoman deputy for Beirut, Lebanese scholar",
+   "kind": "politician",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "סולימאן אלבוסטאני"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:emir-muhammad-arslan",
+   "he": "אמיר מוחמד ארסלאן",
+   "en": "Emir Muhammad Arslan",
+   "desc": "Ottoman deputy for Latakia killed in the 31 March incident 1909",
+   "kind": "politician",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "אמיר ארסלאן",
+    "ארסלאן"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:halil-mentese",
+   "he": "חליל מנטשה",
+   "en": "Halil Menteşe",
+   "desc": "Ottoman politician, speaker of the Chamber 1912–1915",
+   "kind": "politician",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "חליל ביי"
+   ],
+   "qid_auto": "Q6096930",
+   "qid": "Q6096930"
+  },
+  {
+   "id": "ppl:nail-bey",
+   "he": "נאעיל ביי",
+   "en": "Nail Bey",
+   "desc": "Ottoman finance minister appointed 1911",
+   "kind": "minister",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "נאעיל בק"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:yusuf-akcura",
+   "he": "יוסוף אקצ׳ורה",
+   "en": "Yusuf Akçura",
+   "desc": "Tatar-Turkish nationalist writer",
+   "kind": "writer",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "אקצורין"
+   ],
+   "qid_auto": "Q735399",
+   "qid": "Q735399"
+  },
+  {
+   "id": "ppl:ahmet-agaoglu",
+   "he": "אחמד אגאוגלו",
+   "en": "Ahmet Ağaoğlu",
+   "desc": "Azerbaijani-Turkish nationalist writer (Agayev)",
+   "kind": "writer",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "אקאף"
+   ],
+   "qid_auto": "Q401773",
+   "qid": "Q401773"
+  },
+  {
+   "id": "ppl:sheikh-ul-islam-ottoman-1909",
+   "he": "שייח׳ אל-אסלאם",
+   "en": "Ottoman Shaykh al-Islam (April 1909)",
+   "desc": "the Ottoman Şeyhülislam during the 1909 counter-revolution and deposition of Abdul Hamid II",
+   "kind": "religious official",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "שייח אל איסלאם",
+    "שייח אל אסלאם"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:haim-nahum",
+   "he": "חיים נחום",
+   "en": "Haim Nahum",
+   "desc": "Hakham Bashi (Chief Rabbi) of the Ottoman Empire from 1909",
+   "kind": "rabbi",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "חכם באשי"
+   ],
+   "qid_auto": "Q2160858",
+   "qid": "Q2160858"
+  },
+  {
+   "id": "ppl:harutiun-vehabedian",
+   "he": "הפטריארך הארמני הרוטיון",
+   "en": "Armenian Patriarch Harutiun of Jerusalem",
+   "desc": "Armenian Patriarch of Jerusalem (1909)",
+   "kind": "patriarch",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "פטריארך הארמני ארוטיון"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:shibli-al-atrash",
+   "he": "שבלי אל-אטרש",
+   "en": "Shibli al-Atrash",
+   "desc": "Druze sheikh of the Hauran",
+   "kind": "sheikh",
+   "country": "pl:syria",
+   "keys": [
+    "שבלי אטרש"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:ali-qoli-khan-bakhtiari",
+   "he": "סרדאר אסעד",
+   "en": "Ali-Qoli Khan Bakhtiari",
+   "desc": "Sardar Asad II, Bakhtiari chief, Persian constitutionalist leader",
+   "kind": "tribal chief",
+   "country": "pl:persia",
+   "keys": [
+    "סרדאר אסעד"
+   ],
+   "qid_auto": "Q282258",
+   "qid": "Q282258"
+  },
+  {
+   "id": "ppl:yeprem-khan",
+   "he": "יפרם חאן",
+   "en": "Yeprem Khan",
+   "desc": "Armenian-Persian revolutionary, Tehran police chief",
+   "kind": "revolutionary",
+   "country": "pl:persia",
+   "keys": [
+    "יפרם (חאן)"
+   ],
+   "qid_auto": "Q2064739",
+   "qid": "Q2064739"
+  },
+  {
+   "id": "ppl:salar-al-dawla",
+   "he": "סאלאר א-דולה",
+   "en": "Salar al-Dawla",
+   "desc": "Qajar prince, rebel pretender 1911–1912",
+   "kind": "prince",
+   "country": "pl:persia",
+   "keys": [
+    "סאלאר אד דאולה",
+    "סאלאר א דולה",
+    "סאלאר אל דולה",
+    "סלאר אל דולה"
+   ],
+   "qid_auto": "Q3827351",
+   "qid": "Q3827351"
+  },
+  {
+   "id": "ppl:arshad-al-dowleh",
+   "he": "סרדאר ארשד",
+   "en": "Arshad al-Dowleh",
+   "desc": "commander of ex-Shah Mohammad Ali’s forces, executed 1911",
+   "kind": "general",
+   "country": "pl:persia",
+   "keys": [
+    "סרדאר ארשד",
+    "סרדאר אשעד"
+   ],
+   "qid_auto": "Q5938646",
+   "qid": "Q5938646"
+  },
+  {
+   "id": "ppl:samad-khan-shoja-od-dowleh",
+   "he": "שוג׳ע א-דולה",
+   "en": "Samad Khan Shoja od-Dowleh",
+   "desc": "royalist governor of Tabriz 1911–1914",
+   "kind": "governor",
+   "country": "pl:persia",
+   "keys": [
+    "סוגא אד דולה",
+    "שוגה אל דולה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:morteza-qoli-khan-hedayat",
+   "he": "סניע א-דולה",
+   "en": "Morteza Qoli Khan Hedayat",
+   "desc": "Sani‘ od-Dowleh, Persian finance minister assassinated 1911",
+   "kind": "minister",
+   "country": "pl:persia",
+   "keys": [
+    "סאניד דולה"
+   ],
+   "qid_auto": null,
+   "qid": "Q983506"
+  },
+  {
+   "id": "ppl:abdol-majid-mirza",
+   "he": "עין א-דולה",
+   "en": "Abdol-Majid Mirza",
+   "desc": "Eyn od-Dowleh, Qajar prime minister",
+   "kind": "prime minister",
+   "country": "pl:persia",
+   "keys": [
+    "אין א דאולה"
+   ],
+   "qid_auto": null,
+   "qid": "Q308247"
+  },
+  {
+   "id": "ppl:mirza-ali-asghar-khan-amin-al-soltan",
+   "he": "אתאבק אעזם",
+   "en": "Mirza Ali Asghar Khan Amin al-Soltan",
+   "desc": "Atabak-e Azam, Persian prime minister assassinated 1907",
+   "kind": "prime minister",
+   "country": "pl:persia",
+   "keys": [
+    "אתאבק אעזם"
+   ],
+   "qid_auto": null,
+   "qid": "Q957636"
+  },
+  {
+   "id": "ppl:amir-bahadur",
+   "he": "אמיר בהאדור ג׳נג",
+   "en": "Amir Bahadur Jang",
+   "desc": "royalist Qajar court official and commander 1908–1909",
+   "kind": "courtier",
+   "country": "pl:persia",
+   "keys": [
+    "אמיר בהאדור גאנג",
+    "באהאדור גנג"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:siqat-ol-eslam-tabrizi",
+   "he": "ת׳קת אל-אסלאם",
+   "en": "Siqat-ol-Eslam Tabrizi",
+   "desc": "Shi‘ite cleric of Tabriz hanged by the Russians in Dec 1911",
+   "kind": "cleric",
+   "country": "pl:persia",
+   "keys": [
+    "מולא כיקטור איסלאם"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:alexander-izvolsky",
+   "he": "אלכסנדר איזבולסקי",
+   "en": "Alexander Izvolsky",
+   "desc": "Russian foreign minister 1906–1910",
+   "kind": "minister",
+   "country": "pl:russian-empire",
+   "keys": [
+    "א. פ. איזבולסקי",
+    "איזבולסקי"
+   ],
+   "qid_auto": "Q463739",
+   "qid": "Q463739"
+  },
+  {
+   "id": "ppl:sergei-witte",
+   "he": "סרגיי ויטה",
+   "en": "Sergei Witte",
+   "desc": "Russian statesman, prime minister 1905–1906",
+   "kind": "prime minister",
+   "country": "pl:russian-empire",
+   "keys": [
+    "רוזן וויטה"
+   ],
+   "qid_auto": "Q155329",
+   "qid": "Q155329"
+  },
+  {
+   "id": "ppl:pyotr-durnovo",
+   "he": "פיוטר דורנובו",
+   "en": "Pyotr Durnovo",
+   "desc": "Russian interior minister 1905–1906",
+   "kind": "minister",
+   "country": "pl:russian-empire",
+   "keys": [
+    "דורנובו"
+   ],
+   "qid_auto": "Q463773",
+   "qid": "Q463773"
+  },
+  {
+   "id": "ppl:ivan-goremykin",
+   "he": "איוואן גורמיקין",
+   "en": "Ivan Goremykin",
+   "desc": "Russian prime minister 1906, 1914–1916",
+   "kind": "prime minister",
+   "country": "pl:russian-empire",
+   "keys": [
+    "גורמיקין"
+   ],
+   "qid_auto": "Q302668",
+   "qid": "Q302668"
+  },
+  {
+   "id": "ppl:alexander-guchkov",
+   "he": "אלכסנדר גוצ׳קוב",
+   "en": "Alexander Guchkov",
+   "desc": "Octobrist leader, chairman of the Third Duma",
+   "kind": "politician",
+   "country": "pl:russian-empire",
+   "keys": [
+    "גוצקוב"
+   ],
+   "qid_auto": "Q2083549",
+   "qid": "Q2083549"
+  },
+  {
+   "id": "ppl:mikhail-rodzianko",
+   "he": "מיכאיל רודזיאנקו",
+   "en": "Mikhail Rodzianko",
+   "desc": "chairman of the State Duma from 1911",
+   "kind": "politician",
+   "country": "pl:russian-empire",
+   "keys": [
+    "דרזיאנקה"
+   ],
+   "qid_auto": "Q608740",
+   "qid": "Q608740"
+  },
+  {
+   "id": "ppl:nikolai-markov-politician",
+   "he": "ניקולאי מרקוב",
+   "en": "Nikolai Markov (politician)",
+   "desc": "“Markov II”, far-right Duma deputy",
+   "kind": "politician",
+   "country": "pl:russian-empire",
+   "keys": [
+    "מארקוב השני",
+    "מרקוב השני"
+   ],
+   "qid_auto": null,
+   "qid": "Q3341669"
+  },
+  {
+   "id": "ppl:vladimir-purishkevich",
+   "he": "ולדימיר פורישקביץ׳",
+   "en": "Vladimir Purishkevich",
+   "desc": "far-right Duma deputy",
+   "kind": "politician",
+   "country": "pl:russian-empire",
+   "keys": [
+    "בוריסקביץ"
+   ],
+   "qid_auto": "Q545353",
+   "qid": "Q545353"
+  },
+  {
+   "id": "ppl:alexander-dubrovin",
+   "he": "אלכסנדר דוברובין",
+   "en": "Alexander Dubrovin",
+   "desc": "physician, leader of the Union of the Russian People",
+   "kind": "politician",
+   "country": "pl:russian-empire",
+   "keys": [
+    "דובראווין",
+    "דוברובין",
+    "דר דוברובין"
+   ],
+   "qid_auto": "Q572790",
+   "qid": "Q572790"
+  },
+  {
+   "id": "ppl:iliodor",
+   "he": "איליודור",
+   "en": "Iliodor",
+   "desc": "Sergei Trufanov, ultra-nationalist hieromonk in Tsaritsyn",
+   "kind": "monk",
+   "country": "pl:russian-empire",
+   "keys": [
+    "אילי אדאר",
+    "איליודור",
+    "ירומונח איליודור",
+    "אליודור"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:hermogenes-dolganyov",
+   "he": "הרמוגן",
+   "en": "Hermogenes (Dolganyov)",
+   "desc": "Bishop of Saratov, ally of Iliodor",
+   "kind": "bishop",
+   "country": "pl:russian-empire",
+   "keys": [
+    "בישוף הרמוגן",
+    "גלח הרמוגן",
+    "רמוגן (הבישוף הרמוגנס)"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:antony-vadkovsky",
+   "he": "אנטוני ודקובסקי",
+   "en": "Antony (Vadkovsky)",
+   "desc": "Metropolitan of St Petersburg",
+   "kind": "metropolitan",
+   "country": "pl:russian-empire",
+   "keys": [
+    "מטרופוליט אנטוני"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:evlogy-georgievsky",
+   "he": "אבלוגי",
+   "en": "Evlogy (Georgievsky)",
+   "desc": "Bishop of Kholm, Duma deputy",
+   "kind": "bishop",
+   "country": "pl:russian-empire",
+   "keys": [
+    "בישוף אבלוגי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:illarion-vorontsov-dashkov",
+   "he": "אילריון וורונצוב-דשקוב",
+   "en": "Illarion Vorontsov-Dashkov",
+   "desc": "Viceroy of the Caucasus 1905–1915",
+   "kind": "viceroy",
+   "country": "pl:russian-empire",
+   "keys": [
+    "ורונצוב דשקוב",
+    "רוזן ורונצוב דשקוב"
+   ],
+   "qid_auto": "Q1439976",
+   "qid": "Q1439976"
+  },
+  {
+   "id": "ppl:ivan-dumbadze",
+   "he": "איוואן דומבדזה",
+   "en": "Ivan Dumbadze",
+   "desc": "Russian general, governor of Yalta",
+   "kind": "general",
+   "country": "pl:russian-empire",
+   "keys": [
+    "גנרל דומבאדזה",
+    "דומברובסקי"
+   ],
+   "qid_auto": "Q3648531",
+   "qid": "Q3648531"
+  },
+  {
+   "id": "ppl:sergei-gershelman",
+   "he": "סרגיי גרשלמן",
+   "en": "Sergei Gershelman",
+   "desc": "Russian general, governor-general of Moscow 1906–1909",
+   "kind": "general",
+   "country": "pl:russian-empire",
+   "keys": [
+    "גנרל גרשלמן",
+    "גרשלמן"
+   ],
+   "qid_auto": null,
+   "qid": "Q3656077"
+  },
+  {
+   "id": "ppl:fyodor-dubasov",
+   "he": "פיודור דובאסוב",
+   "en": "Fyodor Dubasov",
+   "desc": "Russian admiral, governor-general of Moscow 1905–1906",
+   "kind": "admiral",
+   "country": "pl:russian-empire",
+   "keys": [
+    "דובסוב"
+   ],
+   "qid_auto": "Q3072685",
+   "qid": "Q3072685"
+  },
+  {
+   "id": "ppl:daniil-drachevsky",
+   "he": "דניאיל דראצ׳בסקי",
+   "en": "Daniil Drachevsky",
+   "desc": "city governor (gradonachalnik) of St Petersburg 1905–1914",
+   "kind": "official",
+   "country": "pl:russian-empire",
+   "keys": [
+    "דראצבסקי",
+    "דרצבסקי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:vladimir-dzhunkovsky",
+   "he": "ולדימיר ג׳ונקובסקי",
+   "en": "Vladimir Dzhunkovsky",
+   "desc": "governor of Moscow, later deputy interior minister",
+   "kind": "official",
+   "country": "pl:russian-empire",
+   "keys": [
+    "דזונקובסקי"
+   ],
+   "qid_auto": "Q3738808",
+   "qid": "Q3738808"
+  },
+  {
+   "id": "ppl:ivan-grigorovich",
+   "he": "איוואן גריגורוביץ׳",
+   "en": "Ivan Grigorovich",
+   "desc": "Russian naval minister 1911–1917",
+   "kind": "minister",
+   "country": "pl:russian-empire",
+   "keys": [
+    "גריגורוביץ"
+   ],
+   "qid_auto": null,
+   "qid": "Q936152"
+  },
+  {
+   "id": "ppl:mikhail-akimov",
+   "he": "מיכאיל אקימוב",
+   "en": "Mikhail Akimov",
+   "desc": "chairman of the Russian State Council 1907–1914",
+   "kind": "official",
+   "country": "pl:russian-empire",
+   "keys": [
+    "אקימוב"
+   ],
+   "qid_auto": "Q3313644",
+   "qid": "Q3313644"
+  },
+  {
+   "id": "ppl:alexander-vasilyevich-gerasimov",
+   "he": "אלכסנדר גרסימוב",
+   "en": "Alexander Vasilyevich Gerasimov",
+   "desc": "head of the St Petersburg Okhrana",
+   "kind": "police official",
+   "country": "pl:russian-empire",
+   "keys": [
+    "גרסימוב"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:sergei-vissarionov",
+   "he": "סרגיי ויסריונוב",
+   "en": "Sergei Vissarionov",
+   "desc": "vice-director of the Russian Police Department",
+   "kind": "police official",
+   "country": "pl:russian-empire",
+   "keys": [
+    "וויסארינוב"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:yevgeni-alekseyev",
+   "he": "יבגני אלכסייב",
+   "en": "Yevgeni Alekseyev",
+   "desc": "Russian admiral, Viceroy of the Far East",
+   "kind": "admiral",
+   "country": "pl:russian-empire",
+   "keys": [
+    "אדמירל אלכסייב"
+   ],
+   "qid_auto": null,
+   "qid": "Q701150"
+  },
+  {
+   "id": "ppl:nikolay-dukhonin",
+   "he": "ניקולאי דוחונין",
+   "en": "Nikolay Dukhonin",
+   "desc": "last commander-in-chief of the Russian army, killed Dec 1917",
+   "kind": "general",
+   "country": "pl:russian-empire",
+   "keys": [
+    "גנרל דוחונין"
+   ],
+   "qid_auto": "Q1356009",
+   "qid": "Q1356009"
+  },
+  {
+   "id": "ppl:mikhail-bonch-bruyevich",
+   "he": "מיכאיל בונץ׳-ברוביץ׳",
+   "en": "Mikhail Bonch-Bruyevich",
+   "desc": "Russian general, chief of staff at Stavka 1917",
+   "kind": "general",
+   "country": "pl:russian-empire",
+   "keys": [
+    "בונץ ברוביץ"
+   ],
+   "qid_auto": "Q1282947",
+   "qid": "Q1282947"
+  },
+  {
+   "id": "ppl:alexei-alexandrovich-bobrinsky",
+   "he": "אלכסיי בוברינסקי",
+   "en": "Alexei Alexandrovich Bobrinsky",
+   "desc": "chairman of the United Nobility, minister of agriculture 1916",
+   "kind": "politician",
+   "country": "pl:russian-empire",
+   "keys": [
+    "רוזן בוברינסקי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:vladimir-bobrinsky",
+   "he": "ולדימיר בוברינסקי",
+   "en": "Vladimir Bobrinsky",
+   "desc": "Duma deputy, pan-Slavist leader of Galician Russophiles",
+   "kind": "politician",
+   "country": "pl:russian-empire",
+   "keys": [
+    "בבינסקי",
+    "רוזן ולדימיר בוברינסקי"
+   ],
+   "qid_auto": null,
+   "qid": "Q1979990"
+  },
+  {
+   "id": "ppl:pavel-dolgorukov",
+   "he": "פאבל דולגורוקוב",
+   "en": "Pavel Dolgorukov",
+   "desc": "Kadet leader, zemstvo activist",
+   "kind": "politician",
+   "country": "pl:russian-empire",
+   "keys": [
+    "נסיך דולגורוקוב"
+   ],
+   "qid_auto": "Q585897",
+   "qid": "Q585897"
+  },
+  {
+   "id": "ppl:nikolai-gredeskul",
+   "he": "ניקולאי גרדסקול",
+   "en": "Nikolai Gredeskul",
+   "desc": "Kadet member of the First Duma",
+   "kind": "politician",
+   "country": "pl:russian-empire",
+   "keys": [
+    "גרדסקול"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:mikhail-karaulov",
+   "he": "מיכאיל קראולוב",
+   "en": "Mikhail Karaulov",
+   "desc": "Terek Cossack deputy in the State Duma",
+   "kind": "politician",
+   "country": "pl:russian-empire",
+   "keys": [
+    "קרא אוראלוב"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:grigory-alexinsky",
+   "he": "גריגורי אלכסינסקי",
+   "en": "Grigory Alexinsky",
+   "desc": "Social Democratic deputy in the Second Duma",
+   "kind": "politician",
+   "country": "pl:russian-empire",
+   "keys": [],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:emmanuel-bennigsen",
+   "he": "עמנואל בניגסן",
+   "en": "Emmanuel Bennigsen",
+   "desc": "Count, Octobrist deputy in the Third Duma",
+   "kind": "politician",
+   "country": "pl:russian-empire",
+   "keys": [
+    "גראף בנינגסן"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:vladimir-burtsev",
+   "he": "ולדימיר בורצב",
+   "en": "Vladimir Burtsev",
+   "desc": "Russian revolutionary publicist, exposer of police agents",
+   "kind": "journalist",
+   "country": "pl:russian-empire",
+   "keys": [
+    "בורצב"
+   ],
+   "qid_auto": "Q1888703",
+   "qid": "Q1888703"
+  },
+  {
+   "id": "ppl:georgy-gapon",
+   "he": "גאורגי גאפון",
+   "en": "Georgy Gapon",
+   "desc": "Orthodox priest who led the Bloody Sunday march 1905",
+   "kind": "priest",
+   "country": "pl:russian-empire",
+   "keys": [
+    "גאפון"
+   ],
+   "qid_auto": "Q299681",
+   "qid": "Q299681"
+  },
+  {
+   "id": "ppl:lev-deich",
+   "he": "לב דייטש",
+   "en": "Lev Deich",
+   "desc": "Russian Jewish Marxist revolutionary",
+   "kind": "revolutionary",
+   "country": "pl:russian-empire",
+   "keys": [
+    "לב דייטש"
+   ],
+   "qid_auto": null,
+   "qid": "Q2492405"
+  },
+  {
+   "id": "ppl:alexander-herzen",
+   "he": "אלכסנדר הרצן",
+   "en": "Alexander Herzen",
+   "desc": "Russian writer and revolutionary (d. 1870)",
+   "kind": "writer",
+   "country": "pl:russian-empire",
+   "keys": [
+    "א. הרצן"
+   ],
+   "qid_auto": "Q201221",
+   "qid": "Q201221"
+  },
+  {
+   "id": "ppl:maxim-gorky",
+   "he": "מקסים גורקי",
+   "en": "Maxim Gorky",
+   "desc": "Russian writer",
+   "kind": "writer",
+   "country": "pl:russian-empire",
+   "keys": [
+    "מקסים גורקי"
+   ],
+   "qid_auto": "Q12706",
+   "qid": "Q12706"
+  },
+  {
+   "id": "ppl:elie-metchnikoff",
+   "he": "איליה מצ׳ניקוב",
+   "en": "Élie Metchnikoff",
+   "desc": "Russian zoologist and immunologist, Nobel laureate",
+   "kind": "scientist",
+   "country": "pl:russian-empire",
+   "keys": [
+    "מצניקוב (מצניקוב)"
+   ],
+   "qid_auto": "Q172254",
+   "qid": "Q172254"
+  },
+  {
+   "id": "ppl:vladimir-bekhterev",
+   "he": "ולדימיר בכטרב",
+   "en": "Vladimir Bekhterev",
+   "desc": "Russian neurologist, expert in the Beilis case",
+   "kind": "scientist",
+   "country": "pl:russian-empire",
+   "keys": [
+    "פרופסור בכטרב"
+   ],
+   "qid_auto": "Q221723",
+   "qid": "Q221723"
+  },
+  {
+   "id": "ppl:sergei-utochkin",
+   "he": "סרגיי אוטוצ׳קין",
+   "en": "Sergei Utochkin",
+   "desc": "Russian aviator from Odessa",
+   "kind": "aviator",
+   "country": "pl:russian-empire",
+   "keys": [
+    "אוטשקין"
+   ],
+   "qid_auto": "Q529770",
+   "qid": "Q529770"
+  },
+  {
+   "id": "ppl:alexander-gorchakov",
+   "he": "אלכסנדר גורצ׳קוב",
+   "en": "Alexander Gorchakov",
+   "desc": "Russian foreign minister 1856–1882",
+   "kind": "minister",
+   "country": "pl:russian-empire",
+   "keys": [
+    "גורצקוב"
+   ],
+   "qid_auto": "Q327020",
+   "qid": "Q327020"
+  },
+  {
+   "id": "ppl:alexander-alekhine",
+   "he": "אלכסנדר אליוכין",
+   "en": "Alexander Alekhine",
+   "desc": "Russian chess player",
+   "kind": "chess player",
+   "country": "pl:russian-empire",
+   "keys": [
+    "אלחין"
+   ],
+   "qid_auto": "Q131374",
+   "qid": "Q131374"
+  },
+  {
+   "id": "ppl:dmitry-bogrov",
+   "he": "דמיטרי בוגרוב",
+   "en": "Dmitry Bogrov",
+   "desc": "assassin of Stolypin (Sept 1911)",
+   "kind": "assassin",
+   "country": "pl:russian-empire",
+   "keys": [
+    "בגרוב"
+   ],
+   "qid_auto": "Q944527",
+   "qid": "Q944527"
+  },
+  {
+   "id": "ppl:menahem-mendel-beilis",
+   "he": "מנחם מנדל בייליס",
+   "en": "Menahem Mendel Beilis",
+   "desc": "Kiev Jew accused in the 1911–1913 blood libel trial",
+   "kind": "defendant",
+   "country": "pl:russian-empire",
+   "keys": [
+    "ביילִיס",
+    "בייליס",
+    "מנדל בייליס"
+   ],
+   "qid_auto": "Q814751",
+   "qid": "Q814751"
+  },
+  {
+   "id": "ppl:oscar-gruzenberg",
+   "he": "אוסקר גרוזנברג",
+   "en": "Oscar Gruzenberg",
+   "desc": "Russian Jewish defense lawyer",
+   "kind": "lawyer",
+   "country": "pl:russian-empire",
+   "keys": [
+    "גרוזנברג"
+   ],
+   "qid_auto": "Q2906730",
+   "qid": "Q2906730"
+  },
+  {
+   "id": "ppl:lev-brodsky",
+   "he": "לב ברודסקי",
+   "en": "Lev Brodsky",
+   "desc": "Kiev Jewish sugar magnate",
+   "kind": "businessman",
+   "country": "pl:russian-empire",
+   "keys": [
+    "לו ברודסקי"
+   ],
+   "qid_auto": "Q4096791",
+   "qid": "Q4096791"
+  },
+  {
+   "id": "ppl:david-gunzburg",
+   "he": "דוד גינצבורג",
+   "en": "David Günzburg",
+   "desc": "Baron, orientalist and Jewish communal leader in St Petersburg (d. 1910)",
+   "kind": "communal leader",
+   "country": "pl:russian-empire",
+   "keys": [
+    "ברון גינצבורג",
+    "ברון דוד גינצבורג"
+   ],
+   "qid_auto": "Q5234499",
+   "qid": "Q5234499"
+  },
+  {
+   "id": "ppl:saul-ginsburg",
+   "he": "שאול גינזבורג",
+   "en": "Saul Ginsburg",
+   "desc": "Russian Jewish historian, founding editor of Der Fraynd",
+   "kind": "editor",
+   "country": "pl:russian-empire",
+   "keys": [
+    "ס. מ. גינזבורג"
+   ],
+   "qid_auto": "Q7060171",
+   "qid": "Q7060171"
+  },
+  {
+   "id": "ppl:count-vasily-buturlin",
+   "he": "הרוזן בוטורלין",
+   "en": "Count Vasily Buturlin",
+   "desc": "young Russian count poisoned in 1910 (O’Brien de Lacy affair)",
+   "kind": "victim",
+   "country": "pl:russian-empire",
+   "keys": [
+    "בוטורלין"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:william-jennings-bryan",
+   "he": "ויליאם ג׳נינגס בראיין",
+   "en": "William Jennings Bryan",
+   "desc": "US Democratic presidential candidate 1908",
+   "kind": "politician",
+   "country": "pl:united-states",
+   "keys": [
+    "בריאן (ברייאן)"
+   ],
+   "qid_auto": "Q205282",
+   "qid": "Q205282"
+  },
+  {
+   "id": "ppl:thomas-edison",
+   "he": "תומאס אדיסון",
+   "en": "Thomas Edison",
+   "desc": "American inventor",
+   "kind": "inventor",
+   "country": "pl:united-states",
+   "keys": [
+    "אדיסון"
+   ],
+   "qid_auto": "Q8743",
+   "qid": "Q8743"
+  },
+  {
+   "id": "ppl:john-jacob-astor-iv",
+   "he": "ג׳ון ג׳ייקוב אסטור הרביעי",
+   "en": "John Jacob Astor IV",
+   "desc": "American millionaire (engaged 1911)",
+   "kind": "businessman",
+   "country": "pl:united-states",
+   "keys": [
+    "גון גייקוב אסטור"
+   ],
+   "qid_auto": "Q430672",
+   "qid": "Q430672"
+  },
+  {
+   "id": "ppl:emma-goldman",
+   "he": "אמה גולדמן",
+   "en": "Emma Goldman",
+   "desc": "anarchist activist in the United States",
+   "kind": "anarchist",
+   "country": "pl:united-states",
+   "keys": [
+    "אמה גולדמן"
+   ],
+   "qid_auto": "Q79969",
+   "qid": "Q79969"
+  },
+  {
+   "id": "ppl:john-hay",
+   "he": "ג׳ון היי",
+   "en": "John Hay",
+   "desc": "US Secretary of State, died July 1905",
+   "kind": "minister",
+   "country": "pl:united-states",
+   "keys": [
+    "גון היי"
+   ],
+   "qid_auto": "Q117101",
+   "qid": "Q117101"
+  },
+  {
+   "id": "ppl:frederick-dent-grant",
+   "he": "פרדריק דנט גרנט",
+   "en": "Frederick Dent Grant",
+   "desc": "US Army general (son of Ulysses S. Grant)",
+   "kind": "general",
+   "country": "pl:united-states",
+   "keys": [
+    "גנרל גרנט"
+   ],
+   "qid_auto": "Q1344993",
+   "qid": "Q1344993"
+  },
+  {
+   "id": "ppl:william-jay-gaynor",
+   "he": "ויליאם ג׳יי גיינור",
+   "en": "William Jay Gaynor",
+   "desc": "Mayor of New York City 1910–1913, shot 1910",
+   "kind": "mayor",
+   "country": "pl:united-states",
+   "keys": [
+    "גיינור"
+   ],
+   "qid_auto": "Q2544704",
+   "qid": "Q2544704"
+  },
+  {
+   "id": "ppl:takahira-kogoro",
+   "he": "טקהירה קוגורו",
+   "en": "Takahira Kogorō",
+   "desc": "Japanese diplomat, delegate at the Portsmouth peace conference 1905",
+   "kind": "diplomat",
+   "country": "pl:japan",
+   "keys": [
+    "טקהירה (טאקהירו)"
+   ],
+   "qid_auto": "Q920897",
+   "qid": "Q920897"
+  },
+  {
+   "id": "ppl:oyama-iwao",
+   "he": "אויאמה איוואו",
+   "en": "Ōyama Iwao",
+   "desc": "Japanese field marshal in the Russo-Japanese War",
+   "kind": "general",
+   "country": "pl:japan",
+   "keys": [
+    "מרשל אויאמה"
+   ],
+   "qid_auto": "Q359819",
+   "qid": "Q359819"
+  },
+  {
+   "id": "ppl:okuma-shigenobu",
+   "he": "אוקומה שיגנובו",
+   "en": "Ōkuma Shigenobu",
+   "desc": "Japanese statesman",
+   "kind": "politician",
+   "country": "pl:japan",
+   "keys": [
+    "רוזן אוקומה"
+   ],
+   "qid_auto": "Q243141",
+   "qid": "Q243141"
+  },
+  {
+   "id": "ppl:ito-hirobumi",
+   "he": "איטו הירובומי",
+   "en": "Itō Hirobumi",
+   "desc": "Japanese statesman, Resident-General of Korea",
+   "kind": "politician",
+   "country": "pl:japan",
+   "keys": [
+    "איטו"
+   ],
+   "qid_auto": "Q174971",
+   "qid": "Q174971"
+  },
+  {
+   "id": "ppl:ijuin-goro",
+   "he": "איג׳ואין גורו",
+   "en": "Ijuin Gorō",
+   "desc": "Japanese admiral",
+   "kind": "admiral",
+   "country": "pl:japan",
+   "keys": [
+    "אדמירל אידזואין"
+   ],
+   "qid_auto": null,
+   "qid": "Q5357736"
+  },
+  {
+   "id": "ppl:porfirio-diaz",
+   "he": "פורפיריו דיאס",
+   "en": "Porfirio Díaz",
+   "desc": "President of Mexico until 1911",
+   "kind": "president",
+   "country": "pl:mexico",
+   "keys": [
+    "פורפיריו דיאס"
+   ],
+   "qid_auto": "Q150688",
+   "qid": "Q150688"
+  },
+  {
+   "id": "ppl:felix-diaz",
+   "he": "פליקס דיאס",
+   "en": "Félix Díaz",
+   "desc": "Mexican general, nephew of Porfirio Díaz",
+   "kind": "general",
+   "country": "pl:mexico",
+   "keys": [
+    "פליקס דיאס"
+   ],
+   "qid_auto": "Q2394953",
+   "qid": "Q2394953"
+  },
+  {
+   "id": "ppl:victoriano-huerta",
+   "he": "ויקטוריאנו ואורטה",
+   "en": "Victoriano Huerta",
+   "desc": "President of Mexico 1913–1914",
+   "kind": "president",
+   "country": "pl:mexico",
+   "keys": [
+    "וּאֶרטָה"
+   ],
+   "qid_auto": "Q299168",
+   "qid": "Q299168"
+  },
+  {
+   "id": "ppl:henrik-ibsen",
+   "he": "הנריק איבסן",
+   "en": "Henrik Ibsen",
+   "desc": "Norwegian playwright",
+   "kind": "writer",
+   "country": "pl:norway",
+   "keys": [
+    "נריק איבסן"
+   ],
+   "qid_auto": "Q36661",
+   "qid": "Q36661"
+  },
+  {
+   "id": "ppl:bjornstjerne-bjornson",
+   "he": "ביירנסטיירנה ביירנסון",
+   "en": "Bjørnstjerne Bjørnson",
+   "desc": "Norwegian writer, Nobel laureate, died 1910",
+   "kind": "writer",
+   "country": "pl:norway",
+   "keys": [
+    "ביירנסטיירנה ביירנסון"
+   ],
+   "qid_auto": "Q46405",
+   "qid": "Q46405"
+  },
+  {
+   "id": "ppl:georg-brandes",
+   "he": "גיאורג ברנדס",
+   "en": "Georg Brandes",
+   "desc": "Danish Jewish literary critic",
+   "kind": "critic",
+   "country": "pl:denmark",
+   "keys": [
+    "גיאורג ברנדס"
+   ],
+   "qid_auto": "Q316045",
+   "qid": "Q316045"
+  },
+  {
+   "id": "ppl:eliza-orzeszkowa",
+   "he": "אליזה אוז׳שקובה",
+   "en": "Eliza Orzeszkowa",
+   "desc": "Polish novelist",
+   "kind": "writer",
+   "country": "pl:poland",
+   "keys": [
+    "אליזה אזשקובה"
+   ],
+   "qid_auto": "Q240174",
+   "qid": "Q240174"
+  },
+  {
+   "id": "ppl:tobias-asser",
+   "he": "טוביאס אסר",
+   "en": "Tobias Asser",
+   "desc": "Dutch Jewish jurist and minister, Nobel Peace laureate",
+   "kind": "jurist",
+   "country": "pl:netherlands",
+   "keys": [
+    "אסר"
+   ],
+   "qid_auto": "Q216872",
+   "qid": "Q216872"
+  },
+  {
+   "id": "ppl:louis-bertrand-socialist",
+   "he": "לואי ברטראן",
+   "en": "Louis Bertrand (socialist)",
+   "desc": "Belgian socialist leader at the 1910 Copenhagen congress",
+   "kind": "socialist",
+   "country": "pl:belgium",
+   "keys": [
+    "ברטראן"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:victor-adler",
+   "he": "ויקטור אדלר",
+   "en": "Victor Adler",
+   "desc": "leader of the Austrian Social Democrats",
+   "kind": "socialist",
+   "country": "pl:austria-hungary",
+   "keys": [],
+   "qid_auto": "Q366845",
+   "qid": "Q366845"
+  },
+  {
+   "id": "ppl:oldrich-duras",
+   "he": "אולדז׳יך דוראס",
+   "en": "Oldřich Duras",
+   "desc": "Czech chess master",
+   "kind": "chess player",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "דוראס"
+   ],
+   "qid_auto": "Q506427",
+   "qid": "Q506427"
+  },
+  {
+   "id": "ppl:theodor-herzl",
+   "he": "בנימין זאב הרצל",
+   "en": "Theodor Herzl",
+   "desc": "founder of political Zionism (d. 1904)",
+   "kind": "Zionist leader",
+   "keys": [
+    "בנימין זאב הרצל"
+   ],
+   "qid_auto": "Q44003",
+   "qid": "Q44003"
+  },
+  {
+   "id": "ppl:ahad-haam",
+   "he": "אחד העם",
+   "en": "Ahad Ha’am",
+   "desc": "Hebrew essayist and cultural Zionist",
+   "kind": "writer",
+   "keys": [
+    "אחד העם"
+   ],
+   "qid_auto": null,
+   "qid": "Q380425"
+  },
+  {
+   "id": "ppl:hayim-nahman-bialik",
+   "he": "חיים נחמן ביאליק",
+   "en": "Hayim Nahman Bialik",
+   "desc": "Hebrew poet",
+   "kind": "poet",
+   "country": "pl:russian-empire",
+   "keys": [
+    "חיים נחמן ביאליק"
+   ],
+   "qid_auto": "Q359705",
+   "qid": "Q359705"
+  },
+  {
+   "id": "ppl:reuben-brainin",
+   "he": "ראובן בריינין",
+   "en": "Reuben Brainin",
+   "desc": "Hebrew writer and Zionist publicist",
+   "kind": "writer",
+   "keys": [
+    "ר. בריינין",
+    "ראובן בריינין"
+   ],
+   "qid_auto": "Q356423",
+   "qid": "Q356423"
+  },
+  {
+   "id": "ppl:itamar-ben-avi",
+   "he": "איתמר בן-אב״י",
+   "en": "Itamar Ben-Avi",
+   "desc": "Hebrew journalist in Jerusalem, son of Eliezer Ben-Yehuda",
+   "kind": "journalist",
+   "country": "pl:ottoman-palestine",
+   "keys": [
+    "בן אבי"
+   ],
+   "qid_auto": "Q1185164",
+   "qid": "Q1185164"
+  },
+  {
+   "id": "ppl:meir-dizengoff",
+   "he": "מאיר דיזנגוף",
+   "en": "Meir Dizengoff",
+   "desc": "head of the Tel Aviv committee",
+   "kind": "communal leader",
+   "country": "pl:ottoman-palestine",
+   "keys": [
+    "דיזנהוף"
+   ],
+   "qid_auto": "Q114866",
+   "qid": "Q114866"
+  },
+  {
+   "id": "ppl:otto-warburg-botanist",
+   "he": "אוטו ורבורג",
+   "en": "Otto Warburg (botanist)",
+   "desc": "German Zionist leader and botanist",
+   "kind": "Zionist leader",
+   "country": "pl:germany",
+   "keys": [
+    "וארבורג"
+   ],
+   "qid_auto": null,
+   "qid": "Q62822"
+  },
+  {
+   "id": "ppl:israel-belkind",
+   "he": "ישראל בלקינד",
+   "en": "Israel Belkind",
+   "desc": "Bilu pioneer, founder of a school for Kishinev orphans in Palestine",
+   "kind": "educator",
+   "country": "pl:ottoman-palestine",
+   "keys": [
+    "בלקינד"
+   ],
+   "qid_auto": "Q445268",
+   "qid": "Q445268"
+  },
+  {
+   "id": "ppl:zeev-gluskin",
+   "he": "זאב גלוסקין",
+   "en": "Zeev Gluskin",
+   "desc": "Zionist leader, head of the Carmel wine company in Palestine",
+   "kind": "Zionist leader",
+   "country": "pl:ottoman-palestine",
+   "keys": [
+    "גלוסקין"
+   ],
+   "qid_auto": "Q7029371",
+   "qid": "Q7029371"
+  },
+  {
+   "id": "ppl:arthur-biram",
+   "he": "ארתור בירם",
+   "en": "Arthur Biram",
+   "desc": "founder and director of the Reali school in Haifa",
+   "kind": "educator",
+   "country": "pl:ottoman-palestine",
+   "keys": [
+    "דר בירם"
+   ],
+   "qid_auto": "Q4798009",
+   "qid": "Q4798009"
+  },
+  {
+   "id": "ppl:yitzhak-epstein",
+   "he": "יצחק אפשטיין",
+   "en": "Yitzhak Epstein",
+   "desc": "Hebrew educator, director of the Talmud Torah in Salonica 1910–1911",
+   "kind": "educator",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "יצחק אפשטיין"
+   ],
+   "qid_auto": "Q7018328",
+   "qid": "Q7018328"
+  },
+  {
+   "id": "ppl:jacob-gordin",
+   "he": "יעקב גורדין",
+   "en": "Jacob Gordin",
+   "desc": "Yiddish playwright",
+   "kind": "playwright",
+   "country": "pl:united-states",
+   "keys": [
+    "יעקב גורדין"
+   ],
+   "qid_auto": "Q983254",
+   "qid": "Q983254"
+  },
+  {
+   "id": "ppl:menahem-mendel-dolitzki",
+   "he": "מנחם מנדל דוליצקי",
+   "en": "Menahem Mendel Dolitzki",
+   "desc": "Hebrew-Yiddish writer, author of the serialized novel “Der tiranisher meylekh”",
+   "kind": "writer",
+   "country": "pl:united-states",
+   "keys": [
+    "מ. מ. דוליצקי",
+    "מ. מ. דולצקי"
+   ],
+   "qid_auto": null,
+   "qid": "Q12409282"
+  },
+  {
+   "id": "ppl:marcus-ehrenpreis",
+   "he": "מרדכי ארנפרייז",
+   "en": "Marcus Ehrenpreis",
+   "desc": "Chief Rabbi of Bulgaria 1900–1914",
+   "kind": "rabbi",
+   "country": "pl:bulgaria",
+   "keys": [
+    "דר אהרנפרייז",
+    "דר ארנרייך"
+   ],
+   "qid_auto": "Q1947397",
+   "qid": "Q1947397"
+  },
+  {
+   "id": "ppl:shlomo-aronson",
+   "he": "שלמה אהרונסון",
+   "en": "Shlomo Aronson",
+   "desc": "Crown rabbi of Kiev",
+   "kind": "rabbi",
+   "country": "pl:russian-empire",
+   "keys": [
+    "רב אהרנסון"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:jacques-bigart",
+   "he": "ז׳אק ביגאר",
+   "en": "Jacques Bigart",
+   "desc": "secretary of the Alliance Israélite Universelle",
+   "kind": "official",
+   "country": "pl:france",
+   "keys": [
+    "בינאר"
+   ],
+   "qid_auto": "Q94537488",
+   "qid": "Q94537488"
+  },
+  {
+   "id": "ppl:joseph-eschelbacher",
+   "he": "יוסף אשלבכר",
+   "en": "Joseph Eschelbacher",
+   "desc": "rabbi in Berlin",
+   "kind": "rabbi",
+   "country": "pl:germany",
+   "keys": [
+    "רב דר אשלבכר"
+   ],
+   "qid_auto": "Q1704553",
+   "qid": "Q1704553"
+  },
+  {
+   "id": "ppl:abraham-geiger",
+   "he": "אברהם גייגר",
+   "en": "Abraham Geiger",
+   "desc": "German Reform rabbi (d. 1874)",
+   "kind": "rabbi",
+   "country": "pl:germany",
+   "keys": [
+    "אברהם גייגר"
+   ],
+   "qid_auto": "Q60844",
+   "qid": "Q60844"
+  },
+  {
+   "id": "ppl:ludwig-geiger",
+   "he": "לודוויג גייגר",
+   "en": "Ludwig Geiger",
+   "desc": "Berlin historian, anti-Zionist son of Abraham Geiger",
+   "kind": "historian",
+   "country": "pl:germany",
+   "keys": [
+    "לודוויג גייגר"
+   ],
+   "qid_auto": "Q67076",
+   "qid": "Q67076"
+  },
+  {
+   "id": "ppl:maurice-de-hirsch",
+   "he": "הברון מוריס דה הירש",
+   "en": "Maurice de Hirsch",
+   "desc": "Jewish philanthropist, founder of the JCA",
+   "kind": "philanthropist",
+   "keys": [
+    "ברון הירש"
+   ],
+   "qid_auto": "Q45214",
+   "qid": "Q45214"
+  },
+  {
+   "id": "ppl:kalonymus-ze-ev-wissotzky",
+   "he": "קלונימוס זאב ויסוצקי",
+   "en": "Kalonymus Ze’ev Wissotzky",
+   "desc": "Moscow Jewish tea merchant and philanthropist (Technion endowment)",
+   "kind": "philanthropist",
+   "country": "pl:russian-empire",
+   "keys": [
+    "וויסוצקי"
+   ],
+   "qid_auto": null,
+   "qid": "Q1376364"
+  },
+  {
+   "id": "ppl:nahman-batito",
+   "he": "נחמן בטיטו",
+   "en": "Nahman Batito",
+   "desc": "Sephardi rabbi in Jerusalem, candidate for Hakham Bashi 1910–1911",
+   "kind": "rabbi",
+   "country": "pl:ottoman-palestine",
+   "keys": [
+    "בטיטו",
+    "נחמן ביטיטו"
+   ],
+   "qid_auto": null,
+   "qid": "Q6583574"
+  },
+  {
+   "id": "ppl:yom-tov-hamon-effendi",
+   "he": "יום טוב אפנדי חמון",
+   "en": "Yom Tov Hamon Effendi",
+   "desc": "Ottoman Jewish jurist appointed judge of the Jerusalem court of appeal 1910",
+   "kind": "judge",
+   "country": "pl:ottoman-palestine",
+   "keys": [
+    "יום טוב אפנדי האטון (חמון)"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:shai-ish-hurwitz",
+   "he": "ש״י הורוביץ",
+   "en": "Shai Ish Hurwitz",
+   "desc": "Hebrew writer and publicist",
+   "kind": "writer",
+   "keys": [
+    "ש. י. הורוביץ",
+    "שי הורוויץ"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:m-grossman-haynt-berlin-correspondent",
+   "he": "מ. גרוסמן",
+   "en": "M. Grossman",
+   "desc": "Berlin correspondent of Haynt 1911",
+   "kind": "journalist",
+   "country": "pl:germany",
+   "keys": [
+    "מ. גראסמאן",
+    "מ. גראסמן",
+    "מ. גרוסמן"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:s-hochberg-odessa",
+   "he": "ש. הוכברג",
+   "en": "S. Hochberg",
+   "desc": "Odessa Jewish communal figure mentioned 1908–1915 in Unzer Leben local news",
+   "kind": "communal figure",
+   "country": "pl:russian-empire",
+   "keys": [
+    "ש. האברג",
+    "ש. האברן",
+    "ש. האכברג",
+    "ש. הוכברג"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:david-moshe-halevi",
+   "he": "דוד משה הלוי",
+   "en": "David Moshe Halevi",
+   "desc": "satirist writing as “David-Moshe” in Unzer Leben 1913–1917",
+   "kind": "satirist",
+   "country": "pl:russian-empire",
+   "keys": [
+    "דוד משה הלוי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:anflous",
+   "he": "אנפלוס",
+   "en": "Anflous",
+   "desc": "caid of the Haha tribes near Mogador, Morocco",
+   "kind": "caid",
+   "country": "pl:morocco",
+   "keys": [
+    "אנפלוס"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:mohammed-el-guebbas",
+   "he": "מוחמד אל-גבאס",
+   "en": "Mohammed el-Guebbas",
+   "desc": "Moroccan minister of war (makhzen official)",
+   "kind": "minister",
+   "country": "pl:morocco",
+   "keys": [
+    "אל גבאס"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:de-pardish-1911",
+   "he": "דה פארדיש",
+   "en": "de Pardish",
+   "desc": "person named in a Haynt telegram page on the Agadir crisis, July 1911",
+   "kind": "person",
+   "keys": [
+    "דה פארדיש (דיפארדיש)"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:herville-1911",
+   "he": "רוויל",
+   "en": "Herville",
+   "desc": "person named in Haynt telegrams on the Franco-German Morocco negotiations, Aug 1911",
+   "kind": "person",
+   "country": "pl:france",
+   "keys": [
+    "רוויל (הרבילי)"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:colonel-shatilov-1908",
+   "he": "שטילוב",
+   "en": "Colonel Shatilov",
+   "desc": "Russian colonel named in Unzer Leben late news, Aug 1908 (Tiflis)",
+   "kind": "officer",
+   "country": "pl:russian-empire",
+   "keys": [
+    "שטילוב (קולונל)"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:obolensky-1913",
+   "he": "אבולנסקי",
+   "en": "Obolensky",
+   "desc": "Russian (prince?) named in Unzer Leben telegrams, April 1913",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "אבולנסקי"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:alexander-avin-1905",
+   "he": "אלכסנדר אבין",
+   "en": "Alexander Avin",
+   "desc": "person in Russian Telegraph Agency dispatches, July 1905",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "אלכסנדר אבין"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:avishai-avnira",
+   "he": "אבישי אבנירא",
+   "en": "Avishai Avnira",
+   "desc": "Hakham (rabbi) of Isfahan whose letter on Persian Jewry was cited in Haynt, Jan 1911",
+   "kind": "rabbi",
+   "country": "pl:persia",
+   "keys": [
+    "אבישי אבנירא"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:abraham-ben-david-halevi-of-hamadan",
+   "he": "אברהם בן דוד הלוי",
+   "en": "Abraham ben David Halevi of Hamadan",
+   "desc": "wealthy Jewish merchant of Hamadan robbed in Kiev 1906 (Haynt 1911 on Persian Jewry)",
+   "kind": "merchant",
+   "country": "pl:persia",
+   "keys": [
+    "אברהם בן דוד הלוי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:david-halevi-of-hamadan",
+   "he": "ר׳ דוד הלוי מהמדאן",
+   "en": "David Halevi of Hamadan",
+   "desc": "father of Abraham ben David Halevi, murdered (Haynt 1911 on Persian Jewry)",
+   "kind": "merchant",
+   "country": "pl:persia",
+   "keys": [
+    "דוד (אביו של אברהם)"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:shlomo-hacohen-of-hamran",
+   "he": "שלמה הכהן",
+   "en": "Shlomo Hacohen of Hamran",
+   "desc": "rabbi of Hamran, Tabriz district, Persia (Haynt 1911)",
+   "kind": "rabbi",
+   "country": "pl:persia",
+   "keys": [
+    "שלמה הכהן"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:yekutiel-halevi-persia",
+   "he": "יקותיאל הלוי",
+   "en": "Yekutiel Halevi",
+   "desc": "Persian Jewish hakham whose letter was cited in Haynt 1911",
+   "kind": "rabbi",
+   "country": "pl:persia",
+   "keys": [
+    "יקותיאל הלוי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:albert-aberbamel-1907",
+   "he": "אלברט אברבמל",
+   "en": "Albert Aberbamel",
+   "desc": "person named in Der Fraynd telegrams, Dec 1907",
+   "kind": "person",
+   "keys": [
+    "אלברט אברבמל"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:dervish-ibrahim-1911",
+   "he": "דרוויש אברהם",
+   "en": "Dervish Ibrahim",
+   "desc": "person named in Haynt telegrams, July 1911 (Caucasus/Persia)",
+   "kind": "person",
+   "keys": [
+    "דרוויש אברהם"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:professor-eberlein-1905",
+   "he": "פרופסור אברלין",
+   "en": "Professor Eberlein",
+   "desc": "professor named in Russian Telegraph Agency dispatches, April 1905",
+   "kind": "professor",
+   "keys": [
+    "פרופסור אברלין"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:abramovich-1912",
+   "he": "אברמוביץ",
+   "en": "Abramovich",
+   "desc": "person named in Haynt mixed news, July 1912",
+   "kind": "person",
+   "keys": [
+    "אברמוביץ"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:rabbi-abramovich-1910",
+   "he": "רב אברמוביץ",
+   "en": "Rabbi Abramovich",
+   "desc": "rabbi named in Unzer Leben Jewish news digest, Nov 1910",
+   "kind": "rabbi",
+   "keys": [
+    "רב אברמוביץ"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:agali-1911",
+   "he": "אגאלי",
+   "en": "Agali",
+   "desc": "figure in Persian civil-war news, Haynt July 1911",
+   "kind": "person",
+   "country": "pl:persia",
+   "keys": [
+    "אגאלי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:prince-aginsky",
+   "he": "נסיך אגינסקי",
+   "en": "Prince Aginsky",
+   "desc": "Russian prince named in Haynt news, May–July 1911",
+   "kind": "prince",
+   "country": "pl:russian-empire",
+   "keys": [
+    "נסיך אגינסקי"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:dr-adler-1911",
+   "he": "דר אדלר",
+   "en": "Dr. Adler",
+   "desc": "physician/scholar named in Haynt telegrams, May 1911",
+   "kind": "person",
+   "keys": [
+    "דר אדלר"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:hermann-adler-1912",
+   "he": "רמן אדלר",
+   "en": "Hermann Adler (1912)",
+   "desc": "person named in Haynt news, May 1912",
+   "kind": "person",
+   "keys": [
+    "רמן אדלר"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:governor-adamov-1905",
+   "he": "מושל אדמוב",
+   "en": "Governor Adamov",
+   "desc": "Russian provincial governor in 1905 telegrams",
+   "kind": "governor",
+   "country": "pl:russian-empire",
+   "keys": [
+    "מושל אדמוב"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:mustafa-muti-oglu",
+   "he": "מוסטפא מוטי אוגלי",
+   "en": "Mustafa Muti Oglu",
+   "desc": "person named in Haynt telegrams on the Caucasus/Persia, 1911",
+   "kind": "person",
+   "keys": [
+    "מוסטפא מוטי אוגלי",
+    "מוסטאפא מוטי אנלי"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:a-ohagen",
+   "he": "א. אוהגן",
+   "en": "A. Ohagen",
+   "desc": "author of an ethnographic article on the Bedouin of Syria, Unzer Leben 1911",
+   "kind": "writer",
+   "keys": [
+    "א. אוהגן"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:david-shalom-ozeda",
+   "he": "דוד שלום אוזידה",
+   "en": "David Shalom Ozeda",
+   "desc": "Jew who served as a diplomat, in Haynt survey of Jewish diplomats, Aug 1912",
+   "kind": "diplomat",
+   "keys": [
+    "דוד שלום אוזידה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:ovich-odessa-1914",
+   "he": "אויטש",
+   "en": "Ovich",
+   "desc": "Odessa local figure in Unzer Leben local news, Oct 1914",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "אויטש"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:k-mor-australia-1910",
+   "he": "ק מור",
+   "en": "K. Mor",
+   "desc": "Australian figure named in Unzer Leben news on ITO activity in Australia, Sept 1910",
+   "kind": "person",
+   "country": "pl:australia",
+   "keys": [
+    "ק מור (ראש ממשלת אוסטרליה)"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:porphyrius-uspensky",
+   "he": "פורפירי אוספנסקי",
+   "en": "Porphyrius Uspensky",
+   "desc": "Russian bishop and orientalist, cited on the Jews of Salonica (Unzer Leben 1909)",
+   "kind": "bishop",
+   "country": "pl:russian-empire",
+   "keys": [
+    "פורפירי אוספנסקי"
+   ],
+   "qid_auto": null,
+   "qid": "Q4358348"
+  },
+  {
+   "id": "ppl:auerbach-1910",
+   "he": "אוערבוך",
+   "en": "Auerbach",
+   "desc": "person named in Unzer Leben telegrams, June 1910",
+   "kind": "person",
+   "keys": [
+    "אוערבוך"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:baron-cohen-oppenheim",
+   "he": "ברון כהן אופנהיים",
+   "en": "Baron Cohen-Oppenheim",
+   "desc": "Berlin Jewish notable in the Ludwig Geiger affair 1905",
+   "kind": "communal figure",
+   "country": "pl:germany",
+   "keys": [
+    "ברון כהן אופנהיים"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:utsumoto-1911",
+   "he": "אוצומוטו",
+   "en": "Utsumoto",
+   "desc": "Japanese figure named in Haynt telegrams, Sept 1911",
+   "kind": "person",
+   "country": "pl:japan",
+   "keys": [
+    "אוצומוטו"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:auerbach-1911",
+   "he": "אורבך",
+   "en": "Auerbach",
+   "desc": "person named in Unzer Leben telegrams, June 1911",
+   "kind": "person",
+   "keys": [
+    "אורבך"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:general-ordonez-1911",
+   "he": "גנרל אורדוניס",
+   "en": "General Ordóñez",
+   "desc": "Spanish general who died of wounds at Melilla, Oct 1911",
+   "kind": "general",
+   "country": "pl:spain",
+   "keys": [
+    "גנרל אורדוניס"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:prince-urusov-1911",
+   "he": "נסיך אורוסוב",
+   "en": "Prince Urusov",
+   "desc": "Russian prince named in Haynt telegrams, Sept 1911",
+   "kind": "prince",
+   "country": "pl:russian-empire",
+   "keys": [
+    "נסיך אורוסוב"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:h-k-iben",
+   "he": "ח. ק. איבן",
+   "en": "H. K. Iben",
+   "desc": "author of a serialized literary story on a Druze sheikh (Unzer Leben 1912)",
+   "kind": "writer",
+   "keys": [
+    "ח. ק. איבן"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:ivanov-1906",
+   "he": "איבנוב",
+   "en": "Ivanov",
+   "desc": "Russian named in Der Fraynd telegrams, Feb 1906",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "איבנוב"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:ivanitsky-1912",
+   "he": "איבנצקי",
+   "en": "Ivanitsky",
+   "desc": "person named in Haynt telegrams, Jan 1912",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "איבנצקי"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:ivanitsky-odessa-1915",
+   "he": "איוואניצקי",
+   "en": "Ivanitsky",
+   "desc": "Odessa official in Unzer Leben local news, Feb 1915",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "איוואניצקי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:ignatiev-1911",
+   "he": "איגנטייב",
+   "en": "Ignatiev",
+   "desc": "Russian figure in Unzer Leben telegrams from Petersburg/Kiev, Dec 1911",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "איגנטייב"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:count-ignatiev-1910",
+   "he": "גרף איגנטייב",
+   "en": "Count Ignatiev",
+   "desc": "Russian count named in Haynt telegrams, June 1910 (likely Alexei Pavlovich Ignatiev of the State Council)",
+   "kind": "count",
+   "country": "pl:russian-empire",
+   "keys": [
+    "גרף איגנטייב"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:count-ignatiev-1915",
+   "he": "רוזן איגנטייב",
+   "en": "Count Ignatiev",
+   "desc": "Russian count in Unzer Leben late news, Jan 1915 (likely Pavel Ignatiev, education minister)",
+   "kind": "count",
+   "country": "pl:russian-empire",
+   "keys": [
+    "רוזן איגנטייב"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:idelson-1906",
+   "he": "אידלסון",
+   "en": "Idelson",
+   "desc": "person in a polemic in Der Fraynd on the Russian loan, April 1906",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "אידלסון"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:ivanovsky-1911",
+   "he": "איוואנובסקי",
+   "en": "Ivanovsky",
+   "desc": "Russian named in Unzer Leben telegrams, Dec 1911",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "איוואנובסקי"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:j-b-eisenbeck",
+   "he": "י. ב. אייזנבק",
+   "en": "J. B. Eisenbeck",
+   "desc": "person named in Haynt late telegrams, Aug 1911",
+   "kind": "person",
+   "keys": [
+    "י. ב. אייזנבק"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:ilnitsky-1911",
+   "he": "אילניצקי",
+   "en": "Ilnitsky",
+   "desc": "person named in Haynt telegrams, Aug 1911",
+   "kind": "person",
+   "keys": [
+    "אילניצקי"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:amir-mukarram-rasht",
+   "he": "אמיר אימוקער",
+   "en": "Amir Mukarram (Rasht)",
+   "desc": "Persian notable named in Haynt telegrams, July 1911",
+   "kind": "person",
+   "country": "pl:persia",
+   "keys": [
+    "אמיר אימוקער"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:khan-imrulla",
+   "he": "חאן אימרולה",
+   "en": "Khan Imrulla",
+   "desc": "Caucasian Muslim notable in Russian Telegraph Agency dispatches, April 1905",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "חאן אימרולה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:freude-isachik",
+   "he": "פרוידה איסאציק",
+   "en": "Freude Isachik",
+   "desc": "person named in Unzer Leben telegrams, April 1913",
+   "kind": "person",
+   "keys": [
+    "פרוידה איסאציק"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:iserson-1912",
+   "he": "איסרזון",
+   "en": "Iserson",
+   "desc": "person named in Haynt urgent news, April 1912",
+   "kind": "person",
+   "keys": [
+    "איסרזון"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:irelson-1910",
+   "he": "אירלסון",
+   "en": "Irelson",
+   "desc": "person named in Unzer Leben report on the Hilfsverein, March 1910",
+   "kind": "person",
+   "keys": [
+    "אירלסון"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:yorai-allatini",
+   "he": "יורעי אלאטיני",
+   "en": "Yorai Allatini",
+   "desc": "member of the Allatini family of Salonica (Unzer Leben 1913)",
+   "kind": "merchant",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "יורעי אלאטיני"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:joseph-ben-alba",
+   "he": "יוסף בן אלבא",
+   "en": "Joseph ben Alba",
+   "desc": "Jewish poet-philosopher burned by the Inquisition, memorial planned in Lisbon (Der Fraynd 1905)",
+   "kind": "poet",
+   "country": "pl:portugal",
+   "keys": [
+    "יוסף בן אלבא"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:richard-elbogen",
+   "he": "ריכארד אלבוגן",
+   "en": "Richard Elbogen",
+   "desc": "person named in Unzer Leben Jewish news digest, Nov 1910",
+   "kind": "person",
+   "keys": [
+    "ריכארד אלבוגן"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:senator-elt",
+   "he": "סנאטור אלט",
+   "en": "Senator Elt",
+   "desc": "Russian senator named in Unzer Leben telegrams, June 1909",
+   "kind": "senator",
+   "country": "pl:russian-empire",
+   "keys": [
+    "סנאטור אלט"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:haley-1910",
+   "he": "אלי",
+   "en": "Haley",
+   "desc": "person named in Unzer Leben telegrams, May 1910",
+   "kind": "person",
+   "keys": [
+    "אלי"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:brayna-wife-of-elijah",
+   "he": "ברינה, אשת אליה",
+   "en": "Brayna, wife of Elijah",
+   "desc": "Jewish defendant in the 1753 Pavolitch/Markova Volitsa blood libel (historical article, Der Fraynd 1905)",
+   "kind": "historical person",
+   "country": "pl:ukraine",
+   "keys": [
+    "ברינה, אשת אליה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:elijah-markova-volitsa",
+   "he": "אליהו",
+   "en": "Elijah of Markova Volitsa",
+   "desc": "Jewish leaseholder accused in the 1753 Markova Volitsa blood libel",
+   "kind": "historical person",
+   "country": "pl:ukraine",
+   "keys": [
+    "אליהו (אריסי מרקובה וולייצה)"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:yankel-markova-volitsa",
+   "he": "יענקל",
+   "en": "Yankel of Markova Volitsa",
+   "desc": "Jewish leaseholder accused in the 1753 Markova Volitsa blood libel",
+   "kind": "historical person",
+   "country": "pl:ukraine",
+   "keys": [
+    "יענקל (אריס מרקובה וולייצה)"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:zivoli-1753-blood-libel",
+   "he": "זיוולי הקוקלבי",
+   "en": "Zivoli",
+   "desc": "defendant in the 1753 Kiev blood-libel trial who escaped execution by converting",
+   "kind": "historical person",
+   "country": "pl:ukraine",
+   "keys": [
+    "זיוולי הקוקלבי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:mirza-aliyev-1911",
+   "he": "מירזה אלייב",
+   "en": "Mirza Aliyev",
+   "desc": "Caucasian/Persian figure in Haynt telegrams, Dec 1911",
+   "kind": "person",
+   "keys": [
+    "מירזה אלייב"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:dr-aliyenst",
+   "he": "דר אליענסט",
+   "en": "Dr. Aliyenst",
+   "desc": "pen name of a satirist in Der Fraynd, 1905",
+   "kind": "satirist",
+   "country": "pl:russian-empire",
+   "keys": [
+    "דר אליענסט"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:elipinsky-1907",
+   "he": "אליפינסקי",
+   "en": "Elipinsky",
+   "desc": "person discussed in the Russian State Duma, April 1907",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "אליפינסקי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:yaakov-elyashar-1911",
+   "he": "יעקב אלישר",
+   "en": "Yaakov Elyashar",
+   "desc": "Sephardi communal figure in Jerusalem, 1911 Hakham Bashi dispute",
+   "kind": "communal figure",
+   "country": "pl:ottoman-palestine",
+   "keys": [
+    "יעקב אלישר"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:bishop-alexei-1912",
+   "he": "בישוף אלכסי",
+   "en": "Bishop Alexei",
+   "desc": "Russian Orthodox bishop named in Haynt telegrams, Feb 1912",
+   "kind": "bishop",
+   "country": "pl:russian-empire",
+   "keys": [
+    "בישוף אלכסי"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:alexandrova-1905",
+   "he": "אלכסנדרובה",
+   "en": "Alexandrova",
+   "desc": "person in Russian Telegraph Agency dispatches, June 1905",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "אלכסנדרובה"
+   ],
+   "qid_auto": "Q36619365",
+   "qid": null
+  },
+  {
+   "id": "ppl:dr-almara-lisbon",
+   "he": "דר אלמארא",
+   "en": "Dr. Almara",
+   "desc": "member of the Lisbon Jewish community (Haynt 1912)",
+   "kind": "physician",
+   "country": "pl:portugal",
+   "keys": [
+    "דר אלמארא"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:elson-1910",
+   "he": "אלסון",
+   "en": "Elson",
+   "desc": "person named in a Haynt political review, Feb 1910 (Egypt/Morocco/Greece)",
+   "kind": "person",
+   "keys": [
+    "אלסון"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:elkan-1911",
+   "he": "אלקאן",
+   "en": "Elkan",
+   "desc": "person named in Haynt telegrams, Dec 1911",
+   "kind": "person",
+   "keys": [
+    "אלקאן"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:eleshkerin-1905",
+   "he": "אלשקרין",
+   "en": "Eleshkerin",
+   "desc": "participant in the zemstvo congress news, Sept 1905",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "אלשקרין"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:sardar-amahi",
+   "he": "סרדאר אמאחי",
+   "en": "Sardar Amahi",
+   "desc": "Persian commander in Haynt late news, Oct 1911",
+   "kind": "commander",
+   "country": "pl:persia",
+   "keys": [
+    "סרדאר אמאחי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:murray-missionary",
+   "he": "מורי",
+   "en": "Murray (missionary)",
+   "desc": "American missionary named in Haynt telegrams, April 1911",
+   "kind": "missionary",
+   "country": "pl:united-states",
+   "keys": [
+    "מורי (מיסיונר אמריקאי)"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:hammerstein-1912",
+   "he": "אמרשטיין",
+   "en": "Hammerstein",
+   "desc": "person cited in Max Nordau’s 1911 review of world politics (Haynt 1912)",
+   "kind": "person",
+   "keys": [
+    "אמרשטיין"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:anafanov-1911",
+   "he": "אנאפנוב",
+   "en": "Anafanov",
+   "desc": "figure in Persian civil-war news, Haynt July 1911",
+   "kind": "person",
+   "keys": [
+    "אנאפנוב"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:sheikh-ibrahim-enjani",
+   "he": "שיח אברהים אנגאני",
+   "en": "Sheikh Ibrahim Enjani",
+   "desc": "Muslim cleric named in Haynt telegrams, Dec 1911",
+   "kind": "cleric",
+   "keys": [
+    "שיח אברהים אנגאני"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:dr-andersen-1912",
+   "he": "דר אנדרזין",
+   "en": "Dr. Andersen",
+   "desc": "scientist named in Haynt short news, Feb 1912",
+   "kind": "scientist",
+   "keys": [
+    "דר אנדרזין"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:andreyev-1906",
+   "he": "אנדרייב",
+   "en": "Andreyev",
+   "desc": "Russian named in Der Fraynd telegrams, April 1906",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "אנדרייב"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:zhadko-andreyev",
+   "he": "זדקה אנדרייב",
+   "en": "Zhadko-Andreyev",
+   "desc": "Russian named in Russian Telegraph Agency dispatches, June 1905",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "זדקה אנדרייב"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:anchilevich-1913",
+   "he": "אנטשילביץ",
+   "en": "Anchilevich",
+   "desc": "person named in Unzer Leben telegrams, June 1913",
+   "kind": "person",
+   "keys": [
+    "אנטשילביץ"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:aninsky-1911",
+   "he": "אנינסקי",
+   "en": "Aninsky",
+   "desc": "person in the Vanlyarlyarsky will trial news, Haynt May 1911",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "אנינסקי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:shan-anfum",
+   "he": "שאן אנפום",
+   "en": "Shan Anfum",
+   "desc": "Chinese figure named in Haynt telegrams, Dec 1911",
+   "kind": "person",
+   "country": "pl:china",
+   "keys": [
+    "שאן אנפום"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:antsipakhims",
+   "he": "אנציפחימס",
+   "en": "Antsipakhims",
+   "desc": "person named in an Unzer Leben interview on Jews in Egypt, May 1915",
+   "kind": "person",
+   "keys": [
+    "אנציפחימס"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:general-esouie-1910",
+   "he": "גנרל אסוייה",
+   "en": "General Esouie",
+   "desc": "general in a clash on the Moroccan–Algerian border, July 1910",
+   "kind": "general",
+   "country": "pl:france",
+   "keys": [
+    "גנרל אסוייה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:saidi-astarabad",
+   "he": "סעידי",
+   "en": "Saidi",
+   "desc": "deputy governor of Astarabad, Persia, 1911",
+   "kind": "official",
+   "country": "pl:persia",
+   "keys": [
+    "סעידי (סגן מושל אסטראבאד)"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:ostrogradsky-1910",
+   "he": "אסטרוגרדסקי",
+   "en": "Ostrogradsky",
+   "desc": "Russian named in Haynt telegrams, June 1910",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "אסטרוגרדסקי"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:berta-astrakhan",
+   "he": "ברטה אסטרחן",
+   "en": "Berta Astrakhan",
+   "desc": "name in a Haynt advertisement page, Nov 1910",
+   "kind": "person",
+   "keys": [
+    "ברטה אסטרחן"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:s-ben-esther",
+   "he": "ש. בן אסתר",
+   "en": "S. Ben-Esther",
+   "desc": "Constantinople correspondent of Unzer Leben, 1910",
+   "kind": "journalist",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "ש. בן אסתר"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:bekhor-effendi-1910",
+   "he": "בכור אפנדי",
+   "en": "Bekhor Effendi",
+   "desc": "Ottoman Jewish notable named in Unzer Leben news, July 1910",
+   "kind": "communal figure",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "בכור אפנדי"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:david-effendi-molho",
+   "he": "דוד אפנדי",
+   "en": "David Effendi Molho",
+   "desc": "Ottoman Jew appointed to the Ottoman Senate, 1910",
+   "kind": "senator",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "דוד אפנדי"
+   ],
+   "qid_auto": null,
+   "qid": "Q130455979"
+  },
+  {
+   "id": "ppl:hakki-effendi-1911",
+   "he": "חאקי אפנדי",
+   "en": "Hakki Effendi",
+   "desc": "Ottoman figure satirized in a Haynt feuilleton on the Italo-Turkish war, Oct 1911",
+   "kind": "person",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "חאקי אפנדי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:mustafa-effendi-1910",
+   "he": "מוסטפא אפנדי",
+   "en": "Mustafa Effendi",
+   "desc": "Ottoman figure named in Unzer Leben telegrams, July 1910",
+   "kind": "person",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "מוסטפא אפנדי"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:matzliah-effendi-1910",
+   "he": "מצליח אפנדי",
+   "en": "Matzliah Effendi",
+   "desc": "Ottoman Jewish notable named in Unzer Leben news, July 1910",
+   "kind": "communal figure",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "מצליח אפנדי"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:paradesh-effendi-1910",
+   "he": "פראדש אפנדי",
+   "en": "Paradesh Effendi",
+   "desc": "Ottoman notable named in Unzer Leben news, July 1910",
+   "kind": "person",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "פראדש אפנדי"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:ephraim-epstein-1909",
+   "he": "אפרים אפשטיין",
+   "en": "Ephraim Epstein",
+   "desc": "person named in Unzer Leben report on Turkey, April 1909",
+   "kind": "person",
+   "keys": [
+    "אפרים אפשטיין"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:ackermann-1911",
+   "he": "אקרמן",
+   "en": "Ackermann",
+   "desc": "person named in Haynt telegrams, Sept 1911",
+   "kind": "person",
+   "keys": [
+    "אקרמן"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:r-arbela",
+   "he": "ר ארבלה",
+   "en": "R. Arbela",
+   "desc": "Jew in Haynt survey of Jewish diplomats, Aug 1912",
+   "kind": "diplomat",
+   "keys": [
+    "ר ארבלה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:prince-dzhambakur-orbeliani",
+   "he": "נסיך ארבליאני",
+   "en": "Prince Dzhambakur-Orbeliani",
+   "desc": "Georgian prince in Russian Telegraph Agency dispatches, June 1905",
+   "kind": "prince",
+   "country": "pl:russian-empire",
+   "keys": [
+    "נסיך ארבליאני"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:yanni-arvaninis",
+   "he": "יאני ארוואנינים",
+   "en": "Yanni Arvaninis",
+   "desc": "person named in Unzer Leben telegrams, June 1911",
+   "kind": "person",
+   "keys": [
+    "יאני ארוואנינים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:aristobulus-dolitzky-novel",
+   "he": "אריסטובול",
+   "en": "Aristobulus (novel character)",
+   "desc": "Hasmonean prince, character in M. M. Dolitzky’s serialized novel (Unzer Leben 1915–1917)",
+   "kind": "fictional character",
+   "keys": [
+    "אריסטובול",
+    "אריסטובל"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:ericsson-1912",
+   "he": "אריקסון",
+   "en": "Ericsson",
+   "desc": "person named in Haynt telegrams, Feb 1912",
+   "kind": "person",
+   "keys": [
+    "אריקסון"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:yermolov-1911",
+   "he": "ארמלוב",
+   "en": "Yermolov",
+   "desc": "Russian named in Haynt telegrams, Nov 1911",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "ארמלוב"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:arnold-1906",
+   "he": "ארנולד",
+   "en": "Arnold",
+   "desc": "person named in Der Fraynd telegrams, Nov 1906",
+   "kind": "person",
+   "keys": [
+    "ארנולד"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:l-ashkenazi-odessa",
+   "he": "ל. אשכנזי",
+   "en": "L. Ashkenazi",
+   "desc": "Odessa Jewish figure in Unzer Leben local news, Oct 1914",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "ל. אשכנזי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:meir-ashkenazi-diplomat",
+   "he": "מאיר אשכנזי",
+   "en": "Meir Ashkenazi",
+   "desc": "Jew in Haynt survey of Jewish diplomats, Aug 1912",
+   "kind": "diplomat",
+   "keys": [
+    "מאיר אשכנזי"
+   ],
+   "qid_auto": "Q6262887",
+   "qid": null
+  },
+  {
+   "id": "ppl:eschenbach-1911",
+   "he": "אשנבך",
+   "en": "Eschenbach",
+   "desc": "person named in Haynt short news, April 1911",
+   "kind": "person",
+   "keys": [
+    "אשנבך"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:babushkin-1917",
+   "he": "באבושקין",
+   "en": "Babushkin",
+   "desc": "person named in Unzer Leben late news, March 1917",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "באבושקין"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:governor-general-bobrokov",
+   "he": "נגריל מושל באברוקוב",
+   "en": "Governor-General Bobrokov",
+   "desc": "Russian governor-general in 1905 telegrams",
+   "kind": "governor",
+   "country": "pl:russian-empire",
+   "keys": [
+    "נגריל מושל באברוקוב"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:babrzhinsky-1908",
+   "he": "באברזינסקי",
+   "en": "Babrzhinsky",
+   "desc": "person named in Unzer Leben telegrams, April 1908",
+   "kind": "person",
+   "keys": [
+    "באברזינסקי"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:captain-bato",
+   "he": "קפטן באטו",
+   "en": "Captain Bato",
+   "desc": "captain named in Russian Telegraph Agency dispatches, April 1905",
+   "kind": "officer",
+   "keys": [
+    "קפטן באטו"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:zia-bey-basalan",
+   "he": "זיא ביי באסאלאן",
+   "en": "Zia Bey Basalan",
+   "desc": "Ottoman figure in Salonica news, Unzer Leben June 1913",
+   "kind": "person",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "זיא ביי באסאלאן"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:ali-baki-1909",
+   "he": "עלי באקי",
+   "en": "Ali Baki",
+   "desc": "Ottoman figure in the April 1909 crisis",
+   "kind": "person",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "עלי באקי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:barvska-1910",
+   "he": "בארבסקה",
+   "en": "Barvska",
+   "desc": "person named in Haynt urgent news, May 1910",
+   "kind": "person",
+   "keys": [
+    "בארבסקה"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:dr-barbashtkin",
+   "he": "דר בארבשטקין",
+   "en": "Dr. Barbashtkin",
+   "desc": "physician named in Der Fraynd telegrams, Dec 1907",
+   "kind": "physician",
+   "country": "pl:russian-empire",
+   "keys": [
+    "דר בארבשטקין"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:engineer-baronsky",
+   "he": "מהנדס בארונסקי",
+   "en": "Engineer Baronsky",
+   "desc": "engineer named in Haynt late news, July 1911 (aviation)",
+   "kind": "engineer",
+   "keys": [
+    "מהנדס בארונסקי"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:bark-1914",
+   "he": "בארק",
+   "en": "Bark",
+   "desc": "person named in Unzer Leben war news, Oct 1914",
+   "kind": "person",
+   "keys": [
+    "בארק"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:babtsev-1914",
+   "he": "בבצוב",
+   "en": "Babtsev",
+   "desc": "person named in Unzer Leben telegrams, Oct 1914 (Balkans)",
+   "kind": "person",
+   "keys": [
+    "בבצוב"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:mahmud-khan-pseudonym",
+   "he": "מחמוד חאן",
+   "en": "Mahmud Khan (pseudonym)",
+   "desc": "pseudonym used in Persian revolution news, July 1908",
+   "kind": "person",
+   "country": "pl:persia",
+   "keys": [
+    "מחמוד חאן (שם בדוי)"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:paul-bherim-1907",
+   "he": "פול בהרים",
+   "en": "Paul Bherim",
+   "desc": "French socialist named in Der Fraynd foreign news, Oct 1907",
+   "kind": "person",
+   "country": "pl:france",
+   "keys": [
+    "פול בהרים"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:general-boirepos-1907",
+   "he": "גנרל בוארפר",
+   "en": "General Boirepos",
+   "desc": "French general at Casablanca, Aug 1907",
+   "kind": "general",
+   "country": "pl:france",
+   "keys": [
+    "גנרל בוארפר"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:bogatov-1905",
+   "he": "בוגטוב",
+   "en": "Bogatov",
+   "desc": "Russian named in telegrams, April 1905",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "בוגטוב"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:general-bode-1906",
+   "he": "גנרל בוד",
+   "en": "General Bode",
+   "desc": "Russian general named in Der Fraynd telegrams, Feb 1906",
+   "kind": "general",
+   "country": "pl:russian-empire",
+   "keys": [
+    "גנרל בוד"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:major-bott-1912",
+   "he": "מייגור בוט",
+   "en": "Major Bott",
+   "desc": "officer named in Haynt telegrams, April 1912",
+   "kind": "officer",
+   "keys": [
+    "מייגור בוט"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:butlerov-1912",
+   "he": "בוטלרוב",
+   "en": "Butlerov",
+   "desc": "person named in Haynt news, Aug 1912",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "בוטלרוב"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:l-buchshtab-odessa",
+   "he": "ל. בוכשטב",
+   "en": "L. Buchshtab",
+   "desc": "Odessa figure in Unzer Leben local news, Oct 1914",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "ל. בוכשטב"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:bauman-1911",
+   "he": "בומן",
+   "en": "Bauman",
+   "desc": "person in the Vanlyarlyarsky trial news, Haynt May 1911",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "בומן"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:joseph-bungel",
+   "he": "יוסף בונגל",
+   "en": "Joseph Bungel",
+   "desc": "person named in Haynt news, May 1912",
+   "kind": "person",
+   "keys": [
+    "יוסף בונגל"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:general-bucklesson",
+   "he": "גנרל בוקלסון",
+   "en": "General Bucklesson",
+   "desc": "general named in Captain Faber’s revelations on the Morocco crisis (Haynt 1911)",
+   "kind": "general",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "גנרל בוקלסון"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:ben-boker",
+   "he": "בן בוקר",
+   "en": "Ben Boker",
+   "desc": "Jew in Haynt survey of Jewish diplomats, Aug 1912",
+   "kind": "diplomat",
+   "keys": [
+    "בן בוקר"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:bourret-1910",
+   "he": "בורה",
+   "en": "Bourret",
+   "desc": "person named in Unzer Leben telegrams, July 1910",
+   "kind": "person",
+   "keys": [
+    "בורה"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:dr-bornheimer",
+   "he": "דר בורנהיימר",
+   "en": "Dr. Bornheimer",
+   "desc": "Jewish figure in Unzer Leben news on Jews abroad, May 1910",
+   "kind": "person",
+   "keys": [
+    "דר בורנהיימר"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:bournique-1911",
+   "he": "בורניק",
+   "en": "Bournique",
+   "desc": "person injured/present at the Paris air disaster, May 1911",
+   "kind": "person",
+   "country": "pl:france",
+   "keys": [
+    "בורניק"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:bornstein-1913",
+   "he": "בורנשטיין",
+   "en": "Bornstein",
+   "desc": "correspondent/source on the Macedonian front, July 1913",
+   "kind": "person",
+   "keys": [
+    "בורנשטיין"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:colonel-bouche-1911",
+   "he": "קולונל בושה",
+   "en": "Colonel Bouché",
+   "desc": "French colonel named in Haynt’s Paris letter, Sept 1911",
+   "kind": "officer",
+   "country": "pl:france",
+   "keys": [
+    "קולונל בושה"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:general-bushayev",
+   "he": "גנרל בושייב",
+   "en": "General Bushayev",
+   "desc": "Russian general named in Der Fraynd telegrams, July 1907",
+   "kind": "general",
+   "country": "pl:russian-empire",
+   "keys": [
+    "גנרל בושייב"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:ismail-hakki-bey-salonica",
+   "he": "איסמעיל חקי בי",
+   "en": "Ismail Hakki Bey",
+   "desc": "Ottoman mutasarrif in Salonica, wounded in an attack April 1910",
+   "kind": "official",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "איסמעיל חקי בי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:dervish-bey-1911",
+   "he": "דרוויש בי",
+   "en": "Dervish Bey",
+   "desc": "Ottoman figure in Haynt telegrams, July 1911",
+   "kind": "person",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "דרוויש בי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:zek-bey-1911",
+   "he": "זק בי",
+   "en": "Zek Bey",
+   "desc": "Ottoman figure in Haynt telegrams, July 1911",
+   "kind": "person",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "זק בי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:rushdi-bey-salonica",
+   "he": "רושדי בי",
+   "en": "Rushdi Bey",
+   "desc": "mayor of Salonica killed in an attack, April 1910",
+   "kind": "mayor",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "רושדי בי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:zia-bey-1911",
+   "he": "זיא ביי",
+   "en": "Zia Bey",
+   "desc": "member of an Ottoman delegation, Nov 1911",
+   "kind": "person",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "זיא ביי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:zeki-bey-1911",
+   "he": "זכּי ביי",
+   "en": "Zeki Bey",
+   "desc": "Ottoman figure murdered July 1911",
+   "kind": "person",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "זכּי ביי"
+   ],
+   "qid_auto": "Q116616167",
+   "qid": "Q116616167"
+  },
+  {
+   "id": "ppl:halar-rushen-bey",
+   "he": "חאלאר רושן ביי",
+   "en": "Halar Rushen Bey",
+   "desc": "Ottoman figure named in Unzer Leben telegrams, April 1913",
+   "kind": "person",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "חאלאר רושן ביי"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:hakki-bey-1909",
+   "he": "חאקי ביי",
+   "en": "Hakki Bey",
+   "desc": "Ottoman figure in the April 1909 counter-revolution news",
+   "kind": "person",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "חאקי ביי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:hasan-bey-1912",
+   "he": "חסן ביי",
+   "en": "Hasan Bey",
+   "desc": "Ottoman figure named in Haynt news, July 1912",
+   "kind": "person",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "חסן ביי"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:halil-bey-1913",
+   "he": "לים ביי",
+   "en": "Halil Bey (1913)",
+   "desc": "Ottoman figure in Unzer Leben telegrams, May 1913",
+   "kind": "person",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "לים ביי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:mayil-hakki-bey",
+   "he": "מאייל האקי ביי",
+   "en": "Mayil Hakki Bey",
+   "desc": "Ottoman figure in Unzer Leben news, Nov 1911",
+   "kind": "person",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "מאייל האקי ביי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:colonel-mustafa-bey-1908",
+   "he": "מוסטפא ביי",
+   "en": "Colonel Mustafa Bey",
+   "desc": "Ottoman colonel murdered by officers in Salonica, July 1908",
+   "kind": "officer",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "מוסטפא ביי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:fadil-bey-salonica",
+   "he": "פאדיל ביי",
+   "en": "Fadil Bey",
+   "desc": "Ottoman treasury director of the Salonica province, 1911",
+   "kind": "official",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "פאדיל ביי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:ravir-bey-1911",
+   "he": "ראוויר ביי",
+   "en": "Ravir Bey",
+   "desc": "Ottoman figure in Haynt telegrams, May 1911",
+   "kind": "person",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "ראוויר ביי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:rahim-bey-1909",
+   "he": "רחים ביי",
+   "en": "Rahim Bey",
+   "desc": "Young Turk figure in Salonica, April 1909",
+   "kind": "person",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "רחים ביי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:rifat-bey-1914",
+   "he": "ריפעת ביי",
+   "en": "Rifat Bey",
+   "desc": "Ottoman figure in Unzer Leben telegrams, Sept 1914",
+   "kind": "person",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "ריפעת ביי"
+   ],
+   "qid_auto": "Q46086852",
+   "qid": null
+  },
+  {
+   "id": "ppl:shefki-bey-1910",
+   "he": "שפקי ביי",
+   "en": "Shefki Bey",
+   "desc": "Ottoman figure in Unzer Leben telegrams, April 1910",
+   "kind": "person",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "שפקי ביי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:hamid-bey-1911",
+   "he": "חמיד בק",
+   "en": "Hamid Bey",
+   "desc": "Ottoman/Albanian figure in Haynt telegrams, July 1911",
+   "kind": "person",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "חמיד בק"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:zeki-bey-hayan",
+   "he": "זקי ביי האיאן",
+   "en": "Zeki Bey Hayan",
+   "desc": "Ottoman figure in Salonica news, Unzer Leben June 1913",
+   "kind": "person",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "זקי ביי האיאן"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:binot-1905",
+   "he": "בינו",
+   "en": "Binot",
+   "desc": "person named in Der Fraynd telegrams, June 1905",
+   "kind": "person",
+   "keys": [
+    "בינו"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:y-bistritsky-odessa",
+   "he": "י. ביסטריצקי",
+   "en": "Y. Bistritsky",
+   "desc": "Odessa figure in Unzer Leben local news, Oct 1914",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "י. ביסטריצקי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:bykov-1907",
+   "he": "ביקוב",
+   "en": "Bykov",
+   "desc": "Russian named in Der Fraynd telegrams, Oct 1907",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "ביקוב"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:bikerman-1910",
+   "he": "ביקרמן",
+   "en": "Bikerman",
+   "desc": "person named in Unzer Leben telegrams, April 1910",
+   "kind": "person",
+   "keys": [
+    "ביקרמן"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:balalavin-1912",
+   "he": "בלאלאווין",
+   "en": "Balalavin",
+   "desc": "person named in Haynt short news, June 1912",
+   "kind": "person",
+   "keys": [
+    "בלאלאווין"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:blagov-1910",
+   "he": "בלגוב",
+   "en": "Blagov",
+   "desc": "Russian named in Haynt telegrams, Dec 1910",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "בלגוב"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:blazion-1911",
+   "he": "בלזיון",
+   "en": "Blazion",
+   "desc": "person named in Haynt telegrams on the Morocco crisis, July 1911",
+   "kind": "person",
+   "keys": [
+    "בלזיון"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:belyaev-duma-1907",
+   "he": "בלייב",
+   "en": "Belyaev",
+   "desc": "deputy in the Second State Duma, 1907",
+   "kind": "politician",
+   "country": "pl:russian-empire",
+   "keys": [
+    "בלייב"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "org:s-bleichroder",
+   "he": "בלייכרדר",
+   "en": "S. Bleichröder",
+   "desc": "Berlin banking house Bleichröder, partner in the Moroccan State Bank",
+   "kind": "bank",
+   "country": "pl:germany",
+   "keys": [
+    "בלייכרדר"
+   ],
+   "qid_auto": "Q124034789",
+   "qid": "Q124034789"
+  },
+  {
+   "id": "ppl:professor-brautinov",
+   "he": "פרופסור בראוטינוב",
+   "en": "Professor Brautinov",
+   "desc": "professor named in Unzer Leben telegrams, April 1910",
+   "kind": "professor",
+   "keys": [
+    "פרופסור בראוטינוב"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:barat-1907",
+   "he": "בראט",
+   "en": "Barat",
+   "desc": "person named in a letter of Raisuli, Morocco 1907",
+   "kind": "person",
+   "country": "pl:morocco",
+   "keys": [
+    "בראט"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:samuel-barbash",
+   "he": "שמואל ברבש",
+   "en": "Samuel Barbash",
+   "desc": "person named in Haynt urgent news, Aug 1911",
+   "kind": "person",
+   "keys": [
+    "שמואל ברבש"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:bredschneider-1910",
+   "he": "ברדשניידר",
+   "en": "Bredschneider",
+   "desc": "person named in Haynt telegrams, June 1910",
+   "kind": "person",
+   "keys": [
+    "ברדשניידר"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:brodsky-1908",
+   "he": "ברודסקי",
+   "en": "Brodsky",
+   "desc": "person named in Unzer Leben telegrams, July 1908",
+   "kind": "person",
+   "keys": [
+    "ברודסקי"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:y-brodsky-1915",
+   "he": "י. ברודסקי",
+   "en": "Y. Brodsky",
+   "desc": "person named in Unzer Leben telegrams, Jan 1915",
+   "kind": "person",
+   "keys": [
+    "י. ברודסקי"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:yehuda-brul",
+   "he": "יהודה ברול",
+   "en": "Yehuda Brul",
+   "desc": "person named in Haynt telegrams, July 1911",
+   "kind": "person",
+   "keys": [
+    "יהודה ברול"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:dr-baron-1910",
+   "he": "דר ברון",
+   "en": "Dr. Baron",
+   "desc": "person named in a letter from Palestine, Unzer Leben July 1910",
+   "kind": "person",
+   "country": "pl:ottoman-palestine",
+   "keys": [
+    "דר ברון"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:bronstein-1910",
+   "he": "ברונשטיין",
+   "en": "Bronstein",
+   "desc": "person named in Haynt telegrams, March 1910",
+   "kind": "person",
+   "keys": [
+    "ברונשטיין"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:brushezinsky-1910",
+   "he": "ברושזינסקי",
+   "en": "Brushezinsky",
+   "desc": "person named in Haynt urgent news, May 1910",
+   "kind": "person",
+   "keys": [
+    "ברושזינסקי"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:bertmann-1910",
+   "he": "ברטמן",
+   "en": "Bertmann",
+   "desc": "person named in Unzer Leben telegrams, April 1910",
+   "kind": "person",
+   "keys": [
+    "ברטמן"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:prince-baryatinsky-1911",
+   "he": "נסיך בריאטינסקי",
+   "en": "Prince Baryatinsky",
+   "desc": "Russian prince named in Haynt telegrams, May 1911",
+   "kind": "prince",
+   "country": "pl:russian-empire",
+   "keys": [
+    "נסיך בריאטינסקי"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:barzilai-diplomat",
+   "he": "בריזילי",
+   "en": "Barzilai",
+   "desc": "Jew in Haynt survey of Jewish diplomats, Aug 1912",
+   "kind": "diplomat",
+   "keys": [
+    "בריזילי"
+   ],
+   "qid_auto": "Q102288491",
+   "qid": null
+  },
+  {
+   "id": "ppl:brichter-1907",
+   "he": "בריטשר",
+   "en": "Brichter",
+   "desc": "member of the Jewish club in the Austrian parliament (Der Fraynd 1907)",
+   "kind": "politician",
+   "country": "pl:austria-hungary",
+   "keys": [
+    "בריטשר"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:brinter-1911",
+   "he": "ברינטר",
+   "en": "Brinter",
+   "desc": "person named in Haynt telegrams, June 1911",
+   "kind": "person",
+   "keys": [
+    "ברינטר"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:berlovsky-odessa",
+   "he": "ברלובסקי",
+   "en": "Berlovsky",
+   "desc": "Odessa figure in Unzer Leben local news, Nov 1914",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "ברלובסקי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:y-berlin-1905",
+   "he": "י. ברלין",
+   "en": "Y. Berlin",
+   "desc": "person named in Der Fraynd short news, June 1905",
+   "kind": "person",
+   "keys": [
+    "י. ברלין"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:rabbi-berner-1913",
+   "he": "רב ברנר",
+   "en": "Rabbi Berner",
+   "desc": "rabbi named in Unzer Leben report on Bulgarian Jews, May 1913",
+   "kind": "rabbi",
+   "keys": [
+    "רב ברנר"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:y-berkovich-1911",
+   "he": "י. ברקוביץ",
+   "en": "Y. Berkovich",
+   "desc": "person named in Unzer Leben telegrams, June 1911",
+   "kind": "person",
+   "keys": [
+    "י. ברקוביץ"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:mendelssohn-bartholdy-banker",
+   "he": "מנדלסון ברתולדי",
+   "en": "Mendelssohn-Bartholdy",
+   "desc": "Berlin banker of the Mendelssohn family named in 1905 telegrams",
+   "kind": "banker",
+   "country": "pl:germany",
+   "keys": [
+    "מנדלסון ברתולדי"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:gaikovich-1910",
+   "he": "גאיקוביץ",
+   "en": "Gaikovich",
+   "desc": "person named in Haynt telegrams, June 1910",
+   "kind": "person",
+   "keys": [
+    "גאיקוביץ"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:garda-1911",
+   "he": "גארדא",
+   "en": "Garda",
+   "desc": "person in the Vanlyarlyarsky trial news, Haynt May 1911",
+   "kind": "person",
+   "keys": [
+    "גארדא"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:governor-general-damascus-1911",
+   "he": "נגיד הכללי",
+   "en": "Governor-General of Damascus (1911)",
+   "desc": "Ottoman governor petitioned by the Damascus Jewish community, Sept 1911",
+   "kind": "governor",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "נגיד הכללי (הגנרל גוברנטור)"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:gutman-1911",
+   "he": "גוטמן",
+   "en": "Gutman",
+   "desc": "person named in Haynt late telegrams, Aug 1911",
+   "kind": "person",
+   "keys": [
+    "גוטמן"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:gold-1910",
+   "he": "גולד",
+   "en": "Gold",
+   "desc": "person named in Unzer Leben telegrams, June 1910",
+   "kind": "person",
+   "keys": [
+    "גולד"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:goldberg-berlin-1911",
+   "he": "גולדברג",
+   "en": "Goldberg",
+   "desc": "person named in Haynt’s Berlin letter on the crown-prince affair, Nov 1911",
+   "kind": "person",
+   "country": "pl:germany",
+   "keys": [
+    "גולדברג"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:goldberger-1906",
+   "he": "גולדברגר",
+   "en": "Goldberger",
+   "desc": "German Jewish figure in news on the Alliance’s German branch, March 1906",
+   "kind": "person",
+   "country": "pl:germany",
+   "keys": [
+    "גולדברגר"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:tova-goldman-odessa",
+   "he": "תוה גולדמן",
+   "en": "Tova Goldman",
+   "desc": "Odessa figure in Unzer Leben local news, Oct 1914",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "תוה גולדמן"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:goldenberg-1913",
+   "he": "גולדנברג",
+   "en": "Goldenberg",
+   "desc": "person named in Unzer Leben telegrams, June 1913",
+   "kind": "person",
+   "keys": [
+    "גולדנברג"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:josef-holub-1911",
+   "he": "יוזף גולובה",
+   "en": "Josef Holub",
+   "desc": "person named in Haynt urgent news, April 1911",
+   "kind": "person",
+   "keys": [
+    "יוזף גולובה"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:golubov-1914",
+   "he": "גולובוב",
+   "en": "Golubov",
+   "desc": "person named in Unzer Leben telegrams, Sept 1914",
+   "kind": "person",
+   "keys": [
+    "גולובוב"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:golubinov-1911",
+   "he": "גולובינוב",
+   "en": "Golubinov",
+   "desc": "Russian named in Haynt news, Oct 1911",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "גולובינוב"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:golovnin-1912",
+   "he": "גולובנין",
+   "en": "Golovnin",
+   "desc": "Russian named in Haynt telegrams, May 1912",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "גולובנין"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:prince-golitsyn-1911",
+   "he": "נסיך גוליצין",
+   "en": "Prince Golitsyn",
+   "desc": "Russian prince named in Haynt telegrams, May 1911",
+   "kind": "prince",
+   "country": "pl:russian-empire",
+   "keys": [
+    "נסיך גוליצין"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:golombek-1910",
+   "he": "גולמבק",
+   "en": "Golombek",
+   "desc": "person named in Haynt urgent news, May 1910",
+   "kind": "person",
+   "keys": [
+    "גולמבק"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:wilhelm-gunderlach",
+   "he": "וילהלם גונדרלאך",
+   "en": "Wilhelm Gunderlach",
+   "desc": "person named in Haynt urgent news, Aug 1911",
+   "kind": "person",
+   "keys": [
+    "וילהלם גונדרלאך"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:gorin-1911",
+   "he": "גורין",
+   "en": "Gorin",
+   "desc": "person named in Haynt telegrams, April 1911",
+   "kind": "person",
+   "keys": [
+    "גורין"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:gidalevich-odessa",
+   "he": "גידלביץ",
+   "en": "Gidalevich",
+   "desc": "Odessa figure in Unzer Leben local news, Feb 1915",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "גידלביץ"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:vasiliev-gilevich",
+   "he": "גילביץ",
+   "en": "Vasiliev-Gilevich",
+   "desc": "defendant in a Russian criminal case reported in Haynt 1910–1911",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "גילביץ",
+    "וסילייב גילביץ"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:professor-guinard-1911",
+   "he": "פרופסור גינאר",
+   "en": "Professor Guinard",
+   "desc": "professor named in Unzer Leben telegrams, June 1911",
+   "kind": "professor",
+   "keys": [
+    "פרופסור גינאר"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:sultan-krym-girey",
+   "he": "סולטאן קרים גיריי",
+   "en": "Sultan Krym-Girey",
+   "desc": "Crimean Tatar public figure in a 1913 survey of Russian opinions",
+   "kind": "public figure",
+   "country": "pl:russian-empire",
+   "keys": [
+    "סולטאן קרים גיריי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:glebov-1911",
+   "he": "גלבוב",
+   "en": "Glebov",
+   "desc": "person in a murder case reported in Haynt, April 1911",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "גלבוב"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:glusker-trial-1910",
+   "he": "גלוסקר",
+   "en": "Glusker",
+   "desc": "defendant in a trial reported in Haynt, Nov 1910",
+   "kind": "person",
+   "keys": [
+    "גלוסקר"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:glukhovsky-1910",
+   "he": "גלוקובסקי",
+   "en": "Glukhovsky",
+   "desc": "person named in Unzer Leben Jewish news digest, Nov 1910",
+   "kind": "person",
+   "keys": [
+    "גלוקובסקי"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:glaser-socialist-1910",
+   "he": "גלייזר",
+   "en": "Glaser",
+   "desc": "delegate at the 1910 Copenhagen socialist congress",
+   "kind": "socialist",
+   "keys": [
+    "גלייזר"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:glishanov-1911",
+   "he": "גלישנוב",
+   "en": "Glishanov",
+   "desc": "Russian named in Haynt telegrams, Oct 1911",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "גלישנוב"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:glishchinsky-1910",
+   "he": "גלישצינסקי",
+   "en": "Glishchinsky",
+   "desc": "person named in Unzer Leben telegrams, June 1910",
+   "kind": "person",
+   "keys": [
+    "גלישצינסקי"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:galkin-1908",
+   "he": "גלקין",
+   "en": "Galkin",
+   "desc": "person named in Unzer Leben telegrams, Dec 1908",
+   "kind": "person",
+   "keys": [
+    "גלקין"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:yehuda-leib-gamzo",
+   "he": "יהודה לייב גמזו",
+   "en": "Yehuda Leib Gamzo",
+   "desc": "relative of the Jewish aviator Pesach Gamzo (Haynt 1911)",
+   "kind": "person",
+   "keys": [
+    "יהודה לייב גמזו"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:pesach-gamzo",
+   "he": "פסח גמזו",
+   "en": "Pesach Gamzo",
+   "desc": "Jewish aviator killed in London, July 1911",
+   "kind": "aviator",
+   "keys": [
+    "פסח גמזו"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:gendrov-1911",
+   "he": "גנדרוב",
+   "en": "Gendrov",
+   "desc": "person named in Haynt telegrams, April 1911",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "גנדרוב"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:gostrovsky-1911",
+   "he": "גסטרובסקי",
+   "en": "Gostrovsky",
+   "desc": "person named in Haynt telegrams, Sept 1911",
+   "kind": "person",
+   "keys": [
+    "גסטרובסקי"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:hugo-grahn",
+   "he": "וגו גראן",
+   "en": "Hugo Grahn",
+   "desc": "person named in Haynt short news, Feb 1912",
+   "kind": "person",
+   "keys": [
+    "וגו גראן"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:dr-gross-1912",
+   "he": "דר גראס",
+   "en": "Dr. Gross",
+   "desc": "person named in Haynt short news, June 1912",
+   "kind": "person",
+   "keys": [
+    "דר גראס"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:v-grossman-feuilletonist",
+   "he": "ו. גראסמאן",
+   "en": "V. Grossman",
+   "desc": "author of a satirical feuilleton on St Petersburg Jewry, Haynt Nov 1911",
+   "kind": "writer",
+   "keys": [
+    "ו. גראסמאן"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:gerbel-1912",
+   "he": "גרבל",
+   "en": "Gerbel",
+   "desc": "person named in Haynt telegrams, Jan 1912",
+   "kind": "person",
+   "keys": [
+    "גרבל"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:charles-gruen",
+   "he": "שארל גרון",
+   "en": "Charles Gruen",
+   "desc": "person named in Haynt short news, May 1912",
+   "kind": "person",
+   "keys": [
+    "שארל גרון"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:grosvaldin-1905",
+   "he": "גרוסוולדין",
+   "en": "Grosvaldin",
+   "desc": "participant in the zemstvo congress news, Sept 1905",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "גרוסוולדין"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:grigoriev-odessa",
+   "he": "גריגוריאב",
+   "en": "Grigoriev",
+   "desc": "Odessa official in Unzer Leben local news, 1914–1915",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "גריגוריאב",
+    "גריגורייב"
+   ],
+   "qid_auto": "Q4149265",
+   "qid": null
+  },
+  {
+   "id": "ppl:miss-green-1911",
+   "he": "גרין",
+   "en": "Miss Green",
+   "desc": "person named in Haynt short news, Aug 1911",
+   "kind": "person",
+   "keys": [
+    "גרין"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:haim-greenberg-1912",
+   "he": "חיים גרינברג",
+   "en": "Haim Greenberg",
+   "desc": "character/person in a serialized travel story, Unzer Leben Feb 1912",
+   "kind": "person",
+   "keys": [
+    "חיים גרינברג"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:h-grishman",
+   "he": ". גרישמאן",
+   "en": "H. Grishman",
+   "desc": "Haynt humorous feuilletonist, 1911",
+   "kind": "writer",
+   "keys": [
+    ". גרישמאן"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:granemann-1905",
+   "he": "גרנמן",
+   "en": "Granemann",
+   "desc": "Berlin figure in the Ludwig Geiger affair, 1905",
+   "kind": "person",
+   "country": "pl:germany",
+   "keys": [
+    "גרנמן"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:gross-1911",
+   "he": "גרס",
+   "en": "Gross",
+   "desc": "person named in Haynt special telegrams, Dec 1911",
+   "kind": "person",
+   "keys": [
+    "גרס"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:count-salomon-davigdor",
+   "he": "רוזן סלומון דאבנדור",
+   "en": "Count Salomon d’Avigdor",
+   "desc": "Jew in Haynt survey of Jewish diplomats, Aug 1912",
+   "kind": "diplomat",
+   "keys": [
+    "רוזן סלומון דאבנדור"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:lobel-dalmeida",
+   "he": "לאבל דאלמידה",
+   "en": "Lobel d’Almeida",
+   "desc": "Jew in Haynt survey of Jewish diplomats, Aug 1912",
+   "kind": "diplomat",
+   "keys": [
+    "לאבל דאלמידה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:freire-dandrade-1910",
+   "he": "פריירה דאנדרדה",
+   "en": "Freire d’Andrade",
+   "desc": "Portuguese figure in Unzer Leben news digest, Nov 1910",
+   "kind": "person",
+   "country": "pl:portugal",
+   "keys": [
+    "פריירה דאנדרדה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:dvorkin-worker-palestine",
+   "he": "דבוארקין",
+   "en": "Dvorkin",
+   "desc": "Jewish worker wandering Palestine and Syria, in a 1908 travel diary",
+   "kind": "worker",
+   "country": "pl:ottoman-palestine",
+   "keys": [
+    "דבוארקין"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:dobishin-1911",
+   "he": "דבישין",
+   "en": "Dobishin",
+   "desc": "person named in Haynt telegrams, Nov 1911",
+   "kind": "person",
+   "keys": [
+    "דבישין"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:stanislaw-dobranski",
+   "he": "סטניסלב דבראנצקי",
+   "en": "Stanisław Dobrański",
+   "desc": "person named on a Haynt page, March 1912",
+   "kind": "person",
+   "keys": [
+    "סטניסלב דבראנצקי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:dobry-1917",
+   "he": "דוברי",
+   "en": "Dobry",
+   "desc": "person named in Unzer Leben late news, March 1917",
+   "kind": "person",
+   "keys": [
+    "דוברי"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:dobrinevsky-1905",
+   "he": "דוברינבסקי",
+   "en": "Dobrinevsky",
+   "desc": "participant in the zemstvo congress news, Sept 1905",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "דוברינבסקי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:rabbi-dolba",
+   "he": "רבי דולבה",
+   "en": "Rabbi Dolba",
+   "desc": "rabbi named in Haynt telegrams, May 1911",
+   "kind": "rabbi",
+   "keys": [
+    "רבי דולבה"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:rabbi-doskin",
+   "he": "רב דוסקין",
+   "en": "Rabbi Doskin",
+   "desc": "rabbi in Palestine named in Unzer Leben Jewish news, June 1913",
+   "kind": "rabbi",
+   "country": "pl:ottoman-palestine",
+   "keys": [
+    "רב דוסקין"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:dushinkovsky-1906",
+   "he": "דושינקובסקי",
+   "en": "Dushinkovsky",
+   "desc": "Russian named in Der Fraynd telegrams, Feb 1906",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "דושינקובסקי"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:dyakonova-beilis-witness",
+   "he": "דיאקונוב",
+   "en": "Dyakonova",
+   "desc": "witness in the Beilis case investigation, 1912",
+   "kind": "witness",
+   "country": "pl:russian-empire",
+   "keys": [
+    "דיאקונוב"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:eliezer-deutsch-warsaw",
+   "he": "אליעזר דייטש",
+   "en": "Eliezer Deutsch",
+   "desc": "Warsaw rabbi signatory of a kashrut proclamation, 1910",
+   "kind": "rabbi",
+   "country": "pl:poland",
+   "keys": [
+    "אליעזר דייטש"
+   ],
+   "qid_auto": "Q904532",
+   "qid": null
+  },
+  {
+   "id": "ppl:mordechai-leib-winkler",
+   "he": "מרדכי ליב ווינקלער",
+   "en": "Mordechai Leib Winkler",
+   "desc": "Warsaw rabbi signatory of a kashrut proclamation, 1910",
+   "kind": "rabbi",
+   "country": "pl:poland",
+   "keys": [
+    "מרדכי ליב ווינקלער"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:deutschmann-1914",
+   "he": "דייטשמן",
+   "en": "Deutschmann",
+   "desc": "person named in Unzer Leben war news, Oct 1914",
+   "kind": "person",
+   "keys": [
+    "דייטשמן"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:dimitrovich-1911",
+   "he": "דימיטרוביץ",
+   "en": "Dimitrovich",
+   "desc": "person named in Haynt telegrams, July 1911",
+   "kind": "person",
+   "keys": [
+    "דימיטרוביץ"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:dimitriuk-1905",
+   "he": "דימיטריוק",
+   "en": "Dimitriuk",
+   "desc": "person named in Russian Telegraph Agency dispatches, April 1905",
+   "kind": "person",
+   "keys": [
+    "דימיטריוק"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:dimsco-1907",
+   "he": "דימסקו",
+   "en": "Dimsco",
+   "desc": "person named in Der Fraynd foreign news, Nov 1907",
+   "kind": "person",
+   "keys": [
+    "דימסקו"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:nureddin-1911",
+   "he": "נורי א דין",
+   "en": "Nureddin",
+   "desc": "Ottoman/Arab figure named in Unzer Leben news, March 1911",
+   "kind": "person",
+   "keys": [
+    "נורי א דין"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:ephraim-dinard",
+   "he": "אפרים דינארד",
+   "en": "Ephraim Dinard",
+   "desc": "person named in Unzer Leben Jewish news, June 1913",
+   "kind": "person",
+   "keys": [
+    "אפרים דינארד"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:diriai-1911",
+   "he": "דיריאי",
+   "en": "Diriai",
+   "desc": "person in an article comparing Abdul Hamid and Mehmed V, June 1911",
+   "kind": "person",
+   "country": "pl:ottoman-empire",
+   "keys": [
+    "דיריאי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:captain-dirlinger",
+   "he": "קפטן דירלינגר",
+   "en": "Captain Dirlinger",
+   "desc": "captain named in Haynt telegrams, June 1911",
+   "kind": "officer",
+   "keys": [
+    "קפטן דירלינגר"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:witold-dlugolecki",
+   "he": "ויטולד דלוגולנצקי",
+   "en": "Witold Długołęcki",
+   "desc": "person named in Unzer Leben telegrams, May 1911",
+   "kind": "person",
+   "country": "pl:poland",
+   "keys": [
+    "ויטולד דלוגולנצקי"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:delfinsky-1907",
+   "he": "דלפינסקי",
+   "en": "Delfinsky",
+   "desc": "Russian named in Der Fraynd telegrams, Oct 1907",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "דלפינסקי"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:dombrovsky-1911",
+   "he": "דמבובסקי",
+   "en": "Dombrovsky",
+   "desc": "person named in Haynt telegrams, May 1911",
+   "kind": "person",
+   "keys": [
+    "דמבובסקי"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:rav-ha-kolel-of-damascus-1911",
+   "he": "רב הכולל של דמשק",
+   "en": "Rav ha-Kolel of Damascus",
+   "desc": "chief rabbi of the Damascus Jewish community, 1911",
+   "kind": "rabbi",
+   "country": "pl:syria",
+   "keys": [
+    "רב הכולל של דמשק"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:danzel-1907",
+   "he": "דנצל",
+   "en": "Danzel",
+   "desc": "person named in Der Fraynd telegrams, Aug 1907",
+   "kind": "person",
+   "keys": [
+    "דנצל"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:derian-1906",
+   "he": "דריאן",
+   "en": "Dérien",
+   "desc": "person in Der Fraynd’s Paris letter on church and state, Dec 1906",
+   "kind": "person",
+   "country": "pl:france",
+   "keys": [
+    "דריאן"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:dralinsky-1911",
+   "he": "דרלינסקי",
+   "en": "Dralinsky",
+   "desc": "person named in Haynt telegrams, June 1911",
+   "kind": "person",
+   "keys": [
+    "דרלינסקי"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:friedrich-haue",
+   "he": "פרידריך האוה",
+   "en": "Friedrich Haue",
+   "desc": "person named in Haynt telegrams, March 1911",
+   "kind": "person",
+   "keys": [
+    "פרידריך האוה"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:captain-hauper",
+   "he": "קפטן האופר",
+   "en": "Captain Hauper",
+   "desc": "captain named in Haynt telegrams, July 1911",
+   "kind": "officer",
+   "keys": [
+    "קפטן האופר"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:a-hochstein",
+   "he": "א. האכשטיין",
+   "en": "A. Hochstein",
+   "desc": "contributor to Unzer Leben, Dec 1911",
+   "kind": "writer",
+   "keys": [
+    "א. האכשטיין"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:josef-holecek-1911",
+   "he": "יוזף האלשס",
+   "en": "Josef Holeček",
+   "desc": "person named in Haynt telegrams, July 1911",
+   "kind": "person",
+   "keys": [
+    "יוזף האלשס"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:dr-hamel-1907",
+   "he": "דר האמל",
+   "en": "Dr. Hamel",
+   "desc": "author/contributor listed in Der Fraynd, Sept 1907",
+   "kind": "writer",
+   "keys": [
+    "דר האמל"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:lord-handsham-1912",
+   "he": "לורד האנדסהאם",
+   "en": "Lord Handsham",
+   "desc": "British Jewish peer whose will was reported in Haynt, March 1912",
+   "kind": "person",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "לורד האנדסהאם"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:general-hanenfeld",
+   "he": "גנרל האנפלד",
+   "en": "General Hanenfeld",
+   "desc": "general named in Russian Telegraph Agency dispatches, April 1905",
+   "kind": "general",
+   "country": "pl:russian-empire",
+   "keys": [
+    "גנרל האנפלד"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:ehrenblau-british-envoy",
+   "he": "ארנבלאו, השגריר/השר הבריטי",
+   "en": "Ehrenblau",
+   "desc": "British envoy/official named in an Unzer Leben interview on Jews in Egypt, May 1915",
+   "kind": "diplomat",
+   "country": "pl:united-kingdom",
+   "keys": [
+    "ארנבלאו, השגריר/השר הבריטי"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:lvov-duma-1908",
+   "he": "לבוב",
+   "en": "Lvov",
+   "desc": "member of the State Duma named in 1908 telegrams (likely Nikolai Lvov)",
+   "kind": "politician",
+   "country": "pl:russian-empire",
+   "keys": [
+    "לבוב (צירי הדומא)"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:ould-haimagia",
+   "he": "ולד היימאגיא",
+   "en": "Ould Haimagia",
+   "desc": "Moroccan figure in Casablanca bombardment news, Aug 1907",
+   "kind": "person",
+   "country": "pl:morocco",
+   "keys": [
+    "ולד היימאגיא"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:dr-heyman-1910",
+   "he": "דר היימן",
+   "en": "Dr. Heyman",
+   "desc": "Zionist speaker at Marienbad, 1910",
+   "kind": "person",
+   "keys": [
+    "דר היימן"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:dr-hinds-1910",
+   "he": "דר הינדס",
+   "en": "Dr. Hinds",
+   "desc": "person named in Haynt telegrams, March 1910",
+   "kind": "person",
+   "keys": [
+    "דר הינדס"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:y-hirsch-1910",
+   "he": "י. הירש",
+   "en": "Y. Hirsch",
+   "desc": "participant in the 1910 Karlsbad Zionist gathering",
+   "kind": "person",
+   "keys": [
+    "י. הירש"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:isaac-hirschfeld",
+   "he": "איזיק הירשפלד",
+   "en": "Isaac Hirschfeld",
+   "desc": "name in a Haynt advertisement page, Nov 1910",
+   "kind": "person",
+   "keys": [
+    "איזיק הירשפלד"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:r-zadok-hacohen-jerusalem",
+   "he": "ר צדוק הכהן",
+   "en": "R. Zadok Hacohen",
+   "desc": "Yemenite Jewish figure in Jerusalem (Batei Zadok), 1912",
+   "kind": "person",
+   "country": "pl:ottoman-palestine",
+   "keys": [
+    "ר צדוק הכהן"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:m-heldenberg",
+   "he": "מ. הלדנברג",
+   "en": "M. Heldenberg",
+   "desc": "person named in Haynt urgent news, April 1911",
+   "kind": "person",
+   "keys": [
+    "מ. הלדנברג"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:professor-yitzhak-halevi",
+   "he": "יצחק הלוי",
+   "en": "Prof. Yitzhak Halevi",
+   "desc": "author of a series on Jewish policy in Turkey, Unzer Leben 1908",
+   "kind": "writer",
+   "keys": [
+    "יצחק הלוי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:dr-moshe-halevi",
+   "he": "משה הלוי",
+   "en": "Dr. Moshe Halevi",
+   "desc": "satirical feuilletonist in Unzer Leben, Dec 1914",
+   "kind": "writer",
+   "keys": [
+    "משה הלוי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:h-heller-1911",
+   "he": "ח הלר",
+   "en": "H. Heller",
+   "desc": "person named in Haynt late news, July 1911",
+   "kind": "person",
+   "keys": [
+    "ח הלר"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:abraham-hamming",
+   "he": "אברהם הממנג",
+   "en": "Abraham Hamming",
+   "desc": "Jew in Haynt survey of Jewish diplomats, Aug 1912",
+   "kind": "diplomat",
+   "keys": [
+    "אברהם הממנג"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:lem-handler",
+   "he": "לם הנדלר",
+   "en": "Lem Handler",
+   "desc": "person named in Haynt telegrams, April 1911",
+   "kind": "person",
+   "keys": [
+    "לם הנדלר"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:abraham-hadash-1909",
+   "he": "אברהם העדש",
+   "en": "Abraham Hadash",
+   "desc": "person named in Unzer Leben report on Turkey, April 1909",
+   "kind": "person",
+   "keys": [
+    "אברהם העדש"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:leah-hener",
+   "he": "לאה הענער",
+   "en": "Leah Hener",
+   "desc": "person in Salonica Jewish news, Unzer Leben July 1911",
+   "kind": "person",
+   "keys": [
+    "לאה הענער"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:moshe-hener",
+   "he": "משה הענער",
+   "en": "Moshe Hener",
+   "desc": "person in Salonica Jewish news, Unzer Leben July 1911",
+   "kind": "person",
+   "keys": [
+    "משה הענער",
+    "משה העפנער"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:boisset-consular-agent",
+   "he": "בואסה",
+   "en": "Boisset",
+   "desc": "French consular agent at Alcazar arrested by Spanish troops, July 1911",
+   "kind": "consular agent",
+   "country": "pl:france",
+   "keys": [
+    "בואסה (סוכן הקונסוליה הצרפתית)"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:markov-i-duma",
+   "he": "מרקוב הראשון",
+   "en": "Markov I",
+   "desc": "Duma deputy “Markov the First”, 1913",
+   "kind": "politician",
+   "country": "pl:russian-empire",
+   "keys": [
+    "מרקוב הראשון"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:hakki-the-pharmacist",
+   "he": "חאקי הרוקח",
+   "en": "Hakki the pharmacist",
+   "desc": "person named in Haynt telegrams, July 1911",
+   "kind": "person",
+   "keys": [
+    "חאקי הרוקח"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:zvi-hershkovich",
+   "he": "צבי הרשקוביץ",
+   "en": "Zvi Hershkovich",
+   "desc": "person named in Haynt telegrams, May 1912",
+   "kind": "person",
+   "keys": [
+    "צבי הרשקוביץ"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:yefimov-ii-duma",
+   "he": "יפימוב השני",
+   "en": "Yefimov II",
+   "desc": "Duma deputy “Yefimov the Second”, 1911",
+   "kind": "politician",
+   "country": "pl:russian-empire",
+   "keys": [
+    "יפימוב השני"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:t-hashnin",
+   "he": "ת. השנין",
+   "en": "T. Hashnin",
+   "desc": "person named in an Unzer Leben interview on Palestine, April 1915",
+   "kind": "person",
+   "country": "pl:ottoman-palestine",
+   "keys": [
+    "ת. השנין"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:general-samuam-waula",
+   "he": "גנרל סמואם ואולא",
+   "en": "General Samuam-Waula",
+   "desc": "Moroccan commander named in Tangier dispatches, Aug 1907",
+   "kind": "general",
+   "country": "pl:morocco",
+   "keys": [
+    "גנרל סמואם ואולא"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:general-valuev-1917",
+   "he": "גנרל ואליוב",
+   "en": "General Valuev",
+   "desc": "Russian general at Stavka, Nov 1917",
+   "kind": "general",
+   "country": "pl:russian-empire",
+   "keys": [
+    "גנרל ואליוב"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:hubier-1911",
+   "he": "וביירה",
+   "en": "Hubier",
+   "desc": "person at the Paris air disaster, May 1911",
+   "kind": "person",
+   "country": "pl:france",
+   "keys": [
+    "וביירה"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:professor-wagner-1908",
+   "he": "פרופ וגנר",
+   "en": "Professor Wagner",
+   "desc": "professor named in Unzer Leben telegrams, Dec 1908",
+   "kind": "professor",
+   "keys": [
+    "פרופ וגנר"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:huddleston-1911",
+   "he": "ודלסטון",
+   "en": "Huddleston",
+   "desc": "person named in Haynt telegrams, Aug 1911",
+   "kind": "person",
+   "keys": [
+    "ודלסטון"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:y-valyanovsky",
+   "he": "י. וואליאנובסקי",
+   "en": "Y. Valyanovsky",
+   "desc": "person named in Haynt urgent news, April 1911",
+   "kind": "person",
+   "keys": [
+    "י. וואליאנובסקי"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:valshin-1912",
+   "he": "וואלשין",
+   "en": "Valshin",
+   "desc": "person named in Haynt telegrams, March 1912",
+   "kind": "person",
+   "keys": [
+    "וואלשין"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:vladimir-vanlyarlyarsky",
+   "he": "ולדימיר וואנלארלארסקי",
+   "en": "Vladimir Vanlyarlyarsky",
+   "desc": "party in the Vanlyarlyarsky will case, St Petersburg 1911",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "ולדימיר וואנלארלארסקי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:mrs-vanlyarlyarsky",
+   "he": "גברת וואנליארליארסקי",
+   "en": "Mrs. Vanlyarlyarsky",
+   "desc": "party in the Vanlyarlyarsky will case, 1911",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "גברת וואנליארליארסקי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:dmitri-vanlyarlyarsky",
+   "he": "דמיטרי וואנליארליארסקי",
+   "en": "Dmitri Vanlyarlyarsky",
+   "desc": "defendant in the Vanlyarlyarsky forged-will trial, St Petersburg 1911",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "דמיטרי וואנליארליארסקי"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:avi-var",
+   "he": "אבי וואר",
+   "en": "Avi-Var",
+   "desc": "pen name of a contributor to Unzer Leben, Dec 1911",
+   "kind": "writer",
+   "keys": [
+    "אבי וואר"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:weber-1911",
+   "he": "וובר",
+   "en": "Weber",
+   "desc": "person named in Haynt telegrams, April 1911",
+   "kind": "person",
+   "keys": [
+    "וובר"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:vyaleshchkov-1911",
+   "he": "וויאלשצקוב",
+   "en": "Vyaleshchkov",
+   "desc": "person named in Haynt urgent news on the Duma, April 1911",
+   "kind": "person",
+   "country": "pl:russian-empire",
+   "keys": [
+    "וויאלשצקוב"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:weissman-1911",
+   "he": "ווייסמן",
+   "en": "Weissman",
+   "desc": "person named in Haynt headlines, April 1911",
+   "kind": "person",
+   "keys": [
+    "ווייסמן"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:volinska-1912",
+   "he": "וולינסקה",
+   "en": "Volinska",
+   "desc": "person named in Haynt news, Aug 1912",
+   "kind": "person",
+   "keys": [
+    "וולינסקה"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:governor-general-bekman",
+   "he": "גנרל מושל בקמן",
+   "en": "Governor-General Bekman",
+   "desc": "Russian governor-general named in 1909 telegrams (Vladimir Böckmann?)",
+   "kind": "governor",
+   "country": "pl:russian-empire",
+   "keys": [
+    "גנרל מושל בקמן"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:yaakov-ibn-avraham-beraydar",
+   "he": "יעקב אבן אברהם בעריידר",
+   "en": "Yaakov ibn Avraham Beraydar",
+   "desc": "Jew in Haynt survey of Jewish diplomats, Aug 1912",
+   "kind": "diplomat",
+   "keys": [
+    "יעקב אבן אברהם בעריידר"
+   ],
+   "qid_auto": null,
+   "qid": null
+  },
+  {
+   "id": "ppl:eliezer-dolitzky-novel",
+   "he": "אליעזר",
+   "en": "Eliezer (novel character)",
+   "desc": "character in M. M. Dolitzky’s serialized novel (Unzer Leben 1915)",
+   "kind": "fictional character",
+   "keys": [
+    "אליעזר"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:shimi-ben-ovadiah-hacohen-novel",
+   "he": "שמעי בן אבדיה הכהן",
+   "en": "Shimi ben Ovadiah Hacohen (novel character)",
+   "desc": "Damascus magnate, character in M. M. Dolitzky’s serialized novel (1915)",
+   "kind": "fictional character",
+   "keys": [
+    "שמעי בן אבדיה הכהן"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:deborah-dolitzky-novel",
+   "he": "דבורה",
+   "en": "Deborah (novel character)",
+   "desc": "character in M. M. Dolitzky’s serialized novel (1917)",
+   "kind": "fictional character",
+   "keys": [
+    "דבורה"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:hadassah-dolitzky-novel",
+   "he": "דסה",
+   "en": "Hadassah (novel character)",
+   "desc": "character in M. M. Dolitzky’s serialized novel (1917)",
+   "kind": "fictional character",
+   "keys": [
+    "דסה"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:asenath-novel-1917",
+   "he": "אסנת",
+   "en": "Asenath (novel character)",
+   "desc": "character in a serialized Hasmonean-era novel (Unzer Leben 1917)",
+   "kind": "fictional character",
+   "keys": [
+    "אסנת"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:bentan-novel-1917",
+   "he": "בנתן",
+   "en": "Bentan (novel character)",
+   "desc": "character in a serialized Hasmonean-era novel (Unzer Leben 1917)",
+   "kind": "fictional character",
+   "keys": [
+    "בנתן"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:miss-amelia-blumer",
+   "he": "מיס אמיליה בלומר",
+   "en": "Miss Amelia Blumer (Sholem Aleichem character)",
+   "desc": "character in Sholem Aleichem’s “Thirteen Colonies” (1907)",
+   "kind": "fictional character",
+   "keys": [
+    "מיס אמיליה בלומר"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:breuchstuhl-sholem-aleichem",
+   "he": "ברויכשטוהל",
+   "en": "Breuchstuhl (Sholem Aleichem character)",
+   "desc": "character in Sholem Aleichem’s Tshapnik letters (1911)",
+   "kind": "fictional character",
+   "keys": [
+    "ברויכשטוהל"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:bernard-tshapnik",
+   "he": "ברנרד",
+   "en": "Bernard Tshapnik (Sholem Aleichem character)",
+   "desc": "husband in Sholem Aleichem’s humorous Tshapnik letters (1911)",
+   "kind": "fictional character",
+   "keys": [
+    "ברנרד"
+   ],
+   "qid": null
+  },
+  {
+   "id": "ppl:mark-davidovich-sholem-aleichem",
+   "he": "מארק דוידוביץ",
+   "en": "Mark Davidovich (Sholem Aleichem character)",
+   "desc": "character in Sholem Aleichem’s Tshapnik letters (1911)",
+   "kind": "fictional character",
+   "keys": [
+    "מארק דוידוביץ"
+   ],
+   "qid": null
+  }
+ ],
+ "contextual": [
+  {
+   "key": "אדלר",
+   "articles": {
+    "dfr19070823-01.2.1": "ppl:victor-adler",
+    "hyt19110612-01.2.15": null
+   }
+  },
+  {
+   "key": "אלברט",
+   "articles": {
+    "hyt19120905-01.2.9": null
+   }
+  },
+  {
+   "key": "אלכסייב",
+   "articles": {
+    "hyt19110323-01.2.14": null,
+    "hyt19110423-01.2.4": null
+   }
+  },
+  {
+   "key": "אלכסינסקי",
+   "articles": {
+    "dfr19050726-01.2.17": null,
+    "dfr19070418-01.2.6": "ppl:grigory-alexinsky"
+   }
+  },
+  {
+   "key": "אלכסנדר",
+   "articles": {
+    "dfr19050508-01.2.12": null,
+    "unzerleben19081030-01.2.13": null,
+    "unzerleben19150126-01.2.9": null,
+    "unzerleben19170124-01.2.13": null
+   }
+  },
+  {
+   "key": "גינצבורג",
+   "articles": {
+    "dfr19071007-01.2.20": null
+   }
+  },
+  {
+   "key": "גרוסמן",
+   "articles": {
+    "dfr19050409-01.2.14": null,
+    "dfr19070417-01.2.10": null
+   }
+  },
+  {
+   "key": "דרייפוס",
+   "articles": {
+    "dfr19071106-01.2.17": "ppl:alfred-dreyfus",
+    "hyt19110522-01.2.1": null
+   }
+  },
+  {
+   "key": "סולטאן המרוקאי",
+   "articles": {
+    "dfr19050608-01.2.10": "ppl:abdelaziz-of-morocco",
+    "hyt19110802-01.2.14": "ppl:abd-al-hafid"
+   }
+  }
+ ],
+ "drop": [
+  {
+   "key": "אחיה",
+   "why": "generic “her brother” in a novel excerpt, not a name"
+  },
+  {
+   "key": "בלוני אלמוני",
+   "why": "placeholder “so-and-so” (פלוני אלמוני), not a named person"
+  },
+  {
+   "key": "איידו",
+   "why": "OCR-garbled letters (א י י ד ו), unidentifiable"
+  }
+ ]
+}
